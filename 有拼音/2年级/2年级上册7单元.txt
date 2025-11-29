@@ -42,14 +42,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "作者把雾想象成一个淘气的孩子，用“藏起来”这个词，写出了雾遮盖万物的特点。",
-        "appreciationPinyin": "zuò zhě bǎ wù xiǎng xiàng chéng yī gè táo qì de hái zi yòng cáng qǐ lái zhè gè cí xiě chū le wù zhē gài wàn wù de tè diǎn",
         "task": "雾还会把什么藏起来？",
         "taskPinyin": "wù hái huì bǎ shén me cáng qǐ lái",
         "taskAnswer": "雾还会把高楼大厦、汽车和行人都藏起来。",
-        "taskAnswerPinyin": "wù hái huì bǎ gāo lóu dà shà qì chē hé xíng rén dōu cáng qǐ lái"
+        "taskAnswerPinyin": "wù hái huì bǎ gāo lóu dà shà qì chē hé xíng rén dōu cáng qǐ lái",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "云雾山",
@@ -91,14 +89,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "短文运用了比喻的修辞手法，把雾比作魔术师和白龙，非常生动。",
-        "appreciationPinyin": "duǎn wén yùn yòng le bǐ yù de xiū cí shǒu fǎ bǎ wù bǐ zuò mó shù shī hé bái lóng fēi cháng shēng dòng",
         "task": "你觉得山里的雾像什么？",
         "taskPinyin": "nǐ jué de shān lǐ de wù xiàng shén me",
         "taskAnswer": "我觉得山里的雾像软绵绵的棉花糖。",
-        "taskAnswerPinyin": "wǒ jué de shān lǐ de wù xiàng ruǎn mián mián de mián hua táng"
+        "taskAnswerPinyin": "wǒ jué de shān lǐ de wù xiàng ruǎn mián mián de mián hua táng",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "江雪",
@@ -128,14 +124,12 @@
         ],
         "annotation": "绝：消失。！！径：小路。！！蓑笠：蓑衣和斗笠。",
         "annotationPinyin": "jué xiāo shī jìng xiǎo lù suō lì suō yī hé dǒu lì",
-        "translation": "所有的山上都看不到飞鸟的影子，所有的小路上都没有人的踪迹。只有一条孤零零的小船上，坐着一位披着蓑衣、戴着斗笠的老翁，独自在寒冷的江面上垂钓。",
-        "translationPinyin": "suǒ yǒu de shān shàng dōu kàn bú dào fēi niǎo de yǐng zi suǒ yǒu de xiǎo lù shàng dōu méi yǒu rén de zōng jì zhǐ yǒu yī tiáo gū líng líng de xiǎo chuán shàng zuò zhe yī wèi pī zhe suō yī dài zhe dǒu lì de lǎo wēng dú zì zài hán lěng de jiāng miàn shàng chuí diào",
-        "appreciation": "这首诗描绘了一幅寒冷、幽静的冬日雪景图，表达了诗人孤独的情感。",
-        "appreciationPinyin": "zhè shǒu shī miáo huì le yī fú hán lěng yōu jìng de dōng rì xuě jǐng tú biǎo dá le shī rén gū dú de qíng gǎn",
         "task": "这首诗里哪里能看出很冷？",
         "taskPinyin": "zhè shǒu shī lǐ nǎ lǐ néng kàn chū hěn lěng",
         "taskAnswer": "鸟儿都不飞了，人也不出来了，江上下着大雪，可以看出很冷。",
-        "taskAnswerPinyin": "niǎo er dōu bù fēi le rén yě bù chū lái le jiāng shàng xià zhe dà xuě kě yǐ kàn chū hěn lěng"
+        "taskAnswerPinyin": "niǎo er dōu bù fēi le rén yě bù chū lái le jiāng shàng xià zhe dà xuě kě yǐ kàn chū hěn lěng",
+        "translation": "所有的山上都看不到飞鸟的影子，所有的小路上都没有人的踪迹。只有一条孤零零的小船上，坐着一位披着蓑衣、戴着斗笠的老翁，独自在寒冷的江面上垂钓。",
+        "translationPinyin": "suǒ yǒu de shān shàng dōu kàn bú dào fēi niǎo de yǐng zi suǒ yǒu de xiǎo lù shàng dōu méi yǒu rén de zōng jì zhǐ yǒu yī tiáo gū líng líng de xiǎo chuán shàng zuò zhe yī wèi pī zhe suō yī dài zhe dǒu lì de lǎo wēng dú zì zài hán lěng de jiāng miàn shàng chuí diào"
       },
       {
         "title": "日积月累",
@@ -147,9 +141,9 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
+            "title": "好词积累",
+            "titlePinyin": "hǎo cí jī lěi",
+            "contentObject": [
               {
                 "pinyin": "yún kāi wù sàn",
                 "text": "云开雾散"
@@ -179,14 +173,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   },
@@ -229,14 +221,12 @@
         ],
         "annotation": "穹庐：游牧民族住的圆顶帐篷。！！见：同“现”，出现。",
         "annotationPinyin": "qióng lú yóu mù mín zú zhù de yuán dǐng zhàng peng xiàn chū xiàn",
-        "translation": "辽阔的敕勒平原，就在阴山脚下。天空像个巨大的圆顶帐篷，笼罩着四面八方的原野。天蓝蓝的，原野辽阔无边，风儿吹过，牧草低伏，显露出一群群的牛羊。",
-        "translationPinyin": "liáo kuò de chì lè píng yuán jiù zài yīn shān jiǎo xià tiān kōng xiàng gè jù dà de yuán dǐng zhàng peng lóng zhào zhe sì miàn bā fāng de yuán yě tiān lán lán de yuán yě liáo kuò wú biān fēng ér chuī guò mù cǎo dī fú xiǎn lù chū yī qún qún de niú yáng",
-        "appreciation": "这首民歌描绘了北方草原壮丽富饶的风光，读起来气势雄浑。",
-        "appreciationPinyin": "zhè shǒu mín gē miáo huì le běi fāng cǎo yuán zhuàng lì fù ráo de fēng guāng dú qǐ lái qì shì xióng hún",
         "task": "你喜欢草原吗？为什么？",
         "taskPinyin": "nǐ xǐ huan cǎo yuán ma wèi shén me",
         "taskAnswer": "喜欢。因为草原很宽阔，可以骑马奔跑，还有很多可爱的牛羊。",
-        "taskAnswerPinyin": "xǐ huan yīn wèi cǎo yuán hěn kuān kuò kě yǐ qí mǎ bēn pǎo hái yǒu hěn duō kě ài de niú yáng"
+        "taskAnswerPinyin": "xǐ huan yīn wèi cǎo yuán hěn kuān kuò kě yǐ qí mǎ bēn pǎo hái yǒu hěn duō kě ài de niú yáng",
+        "translation": "辽阔的敕勒平原，就在阴山脚下。天空像个巨大的圆顶帐篷，笼罩着四面八方的原野。天蓝蓝的，原野辽阔无边，风儿吹过，牧草低伏，显露出一群群的牛羊。",
+        "translationPinyin": "liáo kuò de chì lè píng yuán jiù zài yīn shān jiǎo xià tiān kōng xiàng gè jù dà de yuán dǐng zhàng peng lóng zhào zhe sì miàn bā fāng de yuán yě tiān lán lán de yuán yě liáo kuò wú biān fēng ér chuī guò mù cǎo dī fú xiǎn lù chū yī qún qún de niú yáng"
       },
       {
         "title": "北风和太阳",
@@ -282,14 +272,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "这个故事告诉我们，温和的方式往往比强硬的手段更有效。",
-        "appreciationPinyin": "zhè gè gù shi gào su wǒ men wēn hé de fāng shì wǎng wǎng bǐ qiáng yìng de shǒu duàn gèng yǒu xiào",
         "task": "北风为什么输了？",
         "taskPinyin": "běi fēng wèi shén me shū le",
         "taskAnswer": "因为北风太凶猛了，只会让人感到寒冷，大家反而把衣服穿得更紧。",
-        "taskAnswerPinyin": "yīn wèi běi fēng tài xiōng měng le zhǐ huì ràng rén gǎn dào hán lěng dà jiā fǎn ér bǎ yī fu chuān de gèng jǐn"
+        "taskAnswerPinyin": "yīn wèi běi fēng tài xiōng měng le zhǐ huì ràng rén gǎn dào hán lěng dà jiā fǎn ér bǎ yī fu chuān de gèng jǐn",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "弟子规（节选）",
@@ -311,14 +299,12 @@
         ],
         "annotation": "凊：凉快。！！省：问候。！！定：安顿。",
         "annotationPinyin": "qìng liáng kuai xǐng wèn hòu dìng ān dùn",
-        "translation": "冬天要让父母暖和，夏天要让父母凉快。早晨要向父母请安，晚上要侍候父母安睡。",
-        "translationPinyin": "dōng tiān yào ràng fù mǔ nuǎn huo xià tiān yào ràng fù mǔ liáng kuai zǎo chén yào xiàng fù mǔ qǐng ān wǎn shang yào shì hòu fù mǔ ān shuì",
-        "appreciation": "这句话教导我们要孝顺父母，从生活起居的小事做起。",
-        "appreciationPinyin": "zhè jù huà jiào dǎo wǒ men yào xiào shùn fù mǔ cóng shēng huó qǐ jū de xiǎo shì zuò qǐ",
         "task": "冬天到了，你可以为父母做什么？",
         "taskPinyin": "dōng tiān dào le nǐ kě yǐ wèi fù mǔ zuò shén me",
         "taskAnswer": "我可以帮爸爸妈妈倒一杯热水，或者帮他们暖暖手。",
-        "taskAnswerPinyin": "wǒ kě yǐ bāng bà ba mā ma dào yī bēi rè shuǐ huò zhě bāng tā men nuǎn nuan shǒu"
+        "taskAnswerPinyin": "wǒ kě yǐ bāng bà ba mā ma dào yī bēi rè shuǐ huò zhě bāng tā men nuǎn nuan shǒu",
+        "translation": "冬天要让父母暖和，夏天要让父母凉快。早晨要向父母请安，晚上要侍候父母安睡。",
+        "translationPinyin": "dōng tiān yào ràng fù mǔ nuǎn huo xià tiān yào ràng fù mǔ liáng kuai zǎo chén yào xiàng fù mǔ qǐng ān wǎn shang yào shì hòu fù mǔ ān shuì"
       },
       {
         "title": "日积月累",
@@ -330,9 +316,9 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "好句小箩筐",
-            "titlePinyin": "hǎo jù xiǎo luó kuāng",
-            "content": [
+            "title": "好句积累",
+            "titlePinyin": "hhǎo jù jī lěi",
+            "contentObject": [
               {
                 "pinyin": "tiān cāng cāng yě máng máng fēng chuī cǎo dī jiàn niú yáng miáo xiě cǎo yuán liáo kuò",
                 "text": "天苍苍，野茫茫，风吹草低见牛羊。（描写草原辽阔）"
@@ -346,14 +332,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   },
@@ -408,14 +392,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "短文用拟人和比喻的手法，写出了雪后的美丽景色。",
-        "appreciationPinyin": "duǎn wén yòng nǐ rén hé bǐ yù de shǒu fǎ xiě chū le xuě hòu de měi lì jǐng sè",
         "task": "下雪时，你想做什么？",
         "taskPinyin": "xià xuě shí nǐ xiǎng zuò shén me",
         "taskAnswer": "我想堆一个大大的雪人，还要和朋友们打雪仗。",
-        "taskAnswerPinyin": "wǒ xiǎng duī yī gè dà dà de xuě rén hái yào hé péng you men dǎ xuě zhàng"
+        "taskAnswerPinyin": "wǒ xiǎng duī yī gè dà dà de xuě rén hái yào hé péng you men dǎ xuě zhàng",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "雪花",
@@ -461,14 +443,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "把雪花比作云妈妈的信，充满了想象力。",
-        "appreciationPinyin": "bǎ xuě huā bǐ zuò yún mā ma de xìn chōng mǎn le xiǎng xiàng lì",
         "task": "雪花有几个瓣？",
         "taskPinyin": "xuě huā yǒu jǐ gè bàn",
         "taskAnswer": "雪花通常是六角形的，有六个瓣。",
-        "taskAnswerPinyin": "xuě huā tōng cháng shì liù jiǎo xíng de yǒu liù gè bàn"
+        "taskAnswerPinyin": "xuě huā tōng cháng shì liù jiǎo xíng de yǒu liù gè bàn",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "孙康映雪（极简版）",
@@ -502,14 +482,12 @@
         ],
         "annotation": "贫：穷。！！映：照耀。！！儒：有学问的人。",
         "annotationPinyin": "pín qióng yìng zhào yào rú yǒu xué wèn de rén",
-        "translation": "孙康家里很穷，买不起油灯。他常常在冬天的月夜，利用雪反光的光亮来读书。后来他成了有大学问的人。",
-        "translationPinyin": "sūn kāng jiā lǐ hěn qióng mǎi bù qǐ yóu dēng tā cháng cháng zài dōng tiān de yuè yè lì yòng xuě fǎn guāng de guāng liàng lái dú shū hòu lái tā chéng le yǒu dà xué wèn de rén",
-        "appreciation": "这就是“囊萤映雪”中的映雪，告诉我们要克服困难，刻苦学习。",
-        "appreciationPinyin": "zhè jiù shì náng yíng yìng xuě zhōng de yìng xuě gào su wǒ men yào kè fú kùn nan kè kǔ xué xí",
         "task": "孙康在什么光下读书？",
         "taskPinyin": "sūn kāng zài shén me guāng xià dú shū",
         "taskAnswer": "他在雪地反照的光亮下读书。",
-        "taskAnswerPinyin": "tā zài xuě dì fǎn zhào de guāng liàng xià dú shū"
+        "taskAnswerPinyin": "tā zài xuě dì fǎn zhào de guāng liàng xià dú shū",
+        "translation": "孙康家里很穷，买不起油灯。他常常在冬天的月夜，利用雪反光的光亮来读书。后来他成了有大学问的人。",
+        "translationPinyin": "sūn kāng jiā lǐ hěn qióng mǎi bù qǐ yóu dēng tā cháng cháng zài dōng tiān de yuè yè lì yòng xuě fǎn guāng de guāng liàng lái dú shū hòu lái tā chéng le yǒu dà xué wèn de rén"
       },
       {
         "title": "日积月累",
@@ -521,34 +499,32 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "写话小锦囊",
-            "titlePinyin": "xiě huà xiǎo jǐn náng",
+            "title": "写话锦囊",
+            "titlePinyin": "xiě huà jǐn náng",
             "content": [
               {
                 "pinyin": "biāo diǎn fú hào fǎ gǎn tàn hào biǎo shì gǎn tàn jīng yà huò yǔ qì qiáng liè",
                 "text": "标点符号法：感叹号（！）表示感叹、惊讶或语气强烈。"
               },
               {
-                "pinyin": "lì xià xuě la xià xuě la",
-                "text": "例：下雪啦，下雪啦！"
+                "pinyin": "fàn lì xià xuě la xià xuě la",
+                "text": "范例：下雪啦，下雪啦！"
               },
               {
-                "pinyin": "lì gōng yuán lǐ de huā zhēn měi a",
-                "text": "例：公园里的花真美啊！"
+                "pinyin": "fàn lì gōng yuán lǐ de huā zhēn měi a",
+                "text": "范例：公园里的花真美啊！"
               }
             ]
           }
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   },
@@ -591,14 +567,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "雪孩子不顾危险去救小白兔，表现了他善良、勇敢的品质。",
-        "appreciationPinyin": "xuě hái zi bú gù wēi xiǎn qù jiù xiǎo bái tù biǎo xiàn le tā shàn liáng yǒng gǎn de pǐn zhì",
         "task": "雪孩子看见着火了，是怎么做的？",
         "taskPinyin": "xuě hái zi kàn jiàn zháo huǒ le shì zěn me zuò de",
         "taskAnswer": "他一边大喊，一边飞快地向小白兔家跑去救人。",
-        "taskAnswerPinyin": "tā yī biān dà hǎn yī biān fēi kuài de xiàng xiǎo bái tù jiā pǎo qù jiù rén"
+        "taskAnswerPinyin": "tā yī biān dà hǎn yī biān fēi kuài de xiàng xiǎo bái tù jiā pǎo qù jiù rén",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "堆雪人",
@@ -644,14 +618,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "短文按顺序描写了堆雪人的过程，十分有趣。",
-        "appreciationPinyin": "duǎn wén àn shùn xù miáo xiě le duī xuě rén de guò chéng shí fēn yǒu qù",
         "task": "你会用什么当雪人的鼻子？",
         "taskPinyin": "nǐ huì yòng shén me dāng xuě rén de bí zi",
         "taskAnswer": "我会用胡萝卜或者红辣椒当雪人的鼻子。",
-        "taskAnswerPinyin": "wǒ huì yòng hú luó bo huò zhě hóng là jiāo dāng xuě rén de bí zi"
+        "taskAnswerPinyin": "wǒ huì yòng hú luó bo huò zhě hóng là jiāo dāng xuě rén de bí zi",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "农夫和蛇",
@@ -693,14 +665,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "雪孩子救了兔子，是善良的；农夫救了恶蛇，却被咬了。我们要分清善恶。",
-        "appreciationPinyin": "xuě hái zi jiù le tù zi shì shàn liáng de nóng fū jiù le è shé què bèi yǎo le wǒ men yào fēn qīng shàn è",
         "task": "雪孩子和农夫有什么不一样？",
         "taskPinyin": "xuě hái zi hé nóng fū yǒu shén me bù yī yàng",
         "taskAnswer": "雪孩子救的是善良的小白兔，得到了感激；农夫救的是坏蛇，受到了伤害。",
-        "taskAnswerPinyin": "xuě hái zi jiù de shì shàn liáng de xiǎo bái tù dé dào le gǎn jī nóng fū jiù de shì huài shé shòu dào le shāng hài"
+        "taskAnswerPinyin": "xuě hái zi jiù de shì shàn liáng de xiǎo bái tù dé dào le gǎn jī nóng fū jiù de shì huài shé shòu dào le shāng hài",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "日积月累",
@@ -712,8 +682,8 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "写话小锦囊",
-            "titlePinyin": "xiě huà xiǎo jǐn náng",
+            "title": "写话锦囊",
+            "titlePinyin": "xiě huà jǐn náng",
             "content": [
               {
                 "pinyin": "fǎng xiě xuě hái zi biàn chéng le",
@@ -732,14 +702,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   },
@@ -790,14 +758,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "雾连太阳都能藏起来，说明雾很大、很浓。",
-        "appreciationPinyin": "wù lián tài yáng dōu néng cáng qǐ lái shuō míng wù hěn dà hěn nóng",
         "task": "雾把太阳藏起来后，世界变成了什么样？",
         "taskPinyin": "wù bǎ tài yáng cáng qǐ lái hòu shì jiè biàn chéng le shén me yàng",
         "taskAnswer": "世界变得黑漆漆的，什么都看不清楚了。",
-        "taskAnswerPinyin": "shì jiè biàn de hēi qī qī de shén me dōu kàn bù qīng chǔ le"
+        "taskAnswerPinyin": "shì jiè biàn de hēi qī qī de shén me dōu kàn bù qīng chǔ le",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "梅花",
@@ -827,14 +793,12 @@
         ],
         "annotation": "凌寒：冒着严寒。！！暗香：淡淡的香气。",
         "annotationPinyin": "líng hán mào zhe yán hán àn xiāng dàn dàn de xiāng qì",
-        "translation": "墙角的几枝梅花，冒着严寒独自开放。远远看去就知道那不是雪，因为有淡淡的香气飘过来。",
-        "translationPinyin": "qiáng jiǎo de jǐ zhī méi huā mào zhe yán hán dú zì kāi fàng yuǎn yuǎn kàn qù jiù zhī dào nà bú shì xuě yīn wèi yǒu dàn dàn de xiāng qì piāo guò lái",
-        "appreciation": "梅花在寒冷的冬天开放，不畏严寒，品格高尚。",
-        "appreciationPinyin": "méi huā zài hán lěng de dōng tiān kāi fàng bù wèi yán hán pǐn gé gāo shàng",
         "task": "梅花和雪有什么不一样？",
         "taskPinyin": "méi huā hé xuě yǒu shén me bù yī yàng",
         "taskAnswer": "梅花有香味，雪没有香味。",
-        "taskAnswerPinyin": "méi huā yǒu xiāng wèi xuě méi yǒu xiāng wèi"
+        "taskAnswerPinyin": "méi huā yǒu xiāng wèi xuě méi yǒu xiāng wèi",
+        "translation": "墙角的几枝梅花，冒着严寒独自开放。远远看去就知道那不是雪，因为有淡淡的香气飘过来。",
+        "translationPinyin": "qiáng jiǎo de jǐ zhī méi huā mào zhe yán hán dú zì kāi fàng yuǎn yuǎn kàn qù jiù zhī dào nà bú shì xuě yīn wèi yǒu dàn dàn de xiāng qì piāo guò lái"
       },
       {
         "title": "论语（节选）",
@@ -856,14 +820,12 @@
         ],
         "annotation": "习：复习、练习。！！说：同“悦”，高兴。",
         "annotationPinyin": "xí fù xí liàn xí yuè gāo xìng",
-        "translation": "学了知识，然后按时复习它，不也是很高兴的事吗？",
-        "translationPinyin": "xué le zhī shi rán hòu àn shí fù xí tā bù yě shì hěn gāo xìng de shì ma",
-        "appreciation": "孔子告诉我们要经常复习学过的知识，学习是一件快乐的事。",
-        "appreciationPinyin": "kǒng zǐ gào su wǒ men yào jīng cháng fù xí xué guò de zhī shi xué xí shì yī jiàn kuài lè de shì",
         "task": "你今天复习了什么？",
         "taskPinyin": "nǐ jīn tiān fù xí le shén me",
         "taskAnswer": "我复习了昨天学的生字和课文。",
-        "taskAnswerPinyin": "wǒ fù xí le zuó tiān xué de shēng zì hé kè wén"
+        "taskAnswerPinyin": "wǒ fù xí le zuó tiān xué de shēng zì hé kè wén",
+        "translation": "学了知识，然后按时复习它，不也是很高兴的事吗？",
+        "translationPinyin": "xué le zhī shi rán hòu àn shí fù xí tā bù yě shì hěn gāo xìng de shì ma"
       },
       {
         "title": "日积月累",
@@ -895,14 +857,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   },
@@ -961,14 +921,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "短文描写了滑雪的刺激和快乐，把滑雪比作小鸟飞翔。",
-        "appreciationPinyin": "duǎn wén miáo xiě le huá xuě de cì jī hé kuài lè bǎ huá xuě bǐ zuò xiǎo niǎo fēi xiáng",
         "task": "你喜欢什么冬天运动？",
         "taskPinyin": "nǐ xǐ huan shén me dōng tiān yùn dòng",
         "taskAnswer": "我喜欢溜冰，虽然很难，但是滑起来很快。",
-        "taskAnswerPinyin": "wǒ xǐ huan liū bīng suī rán hěn nán dàn shì huá qǐ lái hěn kuài"
+        "taskAnswerPinyin": "wǒ xǐ huan liū bīng suī rán hěn nán dàn shì huá qǐ lái hěn kuài",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "蚂蚁和蝈蝈",
@@ -1010,14 +968,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "这个故事告诉我们，要未雨绸缪，辛勤劳动，不能只顾眼前享乐。",
-        "appreciationPinyin": "zhè gè gù shi gào su wǒ men yào wèi yǔ chóu móu xīn qín láo dòng bù néng zhǐ gù yǎn qián xiǎng lè",
         "task": "如果你是蝈蝈，明年夏天你会怎么做？",
         "taskPinyin": "rú guǒ nǐ shì guō guo míng nián xià tiān nǐ huì zěn me zuò",
         "taskAnswer": "我会像蚂蚁一样，努力工作，储备过冬的粮食。",
-        "taskAnswerPinyin": "wǒ huì xiàng mǎ yǐ yī yàng nǔ lì gōng zuò chǔ bèi guò dōng de liáng shi"
+        "taskAnswerPinyin": "wǒ huì xiàng mǎ yǐ yī yàng nǔ lì gōng zuò chǔ bèi guò dōng de liáng shi",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "北风娃娃",
@@ -1063,14 +1019,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "这首儿歌把北风比作淘气的娃娃，生动形象。",
-        "appreciationPinyin": "zhè shǒu ér gē bǎ běi fēng bǐ zuò táo qì de wá wa shēng dòng xíng xiàng",
         "task": "北风吹的时候，你会听到什么声音？",
         "taskPinyin": "běi fēng chuī de shí hou nǐ huì tīng dào shén me shēng yīn",
         "taskAnswer": "我会听到“呼呼”的声音，像有人在吹哨子。",
-        "taskAnswerPinyin": "wǒ huì tīng dào hū hū de shēng yīn xiàng yǒu rén zài chuī shào zi"
+        "taskAnswerPinyin": "wǒ huì tīng dào hū hū de shēng yīn xiàng yǒu rén zài chuī shào zi",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "日积月累",
@@ -1082,8 +1036,8 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "谚语小博士",
-            "titlePinyin": "yàn yǔ xiǎo bó shì",
+            "title": "谚语 | 歇后语",
+            "titlePinyin": "yàn yǔ xiē hòu yǔ",
             "content": [
               {
                 "pinyin": "yī jiǔ èr jiǔ bù chū shǒu shǔ jiǔ hán tiān kāi shǐ shǒu lěng dé shēn bù chū lái",
@@ -1102,14 +1056,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   },
@@ -1156,14 +1108,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "这段话用“冲、冒、找、拎、跑”一系列动词，写出了雪孩子救人的急切和勇敢。",
-        "appreciationPinyin": "zhè duàn huà yòng chōng mào zhǎo līn pǎo yī xì liè dòng cí xiě chū le xuě hái zi jiù rén de jí qiè hé yǒng gǎn",
         "task": "雪孩子为什么要“飞快地”跑？",
         "taskPinyin": "xuě hái zi wèi shén me yào fēi kuài de pǎo",
         "taskAnswer": "因为火太大了，如果不快跑，小白兔就会有危险，雪孩子自己也会化掉。",
-        "taskAnswerPinyin": "yīn wèi huǒ tài dà le rú guǒ bú kuài pǎo xiǎo bái tù jiù huì yǒu wēi xiǎn xuě hái zi zì jǐ yě huì huà diào"
+        "taskAnswerPinyin": "yīn wèi huǒ tài dà le rú guǒ bú kuài pǎo xiǎo bái tù jiù huì yǒu wēi xiǎn xuě hái zi zì jǐ yě huì huà diào",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "冬天的早晨",
@@ -1205,14 +1155,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "短文描写了冬天早晨的宁静和寒冷。",
-        "appreciationPinyin": "duǎn wén miáo xiě le dōng tiān zǎo chén de níng jìng hé hán lěng",
         "task": "冬天早晨，你会看到什么？",
         "taskPinyin": "dōng tiān zǎo chén nǐ huì kàn dào shén me",
         "taskAnswer": "我会看到窗户上有冰花，人们说话时嘴里冒白气。",
-        "taskAnswerPinyin": "wǒ huì kàn dào chuāng hu shàng yǒu bīng huā rén men shuō huà shí zuǐ lǐ mào bái qì"
+        "taskAnswerPinyin": "wǒ huì kàn dào chuāng hu shàng yǒu bīng huā rén men shuō huà shí zuǐ lǐ mào bái qì",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "程门立雪（极简版）",
@@ -1250,14 +1198,12 @@
         ],
         "annotation": "谒见：拜见。！！瞑坐：闭目静坐。！！侍立：陪站在旁边。",
         "annotationPinyin": "bài jiàn bì mù jìng zuò péi zhàn zài páng biān",
-        "translation": "杨时和游酢去拜见老师程颐。程颐正好闭着眼睛坐着休息，他们就站在旁边陪着。等程颐醒来，门外的雪已经下一尺深了。",
-        "translationPinyin": "yáng shí hé yóu zuò qù bài jiàn lǎo shī chéng yí chéng yí zhèng hǎo bì zhe yǎn jing zuò zhe xiū xi tā men jiù zhàn zài páng biān péi zhe děng chéng yí xǐng lái mén wài de xuě yǐ jīng xià yī chǐ shēn le",
-        "appreciation": "这个故事告诉我们要尊敬老师，诚心求学。",
-        "appreciationPinyin": "zhè gè gù shi gào su wǒ men yào zūn jìng lǎo shī chéng xīn qiú xué",
         "task": "如果老师在休息，你会怎么做？",
         "taskPinyin": "rú guǒ lǎo shī zài xiū xi nǐ huì zěn me zuò",
         "taskAnswer": "我会轻轻地走开，或者安静地等老师醒来，不打扰老师。",
-        "taskAnswerPinyin": "wǒ huì qīng qīng de zǒu kāi huò zhě ān jìng de děng lǎo shī xǐng lái bù dǎ rǎo lǎo shī"
+        "taskAnswerPinyin": "wǒ huì qīng qīng de zǒu kāi huò zhě ān jìng de děng lǎo shī xǐng lái bù dǎ rǎo lǎo shī",
+        "translation": "杨时和游酢去拜见老师程颐。程颐正好闭着眼睛坐着休息，他们就站在旁边陪着。等程颐醒来，门外的雪已经下一尺深了。",
+        "translationPinyin": "yáng shí hé yóu zuò qù bài jiàn lǎo shī chéng yí chéng yí zhèng hǎo bì zhe yǎn jing zuò zhe xiū xi tā men jiù zhàn zài páng biān péi zhe děng chéng yí xǐng lái mén wài de xuě yǐ jīng xià yī chǐ shēn le"
       },
       {
         "title": "日积月累",
@@ -1269,9 +1215,9 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
+            "title": "好词积累",
+            "titlePinyin": "hǎo cí jī lěi",
+            "contentObject": [
               {
                 "pinyin": "xuě bái xuě bái",
                 "text": "雪白雪白"
@@ -1301,14 +1247,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   },
@@ -1359,14 +1303,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "雾最后把自己也藏起来了，其实是雾散了，作者写得真幽默。",
-        "appreciationPinyin": "wù zuì hòu bǎ zì jǐ yě cáng qǐ lái le qí shí shì wù sàn le zuò zhě xiě de zhēn yōu mò",
         "task": "雾消失到哪里去了？",
         "taskPinyin": "wù xiāo shī dào nǎ lǐ qù le",
         "taskAnswer": "太阳出来了，温度升高，雾就变成了水汽，散在空气中了。",
-        "taskAnswerPinyin": "tài yáng chū lái le wēn dù shēng gāo wù jiù biàn chéng le shuǐ qì sàn zài kōng qì zhōng le"
+        "taskAnswerPinyin": "tài yáng chū lái le wēn dù shēng gāo wù jiù biàn chéng le shuǐ qì sàn zài kōng qì zhōng le",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "太阳和风",
@@ -1404,14 +1346,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "每个人都有自己的长处和短处，要互相尊重，取长补短。",
-        "appreciationPinyin": "měi gè rén dōu yǒu zì jǐ de cháng chù hé duǎn chù yào hù xiāng zūn zhòng qǔ cháng bǔ duǎn",
         "task": "你知道风有什么用处吗？",
         "taskPinyin": "nǐ zhī dào fēng yǒu shén me yòng chù ma",
         "taskAnswer": "风可以发电，可以传播种子，还可以让风筝飞起来。",
-        "taskAnswerPinyin": "fēng kě yǐ fā diàn kě yǐ chuán bō zhǒng zi hái kě yǐ ràng fēng zhēng fēi qǐ lái"
+        "taskAnswerPinyin": "fēng kě yǐ fā diàn kě yǐ chuán bō zhǒng zi hái kě yǐ ràng fēng zhēng fēi qǐ lái",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "逢雪宿芙蓉山主人",
@@ -1441,14 +1381,12 @@
         ],
         "annotation": "日暮：傍晚。！！吠：狗叫。",
         "annotationPinyin": "rì mù bàng wǎn fèi gǒu jiào",
-        "translation": "傍晚时分，看着苍茫的远山，感觉路途遥远。天寒地冻，这间茅草屋显得很贫寒。忽然听见柴门外狗叫的声音，原来是有人迎着风雪连夜回来了。",
-        "translationPinyin": "bàng wǎn shí fēn kàn zhe cāng máng de yuǎn shān gǎn jué lù tú yáo yuǎn tiān hán dì dòng zhè jiān máo cǎo wū xiǎn de hěn pín hán hū rán tīng jiàn chái mén wài gǒu jiào de shēng yīn yuán lái shì yǒu rén yíng zhe fēng xuě lián yè huí lái le",
-        "appreciation": "这首诗写了诗人在风雪夜投宿的情景，语言简练，意境像画一样。",
-        "appreciationPinyin": "zhè shǒu shī xiě le shī rén zài fēng xuě yè tóu sù de qíng jǐng yǔ yán jiǎn liàn yì jìng xiàng huà yī yàng",
         "task": "读这首诗，你脑海里出现了什么画面？",
         "taskPinyin": "dú zhè shǒu shī nǐ nǎo hǎi lǐ chū xiàn le shén me huà miàn",
         "taskAnswer": "我看见一个夜晚，下着大雪，一个人在赶路，听见狗叫声，终于到家了。",
-        "taskAnswerPinyin": "wǒ kàn jiàn yī gè yè wǎn xià zhe dà xuě yī gè rén zài gǎn lù tīng jiàn gǒu jiào shēng zhōng yú dào jiā le"
+        "taskAnswerPinyin": "wǒ kàn jiàn yī gè yè wǎn xià zhe dà xuě yī gè rén zài gǎn lù tīng jiàn gǒu jiào shēng zhōng yú dào jiā le",
+        "translation": "傍晚时分，看着苍茫的远山，感觉路途遥远。天寒地冻，这间茅草屋显得很贫寒。忽然听见柴门外狗叫的声音，原来是有人迎着风雪连夜回来了。",
+        "translationPinyin": "bàng wǎn shí fēn kàn zhe cāng máng de yuǎn shān gǎn jué lù tú yáo yuǎn tiān hán dì dòng zhè jiān máo cǎo wū xiǎn de hěn pín hán hū rán tīng jiàn chái mén wài gǒu jiào de shēng yīn yuán lái shì yǒu rén yíng zhe fēng xuě lián yè huí lái le"
       },
       {
         "title": "日积月累",
@@ -1460,9 +1398,9 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "好句小箩筐",
-            "titlePinyin": "hǎo jù xiǎo luó kuāng",
-            "content": [
+            "title": "好句积累",
+            "titlePinyin": "hhǎo jù jī lěi",
+            "contentObject": [
               {
                 "pinyin": "wù xiàng yī céng báo shā pī zài dà shān shàng bǐ yù",
                 "text": "雾像一层薄纱，披在大山上。（比喻）"
@@ -1476,14 +1414,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   },
@@ -1538,14 +1474,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "短文用拟人的手法，把天空中的日、月、星、云写成了一家人。",
-        "appreciationPinyin": "duǎn wén yòng nǐ rén de shǒu fǎ bǎ tiān kōng zhōng de rì yuè xīng yún xiě chéng le yī jiā rén",
         "task": "你觉得天空里还有谁？",
         "taskPinyin": "nǐ jué de tiān kōng lǐ hái yǒu shuí",
         "taskAnswer": "还有风哥哥和雨宝宝。",
-        "taskAnswerPinyin": "hái yǒu fēng gē ge hé yǔ bǎo bao"
+        "taskAnswerPinyin": "hái yǒu fēng gē ge hé yǔ bǎo bao",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "敕勒歌（复习）",
@@ -1571,14 +1505,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "这几句诗通过颜色和动态，展现了草原的辽阔和生机。",
-        "appreciationPinyin": "zhè jǐ jù shī tōng guò yán sè hé dòng tài zhǎn xiàn le cǎo yuán de liáo kuò hé shēng jī",
         "task": "这首诗里提到了哪些颜色？",
         "taskPinyin": "zhè shǒu shī lǐ tí dào le nǎ xiē yán sè",
         "taskAnswer": "苍苍（深青色，指天），茫茫（辽阔，指草原绿），还有牛羊的白和黑。",
-        "taskAnswerPinyin": "cāng cāng shēn qīng sè zhǐ tiān máng máng liáo kuò zhǐ cǎo yuán lǜ hái yǒu niú yáng de bái hé hēi"
+        "taskAnswerPinyin": "cāng cāng shēn qīng sè zhǐ tiān máng máng liáo kuò zhǐ cǎo yuán lǜ hái yǒu niú yáng de bái hé hēi",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "三字经（节选）",
@@ -1600,14 +1532,12 @@
         ],
         "annotation": "三才：天才、地才、人才。！！三光：三种光辉。",
         "annotationPinyin": "sān cái tiān cái dì cái rén cái sān guāng sān zhǒng guāng huī",
-        "translation": "构成世界的三大要素是天、地、人。天空中的三道光芒是太阳、月亮和星星。",
-        "translationPinyin": "gòu chéng shì jiè de sān dà yào sù shì tiān dì rén tiān kōng zhōng de sān dào guāng máng shì tài yáng yuè liang hé xīng xing",
-        "appreciation": "这几句告诉我们世界的基本构成和天空的景象。",
-        "appreciationPinyin": "zhè jǐ jù gào su wǒ men shì jiè de jī běn gòu chéng hé tiān kōng de jǐng xiàng",
         "task": "“三光”指的是什么？",
         "taskPinyin": "sān guāng zhǐ de shì shén me",
         "taskAnswer": "指的是太阳、月亮和星星。",
-        "taskAnswerPinyin": "zhǐ de shì tài yáng yuè liang hé xīng xing"
+        "taskAnswerPinyin": "zhǐ de shì tài yáng yuè liang hé xīng xing",
+        "translation": "构成世界的三大要素是天、地、人。天空中的三道光芒是太阳、月亮和星星。",
+        "translationPinyin": "gòu chéng shì jiè de sān dà yào sù shì tiān dì rén tiān kōng zhōng de sān dào guāng máng shì tài yáng yuè liang hé xīng xing"
       },
       {
         "title": "日积月累",
@@ -1619,34 +1549,28 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "修辞小魔法",
-            "titlePinyin": "xiū cí xiǎo mó fǎ",
+            "title": "修辞手法（排比：把三个或以上相似结构的句子连在一起）",
+            "titlePinyin": "xiū cí shǒu fǎ pái bǐ bǎ sān gè huò yǐ shàng xiāng sì jié gòu de jù zi lián zài yī qǐ",
             "content": [
               {
-                "pinyin": "nǐ rén",
-                "text": "拟人：给事物赋予人的动作。"
+                "pinyin": "chūn tiān de huā yuán zhēn měi lì yǒu fēn hóng de táo huā yǒu jié bái de lí huā yǒu jīn càn càn de yíng chūn huā",
+                "text": "春天的花园真美丽：有粉红的桃花，有洁白的梨花，有金灿灿的迎春花。"
               },
               {
-                "pinyin": "lì fēng ér zài chàng gē fēng xiàng rén yī yàng chàng gē",
-                "text": "例：风儿在唱歌。（风像人一样唱歌）"
-              },
-              {
-                "pinyin": "lì xuě huā zài tiào wǔ xuě huā xiàng rén yī yàng tiào wǔ",
-                "text": "例：雪花在跳舞。（雪花像人一样跳舞）"
+                "pinyin": "zǎo chen xiǎo dòng wù men dōu xǐng le xiǎo niǎo zài chàng gē xiǎo māo zài shū máo xiǎo gǒu zài pǎo bù",
+                "text": "早晨，小动物们都醒了：小鸟在唱歌，小猫在梳毛，小狗在跑步。"
               }
             ]
           }
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   },
@@ -1693,14 +1617,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "短文写出了云朵的变化多端，非常有趣。",
-        "appreciationPinyin": "duǎn wén xiě chū le yún duǒ de biàn huà duō duān fēi cháng yǒu qù",
         "task": "如果你是云，你想变成什么？",
         "taskPinyin": "rú guǒ nǐ shì yún nǐ xiǎng biàn chéng shén me",
         "taskAnswer": "我想变成一只大恐龙，在天上走来走去。",
-        "taskAnswerPinyin": "wǒ xiǎng biàn chéng yī zhī dà kǒng lóng zài tiān shàng zǒu lái zǒu qù"
+        "taskAnswerPinyin": "wǒ xiǎng biàn chéng yī zhī dà kǒng lóng zài tiān shàng zǒu lái zǒu qù",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "井底之蛙（对比阅读）",
@@ -1742,14 +1664,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "这个故事告诉我们，要多出去看看，不能目光短浅。",
-        "appreciationPinyin": "zhè gè gù shi gào su wǒ men yào duō chū qù kàn kan bù néng mù guāng duǎn qiǎn",
         "task": "青蛙跳出井口后会说什么？",
         "taskPinyin": "qīng wā tiào chū jǐng kǒu hòu huì shuō shén me",
         "taskAnswer": "哇！原来天真的这么大，我以前错了！",
-        "taskAnswerPinyin": "wa yuán lái tiān zhēn de zhè me dà wǒ yǐ qián cuò le"
+        "taskAnswerPinyin": "wa yuán lái tiān zhēn de zhè me dà wǒ yǐ qián cuò le",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "假如我是一朵云",
@@ -1791,14 +1711,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "这首诗充满了美好的愿望和想象。",
-        "appreciationPinyin": "zhè shǒu shī chōng mǎn le měi hǎo de yuàn wàng hé xiǎng xiàng",
         "task": "假如你是一朵云，你想做什么？",
         "taskPinyin": "jiǎ rú nǐ shì yī duǒ yún nǐ xiǎng zuò shén me",
         "taskAnswer": "假如我是一朵云，我要变成各种形状，逗小朋友开心。",
-        "taskAnswerPinyin": "jiǎ rú wǒ shì yī duǒ yún wǒ yào biàn chéng gè zhǒng xíng zhuàng dòu xiǎo péng yǒu kāi xīn"
+        "taskAnswerPinyin": "jiǎ rú wǒ shì yī duǒ yún wǒ yào biàn chéng gè zhǒng xíng zhuàng dòu xiǎo péng yǒu kāi xīn",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "日积月累",
@@ -1810,34 +1728,32 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "修辞小魔法",
-            "titlePinyin": "xiū cí xiǎo mó fǎ",
+            "title": "夸张：故意夸大或缩小事物的特征",
+            "titlePinyin": "kuā zhāng gù yì kuā dà huò suō xiǎo shì wù de tè zhēng",
             "content": [
               {
-                "pinyin": "bǐ yù",
-                "text": "比喻：打比方，说一个东西像另一个东西。"
+                "pinyin": "tā pǎo de fēi kuài，jiǎn zhí xiàng yī zhèn fēng yī yàng！",
+                "text": "他跑得飞快，简直像一阵风一样！"
               },
               {
-                "pinyin": "lì xuě huā xiàng yī chuáng dà bèi zi gài zài mài miáo shēn shàng bǎ xuě bǐ zuò bèi zi",
-                "text": "例：雪花像一床大被子，盖在麦苗身上。（把雪比作被子）"
+                "pinyin": "wǒ è de néng chī xià yī tóu niú le！",
+                "text": "我饿得能吃下一头牛了！"
               },
               {
-                "pinyin": "lì tài yáng xiàng yí gè dà huǒ qiú bǎ tài yáng bǐ zuò huǒ qiú",
-                "text": "例：太阳像一个大火球。（把太阳比作火球）"
+                "pinyin": "jiào shì lǐ ān jìng de lián yī gēn zhēn diào zài dì shàng dōu tīng de jiàn",
+                "text": "教室里安静得连一根针掉在地上都听得见"
               }
             ]
           }
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   },
@@ -1884,14 +1800,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "雪孩子虽然化了，但他变成了美丽的白云，永远陪着我们。",
-        "appreciationPinyin": "xuě hái zi suī rán huà le dàn tā biàn chéng le měi lì de bái yún yǒng yuǎn péi zhe wǒ men",
         "task": "雪孩子还会变成什么？",
         "taskPinyin": "xuě hái zi hái huì biàn chéng shén me",
         "taskAnswer": "如果冷了，他还会变成雨，变成雪，再次回到大地。",
-        "taskAnswerPinyin": "rú guǒ lěng le tā hái huì biàn chéng yǔ biàn chéng xuě zài cì huí dào dà dì"
+        "taskAnswerPinyin": "rú guǒ lěng le tā hái huì biàn chéng yǔ biàn chéng xuě zài cì huí dào dà dì",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "冬天的松树",
@@ -1937,14 +1851,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "短文赞扬了松树不畏严寒的精神，用了比喻的修辞。",
-        "appreciationPinyin": "duǎn wén zàn yáng le sōng shù bù wèi yán hán de jīng shén yòng le bǐ yù de xiū cí",
         "task": "你觉得松树像什么？",
         "taskPinyin": "nǐ jué de sōng shù xiàng shén me",
         "taskAnswer": "松树像一把绿色的大伞，给小鸟挡风雪。",
-        "taskAnswerPinyin": "sōng shù xiàng yī bǎ lǜ sè de dà sǎn gěi xiǎo niǎo dǎng fēng xuě"
+        "taskAnswerPinyin": "sōng shù xiàng yī bǎ lǜ sè de dà sǎn gěi xiǎo niǎo dǎng fēng xuě",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "映雪读书",
@@ -1978,14 +1890,12 @@
         ],
         "annotation": "清介：清高耿直。！！交游：结交朋友。",
         "annotationPinyin": "qīng gāo gěng zhí jié jiāo péng you",
-        "translation": "孙康家里很穷，没有灯油。他经常映着雪光读书。他年少时就清高耿直，不随便结交朋友。",
-        "translationPinyin": "sūn kāng jiā lǐ hěn qióng méi yǒu dēng yóu tā jīng cháng yìng zhe xuě guāng dú shū tā nián shào shí jiù qīng gāo gěng zhí bù suí biàn jié jiāo péng you",
-        "appreciation": "再次强调孙康刻苦学习的精神，鼓励我们珍惜学习机会。",
-        "appreciationPinyin": "zài cì qiáng diào sūn kāng kè kǔ xué xí de jīng shén gǔ lì wǒ men zhēn xī xué xí jī huì",
         "task": "我们现在有明亮的灯光，应该怎么做？",
         "taskPinyin": "wǒ men xiàn zài yǒu míng liàng de dēng guāng yīng gāi zěn me zuò",
         "taskAnswer": "我们应该更加努力学习，不辜负好的环境。",
-        "taskAnswerPinyin": "wǒ men yīng gāi gèng jiā nǔ lì xué xí bù gū fù hǎo de huán jìng"
+        "taskAnswerPinyin": "wǒ men yīng gāi gèng jiā nǔ lì xué xí bù gū fù hǎo de huán jìng",
+        "translation": "孙康家里很穷，没有灯油。他经常映着雪光读书。他年少时就清高耿直，不随便结交朋友。",
+        "translationPinyin": "sūn kāng jiā lǐ hěn qióng méi yǒu dēng yóu tā jīng cháng yìng zhe xuě guāng dú shū tā nián shào shí jiù qīng gāo gěng zhí bù suí biàn jié jiāo péng you"
       },
       {
         "title": "日积月累",
@@ -1997,34 +1907,28 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "描写小妙招",
-            "titlePinyin": "miáo xiě xiǎo miào zhāo",
+            "title": "描写小妙招（颜色描写）",
+            "titlePinyin": "miáo xiě xiǎo miào zhāo yán sè miáo xiě",
             "content": [
               {
-                "pinyin": "yán sè miáo xiě yòng biǎo shì yán sè de cí yǔ ràng huà miàn gèng měi",
-                "text": "颜色描写：用表示颜色的词语，让画面更美。"
+                "pinyin": "xuě bái de yún duǒ zài lán tiān shàng piāo",
+                "text": "雪白的云朵在蓝天上飘。"
               },
               {
-                "pinyin": "lì xuě bái de yún duǒ zài lán tiān shàng piāo",
-                "text": "例：雪白的云朵在蓝天上飘。"
-              },
-              {
-                "pinyin": "lì jīn huáng de luò yè pù mǎn le xiǎo lù",
-                "text": "例：金黄的落叶铺满了小路。"
+                "pinyin": "jīn huáng de luò yè pù mǎn le xiǎo lù",
+                "text": "金黄的落叶铺满了小路。"
               }
             ]
           }
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   },
@@ -2075,14 +1979,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "复习“无论……还是……都……”的句式，感受雾的威力。",
-        "appreciationPinyin": "fù xí wú lùn hái shì dōu de jù shì gǎn shòu wù de wēi lì",
         "task": "用“无论……还是……都……”造句。",
         "taskPinyin": "yòng wú lùn hái shì dōu zào jù",
         "taskAnswer": "无论刮风还是下雨，警察叔叔都坚守在岗位上。",
-        "taskAnswerPinyin": "wú lùn guā fēng hái shì xià yǔ jǐng chá shū shu dōu jiān shǒu zài gǎng wèi shàng"
+        "taskAnswerPinyin": "wú lùn guā fēng hái shì xià yǔ jǐng chá shū shu dōu jiān shǒu zài gǎng wèi shàng",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "冬天的动物",
@@ -2132,14 +2034,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "短文介绍了动物过冬的不同方式。",
-        "appreciationPinyin": "duǎn wén jiè shào le dòng wù guò dōng de bù tóng fāng shì",
         "task": "你还知道哪些动物冬眠？",
         "taskPinyin": "nǐ hái zhī dào nǎ xiē dòng wù dōng mián",
         "taskAnswer": "我知道蛇、刺猬、熊都会冬眠。",
-        "taskAnswerPinyin": "wǒ zhī dào shé cì wei xióng dōu huì dōng mián"
+        "taskAnswerPinyin": "wǒ zhī dào shé cì wei xióng dōu huì dōng mián",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "夜雪",
@@ -2169,14 +2069,12 @@
         ],
         "annotation": "讶：惊讶。！！衾枕：被子和枕头。！！折竹声：竹子被雪压断的声音。",
         "annotationPinyin": "jīng yà bèi zi hé zhěn tou zhú zi bèi xuě yā duàn de shēng yīn",
-        "translation": "正惊讶被子和枕头怎么这么冷，又看见窗户纸发亮。夜深了，知道外面的雪下得很大，不时听到竹子被雪压断的声音。",
-        "translationPinyin": "zhèng jīng yà bèi zi hé zhěn tou zěn me zhè me lěng yòu kàn jiàn chuāng hu zhǐ fā liàng yè shēn le zhī dào wài miàn de xuě xià de hěn dà bù shí tīng dào zhú zi bèi xuě yā duàn de shēng yīn",
-        "appreciation": "这首诗通过触觉、视觉和听觉，侧面描写了雪下得很大。",
-        "appreciationPinyin": "zhè shǒu shī tōng guò chù jué shì jué hé tīng jué cè miàn miáo xiě le xuě xià de hěn dà",
         "task": "诗人是怎么知道下大雪的？",
         "taskPinyin": "shī rén shì zěn me zhī dào xià dà xuě de",
         "taskAnswer": "因为觉得冷（触觉），窗户亮（视觉），听见竹子折断的声音（听觉）。",
-        "taskAnswerPinyin": "yīn wèi jué de lěng chù jué chuāng hu liàng shì jué tīng jiàn zhú zi zhé duàn de shēng yīn tīng jué"
+        "taskAnswerPinyin": "yīn wèi jué de lěng chù jué chuāng hu liàng shì jué tīng jiàn zhú zi zhé duàn de shēng yīn tīng jué",
+        "translation": "正惊讶被子和枕头怎么这么冷，又看见窗户纸发亮。夜深了，知道外面的雪下得很大，不时听到竹子被雪压断的声音。",
+        "translationPinyin": "zhèng jīng yà bèi zi hé zhěn tou zěn me zhè me lěng yòu kàn jiàn chuāng hu zhǐ fā liàng yè shēn le zhī dào wài miàn de xuě xià de hěn dà bù shí tīng dào zhú zi bèi xuě yā duàn de shēng yīn"
       },
       {
         "title": "日积月累",
@@ -2188,8 +2086,8 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "歇后语小达人",
-            "titlePinyin": "xiē hòu yǔ xiǎo dá rén",
+            "title": "谚语 | 歇后语",
+            "titlePinyin": "yàn yǔ xiē hòu yǔ",
             "content": [
               {
                 "pinyin": "xuě dì lǐ huà méi yī wú shì chù zài xuě dì huà bái méi huā kàn bù chū lái bǐ yù yì diǎn duì de dì fāng dōu méi yǒu",
@@ -2208,14 +2106,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "",
-        "appreciationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "",
+        "translationPinyin": ""
       }
     ]
   }

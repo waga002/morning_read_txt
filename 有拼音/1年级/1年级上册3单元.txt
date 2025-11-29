@@ -46,14 +46,12 @@
         ],
         "annotation": "人：指我们每一个人。！！善：善良，好的品德。",
         "annotationPinyin": "rén zhǐ wǒ men měi yī gè rén shàn shàn liáng hǎo de pǐn dé",
-        "translation": "我们每个小朋友生下来的时候，本性都是善良的。只是后天学习和生活的习惯不同，才让我们的性情有了远近的差别。",
-        "translationPinyin": "wǒ men měi gè xiǎo péng yǒu shēng xià lái de shí hou běn xìng dōu shì shàn liáng de zhǐ shì hòu tiān xué xí hé shēng huó de xí guàn bù tóng cái ràng wǒ men de xìng qíng yǒu le yuǎn jìn de chā bié",
-        "appreciation": "这是告诉我们，要努力学习好习惯，让自己的本性永远善良。",
-        "appreciationPinyin": "zhè shì gào su wǒ men yào nǔ lì xué xí hǎo xí guàn ràng zì jǐ de běn xìng yǒng yuǎn shàn liáng",
         "task": "想一想，你有哪些好的习惯？",
         "taskPinyin": "xiǎng yī xiǎng nǐ yǒu nǎ xiē hǎo de xí guàn",
         "taskAnswer": "我会自己穿衣服，会把玩具收好。",
-        "taskAnswerPinyin": "wǒ huì zì jǐ chuān yī fú huì bǎ wán jù shōu hǎo"
+        "taskAnswerPinyin": "wǒ huì zì jǐ chuān yī fú huì bǎ wán jù shōu hǎo",
+        "translation": "我们每个小朋友生下来的时候，本性都是善良的。只是后天学习和生活的习惯不同，才让我们的性情有了远近的差别。",
+        "translationPinyin": "wǒ men měi gè xiǎo péng yǒu shēng xià lái de shí hou běn xìng dōu shì shàn liáng de zhǐ shì hòu tiān xué xí hé shēng huó de xí guàn bù tóng cái ràng wǒ men de xìng qíng yǒu le yuǎn jìn de chā bié"
       },
       {
         "title": "日积月累",
@@ -266,14 +264,12 @@
         ],
         "annotation": "色：色彩。！！惊：害怕，受惊。",
         "annotationPinyin": "sè sè cǎi jīng hài pà shòu jīng",
-        "translation": "远远望去，山上有各种美丽的颜色。走近听，水流却没有发出声音。春天过去了，花朵却还开着。人走近了，小鸟却一点也不害怕。",
-        "translationPinyin": "yuǎn yuǎn wàng qù shān shàng yǒu gè zhǒng měi lì de yán sè zǒu jìn tīng shuǐ liú què méi yǒu fā chū shēng chūn tiān guò qù le huā duǒ què hái kāi zhe rén zǒu jìn le xiǎo niǎo què yī diǎn yě bù hài pà",
-        "appreciation": "这首诗描绘的是一幅画，把画中的景色写得好像是真的，非常奇妙。",
-        "appreciationPinyin": "zhè shǒu shī miáo huì de shì yī fú huà bǎ huà zhōng de jǐng sè xiě de hǎo xiàng shì zhēn de fēi cháng qí miào",
         "task": "诗中写了哪些景物？",
         "taskPinyin": "shī zhōng xiě le nǎ xiē jǐng wù",
         "taskAnswer": "有山、水、花、鸟。",
-        "taskAnswerPinyin": "yǒu shān shuǐ huā niǎo"
+        "taskAnswerPinyin": "yǒu shān shuǐ huā niǎo",
+        "translation": "远远望去，山上有各种美丽的颜色。走近听，水流却没有发出声音。春天过去了，花朵却还开着。人走近了，小鸟却一点也不害怕。",
+        "translationPinyin": "yuǎn yuǎn wàng qù shān shàng yǒu gè zhǒng měi lì de yán sè zǒu jìn tīng shuǐ liú què méi yǒu fā chū shēng chūn tiān guò qù le huā duǒ què hái kāi zhe rén zǒu jìn le xiǎo niǎo què yī diǎn yě bù hài pà"
       },
       {
         "title": "日积月累",
@@ -474,14 +470,12 @@
         ],
         "annotation": "呼：呼唤。！！应：答应。！！缓：迟缓，慢慢的。！！懒：偷懒，不积极。",
         "annotationPinyin": "hū hū huàn yìng dá yìng huǎn chí huǎn màn màn de lǎn tōu lǎn bù jī jí",
-        "translation": "爸爸妈妈叫你时，要马上答应，不要慢慢吞吞。爸爸妈妈让你做事情时，要立刻去做，不要偷懒。",
-        "translationPinyin": "bà ba mā ma jiào nǐ shí yào mǎ shàng dá yìng bù yào màn màn tūn tūn bà ba mā ma ràng nǐ zuò shì qíng shí yào lì kè qù zuò bù yào tōu lǎn",
-        "appreciation": "这是告诉我们要听爸爸妈妈的话，做个有礼貌、勤快的好孩子。",
-        "appreciationPinyin": "zhè shì gào su wǒ men yào tīng bà ba mā ma de huà zuò gè yǒu lǐ mào qín kuài de hǎo hái zi",
         "task": "口头仿说：请你用自己的话告诉爸爸妈妈，你明白了什么。",
         "taskPinyin": "kǒu tóu fǎng shuō qǐng nǐ yòng zì jǐ de huà gào su bà ba mā ma nǐ míng bái le shén me",
         "taskAnswer": "爸爸妈妈，我以后会更快地答应您。",
-        "taskAnswerPinyin": "bà ba mā ma wǒ yǐ hòu huì gèng kuài de dá yìng nín"
+        "taskAnswerPinyin": "bà ba mā ma wǒ yǐ hòu huì gèng kuài de dá yìng nín",
+        "translation": "爸爸妈妈叫你时，要马上答应，不要慢慢吞吞。爸爸妈妈让你做事情时，要立刻去做，不要偷懒。",
+        "translationPinyin": "bà ba mā ma jiào nǐ shí yào mǎ shàng dá yìng bù yào màn màn tūn tūn bà ba mā ma ràng nǐ zuò shì qíng shí yào lì kè qù zuò bù yào tōu lǎn"
       },
       {
         "title": "日积月累",
@@ -581,14 +575,12 @@
         ],
         "annotation": "登攀：爬山，比喻努力向上。",
         "annotationPinyin": "dēng pān pá shān bǐ yù nǔ lì xiàng shàng",
-        "translation": "这句话告诉我们，人生就像爬山一样，只要我们肯努力，愿意一直学习，就没有什么能难倒我们的。",
-        "translationPinyin": "zhè jù huà gào su wǒ men rén shēng jiù xiàng pá shān yī yàng zhī yào wǒ men kěn nǔ lì yuàn yì yī zhí xué xí jiù méi yǒu shén me néng nán dǎo wǒ men de",
-        "appreciation": "鼓励小朋友们，要一直保持学习的热情，遇到困难也不要害怕。",
-        "appreciationPinyin": "gǔ lì xiǎo péng yǒu men yào yī zhí bǎo chí xué xí de rè qíng yù dào kùn nan yě bù yào hài pà",
         "task": "请把“活到老，学到老”大声读给爸爸妈妈听。",
         "taskPinyin": "qǐng bǎ huó dào lǎo xué dào lǎo dà shēng dú gěi bà ba mā ma tīng",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "这句话告诉我们，人生就像爬山一样，只要我们肯努力，愿意一直学习，就没有什么能难倒我们的。",
+        "translationPinyin": "zhè jù huà gào su wǒ men rén shēng jiù xiàng pá shān yī yàng zhī yào wǒ men kěn nǔ lì yuàn yì yī zhí xué xí jiù méi yǒu shén me néng nán dǎo wǒ men de"
       },
       {
         "title": "日积月累",
@@ -805,14 +797,12 @@
         ],
         "annotation": "晓：天亮。！！啼鸟：鸟叫。！！处处：每个地方。！！知：知道。",
         "annotationPinyin": "xiǎo tiān liàng tí niǎo niǎo jiào chù chù měi gè dì fāng zhī zhī dào",
-        "translation": "春天睡得很香，不知不觉天就亮了。醒来后到处都能听见小鸟在唱歌。想一想昨天晚上风雨的声音，不知道有多少花瓣被吹落了呢？",
-        "translationPinyin": "chūn tiān shuì de hěn xiāng bù zhī bù jué tiān jiù liàng le xǐng lái hòu dào chù dōu néng tīng jiàn xiǎo niǎo zài chàng gē xiǎng yī xiǎng zuó tiān wǎn shàng fēng yǔ de shēng yīn bù zhī dào yǒu duō shǎo huā bàn bèi chuī luò le ne",
-        "appreciation": "这首诗写出了春天早晨的美好和诗人对花朵的爱惜之情。",
-        "appreciationPinyin": "zhè shǒu shī xiě chū le chūn tiān zǎo chén de měi hǎo hé shī rén duì huā duǒ de ài xī zhī qíng",
         "task": "诗中写了哪些声音？",
         "taskPinyin": "shī zhōng xiě le nǎ xiē shēng yīn",
         "taskAnswer": "有鸟叫声，风声，雨声。",
-        "taskAnswerPinyin": "yǒu niǎo jiào shēng fēng shēng yǔ shēng"
+        "taskAnswerPinyin": "yǒu niǎo jiào shēng fēng shēng yǔ shēng",
+        "translation": "春天睡得很香，不知不觉天就亮了。醒来后到处都能听见小鸟在唱歌。想一想昨天晚上风雨的声音，不知道有多少花瓣被吹落了呢？",
+        "translationPinyin": "chūn tiān shuì de hěn xiāng bù zhī bù jué tiān jiù liàng le xǐng lái hòu dào chù dōu néng tīng jiàn xiǎo niǎo zài chàng gē xiǎng yī xiǎng zuó tiān wǎn shàng fēng yǔ de shēng yīn bù zhī dào yǒu duō shǎo huā bàn bèi chuī luò le ne"
       },
       {
         "title": "日积月累",
@@ -1001,14 +991,12 @@
         ],
         "annotation": "对：相对。！！大陆：大地，广阔的土地。！！长空：高高的天空。",
         "annotationPinyin": "duì xiāng duì dà lù dà dì guǎng kuò de tǔ dì cháng kōng gāo gāo de tiān kōng",
-        "translation": "天和地相对，雨和风相对。广阔的大地和高远的天空相对。",
-        "translationPinyin": "tiān hé dì xiāng duì yǔ hé fēng xiāng duì guǎng kuò de dà dì hé gāo yuǎn de tiān kōng xiāng duì",
-        "appreciation": "这是教我们认识生活中相对的词语，读起来特别有节奏感。",
-        "appreciationPinyin": "zhè shì jiào wǒ men rèn shí shēng huó zhōng xiāng duì de cí yǔ dú qǐ lái tè bié yǒu jié zòu gǎn",
         "task": "找一找，你还能说出哪些相对的词语？",
         "taskPinyin": "zhǎo yī zhǎo nǐ hái néng shuō chū nǎ xiē xiāng duì de cí yǔ",
         "taskAnswer": "大对小，高对低，前对后。",
-        "taskAnswerPinyin": "dà duì xiǎo gāo duì dī qián duì hòu"
+        "taskAnswerPinyin": "dà duì xiǎo gāo duì dī qián duì hòu",
+        "translation": "天和地相对，雨和风相对。广阔的大地和高远的天空相对。",
+        "translationPinyin": "tiān hé dì xiāng duì yǔ hé fēng xiāng duì guǎng kuò de dà dì hé gāo yuǎn de tiān kōng xiāng duì"
       },
       {
         "title": "日积月累",
@@ -1225,14 +1213,12 @@
         ],
         "annotation": "白日：太阳。！！依：靠着。！！尽：消失。！！欲：想要。！！穷：穷尽，看到尽头。！！目：眼睛。",
         "annotationPinyin": "bái rì tài yáng yī kào zhe jìn xiāo shī yù xiǎng yào qióng qióng jìn kàn dào jìn tóu mù yǎn jīng",
-        "translation": "太阳依靠着远山，慢慢地沉下去了。滚滚的黄河奔腾着，流入大海。要想看到更远更远的美景，就要再登上一层楼。",
-        "translationPinyin": "tài yáng yī kào zhe yuǎn shān màn màn de chén xià qù le gǔn gǔn de huáng hé bēn téng zhe liú rù dà hǎi yào xiǎng kàn dào gèng yuǎn gèng yuǎn de měi jǐng jiù yào zài dēng shàng yī céng lóu",
-        "appreciation": "鼓励我们要有远大的志向，想要做得更好，就要更加努力。",
-        "appreciationPinyin": "gǔ lì wǒ men yào yǒu yuǎn dà de zhì xiàng xiǎng yào zuò de gèng hǎo jiù yào gèng jiā nǔ lì",
         "task": "最后两句诗告诉了我们什么道理？",
         "taskPinyin": "zuì hòu liǎng jù shī gào su le wǒ men shén me dào lǐ",
         "taskAnswer": "想要看得远，就要站得高，比喻要努力才能有更大的进步。",
-        "taskAnswerPinyin": "xiǎng yào kàn de yuǎn jiù yào zhàn de gāo bǐ yù yào nǔ lì cái néng yǒu gèng dà de jìn bù"
+        "taskAnswerPinyin": "xiǎng yào kàn de yuǎn jiù yào zhàn de gāo bǐ yù yào nǔ lì cái néng yǒu gèng dà de jìn bù",
+        "translation": "太阳依靠着远山，慢慢地沉下去了。滚滚的黄河奔腾着，流入大海。要想看到更远更远的美景，就要再登上一层楼。",
+        "translationPinyin": "tài yáng yī kào zhe yuǎn shān màn màn de chén xià qù le gǔn gǔn de huáng hé bēn téng zhe liú rù dà hǎi yào xiǎng kàn dào gèng yuǎn gèng yuǎn de měi jǐng jiù yào zài dēng shàng yī céng lóu"
       },
       {
         "title": "日积月累",

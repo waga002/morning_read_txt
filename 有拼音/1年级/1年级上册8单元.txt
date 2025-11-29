@@ -1,8 +1,8 @@
 [
   {
     "grade": 1,
-    "term": 1,
-    "week": 1,
+    "term": 0,
+    "week": 15,
     "day": 1,
     "theme": "尾巴摇摇真可爱",
     "content": [
@@ -61,14 +61,12 @@
         ],
         "annotation": "初：开始。！！性：本性，天性。！！善：善良，好。！！习：习惯。",
         "annotationPinyin": "chū kāi shǐ xìng běn xìng tiān xìng shàn shàn liáng hǎo xí xí guàn",
-        "translation": "小朋友们，我们刚生下来的时候，天性都是善良的。大家的天性很相近，但因为后来的学习和习惯不同，相互之间才会慢慢有了差别。",
-        "translationPinyin": "xiǎo péng yǒu men wǒ men gāng shēng xià lái de shí hou tiān xìng dōu shì shàn liáng de dà jiā de tiān xìng hěn xiāng jìn dàn yīn wèi hòu lái de xué xí hé xí guàn bù tóng xiāng hù zhī jiān cái huì màn man yǒu le chā bié",
-        "appreciation": "这是告诉我们，要从小养成好的习惯，做善良的好宝宝。",
-        "appreciationPinyin": "zhè shì gào su wǒ men yào cóng xiǎo yǎng chéng hǎo de xí guàn zuò shàn liáng de hǎo bǎo bao",
         "task": "大声地朗读三遍，记在小脑瓜里。",
         "taskPinyin": "dà shēng de lǎng dú sān biàn jì zài xiǎo nǎo guā lǐ",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "小朋友们，我们刚生下来的时候，天性都是善良的。大家的天性很相近，但因为后来的学习和习惯不同，相互之间才会慢慢有了差别。",
+        "translationPinyin": "xiǎo péng yǒu men wǒ men gāng shēng xià lái de shí hou tiān xìng dōu shì shàn liáng de dà jiā de tiān xìng hěn xiāng jìn dàn yīn wèi hòu lái de xué xí hé xí guàn bù tóng xiāng hù zhī jiān cái huì màn man yǒu le chā bié"
       },
       {
         "title": "日积月累",
@@ -119,8 +117,8 @@
   },
   {
     "grade": 1,
-    "term": 1,
-    "week": 1,
+    "term": 0,
+    "week": 15,
     "day": 2,
     "theme": "聪明宝宝想办法",
     "content": [
@@ -215,8 +213,8 @@
   },
   {
     "grade": 1,
-    "term": 1,
-    "week": 1,
+    "term": 0,
+    "week": 15,
     "day": 3,
     "theme": "小诗歌里找春天",
     "content": [
@@ -283,14 +281,12 @@
         ],
         "annotation": "项：脖子。！！掌：脚掌。！！拨：划动。",
         "annotationPinyin": "xiàng bó zi zhǎng jiǎo zhǎng bō huá dòng",
-        "translation": "一只大白鹅呀！它弯着脖子对着天空唱歌。它雪白的羽毛漂浮在绿色的水面上，红色的脚掌划动着清清的水波。",
-        "translationPinyin": "yī zhī dà bái é ya tā wān zhe bó zi duì zhe tiān kōng chàng gē tā xuě bái de yǔ máo piāo fú zài lǜ sè de shuǐ miàn shàng hóng sè de jiǎo zhǎng huá dòng zhe qīng qīng de shuǐ bō",
-        "appreciation": "这是诗人七岁时写的诗，真厉害！诗里把大白鹅可爱的样子写出来了。",
-        "appreciationPinyin": "zhè shì shī rén qī suì shí xiě de shī zhēn lì hài shī lǐ bǎ dà bái é kě ài de yàng zi xiě chū lái",
         "task": "想一想，鹅的白毛和红掌形成了什么样的对比？",
         "taskPinyin": "xiǎng yī xiǎng é de bái máo hé hóng zhǎng xíng chéng le shén me yàng de duì bǐ",
         "taskAnswer": "白色的毛，红色的掌，颜色对比很鲜明，很好看。",
-        "taskAnswerPinyin": "bái sè de máo hóng sè de zhǎng yán sè duì bǐ hěn xiān míng hěn hǎo kàn"
+        "taskAnswerPinyin": "bái sè de máo hóng sè de zhǎng yán sè duì bǐ hěn xiān míng hěn hǎo kàn",
+        "translation": "一只大白鹅呀！它弯着脖子对着天空唱歌。它雪白的羽毛漂浮在绿色的水面上，红色的脚掌划动着清清的水波。",
+        "translationPinyin": "yī zhī dà bái é ya tā wān zhe bó zi duì zhe tiān kōng chàng gē tā xuě bái de yǔ máo piāo fú zài lǜ sè de shuǐ miàn shàng hóng sè de jiǎo zhǎng huá dòng zhe qīng qīng de shuǐ bō"
       },
       {
         "title": "日积月累",
@@ -311,7 +307,7 @@
               },
               {
                 "pinyin": "hǎo hǎo xué xí",
-                "text": "好好学习（AABB）"
+                "text": "好好学习"
               },
               {
                 "pinyin": "dà dà xiǎo xiǎo",
@@ -341,8 +337,8 @@
   },
   {
     "grade": 1,
-    "term": 1,
-    "week": 1,
+    "term": 0,
+    "week": 15,
     "day": 4,
     "theme": "爱动脑筋小乌鸦",
     "content": [
@@ -409,14 +405,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "",
-        "translationPinyin": "",
-        "appreciation": "这个谜语形容得很像生活中的一个小工具。",
-        "appreciationPinyin": "zhè ge mí yǔ xíng róng de hěn xiàng shēng huó zhōng de yī gè xiǎo gōng jù",
         "task": "猜猜这是什么？为什么说“打开不湿”？",
         "taskPinyin": "cāi cāi zhè shì shén me wèi shén me shuō dǎ kāi bù shī",
         "taskAnswer": "是雨伞。因为雨伞是用来挡雨的，打开就不会湿。",
-        "taskAnswerPinyin": "shì yǔ sǎn yīn wéi yǔ sǎn shì yòng lái dǎng yǔ de dǎ kāi jiù bú huì shī"
+        "taskAnswerPinyin": "shì yǔ sǎn yīn wéi yǔ sǎn shì yòng lái dǎng yǔ de dǎ kāi jiù bú huì shī",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "日积月累",
@@ -455,8 +449,8 @@
   },
   {
     "grade": 1,
-    "term": 1,
-    "week": 1,
+    "term": 0,
+    "week": 15,
     "day": 5,
     "theme": "学做懂事好孩子",
     "content": [
@@ -519,14 +513,12 @@
         ],
         "annotation": "呼：叫唤。！！应：答应。！！勿缓：不要慢。！！勿懒：不要偷懒。",
         "annotationPinyin": "hū jiào huàn yìng dá yīng wù huǎn bú yào màn wù lǎn bú yào tōu lǎn",
-        "translation": "爸爸妈妈叫我们的时候，要马上答应，不要慢慢吞吞地拖延。爸爸妈妈吩咐我们做事，要马上去做，不要偷懒。",
-        "translationPinyin": "bà ba mā ma jiào wǒ men de shí hou yào mǎ shàng dá yīng bú yào màn màn tūn tūn de tuō yán bà ba mā ma fēn fù wǒ men zuò shì yào mǎ shàng qù zuò bú yào tōu lǎn",
-        "appreciation": "这是告诉我们要尊敬长辈，做一个行动快速、懂事的乖宝宝。",
-        "appreciationPinyin": "zhè shì gào su wǒ men yào zūn jìng zhǎng bèi zuò yī gè xíng dòng kuài sù dǒng shì de guāi bǎo bao",
         "task": "想一想，你在家有没有做到“应勿缓”呢？",
         "taskPinyin": "xiǎng yī xiǎng nǐ zài jiā yǒu méi yǒu zuò dào yìng wù huǎn ne",
         "taskAnswer": "有，妈妈叫我吃饭，我马上就跑过去了。",
-        "taskAnswerPinyin": "yǒu mā ma jiào wǒ chī fàn wǒ mǎ shàng jiù pǎo guò qù le"
+        "taskAnswerPinyin": "yǒu mā ma jiào wǒ chī fàn wǒ mǎ shàng jiù pǎo guò qù le",
+        "translation": "爸爸妈妈叫我们的时候，要马上答应，不要慢慢吞吞地拖延。爸爸妈妈吩咐我们做事，要马上去做，不要偷懒。",
+        "translationPinyin": "bà ba mā ma jiào wǒ men de shí hou yào mǎ shàng dá yīng bú yào màn màn tūn tūn de tuō yán bà ba mā ma fēn fù wǒ men zuò shì yào mǎ shàng qù zuò bú yào tōu lǎn"
       },
       {
         "title": "日积月累",
@@ -565,8 +557,8 @@
   },
   {
     "grade": 1,
-    "term": 1,
-    "week": 1,
+    "term": 0,
+    "week": 15,
     "day": 6,
     "theme": "天空洒下亮晶晶",
     "content": [
@@ -625,14 +617,12 @@
         ],
         "annotation": "耕耘：劳动，努力。！！收获：得到成果。",
         "annotationPinyin": "gēng yún láo dòng nǔ lì shōu huò dé dào chéng guǒ",
-        "translation": "我们种下一份力气，就会得到一份收获。告诉我们要勤劳努力，才能有好的结果。",
-        "translationPinyin": "wǒ men zhòng xià yī fèn lì qi jiù huì dé dào yī fèn shōu huò gào su wǒ men yào qín láo nǔ lì cái néng yǒu hǎo de jié guǒ",
-        "appreciation": "鼓励小朋友们在学习上也要多多努力哦！",
-        "appreciationPinyin": "gǔ lì xiǎo péng yǒu men zài xué xí shàng yě yào duō duō nǔ lì ó",
         "task": "说说看，你做哪些事情是“一分耕耘，一分收获”的？",
         "taskPinyin": "shuō shuo kàn nǐ zuò nǎ xiē shì qíng shì yī fēn gēng yún yī fēn shōu huò de",
         "taskAnswer": "我认真练琴，就能弹出好听的歌。",
-        "taskAnswerPinyin": "wǒ rèn zhēn liàn qín jiù néng tán chū hǎo tīng de gē"
+        "taskAnswerPinyin": "wǒ rèn zhēn liàn qín jiù néng tán chū hǎo tīng de gē",
+        "translation": "我们种下一份力气，就会得到一份收获。告诉我们要勤劳努力，才能有好的结果。",
+        "translationPinyin": "wǒ men zhòng xià yī fèn lì qi jiù huì dé dào yī fèn shōu huò gào su wǒ men yào qín láo nǔ lì cái néng yǒu hǎo de jié guǒ"
       },
       {
         "title": "日积月累",
@@ -683,9 +673,9 @@
   },
   {
     "grade": 1,
-    "term": 1,
-    "week": 2,
-    "day": 7,
+    "term": 0,
+    "week": 16,
+    "day": 1,
     "theme": "一起把水喝光光",
     "content": [
       {
@@ -795,9 +785,9 @@
   },
   {
     "grade": 1,
-    "term": 1,
-    "week": 2,
-    "day": 8,
+    "term": 0,
+    "week": 16,
+    "day": 2,
     "theme": "小雨滴旅行记",
     "content": [
       {
@@ -859,14 +849,12 @@
         ],
         "annotation": "疑：以为。！！霜：露水结成的冰晶。！！故乡：自己的家乡。",
         "annotationPinyin": "yí yǐ wéi shuāng lù shuǐ jié chéng de bīng jīng gù xiāng zì jǐ de jiā xiāng",
-        "translation": "窗前的地上，洒满了明亮的月光，我差点以为是地上的白色秋霜呢。我抬起头看看天空中的月亮，又低下头，想起了远方的家乡。",
-        "translationPinyin": "chuāng qián de dì shàng sǎ mǎn le míng liàng de yuè guāng wǒ chà diǎn yǐ wéi shì dì shàng de bái sè qiū shuāng ne wǒ tái qǐ tóu kàn kàn tiān kōng zhōng de yuè liàng yòu dī xià tóu xiǎng qǐ le yuǎn fāng de jiā xiāng",
-        "appreciation": "这首诗告诉我们，就算离开了家，也要常常思念自己的爸爸妈妈和家乡。",
-        "appreciationPinyin": "zhè shǒu shī gào su wǒ men jiù suàn lí kāi le jiā yě yào cháng cháng sī niàn zì jǐ de bà ba mā ma hé jiā xiāng",
         "task": "大声朗读三遍，再闭上眼睛想想家乡的亲人。",
         "taskPinyin": "dà shēng lǎng dú sān biàn zài bì shàng yǎn jing xiǎng xiǎng jiā xiāng de qīn rén",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "窗前的地上，洒满了明亮的月光，我差点以为是地上的白色秋霜呢。我抬起头看看天空中的月亮，又低下头，想起了远方的家乡。",
+        "translationPinyin": "chuāng qián de dì shàng sǎ mǎn le míng liàng de yuè guāng wǒ chà diǎn yǐ wéi shì dì shàng de bái sè qiū shuāng ne wǒ tái qǐ tóu kàn kàn tiān kōng zhōng de yuè liàng yòu dī xià tóu xiǎng qǐ le yuǎn fāng de jiā xiāng"
       },
       {
         "title": "日积月累",
@@ -905,9 +893,9 @@
   },
   {
     "grade": 1,
-    "term": 1,
-    "week": 2,
-    "day": 9,
+    "term": 0,
+    "week": 16,
+    "day": 3,
     "theme": "弯弯月亮像小船",
     "content": [
       {
@@ -969,14 +957,12 @@
         ],
         "annotation": "",
         "annotationPinyin": "",
-        "translation": "它像千万条丝线一样，从天上落下来。但是等它一落到地上，我们就看不见了。",
-        "translationPinyin": "tā xiàng qiān wàn tiáo sī xiàn yī yàng cóng tiān shàng luò xià lái dàn shì děng tā yī luò dào dì shàng wǒ men jiù kàn bú jiàn le",
-        "appreciation": "这个谜语形容了下雨时雨丝的景象。",
-        "appreciationPinyin": "zhè ge mí yǔ xíng róng le xià yǔ shí yǔ sī de jǐng xiàng",
         "task": "猜猜这是什么？为什么说“落到地上看不见”呢？",
         "taskPinyin": "cāi cāi zhè shì shén me wèi shén me shuō luò dào dì shang kàn bú jiàn ne",
         "taskAnswer": "是雨。因为雨水落到地上就渗到土里或流走了。",
-        "taskAnswerPinyin": "shì yǔ yīn wèi yǔ shuǐ luò dào dì shang jiù shèn dào tǔ lǐ huò liú zǒu le"
+        "taskAnswerPinyin": "shì yǔ yīn wèi yǔ shuǐ luò dào dì shang jiù shèn dào tǔ lǐ huò liú zǒu le",
+        "translation": "它像千万条丝线一样，从天上落下来。但是等它一落到地上，我们就看不见了。",
+        "translationPinyin": "tā xiàng qiān wàn tiáo sī xiàn yī yàng cóng tiān shàng luò xià lái dàn shì děng tā yī luò dào dì shàng wǒ men jiù kàn bú jiàn le"
       },
       {
         "title": "日积月累",
@@ -1017,9 +1003,9 @@
   },
   {
     "grade": 1,
-    "term": 1,
-    "week": 2,
-    "day": 10,
+    "term": 0,
+    "week": 16,
+    "day": 4,
     "theme": "云里来土里去",
     "content": [
       {
@@ -1093,14 +1079,12 @@
         ],
         "annotation": "对：相对。！！大陆：广大的陆地。！！长空：辽阔的天空。！！暮虹：傍晚出现的彩虹。",
         "annotationPinyin": "duì xiāng duì dà lù guǎng dà de lù dì cháng kōng liáo kuò de tiān kōng mù hóng bàng wǎn chū xiàn de cǎi hóng",
-        "translation": "天空对大地，雨水对风。宽广的陆地对辽阔的天空。山峰对河流，月亮对松树。早晨的云彩对傍晚的彩虹。",
-        "translationPinyin": "tiān kōng duì dà dì yǔ shuǐ duì fēng kuān guǎng de lù dì duì liáo kuò de tiān kōng shān fēng duì hé liú yuè liàng duì sōng shù zǎo chén de yún cǎi duì bàng wǎn de cǎi hóng",
-        "appreciation": "这些词语听起来多美呀，而且它们都是相对的，读起来很有节奏感。",
-        "appreciationPinyin": "zhè xiē cí yǔ tīng qǐ lái duō měi ya ér qiě tā men dōu shì xiāng duì de dú qǐ lái hěn yǒu jié zòu gǎn",
         "task": "找出句子中意思相对的词语，并说出你学过的一组反义词。",
         "taskPinyin": "zhǎo chū jù zi zhōng yì si xiāng duì de cí yǔ bìng shuō chū nǐ xué guò de yī zǔ fǎn yì cí",
         "taskAnswer": "相对的词语有：天对地、雨对风。反义词有：长对短。",
-        "taskAnswerPinyin": "xiāng duì de cí yǔ yǒu tiān duì dì yǔ duì fēng fǎn yì cí yǒu cháng duì duǎn"
+        "taskAnswerPinyin": "xiāng duì de cí yǔ yǒu tiān duì dì yǔ duì fēng fǎn yì cí yǒu cháng duì duǎn",
+        "translation": "天空对大地，雨水对风。宽广的陆地对辽阔的天空。山峰对河流，月亮对松树。早晨的云彩对傍晚的彩虹。",
+        "translationPinyin": "tiān kōng duì dà dì yǔ shuǐ duì fēng kuān guǎng de lù dì duì liáo kuò de tiān kōng shān fēng duì hé liú yuè liàng duì sōng shù zǎo chén de yún cǎi duì bàng wǎn de cǎi hóng"
       },
       {
         "title": "日积月累",
@@ -1151,9 +1135,9 @@
   },
   {
     "grade": 1,
-    "term": 1,
-    "week": 2,
-    "day": 11,
+    "term": 0,
+    "week": 16,
+    "day": 5,
     "theme": "动脑筋想办法",
     "content": [
       {
@@ -1271,9 +1255,9 @@
   },
   {
     "grade": 1,
-    "term": 1,
-    "week": 2,
-    "day": 12,
+    "term": 0,
+    "week": 16,
+    "day": 6,
     "theme": "勤劳宝贝嗡嗡嗡",
     "content": [
       {
@@ -1339,14 +1323,12 @@
         ],
         "annotation": "色：色彩。！！惊：害怕，惊吓。",
         "annotationPinyin": "sè sè cǎi jīng hài pà jīng xià",
-        "translation": "远远地看，山峦好像有美丽的颜色。走近听，流水却听不到声音。春天过去了，花朵却还在开着。人走来了，小鸟却一点也不害怕。",
-        "translationPinyin": "yuǎn yuǎn de kàn shān luán hǎo xiàng yǒu měi lì de yán sè zǒu jìn tīng liú shuǐ què tīng bú dào shēng yīn chūn tiān guò qù le huā duǒ què hái zài kāi zhe rén zǒu lái le xiǎo niǎo què yī diǎn yě bú hài pà",
-        "appreciation": "这是一幅画呀！这首诗把画中的景象写得非常安静、美丽，很像童话世界。",
-        "appreciationPinyin": "zhè shì yī fú huà ya zhè shǒu shī bǎ huà zhōng de jǐng xiàng xiě de fēi cháng ān jìng měi lì hěn xiàng tóng huà shì jiè",
         "task": "想一想，为什么人来了鸟却不惊呢？",
         "taskPinyin": "xiǎng yī xiǎng wèi shén me rén lái le niǎo què bù jīng ne",
         "taskAnswer": "因为这是一幅画，画里的小鸟不会动，也不会害怕。",
-        "taskAnswerPinyin": "yīn wèi zhè shì yī fú huà huà lǐ de xiǎo niǎo bú huì dòng yě bú huì hài pà"
+        "taskAnswerPinyin": "yīn wèi zhè shì yī fú huà huà lǐ de xiǎo niǎo bú huì dòng yě bú huì hài pà",
+        "translation": "远远地看，山峦好像有美丽的颜色。走近听，流水却听不到声音。春天过去了，花朵却还在开着。人走来了，小鸟却一点也不害怕。",
+        "translationPinyin": "yuǎn yuǎn de kàn shān luán hǎo xiàng yǒu měi lì de yán sè zǒu jìn tīng liú shuǐ què tīng bú dào shēng yīn chūn tiān guò qù le huā duǒ què hái zài kāi zhe rén zǒu lái le xiǎo niǎo què yī diǎn yě bú hài pà"
       },
       {
         "title": "日积月累",

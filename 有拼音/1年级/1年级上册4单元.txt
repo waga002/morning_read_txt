@@ -57,14 +57,12 @@
         ],
         "annotation": "初：开始。！！性：天性。！！善：善良。！！习：习惯。",
         "annotationPinyin": "chū kāi shǐ xìng tiān xìng shàn shàn liáng xí xí guàn",
-        "translation": "每个人出生时，本性都是善良的。大家的天性很相近，但因为后天的习惯不同，就会慢慢相距遥远。",
-        "translationPinyin": "měi gè rén chū shēng shí běn xìng dōu shì shàn liáng de dà jiā de tiān xìng hěn xiāng jìn dàn yīn wèi hòu tiān de xí guàn bù tóng jiù huì màn màn xiāng jù yáo yuǎn",
-        "appreciation": "宝贝要从小养成好习惯，这样长大后才能成为善良又优秀的人呀。",
-        "appreciationPinyin": "bǎo bèi yào cóng xiǎo yǎng chéng hǎo xí guàn zhè yàng zhǎng dà hòu cái néng chéng wéi shàn liáng yòu yōu xiù de rén ya",
         "task": "想一想，你有哪些好习惯呢？大声告诉爸爸妈妈。",
         "taskPinyin": "xiǎng yī xiǎng nǐ yǒu nǎ xiē hǎo xí guàn ne dà shēng gào sù bà ba mā ma",
         "taskAnswer": "我早上起床后，会自己穿衣服。",
-        "taskAnswerPinyin": "wǒ zǎo shang qǐ chuáng hòu huì zì jǐ chuān yī fú"
+        "taskAnswerPinyin": "wǒ zǎo shang qǐ chuáng hòu huì zì jǐ chuān yī fú",
+        "translation": "每个人出生时，本性都是善良的。大家的天性很相近，但因为后天的习惯不同，就会慢慢相距遥远。",
+        "translationPinyin": "měi gè rén chū shēng shí běn xìng dōu shì shàn liáng de dà jiā de tiān xìng hěn xiāng jìn dàn yīn wèi hòu tiān de xí guàn bù tóng jiù huì màn màn xiāng jù yáo yuǎn"
       },
       {
         "title": "日积月累",
@@ -259,14 +257,12 @@
         ],
         "annotation": "鹳雀楼：古代一座很高的楼。！！穷：看到底。！！目：眼睛。！！更：再。",
         "annotationPinyin": "guàn què lóu gǔ dài yī zuò hěn gāo de lóu qióng kàn dào dǐ mù yǎn jīng gèng zài",
-        "translation": "太阳依靠着远山慢慢地落下去了，黄河弯弯曲曲地奔跑着流向大海。如果想看到很远很远的地方，就要再往上多爬一层楼呀！",
-        "translationPinyin": "tài yáng yī kào zhe yuǎn shān màn màn de luò xià qù le huáng hé wān wān qū qū de bēn pǎo zhe liú xiàng dà hǎi rú guǒ xiǎng kàn dào hěn yuǎn hěn yuǎn de dì fang jiù yào zài wǎng shàng duō pá yī céng lóu ya",
-        "appreciation": "告诉我们，要看得远，就要站得高！宝贝们要好好学习，就能看得更远哦！",
-        "appreciationPinyin": "gào sù wǒ men yào kàn de yuǎn jiù yào zhàn de gāo bǎo bèi men yào hǎo hǎo xué xí jiù néng kàn de gèng yuǎn ò",
         "task": "试着用“更上一层楼”说一个鼓励自己的话。",
         "taskPinyin": "shì zhe yòng gèng shàng yī céng lóu shuō yī gè gǔ lì zì jǐ de huà",
         "taskAnswer": "这次没有考好，我要更上一层楼，下次一定行！",
-        "taskAnswerPinyin": "zhè cì méi yǒu kǎo hǎo wǒ yào gèng shàng yī céng lóu xià cì yī dìng xíng"
+        "taskAnswerPinyin": "zhè cì méi yǒu kǎo hǎo wǒ yào gèng shàng yī céng lóu xià cì yī dìng xíng",
+        "translation": "太阳依靠着远山慢慢地落下去了，黄河弯弯曲曲地奔跑着流向大海。如果想看到很远很远的地方，就要再往上多爬一层楼呀！",
+        "translationPinyin": "tài yáng yī kào zhe yuǎn shān màn màn de luò xià qù le huáng hé wān wān qū qū de bēn pǎo zhe liú xiàng dà hǎi rú guǒ xiǎng kàn dào hěn yuǎn hěn yuǎn de dì fang jiù yào zài wǎng shàng duō pá yī céng lóu ya"
       },
       {
         "title": "日积月累",
@@ -462,14 +458,12 @@
         ],
         "annotation": "呼：呼唤。！！应：答应。！！缓：慢。！！命：吩咐。！！懒：偷懒。",
         "annotationPinyin": "hū hū huàn yìng dá yīng huǎn màn mìng fēn fù lǎn tōu lǎn",
-        "translation": "爸爸妈妈叫你的时候，要立刻答应，不要慢吞吞的。爸爸妈妈吩咐你做事情时，要马上去做，不能偷懒。",
-        "translationPinyin": "bà ba mā ma jiào nǐ de shí hou yào lì kè dá yīng bù yào màn tūn tūn de bà ba mā ma fēn fù nǐ zuò shì qíng shí yào mǎ shàng qù zuò bù néng tōu lǎn",
-        "appreciation": "这是告诉我们要孝顺，要听话，做一个勤快的小宝贝！",
-        "appreciationPinyin": "zhè shì gào sù wǒ men yào xiào shùn yào tīng huà zuò yī gè qín kuài de xiǎo bǎo bèi",
         "task": "想一想，你有没有慢吞吞的时候呀？以后要快一点哦。",
         "taskPinyin": "xiǎng yī xiǎng nǐ yǒu méi yǒu màn tūn tūn de shí hou ya yǐ hòu yào kuài yī diǎn ò",
         "taskAnswer": "以后妈妈叫我吃饭，我要马上跑过去。",
-        "taskAnswerPinyin": "yǐ hòu mā ma jiào wǒ chī fàn wǒ yào mǎ shàng pǎo guò qù"
+        "taskAnswerPinyin": "yǐ hòu mā ma jiào wǒ chī fàn wǒ yào mǎ shàng pǎo guò qù",
+        "translation": "爸爸妈妈叫你的时候，要立刻答应，不要慢吞吞的。爸爸妈妈吩咐你做事情时，要马上去做，不能偷懒。",
+        "translationPinyin": "bà ba mā ma jiào nǐ de shí hou yào lì kè dá yīng bù yào màn tūn tūn de bà ba mā ma fēn fù nǐ zuò shì qíng shí yào mǎ shàng qù zuò bù néng tōu lǎn"
       },
       {
         "title": "日积月累",
@@ -757,14 +751,12 @@
         ],
         "annotation": "禾：禾苗。！！午：中午。！！滴：往下掉。！！皆：都是。",
         "annotationPinyin": "hé hé miáo wǔ zhōng wǔ dī wǎng xià diào jiē dōu shì",
-        "translation": "农民伯伯在中午的时候，顶着大太阳锄地，汗水滴到了泥土里。有谁知道，我们盘子里吃的饭，每一粒米都是农民伯伯辛辛苦苦种出来的呀！",
-        "translationPinyin": "nóng mín bó bo zài zhōng wǔ de shí hou dǐng zhe dà tài yáng chú dì hàn shuǐ dī dào le ní tǔ lǐ yǒu shuí zhī dào wǒ men pán zi lǐ chī de fàn měi yī lì mǐ dōu shì nóng mín bó bo xīn xīn kǔ kǔ zhòng chū lái de ya",
-        "appreciation": "这首诗告诉我们，吃饭的时候不能浪费，要珍惜粮食！",
-        "appreciationPinyin": "zhè shǒu shī gào sù wǒ men chī fàn de shí hou bù néng làng fèi yào zhēn xī liáng shi",
         "task": "想一想，你有没有浪费过饭菜呀？以后要光盘行动哦！",
         "taskPinyin": "xiǎng yī xiǎng nǐ yǒu méi yǒu làng fèi guò fàn cài ya yǐ hòu yào guāng pán xíng dòng ò",
         "taskAnswer": "以后我一定把碗里的饭吃得干干净净。",
-        "taskAnswerPinyin": "yǐ hòu wǒ yī dìng bǎ wǎn lǐ de fàn chī de gān gān jìng jìng"
+        "taskAnswerPinyin": "yǐ hòu wǒ yī dìng bǎ wǎn lǐ de fàn chī de gān gān jìng jìng",
+        "translation": "农民伯伯在中午的时候，顶着大太阳锄地，汗水滴到了泥土里。有谁知道，我们盘子里吃的饭，每一粒米都是农民伯伯辛辛苦苦种出来的呀！",
+        "translationPinyin": "nóng mín bó bo zài zhōng wǔ de shí hou dǐng zhe dà tài yáng chú dì hàn shuǐ dī dào le ní tǔ lǐ yǒu shuí zhī dào wǒ men pán zi lǐ chī de fàn měi yī lì mǐ dōu shì nóng mín bó bo xīn xīn kǔ kǔ zhòng chū lái de ya"
       },
       {
         "title": "日积月累",
@@ -947,14 +939,12 @@
         ],
         "annotation": "养：养育。！！教：教育。！！过：过错。！！严：严格。！！惰：懒惰。",
         "annotationPinyin": "yǎng yǎng yù jiào jiào yù guò guò cuò yán yán gé duò lǎn duò",
-        "translation": "只养育孩子却不教育他，是爸爸的过错。教书不严格，是老师偷懒、不尽责。",
-        "translationPinyin": "zhǐ yǎng yù hái zi què bù jiào yù tā shì bà ba de guò cuò jiào shū bù yán gé shì lǎo shī tōu lǎn bù jìn zé",
-        "appreciation": "爸爸妈妈和老师都是为了宝贝好，我们也要听话，努力学习呀！",
-        "appreciationPinyin": "bà ba mā ma hé lǎo shī dōu shì wèi le bǎo bèi hǎo wǒ men yě yào tīng huà nǔ lì xué xí ya",
         "task": "想一想，老师教你的时候严格吗？你喜欢严格的老师吗？",
         "taskPinyin": "xiǎng yī xiǎng lǎo shī jiào nǐ de shí hou yán gé ma nǐ xǐ huān yán gé de lǎo shī ma",
         "taskAnswer": "喜欢，因为严格的老师能让我学到更多本领。",
-        "taskAnswerPinyin": "xǐ huān yīn wèi yán gé de lǎo shī néng ràng wǒ xué dào gèng duō běn lǐng"
+        "taskAnswerPinyin": "xǐ huān yīn wèi yán gé de lǎo shī néng ràng wǒ xué dào gèng duō běn lǐng",
+        "translation": "只养育孩子却不教育他，是爸爸的过错。教书不严格，是老师偷懒、不尽责。",
+        "translationPinyin": "zhǐ yǎng yù hái zi què bù jiào yù tā shì bà ba de guò cuò jiào shū bù yán gé shì lǎo shī tōu lǎn bù jìn zé"
       },
       {
         "title": "日积月累",
@@ -1157,14 +1147,12 @@
         ],
         "annotation": "绝：没有了。！！径：小路。！！蓑笠翁：穿着蓑衣、戴着斗笠的老渔翁。！！寒：寒冷。",
         "annotationPinyin": "jué méi yǒu le jìng xiǎo lù suō lì wēng chuān zhe suō yī dài zhe dòu lì de lǎo yú wēng hán hán lěng",
-        "translation": "所有的山上，一只小鸟也看不见了。所有的小路上，人们的脚印都消失了。只有一艘小船上，一个穿着蓑衣、戴着斗笠的老爷爷，独自在寒冷的江面上钓雪。",
-        "translationPinyin": "suǒ yǒu de shān shang yī zhī xiǎo niǎo yě kàn bù jiàn le suǒ yǒu de xiǎo lù shang rén men de jiǎo yìn dōu xiāo shī le zhǐ yǒu yī sōu xiǎo chuán shang yī gè chuān zhe suō yī dài zhe dòu lì de lǎo yé ye dú zì zài hán lěng de jiāng miàn shang diào xuě",
-        "appreciation": "诗人给我们画了一幅非常安静、非常冷的雪景图。小朋友有没有感到很冷呀？",
-        "appreciationPinyin": "shī rén gěi wǒ men huà le yī fú fēi cháng ān jìng fēi cháng lěng de xuě jǐng tú xiǎo péng yǒu yǒu méi yǒu gǎn dào hěn lěng ya",
         "task": "这首诗里有两个词语是“千”和“万”开头的，请你说出它们。",
         "taskPinyin": "zhè shǒu shī lǐ yǒu liǎng gè cí yǔ shì qiān hé wàn kāi tóu de qǐng nǐ shuō chū tā men",
         "taskAnswer": "千山、万径。",
-        "taskAnswerPinyin": "qiān shān wàn jìng"
+        "taskAnswerPinyin": "qiān shān wàn jìng",
+        "translation": "所有的山上，一只小鸟也看不见了。所有的小路上，人们的脚印都消失了。只有一艘小船上，一个穿着蓑衣、戴着斗笠的老爷爷，独自在寒冷的江面上钓雪。",
+        "translationPinyin": "suǒ yǒu de shān shang yī zhī xiǎo niǎo yě kàn bù jiàn le suǒ yǒu de xiǎo lù shang rén men de jiǎo yìn dōu xiāo shī le zhǐ yǒu yī sōu xiǎo chuán shang yī gè chuān zhe suō yī dài zhe dòu lì de lǎo yé ye dú zì zài hán lěng de jiāng miàn shang diào xuě"
       },
       {
         "title": "日积月累",

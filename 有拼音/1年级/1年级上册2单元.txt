@@ -58,14 +58,12 @@
         ],
         "annotation": "琢：雕刻。！！成器：变成有用的东西。！！学：学习。！！知义：懂得道理。",
         "annotationPinyin": "zhuó diāo kè chéng qì biàn chéng yǒu yòng de dōng xi xué xué xí zhī yì dǒng de dào lǐ",
-        "translation": "一块美玉如果不雕刻打磨，就不会成为精美的玉器。人如果不学习，就不会懂得做人做事的道理。",
-        "translationPinyin": "yī kuài měi yù rú guǒ bù diāo kè dǎ mó jiù bú huì chéng wéi jīng měi de yù qì rén rú guǒ bù xué xí jiù bú huì dǒng de zuò rén zuò shì de dào lǐ",
-        "appreciation": "小朋友要努力学习，才能变成一个有知识、懂道理的人哦！",
-        "appreciationPinyin": "xiǎo péng you yào nǔ lì xué xí cái néng biàn chéng yī gè yǒu zhī shi dǒng dào lǐ de rén ō",
         "task": "把“人不学，不知义”大声读三遍，记住学习的重要性。",
         "taskPinyin": "bǎ rén bù xué bù zhī yì dà shēng dú sān biàn jì zhù xué xí de zhòng yào xìng",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "一块美玉如果不雕刻打磨，就不会成为精美的玉器。人如果不学习，就不会懂得做人做事的道理。",
+        "translationPinyin": "yī kuài měi yù rú guǒ bù diāo kè dǎ mó jiù bú huì chéng wéi jīng měi de yù qì rén rú guǒ bù xué xí jiù bú huì dǒng de zuò rén zuò shì de dào lǐ"
       },
       {
         "title": "日积月累",
@@ -79,7 +77,7 @@
           {
             "title": "认读生字",
             "titlePinyin": "rèn dú shēng zì",
-            "content": [
+            "contentObject": [
               {
                 "pinyin": "dà dà xiǎo",
                 "text": "大——大小"
@@ -118,8 +116,8 @@
     "theme": "小猫捉老鼠",
     "content": [
       {
-        "title": "小花猫钓鱼（故事）",
-        "titlePinyin": "xiǎo huā māo diào yú gù shì",
+        "title": "小花猫钓鱼",
+        "titlePinyin": "xiǎo huā māo diào yú",
         "type": "story_legend",
         "alignment": "0",
         "contentObject": [
@@ -279,14 +277,12 @@
         ],
         "annotation": "白日：太阳。！！依山尽：沿着山边落下去。！！欲穷：想要看到尽头。！！千里目：看很远很远的地方。",
         "annotationPinyin": "bái rì tài yáng yī shān jìn yán zhe shān biān luò xià qù yù qióng xiǎng yào kàn dào jìn tóu qiān lǐ mù kàn hěn yuǎn hěn yuǎn de dì fang",
-        "translation": "夕阳沿着山峦的边儿渐渐落下去，黄河滚滚地流向大海。如果想要看到更远更远的美丽景色，就请再往上走一层楼吧！",
-        "translationPinyin": "xī yáng yán zhe shān luán de biān ér jiàn jiàn luò xià qù huáng hé gǔn gǔn de liú xiàng dà hǎi rú guǒ xiǎng yào kàn dào gèng yuǎn gèng yuǎn de měi lì jǐng sè jiù qǐng zài wǎng shàng zǒu yī céng lóu ba",
-        "appreciation": "这首诗告诉我们，想要取得更大的进步，就要付出更多的努力。",
-        "appreciationPinyin": "zhè shǒu shī gào su wǒ men xiǎng yào qǔ dé gèng dà de jìn bù jiù yào fù chū gèng duō de nǔ lì",
         "task": "诗里说，要看得更远，应该怎么做呢？",
         "taskPinyin": "shī lǐ shuō yào kàn de gèng yuǎn yīng gāi zěn me zuò ne",
         "taskAnswer": "应该再往楼上走一层。",
-        "taskAnswerPinyin": "yīng gāi zài wǎng lóu shàng zǒu yī céng"
+        "taskAnswerPinyin": "yīng gāi zài wǎng lóu shàng zǒu yī céng",
+        "translation": "夕阳沿着山峦的边儿渐渐落下去，黄河滚滚地流向大海。如果想要看到更远更远的美丽景色，就请再往上走一层楼吧！",
+        "translationPinyin": "xī yáng yán zhe shān luán de biān ér jiàn jiàn luò xià qù huáng hé gǔn gǔn de liú xiàng dà hǎi rú guǒ xiǎng yào kàn dào gèng yuǎn gèng yuǎn de měi lì jǐng sè jiù qǐng zài wǎng shàng zǒu yī céng lóu ba"
       },
       {
         "title": "日积月累",
@@ -433,8 +429,8 @@
     "theme": "我有一个好妈妈",
     "content": [
       {
-        "title": "小猴子爬山（故事）",
-        "titlePinyin": "xiǎo hóu zi pá shān gù shì",
+        "title": "小猴子爬山",
+        "titlePinyin": "xiǎo hóu zi pá shān",
         "type": "story_legend",
         "alignment": "0",
         "contentObject": [
@@ -496,14 +492,12 @@
         ],
         "annotation": "出则悌：出门要尊敬兄长和年长的人。！！谨慎处：做事说话要小心。！！汎众：和大家相处。！！亲仁慈：亲近有仁德的人。",
         "annotationPinyin": "chū zé tì chū mén yào zūn jìng xiōng zhǎng hé nián zhǎng de rén jǐn shèn chù zuò shì shuō huà yào xiǎo xīn fàn zhòng hé dà jiā xiāng chǔ qīn rén cí qīn jìn yǒu rén dé de rén",
-        "translation": "出门在外，要懂得尊敬哥哥姐姐和年长的人。我们做事说话要小心谨慎。和大家相处时，要亲近那些有爱心、善良的人。",
-        "translationPinyin": "chū mén zài wài yào dǒng de zūn jìng gē gē jiě jie hé nián zhǎng de rén wǒ men zuò shì shuō huà yào xiǎo xīn jǐn shèn hé dà jiā xiāng chǔ shí yào qīn jìn nà xiē yǒu ài xīn shàn liáng de rén",
-        "appreciation": "这是告诉我们，在外面要懂得礼貌，和好孩子交朋友。",
-        "appreciationPinyin": "zhè shì gào su wǒ men zài wài miàn yào dǒng de lǐ mào hé hǎo hái zi jiāo péng you",
         "task": "你觉得什么样的人是“仁慈”的人呢？",
         "taskPinyin": "nǐ jué de shén me yàng de rén shì rén cí de rén ne",
         "taskAnswer": "爱护小动物，帮助有困难的人，就是仁慈的人。",
-        "taskAnswerPinyin": "ài hù xiǎo dòng wù bāng zhù yǒu kùn nan de rén jiù shì rén cí de rén"
+        "taskAnswerPinyin": "ài hù xiǎo dòng wù bāng zhù yǒu kùn nan de rén jiù shì rén cí de rén",
+        "translation": "出门在外，要懂得尊敬哥哥姐姐和年长的人。我们做事说话要小心谨慎。和大家相处时，要亲近那些有爱心、善良的人。",
+        "translationPinyin": "chū mén zài wài yào dǒng de zūn jìng gē gē jiě jie hé nián zhǎng de rén wǒ men zuò shì shuō huà yào xiǎo xīn jǐn shèn hé dà jiā xiāng chǔ shí yào qīn jìn nà xiē yǒu ài xīn shàn liáng de rén"
       },
       {
         "title": "日积月累",
@@ -548,8 +542,8 @@
     "theme": "小嘴巴，爱说话",
     "content": [
       {
-        "title": "学说话（儿歌）",
-        "titlePinyin": "xué shuō huà ér gē",
+        "title": "学说话",
+        "titlePinyin": "xué shuō huà",
         "type": "children_poem",
         "alignment": "0",
         "contentObject": [
@@ -600,14 +594,12 @@
         ],
         "annotation": "不耻：不觉得丢人。！！下问：向比自己学问少的人请教。！！致：达到，实现。",
         "annotationPinyin": "bù chǐ bù jué de diū rén xià wèn xiàng bǐ zì jǐ xué wèn shǎo de rén qǐng jiào tīng dé dào lǐ kě yǐ xué dào hěn duō dào lǐ",
-        "translation": "向学问比自己少的人请教问题，也不觉得是件丢脸的事。学习了知识，就要把它运用到实际生活中去。",
-        "translationPinyin": "xiàng xué wèn bǐ zì jǐ shǎo de rén qǐng jiào wèn tí yě bù jué de shì jiàn diū liǎn de shì xué xí le zhī shi， jiù yào bǎ tā yùn yòng dào shí jì shēng huó zhōng qù。",
-        "appreciation": "我们要勇敢地问问题，不懂就问，才能学到更多的知识哦！",
-        "appreciationPinyin": "wǒ men yào yǒng gǎn de wèn wèn tí bù dǒng jiù wèn cái néng xué dào gèng duō de zhī shi ō",
         "task": "记住这句俗语，下次遇到不会的问题要怎么做？",
         "taskPinyin": "jì zhù zhè jù sú yǔ xià cì yù dào bú huì de wèn tí yào zěn me zuò",
         "taskAnswer": "勇敢地向老师或同学请教。",
-        "taskAnswerPinyin": "yǒng gǎn dì xiàng lǎo shī huò tóng xué qǐng jiào"
+        "taskAnswerPinyin": "yǒng gǎn dì xiàng lǎo shī huò tóng xué qǐng jiào",
+        "translation": "向学问比自己少的人请教问题，也不觉得是件丢脸的事。学习了知识，就要把它运用到实际生活中去。",
+        "translationPinyin": "xiàng xué wèn bǐ zì jǐ shǎo de rén qǐng jiào wèn tí yě bù jué de shì jiàn diū liǎn de shì xué xí le zhī shi， jiù yào bǎ tā yùn yòng dào shí jì shēng huó zhōng qù。"
       },
       {
         "title": "日积月累",
@@ -621,7 +613,7 @@
           {
             "title": "认读生字",
             "titlePinyin": "rèn dú shēng zì",
-            "content": [
+            "contentObject": [
               {
                 "pinyin": "wǒ wǒ men",
                 "text": "我——我们"
@@ -766,8 +758,8 @@
     "theme": "爱动脑筋的宝宝",
     "content": [
       {
-        "title": "小兔子盖房子（故事）",
-        "titlePinyin": "xiǎo tù zi gài fáng zi gù shì",
+        "title": "小兔子盖房子",
+        "titlePinyin": "xiǎo tù zi gài fáng zi",
         "type": "story_legend",
         "alignment": "0",
         "contentObject": [
@@ -829,14 +821,12 @@
         ],
         "annotation": "疑：怀疑。！！地上霜：地上的白霜。！！举头：抬起头。！！故乡：自己的家乡。",
         "annotationPinyin": "yí huái yí dì shàng shuāng dì shàng de bái shuāng jǔ tóu tái qǐ tóu gù xiāng zì jǐ de jiā xiāng",
-        "translation": "床前洒满了明亮的月光，我以为是地上结了一层白白的霜。抬起头来看看那天上的月亮，又低下头想念我的家乡。",
-        "translationPinyin": "chuáng qián sǎ mǎn le míng liàng de yuè guāng wǒ yǐ wéi shì dì shàng jié le yī céng bái bái de shuāng tái qǐ tóu lái kàn kan nà tiān shàng de yuè liang yòu dī xià tóu xiǎng niàn wǒ de jiā xiāng",
-        "appreciation": "诗人看到月亮想起了家乡，小朋友，你最想念谁呢？",
-        "appreciationPinyin": "shī rén kàn dào yuè liang xiǎng qǐ le jiā xiāng xiǎo péng you nǐ zuì xiǎng niàn shuí ne",
         "task": "把这首诗大声读三遍，感受一下诗人的心情。",
         "taskPinyin": "bǎ zhè shǒu shī dà shēng dú sān biàn gǎn shòu yī xià shī rén de xīn qíng",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "床前洒满了明亮的月光，我以为是地上结了一层白白的霜。抬起头来看看那天上的月亮，又低下头想念我的家乡。",
+        "translationPinyin": "chuáng qián sǎ mǎn le míng liàng de yuè guāng wǒ yǐ wéi shì dì shàng jié le yī céng bái bái de shuāng tái qǐ tóu lái kàn kan nà tiān shàng de yuè liang yòu dī xià tóu xiǎng niàn wǒ de jiā xiāng"
       },
       {
         "title": "日积月累",
@@ -1030,14 +1020,12 @@
         ],
         "annotation": "山对海：山和大海相对。！！日对月：太阳和月亮相对。！！花落对云收：花儿落下对着云朵收起。",
         "annotationPinyin": "shān duì hǎi shān hé dà hǎi xiāng duì rì duì yuè tài yáng hé yuè liang xiāng duì huā luò duì yún shōu huā ér luò xià duì zhe yún duǒ shōu qǐ",
-        "translation": "高高的山对着深深的海，白天出的太阳对着晚上出来的月亮。花儿飘落下来，对着天空的云朵慢慢收起。",
-        "translationPinyin": "gāo gāo de shān duì zhe shēn shēn de hǎi bái tiān chū de tài yáng duì zhe wǎn shang chū lái de yuè liang huā ér piāo luò xià lái duì zhe tiān kōng de yún duǒ màn màn shōu qǐ",
-        "appreciation": "多读几遍，记住这些美丽的对比，可以帮我们把话说得更漂亮哦！",
-        "appreciationPinyin": "duō dú jǐ biàn jì zhù zhè xiē měi lì de duì bǐ kě yǐ bāng wǒ men bǎ huà shuō de gèng piào liang ō",
         "task": "找一找，有哪些表示天上的景色的词？",
         "taskPinyin": "zhǎo yī zhǎo yǒu nǎ xiē biǎo shì tiān shàng de jǐng sè de cí",
         "taskAnswer": "日、月、云。",
-        "taskAnswerPinyin": "rì yuè yún"
+        "taskAnswerPinyin": "rì yuè yún",
+        "translation": "高高的山对着深深的海，白天出的太阳对着晚上出来的月亮。花儿飘落下来，对着天空的云朵慢慢收起。",
+        "translationPinyin": "gāo gāo de shān duì zhe shēn shēn de hǎi bái tiān chū de tài yáng duì zhe wǎn shang chū lái de yuè liang huā ér piāo luò xià lái duì zhe tiān kōng de yún duǒ màn màn shōu qǐ"
       },
       {
         "title": "日积月累",
@@ -1051,7 +1039,7 @@
           {
             "title": "认读生字",
             "titlePinyin": "rèn dú shēng zì",
-            "content": [
+            "contentObject": [
               {
                 "pinyin": "mù mù tóu",
                 "text": "木——木头"
@@ -1090,8 +1078,8 @@
     "theme": "小蜜蜂采花蜜",
     "content": [
       {
-        "title": "勤劳的小蜜蜂（故事）",
-        "titlePinyin": "qín láo de xiǎo mì fēng gù shì",
+        "title": "勤劳的小蜜蜂",
+        "titlePinyin": "qín láo de xiǎo mì fēng",
         "type": "story_legend",
         "alignment": "0",
         "contentObject": [
@@ -1222,8 +1210,8 @@
     "theme": "美丽的大自然",
     "content": [
       {
-        "title": "小雨点（儿歌）",
-        "titlePinyin": "xiǎo yǔ diǎn ér gē",
+        "title": "小雨点",
+        "titlePinyin": "xiǎo yǔ diǎn",
         "type": "children_poem",
         "alignment": "0",
         "contentObject": [
@@ -1285,14 +1273,12 @@
         ],
         "annotation": "锄禾：在田里除草。！！日当午：中午太阳最热的时候。！！禾下土：掉在禾苗下面的泥土里。！！盘中餐：碗里的饭。",
         "annotationPinyin": "chú hé zài tián lǐ chú cǎo rì dāng wǔ zhōng wǔ tài yáng zuì rè de shí hou hé xià tǔ diào zài hé miáo xià miàn de ní tǔ lǐ pán zhōng cān wǎn lǐ de fàn",
-        "translation": "农民伯伯在正午太阳最大的时候还在田里除草。汗水滴落在禾苗下的泥土里。谁知道我们碗里的每一粒米饭，都是农民伯伯辛辛苦苦种出来的呢！",
-        "translationPinyin": "nóng mín bó bo zài zhèng wǔ tài yáng zuì dà de shí hou hái zài tián lǐ chú cǎo hàn shuǐ dī luò zài hé miáo xià mian de ní tǔ lǐ shuí zhī dào wǒ men wǎn lǐ de měi yī lì mǐ fàn dōu shì nóng mín bó bo xīn xīn kǔ kǔ zhǒng chū lái de ne",
-        "appreciation": "我们要爱惜粮食，不能浪费哦！",
-        "appreciationPinyin": "wǒ men yào ài xī liáng shi bù néng làng fèi ō",
         "task": "记住这首诗，以后吃饭要做到“光盘行动”。",
         "taskPinyin": "jì zhù zhè shǒu shī yǐ hòu chī fàn yào zuò dào guāng pán xíng dòng",
         "taskAnswer": "",
-        "taskAnswerPinyin": ""
+        "taskAnswerPinyin": "",
+        "translation": "农民伯伯在正午太阳最大的时候还在田里除草。汗水滴落在禾苗下的泥土里。谁知道我们碗里的每一粒米饭，都是农民伯伯辛辛苦苦种出来的呢！",
+        "translationPinyin": "nóng mín bó bo zài zhèng wǔ tài yáng zuì dà de shí hou hái zài tián lǐ chú cǎo hàn shuǐ dī luò zài hé miáo xià mian de ní tǔ lǐ shuí zhī dào wǒ men wǎn lǐ de měi yī lì mǐ fàn dōu shì nóng mín bó bo xīn xīn kǔ kǔ zhǒng chū lái de ne"
       },
       {
         "title": "日积月累",
