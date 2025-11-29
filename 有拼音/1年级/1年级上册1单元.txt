@@ -352,7 +352,7 @@
       },
       {
         "title": "谜语：猜猜我是谁",
-        "titlePinyin": "mí yǔ：cāi cāi wǒ shì shuí",
+        "titlePinyin": "mí yǔ cāi cāi wǒ shì shuí",
         "type": "fun_riddles",
         "alignment": "0",
         "contentObject": [

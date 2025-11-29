@@ -1158,7 +1158,7 @@
             "text": "原来小喇叭，"
           },
           {
-            "pinyin": "yào yòng lì qi chuī。",
+            "pinyin": "yào yòng lì qi chuī",
             "text": "要用力气吹。"
           }
         ],

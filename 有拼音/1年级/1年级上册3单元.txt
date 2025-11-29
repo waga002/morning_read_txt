@@ -8,7 +8,7 @@
     "content": [
       {
         "title": "小猴子爬山",
-        "titlePinyin": "xiǎo hóu zi pá shān ",
+        "titlePinyin": "xiǎo hóu zi pá shān",
         "type": "textbook_review",
         "alignment": "0",
         "contentObject": [
