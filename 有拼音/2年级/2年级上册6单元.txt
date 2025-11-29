@@ -147,7 +147,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "yè mù jiàng lín tiān hēi le",
                 "text": "夜幕降临（天黑了）"
@@ -334,7 +334,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "zhū dé tóng zhì chuān zhe cǎo xié dài zhe dǒu lì tiāo qǐ liáng shí lián xù dòng cí miáo xiě rén wù",
                 "text": "朱德同志穿着草鞋，戴着斗笠，挑起粮食。（连续动词描写人物）"
@@ -1273,7 +1273,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "chǎn chú",
                 "text": "铲除"
@@ -1468,7 +1468,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "dà jiā jiàn le yuè fā jìng ài zhū dé tóng zhì le yuè fā gèng jiā",
                 "text": "大家见了，越发敬爱朱德同志了。（越发……：更加……）"

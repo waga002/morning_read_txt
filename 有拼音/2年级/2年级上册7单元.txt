@@ -143,7 +143,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "yún kāi wù sàn",
                 "text": "云开雾散"
@@ -326,7 +326,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "tiān cāng cāng yě máng máng fēng chuī cǎo dī jiàn niú yáng miáo xiě cǎo yuán liáo kuò",
                 "text": "天苍苍，野茫茫，风吹草低见牛羊。（描写草原辽阔）"
@@ -1225,7 +1225,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "xuě bái xuě bái",
                 "text": "雪白雪白"
@@ -1408,7 +1408,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "wù xiàng yī céng báo shā pī zài dà shān shàng bǐ yù",
                 "text": "雾像一层薄纱，披在大山上。（比喻）"

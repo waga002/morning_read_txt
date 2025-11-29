@@ -73,7 +73,7 @@
           {
             "title": "生字开花",
             "titlePinyin": "shēng zì kāi huā",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "tiān tiān kōng",
                 "text": "天——天空"
@@ -595,7 +595,7 @@
           {
             "title": "生字开花",
             "titlePinyin": "shēng zì kāi huā",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "kǒu zuǐ bā",
                 "text": "口——嘴巴"
@@ -997,7 +997,7 @@
           {
             "title": "生字开花",
             "titlePinyin": "shēng zì kāi huā",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "rì tài yáng",
                 "text": "日——太阳"

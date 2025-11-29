@@ -147,7 +147,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "xīn xīn xiàng róng xíng róng cǎo mù mào shèng yě zhǐ shì yè péng bó fā zhǎn",
                 "text": "欣欣向荣（形容草木茂盛，也指事业蓬勃发展）"
@@ -350,7 +350,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "yǒu yì xiàng yī zhǎn dēng zhào liàng le wǒ de xīn bǐ yù",
                 "text": "友谊像一盏灯，照亮了我的心。（比喻）"
@@ -1313,7 +1313,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "huā huā liú shuǐ",
                 "text": "哗哗流水"
@@ -1508,7 +1508,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "sōng shǔ gāo xìng dì kū le yòng kū biǎo dá jí dù gāo xìng",
                 "text": "松鼠高兴地哭了。（用“哭”表达极度高兴）"

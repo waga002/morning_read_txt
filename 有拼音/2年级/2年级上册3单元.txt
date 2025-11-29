@@ -147,7 +147,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "wǔ yán liù sè",
                 "text": "五颜六色"
@@ -330,7 +330,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "tiān shàng de yún xiàng yī zuò zuò xuě bái de shān fēng bǐ yù",
                 "text": "天上的云，像一座座雪白的山峰。（比喻）"
@@ -1297,7 +1297,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "shǔ bù qīng",
                 "text": "数不清"
@@ -1508,7 +1508,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "mǎn tiān de xīng xīng xiàng wú shù zhēn zhū bǐ yù",
                 "text": "满天的星星像无数珍珠。（比喻）"

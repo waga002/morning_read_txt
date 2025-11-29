@@ -77,7 +77,7 @@
           {
             "title": "认读生字",
             "titlePinyin": "rèn dú shēng zì",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "dà dà xiǎo",
                 "text": "大——大小"
@@ -623,7 +623,7 @@
           {
             "title": "认读生字",
             "titlePinyin": "rèn dú shēng zì",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "wǒ wǒ men",
                 "text": "我——我们"
@@ -1049,7 +1049,7 @@
           {
             "title": "认读生字",
             "titlePinyin": "rèn dú shēng zì",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "mù mù tóu",
                 "text": "木——木头"

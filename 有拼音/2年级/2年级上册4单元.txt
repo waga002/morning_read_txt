@@ -135,7 +135,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "míng shān dà chuān yǒu míng de shān hé hé liú",
                 "text": "名山大川（有名的山和河流）"
@@ -322,7 +322,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "nà jù shí zhēn xiàng yī wèi xiān rén zhàn zài gāo gāo de shān fēng shàng bǐ yù bǎ shí tou bǐ zuò xiān rén",
                 "text": "那巨石真像一位仙人，站在高高的山峰上。（比喻，把石头比作仙人）"
@@ -1213,7 +1213,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "qí xíng guài zhuàng xíng róng xíng zhuàng qí guài gè shì gè yàng",
                 "text": "奇形怪状（形容形状奇怪，各式各样）"
@@ -1404,7 +1404,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "zhōng wǔ tài yáng gāo zhào zhěng gè rì yuè tán de měi jǐng dōu qīng xī dì zhǎn xiàn zài yǎn qián xiě zhōng wǔ jǐng sè",
                 "text": "中午，太阳高照，整个日月潭的美景都清晰地展现在眼前。（写中午景色）"

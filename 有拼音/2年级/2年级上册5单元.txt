@@ -159,7 +159,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "zuò jǐng guān tiān zuò zài jǐng lǐ kàn tiān bǐ yù jiàn shí shǎo",
                 "text": "坐井观天（坐在井里看天，比喻见识少）"
@@ -350,7 +350,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "běi fēng xiàng shī zi yī yàng kuáng hǒu zhe bǐ yù xíng róng fēng dà",
                 "text": "北风像狮子一样狂吼着。（比喻，形容风大）"
@@ -1321,7 +1321,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "liáo kuò",
                 "text": "辽阔"
@@ -1520,7 +1520,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "xǐ què xīn qín dì gōng zuò yī huì er yě bù xiū xī miáo xiě qín láo",
                 "text": "喜鹊辛勤地工作，一会儿也不休息。（描写勤劳）"

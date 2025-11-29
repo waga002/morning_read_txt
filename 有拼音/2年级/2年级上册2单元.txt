@@ -131,7 +131,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               [
                 {
                   "pinyin": "shēng jī bó bó xíng róng shēng mìng lì wàng shèng",
@@ -312,7 +312,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "táo hóng sè de táo huā bǎ zhī tóu dǎ bàn dé fēn fēn ráo ráo yán sè miáo xiě xiān yàn yòng le dǎ bàn nǐ rén de xiū cí",
                 "text": "桃红色的桃花把枝头打扮得芬芬娆娆。（颜色描写鲜艳，用了‘打扮’拟人的修辞）"
@@ -1119,7 +1119,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               [
                 {
                   "pinyin": "bān lán guāng máng xíng róng sè cǎi xuàn lì",
@@ -1300,7 +1300,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "yī wǎn rè qì téng téng de miàn tiáo miàn tiáo zài wǎn lǐ xiàng yī tiáo tiáo bái sè de sī xiàn wǒ gǎn jǐn ná qǐ kuài zi jiā qǐ yī dà kǒu jiǎn dān bǐ yù hé zhǔn bèi chī de dòng zuò miáo xiě",
                 "text": "一碗热气腾腾的面条，面条在碗里像一条条白色的丝线，我赶紧拿起筷子夹起一大口。（简单比喻和准备吃的动作描写）"

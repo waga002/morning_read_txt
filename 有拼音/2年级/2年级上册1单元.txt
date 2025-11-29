@@ -135,7 +135,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "kuài kuài lè lè",
                 "text": "快快乐乐"
@@ -310,7 +310,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "bái yún xiàng yī qún qún mián yáng zài tiān shàng sàn bù bǐ yù",
                 "text": "白云像一群群绵羊，在天上散步。（比喻）"
@@ -1153,7 +1153,7 @@
           {
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "shēng qì bó bó",
                 "text": "生机勃勃"
@@ -1340,7 +1340,7 @@
           {
             "title": "好句积累",
             "titlePinyin": "hhǎo jù jī lěi",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "xiǎo qīng wā zài hé yè shàng bèng lái bèng qù dòng zuò miáo xiě",
                 "text": "小青蛙在荷叶上蹦来蹦去。（动作描写）"

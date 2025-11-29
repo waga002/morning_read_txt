@@ -933,7 +933,7 @@
           {
             "title": "学说一句话：什么时候，谁在家里干什么",
             "titlePinyin": "xué shuō yī jù huà jù shì",
-            "contentObject": [
+            "content": [
               {
                 "pinyin": "wǎn shàng mā ma zài kè tīng kàn shū",
                 "text": "晚上，妈妈在客厅看书。"
