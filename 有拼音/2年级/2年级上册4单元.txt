@@ -1781,39 +1781,39 @@
     "theme": "登高望远",
     "content": [
       {
-        "title": "登鹳雀楼",
-        "titlePinyin": "dēng guàn què lóu",
-        "type": "textbook_review",
-        "author": "王之涣",
-        "authorPinyin": "wáng zhī huàn",
+        "title": "悯农",
+        "titlePinyin": "mǐn nóng",
+        "type": "ancient_poem",
+        "author": "李绅",
+        "authorPinyin": "lǐ shēn",
         "dynasty": "唐",
         "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "bái rì yī shān jìn",
-            "text": "白日依山尽，"
+            "pinyin": "chú hé rì dāng wǔ",
+            "text": "锄禾日当午，"
           },
           {
-            "pinyin": "huáng hé rù hǎi liú",
-            "text": "黄河入海流。"
+            "pinyin": "hàn dī hé xià tǔ",
+            "text": "汗滴禾下土。"
           },
           {
-            "pinyin": "yù qióng qiān lǐ mù",
-            "text": "欲穷千里目，"
+            "pinyin": "shéi zhī pán zhōng cān",
+            "text": "谁知盘中餐，"
           },
           {
-            "pinyin": "gèng shàng yī céng lóu",
-            "text": "更上一层楼。"
+            "pinyin": "lì lì jiē xīn kǔ",
+            "text": "粒粒皆辛苦。"
           }
         ],
-        "annotation": "穷：尽，使达到极点。",
-        "annotationPinyin": "qióng jìn shǐ dá dào jí diǎn",
-        "task": "这首诗告诉我们什么道理？",
-        "taskPinyin": "zhè shǒu shī gào su wǒ men shén me dào lǐ",
-        "taskAnswer": "只有站得高，才能看得远。学习也是一样，要不断努力才能进步。",
-        "taskAnswerPinyin": "zhǐ yǒu zhàn de gāo cái néng kàn de yuǎn xué xí yě shì yī yàng yào bù duàn nǔ lì cái néng jìn bù",
-        "translation": "夕阳依傍着西山慢慢落下，黄河向着大海滔滔流去。想要看到千里之外的风光，就要再登上一层楼。",
-        "translationPinyin": "xī yáng yī bàng zhe xī shān màn màn luò xià huáng hé xiàng zhe dà hǎi tāo tāo liú qù xiǎng yào kàn dào qiān lǐ zhī wài de fēng guāng jiù yào zài dēng shàng yī céng lóu"
+        "annotation": "锄禾：给禾苗除草。！！当午：正午。",
+        "annotationPinyin": "chú hé gěi hé miáo chú cǎo dāng wǔ zhèng wǔ",
+        "task": "农民伯伯什么时候在田里干活？",
+        "taskPinyin": "nóng mín bó bo shén me shí hou zài tián lǐ gàn huó",
+        "taskAnswer": "在正午太阳最热的时候。",
+        "taskAnswerPinyin": "zài zhèng wǔ tài yáng zuì rè de shí hou",
+        "translation": "正午的时候，农民伯伯在田里给禾苗除草，汗水滴落在禾苗下的泥土里。有谁知道盘子里的饭，每一粒都是农民伯伯辛苦种出来的。",
+        "translationPinyin": "zhèng wǔ de shí hou nóng mín bó bo zài tián lǐ gěi hé miáo chú cǎo hàn shuǐ dī luò zài hé miáo xià de ní tǔ lǐ yǒu shéi zhī dào pán zi lǐ de fàn měi yī lì dōu shì nóng mín bó bo xīn kǔ zhòng chū lái de"
       },
       {
         "title": "登山",
@@ -2038,39 +2038,39 @@
         "translationPinyin": ""
       },
       {
-        "title": "小池",
-        "titlePinyin": "xiǎo chí",
+        "title": "静夜思",
+        "titlePinyin": "jìng yè sī",
         "type": "ancient_poem",
-        "author": "杨万里",
-        "authorPinyin": "yáng wàn lǐ",
-        "dynasty": "宋",
-        "dynastyPinyin": "sòng",
+        "author": "李白",
+        "authorPinyin": "lǐ bái",
+        "dynasty": "唐",
+        "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "quán yǎn wú shēng xī xì liú",
-            "text": "泉眼无声惜细流，"
+            "pinyin": "chuáng qián míng yuè guāng",
+            "text": "床前明月光，"
           },
           {
-            "pinyin": "shù yīn zhào shuǐ ài qíng róu",
-            "text": "树阴照水爱晴柔。"
+            "pinyin": "yí shì dì shàng shuāng",
+            "text": "疑是地上霜。"
           },
           {
-            "pinyin": "xiǎo hé cái lù jiān jiān jiǎo",
-            "text": "小荷才露尖尖角，"
+            "pinyin": "jǔ tóu wàng míng yuè",
+            "text": "举头望明月，"
           },
           {
-            "pinyin": "zǎo yǒu qīng tíng lì shàng tou",
-            "text": "早有蜻蜓立上头。"
+            "pinyin": "dī tóu sī gù xiāng",
+            "text": "低头思故乡。"
           }
         ],
-        "annotation": "惜：爱惜。！！晴柔：晴天柔和的风光。",
-        "annotationPinyin": "xī ài xī qíng róu qíng tiān róu hé de fēng guāng",
-        "task": "观察图片或池塘，说说你看到了什么？",
-        "taskPinyin": "guān chá tú piàn huò chí táng shuō shuo nǐ kàn dào le shén me",
-        "taskAnswer": "我看到了绿绿的荷叶，粉红的荷花，还有飞来飞去的蜻蜓。",
-        "taskAnswerPinyin": "wǒ kàn dào le lǜ lǜ de hé yè fěn hóng de hé huā hái yǒu fēi lái fēi qù de qīng tíng",
-        "translation": "泉眼悄然无声是舍不得细细的水流，树阴倒映在水面是喜爱晴天柔和的风光。小荷叶才刚刚露出尖尖的角，就已经有蜻蜓停在上面了。",
-        "translationPinyin": "quán yǎn qiǎo rán wú shēng shì shě bu de xì xì de shuǐ liú shù yīn dào yìng zài shuǐ miàn shì xǐ ài qíng tiān róu hé de fēng guāng xiǎo hé yè cái gāng gāng lù chū jiān jiān de jiǎo jiù yǐ jīng yǒu qīng tíng tíng zài shàng mian le"
+        "annotation": "疑：以为。！！举头：抬头。",
+        "annotationPinyin": "yí yǐ wéi jǔ tóu tái tóu",
+        "task": "诗人看到月光想到了什么？",
+        "taskPinyin": "shī rén kàn dào yuè guāng xiǎng dào le shén me",
+        "taskAnswer": "想到了自己的家乡。",
+        "taskAnswerPinyin": "xiǎng dào le zì jǐ de jiā xiāng",
+        "translation": "床前洒满了明亮的月光，我还以为是地上的霜。抬起头看着天上的明月，低下头思念起远方的家乡。",
+        "translationPinyin": "chuáng qián sǎ mǎn le míng liàng de yuè guāng wǒ hái yǐ wéi shì dì shàng de shuāng tái qǐ tóu kàn zhe tiān shàng de míng yuè dī xià tóu sī niàn qǐ yuǎn fāng de jiā xiāng"
       },
       {
         "title": "日积月累",

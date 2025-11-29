@@ -113,39 +113,39 @@
         "translationPinyin": ""
       },
       {
-        "title": "江雪",
-        "titlePinyin": "jiāng xuě",
+        "title": "寻隐者不遇",
+        "titlePinyin": "xún yǐn zhě bù yù",
         "type": "ancient_poem",
-        "author": "柳宗元",
-        "authorPinyin": "liǔ zōng yuán",
+        "author": "贾岛",
+        "authorPinyin": "jiǎ dǎo",
         "dynasty": "唐",
         "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "qiān shān niǎo fēi jué",
-            "text": "千山鸟飞绝，"
+            "pinyin": "sōng xià wèn tóng zǐ",
+            "text": "松下问童子，"
           },
           {
-            "pinyin": "wàn jìng rén zōng miè",
-            "text": "万径人踪灭。"
+            "pinyin": "yán shī cǎi yào qù",
+            "text": "言师采药去。"
           },
           {
-            "pinyin": "gū zhōu suō lì wēng",
-            "text": "孤舟蓑笠翁，"
+            "pinyin": "zhǐ zài cǐ shān zhōng",
+            "text": "只在此山中，"
           },
           {
-            "pinyin": "dú diào hán jiāng xuě",
-            "text": "独钓寒江雪。"
+            "pinyin": "yún shēn bù zhī chù",
+            "text": "云深不知处。"
           }
         ],
-        "annotation": "绝：消失。！！万径：千万条小路。！！踪：脚印。！！蓑笠：蓑衣和斗笠。",
-        "annotationPinyin": "jué xiāo shī wàn jìng qiān wàn tiáo xiǎo lù zōng jiǎo yìn suō lì suō yī hé dǒu lì",
-        "task": "诗里写了哪个季节的景色？",
-        "taskPinyin": "shī lǐ xiě le nǎ gè jì jié de jǐng sè",
-        "taskAnswer": "写了冬天的景色，因为有“寒江雪”。",
-        "taskAnswerPinyin": "xiě le dōng tiān de jǐng sè yīn wèi yǒu hán jiāng xuě",
-        "translation": "千山万岭不见飞鸟的踪影，千万条小路上也没有人的足迹。只有一条孤单的小船上，坐着一个披蓑衣戴斗笠的老翁，独自在寒冷的江面上垂钓。",
-        "translationPinyin": "qiān shān wàn lǐng bú jiàn fēi niǎo de zōng yǐng qiān wàn tiáo xiǎo lù shàng yě méi yǒu rén de zú jì zhǐ yǒu yī tiáo gū dān de xiǎo chuán shàng zuò zhe yī gè pī suō yī dài dǒu lì de lǎo wēng dú zì zài hán lěng de jiāng miàn shàng chuí diào"
+        "annotation": "隐者：隐居的人。！！童子：小孩子。",
+        "annotationPinyin": "yǐn zhě yǐn jū de rén tóng zǐ xiǎo hái zi",
+        "task": "诗人要找的人在哪里？",
+        "taskPinyin": "shī rén yào zhǎo de rén zài nǎ lǐ",
+        "taskAnswer": "在山里，但不知道具体在哪里。",
+        "taskAnswerPinyin": "zài shān lǐ dàn bù zhī dào jù tǐ zài nǎ lǐ",
+        "translation": "在松树下问一个小孩子，他说师父采药去了。只知道在这座山里，但云雾很深，不知道具体在哪里。",
+        "translationPinyin": "zài sōng shù xià wèn yī gè xiǎo hái zi tā shuō shī fu cǎi yào qù le zhǐ zhī dào zài zhè zuò shān lǐ dàn yún wù hěn shēn bù zhī dào jù tǐ zài nǎ lǐ"
       },
       {
         "title": "日积月累",
@@ -2190,39 +2190,39 @@
         "translationPinyin": ""
       },
       {
-        "title": "春晓",
-        "titlePinyin": "chūn xiǎo",
+        "title": "回乡偶书",
+        "titlePinyin": "huí xiāng ǒu shū",
         "type": "ancient_poem",
-        "author": "孟浩然",
-        "authorPinyin": "mèng hào rán",
+        "author": "贺知章",
+        "authorPinyin": "hè zhī zhāng",
         "dynasty": "唐",
         "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "chūn mián bù jué xiǎo",
-            "text": "春眠不觉晓，"
+            "pinyin": "shào xiǎo lí jiā lǎo dà huí",
+            "text": "少小离家老大回，"
           },
           {
-            "pinyin": "chù chù wén tí niǎo",
-            "text": "处处闻啼鸟。"
+            "pinyin": "xiāng yīn wú gǎi bìn máo shuāi",
+            "text": "乡音无改鬓毛衰。"
           },
           {
-            "pinyin": "yè lái fēng yǔ shēng",
-            "text": "夜来风雨声，"
+            "pinyin": "ér tóng xiāng jiàn bù xiāng shí",
+            "text": "儿童相见不相识，"
           },
           {
-            "pinyin": "huā luò zhī duō shǎo",
-            "text": "花落知多少。"
+            "pinyin": "xiào wèn kè cóng hé chù lái",
+            "text": "笑问客从何处来。"
           }
         ],
-        "annotation": "晓：天亮。！！闻：听见。！！啼：叫。",
-        "annotationPinyin": "xiǎo tiān liàng wén tīng jiàn tí jiào",
-        "task": "早上醒来，你听到了什么声音？",
-        "taskPinyin": "zǎo shang xǐng lái nǐ tīng dào le shén me shēng yīn",
-        "taskAnswer": "我听到了闹钟的声音，还有妈妈做饭的声音。",
-        "taskAnswerPinyin": "wǒ tīng dào le nào zhōng de shēng yīn hái yǒu mā ma zuò fàn de shēng yīn",
-        "translation": "春夜睡得香，不知不觉天亮了。到处都能听到鸟儿清脆的叫声。想起昨夜的风雨声，不知道有多少花朵被吹落了。",
-        "translationPinyin": "chūn yè shuì de xiāng bù zhī bù jué tiān liàng le dào chù dōu néng tīng dào niǎo er qīng cuì de jiào shēng xiǎng qǐ zuó yè de fēng yǔ shēng bù zhī dào yǒu duō shǎo huā duǒ bèi chuī luò le"
+        "annotation": "乡音：家乡的口音。！！鬓毛：两鬓的头发。",
+        "annotationPinyin": "xiāng yīn jiā xiāng de kǒu yīn bìn máo liǎng bìn de tóu fa",
+        "task": "为什么孩子们不认识诗人？",
+        "taskPinyin": "wèi shén me hái zi men bù rèn shí shī rén",
+        "taskAnswer": "因为诗人离开家乡很久了，孩子们没见过他。",
+        "taskAnswerPinyin": "yīn wèi shī rén lí kāi jiā xiāng hěn jiǔ le hái zi men méi jiàn guò tā",
+        "translation": "小时候离开家乡，老了才回来。家乡的口音没有改变，但两鬓的头发已经白了。孩子们看见我却不认识我，笑着问客人是从哪里来的。",
+        "translationPinyin": "xiǎo shí hou lí kāi jiā xiāng lǎo le cái huí lái jiā xiāng de kǒu yīn méi yǒu gǎi biàn dàn liǎng bìn de tóu fa yǐ jīng bái le hái zi men kàn jiàn wǒ què bù rèn shí wǒ xiào zhe wèn kè rén shì cóng nǎ lǐ lái de"
       },
       {
         "title": "日积月累",

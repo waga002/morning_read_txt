@@ -2162,39 +2162,39 @@
         "translationPinyin": ""
       },
       {
-        "title": "村居",
-        "titlePinyin": "cūn jū",
+        "title": "所见",
+        "titlePinyin": "suǒ jiàn",
         "type": "ancient_poem",
-        "author": "高鼎",
-        "authorPinyin": "gāo dǐng",
+        "author": "袁枚",
+        "authorPinyin": "yuán méi",
         "dynasty": "清",
         "dynastyPinyin": "qīng",
         "contentObject": [
           {
-            "pinyin": "cǎo zhǎng yīng fēi èr yuè tiān",
-            "text": "草长莺飞二月天，"
+            "pinyin": "mù tóng qí huáng niú",
+            "text": "牧童骑黄牛，"
           },
           {
-            "pinyin": "fú dī yáng liǔ zuì chūn yān",
-            "text": "拂堤杨柳醉春烟。"
+            "pinyin": "gē shēng zhèn lín yuè",
+            "text": "歌声振林樾。"
           },
           {
-            "pinyin": "ér tóng sàn xué guī lái zǎo",
-            "text": "儿童散学归来早，"
+            "pinyin": "yì yù bǔ míng chán",
+            "text": "意欲捕鸣蝉，"
           },
           {
-            "pinyin": "máng chèn dōng fēng fàng zhǐ yuān",
-            "text": "忙趁东风放纸鸢。"
+            "pinyin": "hū rán bì kǒu lì",
+            "text": "忽然闭口立。"
           }
         ],
-        "annotation": "纸鸢：风筝。",
-        "annotationPinyin": "zhǐ yuān fēng zhēng",
-        "task": "你放学回家后喜欢做什么？",
-        "taskPinyin": "nǐ fàng xué huí jiā hòu xǐ huan zuò shén me",
-        "taskAnswer": "我喜欢在楼下骑自行车，或者和好朋友一起玩游戏。",
-        "taskAnswerPinyin": "wǒ xǐ huan zài lóu xià qí zì xíng chē huò zhě hé hǎo péng you yī qǐ wán yóu xì",
-        "translation": "二月里草儿生长，黄莺飞舞。堤岸上的杨柳在春天的雾气中陶醉。孩子们放学回来得很早，赶紧趁着东风去放风筝。",
-        "translationPinyin": "èr yuè lǐ cǎo ér shēng zhǎng huáng yīng fēi wǔ dī àn shàng de yáng liǔ zài chūn tiān de wù qì zhōng táo zuì hái zi men fàng xué huí lái de hěn zǎo gǎn jǐn chèn zhe dōng fēng qù fàng fēng zhēng"
+        "annotation": "牧童：放牛的孩子。！！振：震动。！！樾：树荫。",
+        "annotationPinyin": "mù tóng fàng niú de hái zi zhèn zhèn dòng yuè shù yīn",
+        "task": "牧童为什么突然不唱歌了？",
+        "taskPinyin": "mù tóng wèi shén me tū rán bù chàng gē le",
+        "taskAnswer": "因为他想捉树上的蝉，怕声音吓跑了蝉。",
+        "taskAnswerPinyin": "yīn wèi tā xiǎng zhuō shù shàng de chán pà shēng yīn xià pǎo le chán",
+        "translation": "放牛的孩子骑着黄牛，歌声在树林中回荡。他想要捉树上的知了，突然闭上嘴巴，静静地站着。",
+        "translationPinyin": "fàng niú de hái zi qí zhe huáng niú gē shēng zài shù lín zhōng huí dàng tā xiǎng yào zhuō shù shàng de zhī liǎo tū rán bì shàng zuǐ ba jìng jìng dì zhàn zhe"
       },
       {
         "title": "日积月累",

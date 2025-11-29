@@ -101,39 +101,39 @@
         "translationPinyin": ""
       },
       {
-        "title": "登鹳雀楼",
-        "titlePinyin": "dēng guàn què lóu",
+        "title": "古朗月行（节选）",
+        "titlePinyin": "gǔ lǎng yuè xíng jié xuǎn",
         "type": "ancient_poem",
-        "author": "王之涣",
-        "authorPinyin": "wáng zhī huàn",
+        "author": "李白",
+        "authorPinyin": "lǐ bái",
         "dynasty": "唐",
         "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "bái rì yī shān jìn",
-            "text": "白日依山尽，"
+            "pinyin": "xiǎo shí bù shí yuè",
+            "text": "小时不识月，"
           },
           {
-            "pinyin": "huáng hé rù hǎi liú",
-            "text": "黄河入海流。"
+            "pinyin": "hū zuò bái yù pán",
+            "text": "呼作白玉盘。"
           },
           {
-            "pinyin": "yù qióng qiān lǐ mù",
-            "text": "欲穷千里目，"
+            "pinyin": "yòu yí yáo tái jìng",
+            "text": "又疑瑶台镜，"
           },
           {
-            "pinyin": "gèng shàng yī céng lóu",
-            "text": "更上一层楼。"
+            "pinyin": "fēi zài qīng yún duān",
+            "text": "飞在青云端。"
           }
         ],
-        "annotation": "穷：尽，使达到极点。",
-        "annotationPinyin": "qióng jìn shǐ dá dào jí diǎn",
-        "task": "背诵这首诗，并说出它的道理。",
-        "taskPinyin": "bèi sòng zhè shǒu shī bìng shuō chū tā de dào lǐ",
-        "taskAnswer": "道理是：只有不断向上攀登，才能看到更美好的风景。",
-        "taskAnswerPinyin": "dào lǐ shì zhǐ yǒu bù duàn xiàng shàng pān dēng cái néng kàn dào gèng měi hǎo de fēng jǐng",
-        "translation": "夕阳依傍着西山慢慢落下，黄河向着大海滔滔流去。想要看到千里之外的风光，就要再登上一层楼。",
-        "translationPinyin": "xī yáng yī bàng zhe xī shān màn màn luò xià huáng hé xiàng zhe dà hǎi tāo tāo liú qù xiǎng yào kàn dào qiān lǐ zhī wài de fēng guāng jiù yào zài dēng shàng yī céng lóu"
+        "annotation": "识：认识。！！呼作：叫做。",
+        "annotationPinyin": "shí rèn shí hū zuò jiào zuò",
+        "task": "小时候，诗人把月亮比作什么？",
+        "taskPinyin": "xiǎo shí hou shī rén bǎ yuè liang bǐ zuò shén me",
+        "taskAnswer": "把月亮比作白玉盘和瑶台镜。",
+        "taskAnswerPinyin": "bǎ yuè liang bǐ zuò bái yù pán hé yáo tái jìng",
+        "translation": "小时候不认识月亮，把它叫做白玉做的盘子。又以为它是瑶台上的镜子，飞到了高高的云彩上面。",
+        "translationPinyin": "xiǎo shí hou bù rèn shí yuè liang bǎ tā jiào zuò bái yù zuò de pán zi yòu yǐ wéi tā shì yáo tái shàng de jìng zi fēi dào le gāo gāo de yún cǎi shàng miàn"
       },
       {
         "title": "日积月累",
@@ -284,8 +284,8 @@
         "translationPinyin": ""
       },
       {
-        "title": "三字经（节选）",
-        "titlePinyin": "sān zì jīng jié xuǎn",
+        "title": "三字经（选段）",
+        "titlePinyin": "sān zì jīng xuǎn duàn",
         "type": "classics",
         "author": "王应麟",
         "authorPinyin": "wáng yìng lín",

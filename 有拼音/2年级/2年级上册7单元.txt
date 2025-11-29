@@ -97,39 +97,39 @@
         "translationPinyin": ""
       },
       {
-        "title": "江雪",
-        "titlePinyin": "jiāng xuě",
+        "title": "咏鹅",
+        "titlePinyin": "yǒng é",
         "type": "ancient_poem",
-        "author": "柳宗元",
-        "authorPinyin": "liǔ zōng yuán",
+        "author": "骆宾王",
+        "authorPinyin": "luò bīn wáng",
         "dynasty": "唐",
         "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "qiān shān niǎo fēi jué",
-            "text": "千山鸟飞绝，"
+            "pinyin": "é é é",
+            "text": "鹅！鹅！鹅！"
           },
           {
-            "pinyin": "wàn jìng rén zōng miè",
-            "text": "万径人踪灭。"
+            "pinyin": "qǔ xiàng xiàng tiān gē",
+            "text": "曲项向天歌。"
           },
           {
-            "pinyin": "gū zhōu suō lì wēng",
-            "text": "孤舟蓑笠翁，"
+            "pinyin": "bái máo fú lǜ shuǐ",
+            "text": "白毛浮绿水，"
           },
           {
-            "pinyin": "dú diào hán jiāng xuě",
-            "text": "独钓寒江雪。"
+            "pinyin": "hóng zhǎng bō qīng bō",
+            "text": "红掌拨清波。"
           }
         ],
-        "annotation": "绝：消失。！！径：小路。！！蓑笠：蓑衣和斗笠。",
-        "annotationPinyin": "jué xiāo shī jìng xiǎo lù suō lì suō yī hé dǒu lì",
-        "task": "这首诗里哪里能看出很冷？",
-        "taskPinyin": "zhè shǒu shī lǐ nǎ lǐ néng kàn chū hěn lěng",
-        "taskAnswer": "鸟儿都不飞了，人也不出来了，江上下着大雪，可以看出很冷。",
-        "taskAnswerPinyin": "niǎo er dōu bù fēi le rén yě bù chū lái le jiāng shàng xià zhe dà xuě kě yǐ kàn chū hěn lěng",
-        "translation": "所有的山上都看不到飞鸟的影子，所有的小路上都没有人的踪迹。只有一条孤零零的小船上，坐着一位披着蓑衣、戴着斗笠的老翁，独自在寒冷的江面上垂钓。",
-        "translationPinyin": "suǒ yǒu de shān shàng dōu kàn bú dào fēi niǎo de yǐng zi suǒ yǒu de xiǎo lù shàng dōu méi yǒu rén de zōng jì zhǐ yǒu yī tiáo gū líng líng de xiǎo chuán shàng zuò zhe yī wèi pī zhe suō yī dài zhe dǒu lì de lǎo wēng dú zì zài hán lěng de jiāng miàn shàng chuí diào"
+        "annotation": "曲项：弯着脖子。！！向天歌：对着天唱歌。",
+        "annotationPinyin": "qǔ xiàng wān zhe bó zi xiàng tiān gē duì zhe tiān chàng gē",
+        "task": "鹅的毛是什么颜色？水是什么颜色？",
+        "taskPinyin": "é de máo shì shén me yán sè shuǐ shì shén me yán sè",
+        "taskAnswer": "鹅的毛是白色，水是绿色。",
+        "taskAnswerPinyin": "é de máo shì bái sè shuǐ shì lǜ sè",
+        "translation": "鹅呀鹅呀鹅！它弯着长长的脖子，对着天空高声唱歌。洁白的羽毛漂浮在绿色的水面上，红色的脚掌拨动着清清的水波。",
+        "translationPinyin": "é ya é ya é tā wān zhe cháng cháng de bó zi duì zhe tiān kōng gāo shēng chàng gē jié bái de yǔ máo piāo fú zài lǜ sè de shuǐ miàn shàng hóng sè de jiǎo zhǎng bō dòng zhe qīng qīng de shuǐ bō"
       },
       {
         "title": "日积月累",
@@ -190,43 +190,51 @@
     "theme": "辽阔的草原",
     "content": [
       {
-        "title": "敕勒歌",
-        "titlePinyin": "chì lè gē",
-        "type": "textbook_review",
-        "author": "",
-        "authorPinyin": "",
-        "dynasty": "北朝",
-        "dynastyPinyin": "běi cháo",
+        "title": "江南",
+        "titlePinyin": "jiāng nán",
+        "type": "ancient_poem",
+        "author": "汉乐府",
+        "authorPinyin": "hàn yuè fǔ",
+        "dynasty": "汉",
+        "dynastyPinyin": "hàn",
         "contentObject": [
           {
-            "pinyin": "chì lè chuān yīn shān xià",
-            "text": "敕勒川，阴山下。"
+            "pinyin": "jiāng nán kě cǎi lián",
+            "text": "江南可采莲，"
           },
           {
-            "pinyin": "tiān sì qióng lú",
-            "text": "天似穹庐，"
+            "pinyin": "lián yè hé tián tián",
+            "text": "莲叶何田田。"
           },
           {
-            "pinyin": "lóng gài sì yě",
-            "text": "笼盖四野。"
+            "pinyin": "yú xì lián yè jiān",
+            "text": "鱼戏莲叶间。"
           },
           {
-            "pinyin": "tiān cāng cāng yě máng máng",
-            "text": "天苍苍，野茫茫，"
+            "pinyin": "yú xì lián yè dōng",
+            "text": "鱼戏莲叶东，"
           },
           {
-            "pinyin": "fēng chuī cǎo dī jiàn niú yáng",
-            "text": "风吹草低见牛羊。"
+            "pinyin": "yú xì lián yè xī",
+            "text": "鱼戏莲叶西，"
+          },
+          {
+            "pinyin": "yú xì lián yè nán",
+            "text": "鱼戏莲叶南，"
+          },
+          {
+            "pinyin": "yú xì lián yè běi",
+            "text": "鱼戏莲叶北。"
           }
         ],
-        "annotation": "穹庐：游牧民族住的圆顶帐篷。！！见：同“现”，出现。",
-        "annotationPinyin": "qióng lú yóu mù mín zú zhù de yuán dǐng zhàng peng xiàn chū xiàn",
-        "task": "你喜欢草原吗？为什么？",
-        "taskPinyin": "nǐ xǐ huan cǎo yuán ma wèi shén me",
-        "taskAnswer": "喜欢。因为草原很宽阔，可以骑马奔跑，还有很多可爱的牛羊。",
-        "taskAnswerPinyin": "xǐ huan yīn wèi cǎo yuán hěn kuān kuò kě yǐ qí mǎ bēn pǎo hái yǒu hěn duō kě ài de niú yáng",
-        "translation": "辽阔的敕勒平原，就在阴山脚下。天空像个巨大的圆顶帐篷，笼罩着四面八方的原野。天蓝蓝的，原野辽阔无边，风儿吹过，牧草低伏，显露出一群群的牛羊。",
-        "translationPinyin": "liáo kuò de chì lè píng yuán jiù zài yīn shān jiǎo xià tiān kōng xiàng gè jù dà de yuán dǐng zhàng peng lóng zhào zhe sì miàn bā fāng de yuán yě tiān lán lán de yuán yě liáo kuò wú biān fēng ér chuī guò mù cǎo dī fú xiǎn lù chū yī qún qún de niú yáng"
+        "annotation": "何：多么。！！田田：茂盛的样子。",
+        "annotationPinyin": "hé duō me tián tián mào shèng de yàng zi",
+        "task": "诗中写了鱼在哪里游？",
+        "taskPinyin": "shī zhōng xiě le yú zài nǎ lǐ yóu",
+        "taskAnswer": "鱼在莲叶的东、西、南、北各个方向游。",
+        "taskAnswerPinyin": "yú zài lián yè de dōng xī nán běi gè gè fāng xiàng yóu",
+        "translation": "江南可以采莲，莲叶多么茂盛啊。鱼儿在莲叶间游来游去。鱼儿在莲叶的东边游，在莲叶的西边游，在莲叶的南边游，在莲叶的北边游。",
+        "translationPinyin": "jiāng nán kě yǐ cǎi lián lián yè duō me mào shèng a yú er zài lián yè jiān yóu lái yóu qù yú er zài lián yè de dōng biān yóu zài lián yè de xī biān yóu zài lián yè de nán biān yóu zài lián yè de běi biān yóu"
       },
       {
         "title": "北风和太阳",
@@ -766,39 +774,39 @@
         "translationPinyin": ""
       },
       {
-        "title": "梅花",
-        "titlePinyin": "méi huā",
+        "title": "悯农（其二）",
+        "titlePinyin": "mǐn nóng qí èr",
         "type": "ancient_poem",
-        "author": "王安石",
-        "authorPinyin": "wáng ān shí",
-        "dynasty": "宋",
-        "dynastyPinyin": "sòng",
+        "author": "李绅",
+        "authorPinyin": "lǐ shēn",
+        "dynasty": "唐",
+        "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "qiáng jiǎo shù zhī méi",
-            "text": "墙角数枝梅，"
+            "pinyin": "chūn zhòng yī lì sù",
+            "text": "春种一粒粟，"
           },
           {
-            "pinyin": "líng hán dú zì kāi",
-            "text": "凌寒独自开。"
+            "pinyin": "qiū shōu wàn kē zǐ",
+            "text": "秋收万颗子。"
           },
           {
-            "pinyin": "yáo zhī bú shì xuě",
-            "text": "遥知不是雪，"
+            "pinyin": "sì hǎi wú xián tián",
+            "text": "四海无闲田，"
           },
           {
-            "pinyin": "wèi yǒu àn xiāng lái",
-            "text": "为有暗香来。"
+            "pinyin": "nóng fū yóu è sǐ",
+            "text": "农夫犹饿死。"
           }
         ],
-        "annotation": "凌寒：冒着严寒。！！暗香：淡淡的香气。",
-        "annotationPinyin": "líng hán mào zhe yán hán àn xiāng dàn dàn de xiāng qì",
-        "task": "梅花和雪有什么不一样？",
-        "taskPinyin": "méi huā hé xuě yǒu shén me bù yī yàng",
-        "taskAnswer": "梅花有香味，雪没有香味。",
-        "taskAnswerPinyin": "méi huā yǒu xiāng wèi xuě méi yǒu xiāng wèi",
-        "translation": "墙角的几枝梅花，冒着严寒独自开放。远远看去就知道那不是雪，因为有淡淡的香气飘过来。",
-        "translationPinyin": "qiáng jiǎo de jǐ zhī méi huā mào zhe yán hán dú zì kāi fàng yuǎn yuǎn kàn qù jiù zhī dào nà bú shì xuě yīn wèi yǒu dàn dàn de xiāng qì piāo guò lái"
+        "annotation": "粟：谷子。！！万颗子：很多粮食。",
+        "annotationPinyin": "sù gǔ zi wàn kē zǐ hěn duō liáng shi",
+        "task": "为什么农民伯伯种了那么多粮食，还会饿死？",
+        "taskPinyin": "wèi shén me nóng mín bó bo zhòng le nà me duō liáng shi hái huì è sǐ",
+        "taskAnswer": "因为农民伯伯很辛苦，但收获的粮食大部分要交给别人。",
+        "taskAnswerPinyin": "yīn wèi nóng mín bó bo hěn xīn kǔ dàn shōu huò de liáng shi dà bù fèn yào jiāo gěi bié rén",
+        "translation": "春天种下一粒谷子，秋天能收获很多粮食。天下的田地都种满了，但农民伯伯还是会饿死。",
+        "translationPinyin": "chūn tiān zhòng xià yī lì gǔ zi qiū tiān néng shōu huò hěn duō liáng shi tiān xià de tián dì dōu zhòng mǎn le dàn nóng mín bó bo hái shì huì è sǐ"
       },
       {
         "title": "论语（节选）",
@@ -1513,8 +1521,8 @@
         "translationPinyin": ""
       },
       {
-        "title": "三字经（节选）",
-        "titlePinyin": "sān zì jīng jié xuǎn",
+        "title": "三字经（选段）",
+        "titlePinyin": "sān zì jīng xuǎn duàn",
         "type": "classics",
         "author": "王应麟",
         "authorPinyin": "wáng yìng lín",

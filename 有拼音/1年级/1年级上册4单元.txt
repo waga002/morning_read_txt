@@ -30,8 +30,8 @@
         "taskAnswerPinyin": ""
       },
       {
-        "title": "三字经（选读）",
-        "titlePinyin": "sān zì jīng xuǎn dú",
+        "title": "三字经（选段）",
+        "titlePinyin": "sān zì jīng xuǎn duàn",
         "type": "classics",
         "author": "王应麟",
         "authorPinyin": "wáng yīng lín",
@@ -912,8 +912,8 @@
         ]
       },
       {
-        "title": "三字经（选读）",
-        "titlePinyin": "sān zì jīng xuǎn dú",
+        "title": "三字经（选段）",
+        "titlePinyin": "sān zì jīng xuǎn duàn",
         "type": "classics",
         "author": "王应麟",
         "authorPinyin": "wáng yīng lín",

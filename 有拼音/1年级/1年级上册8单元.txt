@@ -34,8 +34,8 @@
         "taskAnswerPinyin": "dà xiàng de wěi ba duǎn niú de wěi ba cháng"
       },
       {
-        "title": "三字经（选段一）",
-        "titlePinyin": "sān zì jīng xuǎn duàn yī",
+        "title": "三字经（选段）",
+        "titlePinyin": "sān zì jīng xuǎn duàn",
         "type": "classics",
         "author": "",
         "authorPinyin": "",
