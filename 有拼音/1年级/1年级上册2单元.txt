@@ -1,7 +1,7 @@
 [
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 3,
     "day": 1,
     "theme": "单韵母娃娃来了",
@@ -110,7 +110,7 @@
   },
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 3,
     "day": 2,
     "theme": "小猫捉老鼠",
@@ -216,7 +216,7 @@
   },
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 3,
     "day": 3,
     "theme": "秋天的景色",
@@ -329,7 +329,7 @@
   },
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 3,
     "day": 4,
     "theme": "小嘴巴，说儿歌",
@@ -423,7 +423,7 @@
   },
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 3,
     "day": 5,
     "theme": "我有一个好妈妈",
@@ -536,7 +536,7 @@
   },
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 3,
     "day": 6,
     "theme": "小嘴巴，爱说话",
@@ -578,28 +578,38 @@
         "taskAnswerPinyin": "wǒ de xiǎo zuǐ ba huì chàng gē huì bèi sòng gǔ shī"
       },
       {
-        "title": "俗语",
-        "titlePinyin": "sú yǔ",
-        "type": "popular_saying",
-        "alignment": "0",
+        "title": "爱问问题的小红",
+        "titlePinyin": "ài wèn wèn tí de xiǎo hóng",
+        "type": "story_legend",
+        "alignment": "1",
         "contentObject": [
           {
-            "pinyin": "bù chǐ xià wèn",
-            "text": "不耻下问。"
+            "pinyin": "xiǎo hóng yǒu gè wèn tí bù dǒng",
+            "text": "小红有个问题不懂，"
           },
           {
-            "pinyin": "xué yǐ zhì yòng",
-            "text": "学以致用。"
+            "pinyin": "tā dà dǎn de qù wèn tóng xué",
+            "text": "她大胆地去问同学。"
+          },
+          {
+            "pinyin": "tóng xué gào su le tā dá àn",
+            "text": "同学告诉了她答案，"
+          },
+          {
+            "pinyin": "xiǎo hóng jì zhù le zhè ge zhī shi",
+            "text": "小红记住了这个知识。"
+          },
+          {
+            "pinyin": "dì èr tiān tā jiù yòng zhè ge zhī shi bāng zhù le bié rén",
+            "text": "第二天她就用这个知识帮助了别人。"
           }
         ],
-        "annotation": "不耻：不觉得丢人。！！下问：向比自己学问少的人请教。！！致：达到，实现。",
-        "annotationPinyin": "bù chǐ bù jué de diū rén xià wèn xiàng bǐ zì jǐ xué wèn shǎo de rén qǐng jiào tīng dé dào lǐ kě yǐ xué dào hěn duō dào lǐ",
-        "task": "记住这句俗语，下次遇到不会的问题要怎么做？",
-        "taskPinyin": "jì zhù zhè jù sú yǔ xià cì yù dào bú huì de wèn tí yào zěn me zuò",
-        "taskAnswer": "勇敢地向老师或同学请教。",
-        "taskAnswerPinyin": "yǒng gǎn dì xiàng lǎo shī huò tóng xué qǐng jiào",
-        "translation": "向学问比自己少的人请教问题，也不觉得是件丢脸的事。学习了知识，就要把它运用到实际生活中去。",
-        "translationPinyin": "xiàng xué wèn bǐ zì jǐ shǎo de rén qǐng jiào wèn tí yě bù jué de shì jiàn diū liǎn de shì xué xí le zhī shi， jiù yào bǎ tā yùn yòng dào shí jì shēng huó zhōng qù。"
+        "task": "小红是怎么学会新知识的？",
+        "taskPinyin": "xiǎo hóng shì zěn me xué huì xīn zhī shi de",
+        "taskAnswer": "她大胆地向同学请教，然后学以致用，用学到的知识帮助别人。",
+        "taskAnswerPinyin": "tā dà dǎn dì xiàng tóng xué qǐng jiào rán hòu xué yǐ zhì yòng yòng xué dào de zhī shi bāng zhù bié rén",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "日积月累",
@@ -646,7 +656,7 @@
   },
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 4,
     "day": 1,
     "theme": "声母好朋友（b p m f）",
@@ -752,7 +762,7 @@
   },
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 4,
     "day": 2,
     "theme": "爱动脑筋的宝宝",
@@ -865,7 +875,7 @@
   },
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 4,
     "day": 3,
     "theme": "小嘴巴，找朋友",
@@ -963,7 +973,7 @@
   },
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 4,
     "day": 4,
     "theme": "声母好朋友（d t n l）",
@@ -1072,7 +1082,7 @@
   },
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 4,
     "day": 5,
     "theme": "小蜜蜂采花蜜",
@@ -1119,7 +1129,6 @@
         "type": "tongue_twisters",
         "alignment": "0",
         "contentObject": [
-          [
             {
               "pinyin": "xiǎo lǐ jiào lǎo lǐ",
               "text": "小李叫老李，"
@@ -1152,7 +1161,6 @@
               "pinyin": "yào yòng lì qi chuī。",
               "text": "要用力气吹。"
             }
-          ]
         ],
         "task": "大声把绕口令读三遍",
         "taskPinyin": "dà shēng bǎ rào kǒu lìng dú sān biàn",
@@ -1204,7 +1212,7 @@
   },
   {
     "grade": 1,
-    "term": 1,
+    "term": 0,
     "week": 4,
     "day": 6,
     "theme": "美丽的大自然",

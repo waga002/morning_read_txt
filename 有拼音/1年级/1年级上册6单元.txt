@@ -600,33 +600,35 @@
         "taskAnswerPinyin": ""
       },
       {
-        "title": "智慧小口诀：俗语",
-        "titlePinyin": "zhì huì xiǎo kǒu jué sú yǔ",
-        "type": "saying_proverb",
-        "author": "",
-        "authorPinyin": "",
-        "dynasty": "",
-        "dynastyPinyin": "",
+        "title": "小乌龟爬山",
+        "titlePinyin": "xiǎo wū guī pá shān",
+        "type": "story_legend",
         "contentObject": [
           {
-            "pinyin": "dōng chī luó bo xià chī jiāng yǎng shēng bǎo jiàn",
-            "text": "冬吃萝卜夏吃姜。（养生保健），"
+            "pinyin": "xiǎo wū guī yào pá shàng shān dǐng",
+            "text": "小乌龟要爬上山顶，"
           },
           {
-            "pinyin": "yuè lái yuè qīn zhì qīn cái lín lǐ hù zhù",
-            "text": "远亲不如近邻。（邻里互助），"
+            "pinyin": "tā pá de hěn màn hěn màn",
+            "text": "它爬得很慢很慢。"
           },
           {
-            "pinyin": "bù pà màn zhǐ pà zhàn bù zǒu jiān chí bù xiè",
-            "text": "不怕慢，只怕站。（坚持不懈）。"
+            "pinyin": "dàn tā bù tíng xià lái",
+            "text": "但它不停下来，"
+          },
+          {
+            "pinyin": "yī bù yī bù wǎng shàng pá",
+            "text": "一步一步往上爬。"
+          },
+          {
+            "pinyin": "zuì hòu tā zhōng yú dào le shān dǐng",
+            "text": "最后它终于到了山顶。"
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
-        "task": "说一说“不怕慢，只怕站”是什么意思呢？",
-        "taskPinyin": "shuō yī shuō bù pà màn zhī pà zhàn shì shén me yì sī ne",
-        "taskAnswer": "意思是不怕我们慢慢走，就怕我们停下来不肯动。",
-        "taskAnswerPinyin": "yì sī shì bù pà wǒ men màn màn zǒu jiù pà wǒ men tíng xià lái bù kěn dòng",
+        "task": "小乌龟为什么能爬到山顶？",
+        "taskPinyin": "xiǎo wū guī wèi shén me néng pá dào shān dǐng",
+        "taskAnswer": "因为小乌龟虽然爬得慢，但它坚持不懈，不停下来，一步一步往上爬，所以最后到达了山顶。",
+        "taskAnswerPinyin": "yīn wèi xiǎo wū guī suī rán pá dé màn dàn tā jiān chí bù xiè bù tíng xià lái yī bù yī bù wǎng shàng pá suǒ yǐ zuì hòu dào dá le shān dǐng",
         "translation": "",
         "translationPinyin": ""
       },

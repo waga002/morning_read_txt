@@ -554,28 +554,34 @@
         "taskAnswerPinyin": "wǒ de shǒu huì chī fàn wǒ de jiǎo huì zǒu lù"
       },
       {
-        "title": "俗语（选读）",
-        "titlePinyin": "sú yǔ xuǎn dú",
-        "type": "popular_saying",
-        "alignment": "0",
+        "title": "珍惜时间的小明",
+        "titlePinyin": "zhēn xī shí jiān de xiǎo míng",
+        "type": "story_legend",
+        "alignment": "1",
         "contentObject": [
           {
-            "pinyin": "yī cūn guāng yīn yī cùn jīn",
-            "text": "一寸光阴一寸金，"
+            "pinyin": "xiǎo míng shì gè ài xué xí de hái zi",
+            "text": "小明是个爱学习的孩子。"
           },
           {
-            "pinyin": "cùn jīn nán mǎi cùn guāng yīn",
-            "text": "寸金难买寸光阴。"
+            "pinyin": "měi tiān zǎo shang tā dōu zǎo zǎo qǐ chuáng",
+            "text": "每天早上他都早早起床，"
+          },
+          {
+            "pinyin": "rèn zhēn dú shū xiě zì",
+            "text": "认真读书写字。"
+          },
+          {
+            "pinyin": "mā ma kuā tā shì gè zhēn xī shí jiān de hǎo hái zi",
+            "text": "妈妈夸他是个珍惜时间的好孩子。"
           }
         ],
-        "annotation": "光阴：时间。！！寸金：很贵的金子。！！难买：买不到。",
-        "annotationPinyin": "guāng yīn shí jiān cùn jīn hěn guì de jīn zi nán mǎi mǎi bú dào",
-        "task": "记住这句俗语，告诉爸爸妈妈，你要做个珍惜时间的小朋友。",
-        "taskPinyin": "jì zhù zhè jù sú yǔ gào su bà ba mā ma nǐ yào zuò gè zhēn xī shí jiān de xiǎo péng you",
-        "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "一点点时间，就像一点点金子一样宝贵。即使有很多金子，也买不回已经过去的时间。",
-        "translationPinyin": "yī diǎn diǎn shí jiān jiù xiàng yī diǎn diǎn jīn zi yī yàng bǎo guì jí shǐ yǒu hěn duō jīn zi yě mǎi bù huí yǐ jīng guò qù de shí jiān"
+        "task": "小明为什么被妈妈夸奖？",
+        "taskPinyin": "xiǎo míng wèi shén me bèi mā ma kuā jiǎng",
+        "taskAnswer": "因为小明每天早早起床，认真读书写字，珍惜时间。",
+        "taskAnswerPinyin": "yīn wèi xiǎo míng měi tiān zǎo zǎo qǐ chuáng rèn zhēn dú shū xiě zì zhēn xī shí jiān",
+        "translation": "",
+        "translationPinyin": ""
       },
       {
         "title": "日积月累",
