@@ -33,28 +33,36 @@
         "title": "三字经（选读）",
         "titlePinyin": "sān zì jīng xuǎn dú",
         "type": "classics",
-        "author": "",
-        "authorPinyin": "",
-        "dynasty": "",
-        "dynastyPinyin": "",
+        "author": "王应麟",
+        "authorPinyin": "wáng yìng lín",
+        "dynasty": "宋",
+        "dynastyPinyin": "sòng",
         "contentObject": [
           {
-            "pinyin": "rén zhī chū xìng běn shàn",
-            "text": "人之初。性本善。"
+            "pinyin": "rì yuè xīng",
+            "text": "日月星，"
           },
           {
-            "pinyin": "xìng xiāng jìn xí xiāng yuǎn",
-            "text": "性相近。习相远。"
+            "pinyin": "sān guāng zhě",
+            "text": "三光者。"
+          },
+          {
+            "pinyin": "tiān dì rén",
+            "text": "天地人，"
+          },
+          {
+            "pinyin": "sān cái zhě",
+            "text": "三才者。"
           }
         ],
-        "annotation": "初：刚刚出生。！！善：善良。！！近：差不多。！！习：习惯。",
-        "annotationPinyin": "chū gāng gāng chū shēng shàn shàn liáng jìn chà bù duō xí xí guàn",
-        "task": "请你想一想，你有哪些好习惯和好朋友很“相近”呢？",
-        "taskPinyin": "qǐng nǐ xiǎng yī xiǎng nǐ yǒu nǎ xiē hǎo xí guàn hé hǎo péng yǒu hěn xiāng jìn ne",
-        "taskAnswer": "我和好朋友都爱看书，我们爱学习的好习惯很相近。",
-        "taskAnswerPinyin": "wǒ hé hǎo péng yǒu dōu ài kàn shū wǒ men ài xué xí de hǎo xí guàn hěn xiāng jìn",
-        "translation": "每个人刚出生时，心都是善良的。大家的天性本来都差不多，只是因为后天的学习和习惯不同，才慢慢有了差别。",
-        "translationPinyin": "měi gè rén gāng chū shēng shí xīn dōu shì shàn liáng de dà jiā de tiān xìng běn lái dōu chà bù duō zhǐ shì yīn wèi hòu tiān de xué xí hé xí guàn bù tóng cái màn màn yǒu le chā bié"
+        "annotation": "三光：太阳、月亮、星星。！！三才：天、地、人。",
+        "annotationPinyin": "sān guāng tài yáng yuè liang xīng xing sān cái tiān dì rén",
+        "task": "说一说，三光指的是什么？三才指的是什么？",
+        "taskPinyin": "shuō yī shuō sān guāng zhǐ de shì shén me sān cái zhǐ de shì shén me",
+        "taskAnswer": "三光是太阳、月亮、星星。三才是天、地、人。",
+        "taskAnswerPinyin": "sān guāng shì tài yáng yuè liang xīng xing sān cái shì tiān dì rén",
+        "translation": "太阳、月亮、星星，是三种会发光的东西。天、地、人，是三种最重要的东西。",
+        "translationPinyin": "tài yáng yuè liang xīng xing shì sān zhǒng huì fā guāng de dōng xi tiān dì rén shì sān zhǒng zuì zhòng yào de dōng xi"
       },
       {
         "title": "日积月累",
@@ -274,39 +282,39 @@
         "taskAnswerPinyin": "wǒ yòng xiǎo shǒu bǎ shū běn zhěng qí dì fàng huí shū bāo lǐ"
       },
       {
-        "title": "画",
-        "titlePinyin": "huà",
+        "title": "寻隐者不遇",
+        "titlePinyin": "xún yǐn zhě bù yù",
         "type": "ancient_poem",
-        "author": "王维",
-        "authorPinyin": "wáng wéi",
+        "author": "贾岛",
+        "authorPinyin": "jiǎ dǎo",
         "dynasty": "唐",
         "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "yuǎn kàn shān yǒu sè",
-            "text": "远看山有色，"
+            "pinyin": "sōng xià wèn tóng zǐ",
+            "text": "松下问童子，"
           },
           {
-            "pinyin": "jìn tīng shuǐ wú shēng",
-            "text": "近听水无声。"
+            "pinyin": "yán shī cǎi yào qù",
+            "text": "言师采药去。"
           },
           {
-            "pinyin": "chūn qù huā hái zài",
-            "text": "春去花还在，"
+            "pinyin": "zhǐ zài cǐ shān zhōng",
+            "text": "只在此山中，"
           },
           {
-            "pinyin": "rén lái niǎo bù jīng",
-            "text": "人来鸟不惊。"
+            "pinyin": "yún shēn bù zhī chù",
+            "text": "云深不知处。"
           }
         ],
-        "annotation": "色：色彩。！！无声：没有声音。！！去：走了。！！惊：害怕。",
-        "annotationPinyin": "sè sè cǎi wú shēng méi yǒu shēng yīn qù zǒu le jīng hài pà",
-        "task": "想一想，为什么说“近听水无声”呢？",
-        "taskPinyin": "xiǎng yī xiǎng wèi shén me shuō jìn tīng shuǐ wú shēng ne",
-        "taskAnswer": "因为这是一幅画，画里的水是不会发出声音的。",
-        "taskAnswerPinyin": "yīn wèi zhè shì yī fú huà huà lǐ de shuǐ shì bù huì fā chū shēng yīn de",
-        "translation": "远远看去，山上有各种各样的颜色，可是走近听水流的声音，却一点也听不到。春天已经过去了，花儿却还开着，有人走过来，小鸟也不害怕飞走。",
-        "translationPinyin": "yuǎn yuǎn kàn qù shān shàng yǒu gè zhǒng gè yàng de yán sè kě shì zǒu jìn tīng shuǐ liú de shēng yīn què yī diǎn yě tīng bù dào chūn tiān yǐ jīng guò qù le huā ér què hái kāi zhe yǒu rén zǒu guò lái xiǎo niǎo yě bù hài pà fēi zǒu"
+        "annotation": "隐者：隐居的人。！！童子：小孩子。！！师：师父。",
+        "annotationPinyin": "yǐn zhě yǐn jū de rén tóng zǐ xiǎo hái zi shī shī fu",
+        "task": "诗人要找的人在哪里？",
+        "taskPinyin": "shī rén yào zhǎo de rén zài nǎ lǐ",
+        "taskAnswer": "在山里，但不知道具体在哪里。",
+        "taskAnswerPinyin": "zài shān lǐ dàn bù zhī dào jù tǐ zài nǎ lǐ",
+        "translation": "在松树下问一个小孩子，他说师父采药去了。只知道在这座山里，但云雾很深，不知道具体在哪里。",
+        "translationPinyin": "zài sōng shù xià wèn yī gè xiǎo hái zi tā shuō shī fu cǎi yào qù le zhǐ zhī dào zài zhè zuò shān lǐ dàn yún wù hěn shēn bù zhī dào jù tǐ zài nǎ lǐ"
       },
       {
         "title": "日积月累",
@@ -489,28 +497,36 @@
         "title": "弟子规（选读）",
         "titlePinyin": "dì zǐ guī xuǎn dú",
         "type": "classics",
-        "author": "",
-        "authorPinyin": "",
+        "author": "李毓秀",
+        "authorPinyin": "lǐ yù xiù",
         "dynasty": "清",
         "dynastyPinyin": "qīng",
         "contentObject": [
           {
-            "pinyin": "fù mǔ hū yìng wù huǎn",
-            "text": "父母呼。应勿缓。"
+            "pinyin": "wù zì bào",
+            "text": "勿自暴，"
           },
           {
-            "pinyin": "fù mǔ mìng xíng wù lǎn",
-            "text": "父母命。行勿懒。"
+            "pinyin": "wù zì qì",
+            "text": "勿自弃。"
+          },
+          {
+            "pinyin": "shèng yǔ xián",
+            "text": "圣与贤，"
+          },
+          {
+            "pinyin": "kě xùn zhì",
+            "text": "可驯致。"
           }
         ],
-        "annotation": "呼：叫喊。！！应：答应。！！缓：慢。！！行：去做。！！懒：偷懒。",
-        "annotationPinyin": "hū jiào hǎn yìng dā yìng huǎn màn xíng qù zuò lǎn tōu lǎn",
-        "task": "如果爸爸叫你去洗手，你会“缓”还是“行”呢？",
-        "taskPinyin": "rú guǒ bà ba jiào nǐ qù xǐ shǒu nǐ huì huǎn hái shì xíng ne",
-        "taskAnswer": "我马上就会去“行”，做一个不偷懒的小朋友。",
-        "taskAnswerPinyin": "wǒ mǎ shàng jiù huì qù xíng zuò yī gè bù tōu lǎn de xiǎo péng yǒu",
-        "translation": "爸爸妈妈叫我们的时候，要马上答应，不能慢吞吞的。爸爸妈妈吩咐我们做事情，要马上行动，不能偷懒。",
-        "translationPinyin": "bà ba mā ma jiào wǒ men de shí hòu yào mǎ shàng dā yìng bù néng màn tūn tūn de bà ba mā ma fēn fù wǒ men zuò shì qíng yào mǎ shàng xíng dòng bù néng tōu lǎn"
+        "annotation": "自暴：自己伤害自己。！！自弃：自己放弃自己。！！驯致：慢慢达到。",
+        "annotationPinyin": "zì bào zì jǐ shāng hài zì jǐ zì qì zì jǐ fàng qì zì jǐ xùn zhì màn màn dá dào",
+        "task": "遇到困难时，我们应该怎么做？",
+        "taskPinyin": "yù dào kùn nan shí wǒ men yīng gāi zěn me zuò",
+        "taskAnswer": "不要放弃，要努力坚持，相信自己能做好。",
+        "taskAnswerPinyin": "bú yào fàng qì yào nǔ lì jiān chí xiāng xìn zì jǐ néng zuò hǎo",
+        "translation": "不要自己伤害自己，不要自己放弃自己。只要努力，每个人都可以成为有品德、有才能的人。",
+        "translationPinyin": "bú yào zì jǐ shāng hài zì jǐ bú yào zì jǐ fàng qì zì jǐ zhǐ yào nǔ lì měi gè rén dōu kě yǐ chéng wéi yǒu pǐn dé yǒu cái néng de rén"
       },
       {
         "title": "日积月累",
@@ -794,39 +810,39 @@
         "taskAnswerPinyin": "kě ài yīn wéi tā hěn qín láo wèi wǒ men cǎi tián tián de fēng mì"
       },
       {
-        "title": "咏鹅",
-        "titlePinyin": "yǒng é",
+        "title": "早发白帝城",
+        "titlePinyin": "zǎo fā bái dì chéng",
         "type": "ancient_poem",
-        "author": "骆宾王",
-        "authorPinyin": "luò bīn wáng",
+        "author": "李白",
+        "authorPinyin": "lǐ bái",
         "dynasty": "唐",
         "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "é é é",
-            "text": "鹅，鹅，鹅，"
+            "pinyin": "zhāo cí bái dì cǎi yún jiān",
+            "text": "朝辞白帝彩云间，"
           },
           {
-            "pinyin": "qǔ xiàng xiàng tiān gē",
-            "text": "曲项向天歌。"
+            "pinyin": "qiān lǐ jiāng líng yī rì hái",
+            "text": "千里江陵一日还。"
           },
           {
-            "pinyin": "bái máo fú lǜ shuǐ",
-            "text": "白毛浮绿水，"
+            "pinyin": "liǎng àn yuán shēng tí bù zhù",
+            "text": "两岸猿声啼不住，"
           },
           {
-            "pinyin": "hóng zhǎng bō qīng bō",
-            "text": "红掌拨清波。"
+            "pinyin": "qīng zhōu yǐ guò wàn chóng shān",
+            "text": "轻舟已过万重山。"
           }
         ],
-        "annotation": "曲项：弯着脖子。！！浮：漂浮。！！红掌：红色的脚掌。！！清波：清澈的水。",
-        "annotationPinyin": "qǔ xiàng wān zhe bó zi fú piāo fú hóng zhǎng hóng sè de jiǎo zhǎng qīng bō qīng chè de shuǐ",
-        "task": "找一找，这首诗里哪些词语描写了鹅的颜色？",
-        "taskPinyin": "zhǎo yī zhǎo zhè shǒu shī lǐ nǎ xiē cí yǔ miáo xiě le é de yán sè",
-        "taskAnswer": "白毛、绿水、红掌、清波。",
-        "taskAnswerPinyin": "bái máo lǜ shuǐ hóng zhǎng qīng bō",
-        "translation": "（看啊！）鹅，鹅，鹅！它弯着脖子，朝着天空唱歌。它雪白的羽毛漂浮在绿色的水面上，红红的脚掌在拨动清澈的水波。",
-        "translationPinyin": "kàn a é é é tā wān zhe bó zi cháo zhe tiān kōng chàng gē tā xuě bái de yǔ máo piāo fú zài lǜ sè de shuǐ miàn shàng hóng hóng de jiǎo zhǎng zài bō dòng qīng chè de shuǐ bō"
+        "annotation": "朝辞：早上告别。！！江陵：地名。！！猿声：猿猴的叫声。",
+        "annotationPinyin": "zhāo cí zǎo shang gào bié jiāng líng dì míng yuán shēng yuán hóu de jiào shēng",
+        "task": "诗人坐船从白帝城到江陵用了多长时间？",
+        "taskPinyin": "shī rén zuò chuán cóng bái dì chéng dào jiāng líng yòng le duō cháng shí jiān",
+        "taskAnswer": "只用了一天。",
+        "taskAnswerPinyin": "zhǐ yòng le yī tiān",
+        "translation": "早上告别了白帝城，在彩云之间出发。千里之外的江陵，一天就能到达。两岸的猿猴不停地啼叫，轻快的小船已经穿过了万重高山。",
+        "translationPinyin": "zǎo shang gào bié le bái dì chéng zài cǎi yún zhī jiān chū fā qiān lǐ zhī wài de jiāng líng yī tiān jiù néng dào dá liǎng àn de yuán hóu bù tíng de tí jiào qīng kuài de xiǎo chuán yǐ jīng chuān guò le wàn chóng gāo shān"
       },
       {
         "title": "日积月累",
@@ -1214,39 +1230,39 @@
         "taskAnswerPinyin": "wǒ de mā ma zuì ài gěi wǒ zuò xiāng pēn pēn de fàn cài"
       },
       {
-        "title": "静夜思",
-        "titlePinyin": "jìng yè sī",
+        "title": "回乡偶书",
+        "titlePinyin": "huí xiāng ǒu shū",
         "type": "ancient_poem",
-        "author": "李白",
-        "authorPinyin": "lǐ bái",
+        "author": "贺知章",
+        "authorPinyin": "hè zhī zhāng",
         "dynasty": "唐",
         "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "chuáng qián míng yuè guāng",
-            "text": "床前明月光，"
+            "pinyin": "shào xiǎo lí jiā lǎo dà huí",
+            "text": "少小离家老大回，"
           },
           {
-            "pinyin": "yí shì dì shàng shuāng",
-            "text": "疑是地上霜。"
+            "pinyin": "xiāng yīn wú gǎi bìn máo shuāi",
+            "text": "乡音无改鬓毛衰。"
           },
           {
-            "pinyin": "jǔ tóu wàng míng yuè",
-            "text": "举头望明月，"
+            "pinyin": "ér tóng xiāng jiàn bù xiāng shí",
+            "text": "儿童相见不相识，"
           },
           {
-            "pinyin": "dī tóu sī gù xiāng",
-            "text": "低头思故乡。"
+            "pinyin": "xiào wèn kè cóng hé chù lái",
+            "text": "笑问客从何处来。"
           }
         ],
-        "annotation": "床：指床铺，也可能指井栏。！！疑：以为、好像。！！霜：白色的冰晶。！！故乡：老家。",
-        "annotationPinyin": "chuáng zhǐ chuáng pù yě kě néng zhǐ jǐng lán yí yǐ wéi hǎo xiàng shuāng bái sè de bīng jīng gù xiāng lǎo jiā",
-        "task": "想一想，你有没有很想念你的家乡或者某位亲人呢？",
-        "taskPinyin": "xiǎng yī xiǎng nǐ yǒu méi yǒu hěn xiǎng niàn nǐ de jiā xiāng huò zhě mǒu wèi qīn rén ne",
-        "taskAnswer": "我很想念住在很远的奶奶。",
-        "taskAnswerPinyin": "wǒ hěn xiǎng niàn zhù zài hěn yuǎn de nǎi nai",
-        "translation": "夜晚，皎洁的月光洒在床前的地面上，让人以为地上结了一层白白的霜。抬起头，看到了空中明亮的月亮，低下头，就想起了远方的老家。",
-        "translationPinyin": "yè wǎn jiǎo jié de yuè guāng sǎ zài chuáng qián de dì miàn shàng ràng rén yǐ wéi dì shàng jié le yī céng bái bái de shuāng tái qǐ tóu kàn dào le kōng zhōng míng liàng de yuè liàng dī xià tóu jiù xiǎng qǐ le yuǎn fāng de lǎo jiā"
+        "annotation": "乡音：家乡的口音。！！鬓毛：两鬓的头发。",
+        "annotationPinyin": "xiāng yīn jiā xiāng de kǒu yīn bìn máo liǎng bìn de tóu fa",
+        "task": "为什么孩子们不认识诗人？",
+        "taskPinyin": "wèi shén me hái zi men bù rèn shí shī rén",
+        "taskAnswer": "因为诗人离开家乡很久了，孩子们没见过他。",
+        "taskAnswerPinyin": "yīn wèi shī rén lí kāi jiā xiāng hěn jiǔ le hái zi men méi jiàn guò tā",
+        "translation": "小时候离开家乡，老了才回来。家乡的口音没有改变，但两鬓的头发已经白了。孩子们看见我却不认识我，笑着问客人是从哪里来的。",
+        "translationPinyin": "xiǎo shí hou lí kāi jiā xiāng lǎo le cái huí lái jiā xiāng de kǒu yīn méi yǒu gǎi biàn dàn liǎng bìn de tóu fa yǐ jīng bái le hái zi men kàn jiàn wǒ què bù rèn shí wǒ xiào zhe wèn kè rén shì cóng nǎ lǐ lái de"
       },
       {
         "title": "日积月累",

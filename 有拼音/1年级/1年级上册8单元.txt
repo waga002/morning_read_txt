@@ -165,10 +165,6 @@
           {
             "pinyin": "sì shí shì sì shí",
             "text": "四十是四十。"
-          },
-          {
-            "pinyin": "nǐ néng fēn qīng chǔ ma",
-            "text": "你能分清楚吗？"
           }
         ],
         "task": "慢慢地读一遍，再加快速度读一遍，看谁的嘴巴最灵活！",
@@ -254,39 +250,39 @@
         "taskAnswerPinyin": ""
       },
       {
-        "title": "咏鹅",
-        "titlePinyin": "yǒng é",
+        "title": "所见",
+        "titlePinyin": "suǒ jiàn",
         "type": "ancient_poem",
-        "author": "骆宾王",
-        "authorPinyin": "luò bīn wáng",
-        "dynasty": "唐",
-        "dynastyPinyin": "táng",
+        "author": "袁枚",
+        "authorPinyin": "yuán méi",
+        "dynasty": "清",
+        "dynastyPinyin": "qīng",
         "contentObject": [
           {
-            "pinyin": "é é é",
-            "text": "鹅！鹅！鹅！"
+            "pinyin": "mù tóng qí huáng niú",
+            "text": "牧童骑黄牛，"
           },
           {
-            "pinyin": "qǔ xiàng xiàng tiān gē",
-            "text": "曲项向天歌。"
+            "pinyin": "gē shēng zhèn lín yuè",
+            "text": "歌声振林樾。"
           },
           {
-            "pinyin": "bái máo fú lǜ shuǐ",
-            "text": "白毛浮绿水，"
+            "pinyin": "yì yù bǔ míng chán",
+            "text": "意欲捕鸣蝉，"
           },
           {
-            "pinyin": "hóng zhǎng bō qīng bō",
-            "text": "红掌拨清波。"
+            "pinyin": "hū rán bì kǒu lì",
+            "text": "忽然闭口立。"
           }
         ],
-        "annotation": "项：脖子。！！掌：脚掌。！！拨：划动。",
-        "annotationPinyin": "xiàng bó zi zhǎng jiǎo zhǎng bō huá dòng",
-        "task": "想一想，鹅的白毛和红掌形成了什么样的对比？",
-        "taskPinyin": "xiǎng yī xiǎng é de bái máo hé hóng zhǎng xíng chéng le shén me yàng de duì bǐ",
-        "taskAnswer": "白色的毛，红色的掌，颜色对比很鲜明，很好看。",
-        "taskAnswerPinyin": "bái sè de máo hóng sè de zhǎng yán sè duì bǐ hěn xiān míng hěn hǎo kàn",
-        "translation": "一只大白鹅呀！它弯着脖子对着天空唱歌。它雪白的羽毛漂浮在绿色的水面上，红色的脚掌划动着清清的水波。",
-        "translationPinyin": "yī zhī dà bái é ya tā wān zhe bó zi duì zhe tiān kōng chàng gē tā xuě bái de yǔ máo piāo fú zài lǜ sè de shuǐ miàn shàng hóng sè de jiǎo zhǎng huá dòng zhe qīng qīng de shuǐ bō"
+        "annotation": "牧童：放牛的孩子。！！振：震动。！！樾：树荫。！！意欲：想要。",
+        "annotationPinyin": "mù tóng fàng niú de hái zi zhèn zhèn dòng yuè shù yīn yì yù xiǎng yào",
+        "task": "牧童为什么突然不唱歌了？",
+        "taskPinyin": "mù tóng wèi shén me tū rán bù chàng gē le",
+        "taskAnswer": "因为他想捉树上的蝉，怕声音吓跑了蝉。",
+        "taskAnswerPinyin": "yīn wèi tā xiǎng zhuō shù shàng de chán pà shēng yīn xià pǎo le chán",
+        "translation": "放牛的孩子骑着黄牛，歌声在树林中回荡。他想要捉树上的知了，突然闭上嘴巴，静静地站着。",
+        "translationPinyin": "fàng niú de hái zi qí zhe huáng niú gē shēng zài shù lín zhōng huí dàng tā xiǎng yào zhuō shù shàng de zhī liǎo tū rán bì shàng zuǐ ba jìng jìng dì zhàn zhe"
       },
       {
         "title": "日积月累",
@@ -822,8 +818,8 @@
         "taskAnswerPinyin": "xiǎo yǔ diǎn ér luò dào wū dǐng yòu shùn zhe fáng yán huá dào le dì shàng"
       },
       {
-        "title": "静夜思",
-        "titlePinyin": "jìng yè sī",
+        "title": "望庐山瀑布",
+        "titlePinyin": "wàng lú shān pù bù",
         "type": "ancient_poem",
         "author": "李白",
         "authorPinyin": "lǐ bái",
@@ -831,30 +827,30 @@
         "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "chuáng qián míng yuè guāng",
-            "text": "床前明月光，"
+            "pinyin": "rì zhào xiāng lú shēng zǐ yān",
+            "text": "日照香炉生紫烟，"
           },
           {
-            "pinyin": "yí shì dì shàng shuāng",
-            "text": "疑是地上霜。"
+            "pinyin": "yáo kàn pù bù guà qián chuān",
+            "text": "遥看瀑布挂前川。"
           },
           {
-            "pinyin": "jǔ tóu wàng míng yuè",
-            "text": "举头望明月，"
+            "pinyin": "fēi liú zhí xià sān qiān chǐ",
+            "text": "飞流直下三千尺，"
           },
           {
-            "pinyin": "dī tóu sī gù xiāng",
-            "text": "低头思故乡。"
+            "pinyin": "yí shì yín hé luò jiǔ tiān",
+            "text": "疑是银河落九天。"
           }
         ],
-        "annotation": "疑：以为。！！霜：露水结成的冰晶。！！故乡：自己的家乡。",
-        "annotationPinyin": "yí yǐ wéi shuāng lù shuǐ jié chéng de bīng jīng gù xiāng zì jǐ de jiā xiāng",
-        "task": "大声朗读三遍，再闭上眼睛想想家乡的亲人。",
-        "taskPinyin": "dà shēng lǎng dú sān biàn zài bì shàng yǎn jing xiǎng xiǎng jiā xiāng de qīn rén",
-        "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "窗前的地上，洒满了明亮的月光，我差点以为是地上的白色秋霜呢。我抬起头看看天空中的月亮，又低下头，想起了远方的家乡。",
-        "translationPinyin": "chuāng qián de dì shàng sǎ mǎn le míng liàng de yuè guāng wǒ chà diǎn yǐ wéi shì dì shàng de bái sè qiū shuāng ne wǒ tái qǐ tóu kàn kàn tiān kōng zhōng de yuè liàng yòu dī xià tóu xiǎng qǐ le yuǎn fāng de jiā xiāng"
+        "annotation": "香炉：香炉峰。！！前川：前面的河流。！！银河：天河。",
+        "annotationPinyin": "xiāng lú xiāng lú fēng qián chuān qián miàn de hé liú yín hé tiān hé",
+        "task": "诗人把瀑布比作什么？",
+        "taskPinyin": "shī rén bǎ pù bù bǐ zuò shén me",
+        "taskAnswer": "把瀑布比作银河从天上落下来。",
+        "taskAnswerPinyin": "bǎ pù bù bǐ zuò yín hé cóng tiān shàng luò xià lái",
+        "translation": "太阳照在香炉峰上，升起了紫色的烟雾。远远看去，瀑布好像挂在前面的河流上。飞流直下三千尺，让人怀疑是银河从九天之上落了下来。",
+        "translationPinyin": "tài yáng zhào zài xiāng lú fēng shàng shēng qǐ le zǐ sè de yān wù yuǎn yuǎn kàn qù pù bù hǎo xiàng guà zài qián miàn de hé liú shàng fēi liú zhí xià sān qiān chǐ ràng rén huái yí shì yín hé cóng jiǔ tiān zhī shàng luò le xià lái"
       },
       {
         "title": "日积月累",
@@ -1296,39 +1292,39 @@
         "taskAnswerPinyin": ""
       },
       {
-        "title": "画",
-        "titlePinyin": "huà",
+        "title": "梅花",
+        "titlePinyin": "méi huā",
         "type": "ancient_poem",
-        "author": "王维",
-        "authorPinyin": "wáng wéi",
-        "dynasty": "唐",
-        "dynastyPinyin": "táng",
+        "author": "王安石",
+        "authorPinyin": "wáng ān shí",
+        "dynasty": "宋",
+        "dynastyPinyin": "sòng",
         "contentObject": [
           {
-            "pinyin": "yuǎn kàn shān yǒu sè",
-            "text": "远看山有色，"
+            "pinyin": "qiáng jiǎo shù zhī méi",
+            "text": "墙角数枝梅，"
           },
           {
-            "pinyin": "jìn tīng shuǐ wú shēng",
-            "text": "近听水无声。"
+            "pinyin": "líng hán dú zì kāi",
+            "text": "凌寒独自开。"
           },
           {
-            "pinyin": "chūn qù huā hái zài",
-            "text": "春去花还在，"
+            "pinyin": "yáo zhī bù shì xuě",
+            "text": "遥知不是雪，"
           },
           {
-            "pinyin": "rén lái niǎo bù jīng",
-            "text": "人来鸟不惊。"
+            "pinyin": "wèi yǒu àn xiāng lái",
+            "text": "为有暗香来。"
           }
         ],
-        "annotation": "色：色彩。！！惊：害怕，惊吓。",
-        "annotationPinyin": "sè sè cǎi jīng hài pà jīng xià",
-        "task": "想一想，为什么人来了鸟却不惊呢？",
-        "taskPinyin": "xiǎng yī xiǎng wèi shén me rén lái le niǎo què bù jīng ne",
-        "taskAnswer": "因为这是一幅画，画里的小鸟不会动，也不会害怕。",
-        "taskAnswerPinyin": "yīn wèi zhè shì yī fú huà huà lǐ de xiǎo niǎo bú huì dòng yě bú huì hài pà",
-        "translation": "远远地看，山峦好像有美丽的颜色。走近听，流水却听不到声音。春天过去了，花朵却还在开着。人走来了，小鸟却一点也不害怕。",
-        "translationPinyin": "yuǎn yuǎn de kàn shān luán hǎo xiàng yǒu měi lì de yán sè zǒu jìn tīng liú shuǐ què tīng bú dào shēng yīn chūn tiān guò qù le huā duǒ què hái zài kāi zhe rén zǒu lái le xiǎo niǎo què yī diǎn yě bú hài pà"
+        "annotation": "凌寒：冒着寒冷。！！暗香：淡淡的香味。",
+        "annotationPinyin": "líng hán mào zhe hán lěng àn xiāng dàn dàn de xiāng wèi",
+        "task": "梅花在什么时候开放？",
+        "taskPinyin": "méi huā zài shén me shí hou kāi fàng",
+        "taskAnswer": "在寒冷的冬天开放。",
+        "taskAnswerPinyin": "zài hán lěng de dōng tiān kāi fàng",
+        "translation": "墙角有几枝梅花，冒着寒冷独自开放。远远看去就知道不是雪，因为有淡淡的香味飘来。",
+        "translationPinyin": "qiáng jiǎo yǒu jǐ zhī méi huā mào zhe hán lěng dú zì kāi fàng yuǎn yuǎn kàn qù jiù zhī dào bú shì xuě yīn wèi yǒu dàn dàn de xiāng wèi piāo lái"
       },
       {
         "title": "日积月累",

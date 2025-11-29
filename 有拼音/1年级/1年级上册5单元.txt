@@ -38,35 +38,27 @@
         "titlePinyin": "sān zì jīng xuǎn dú",
         "type": "classics",
         "author": "王应麟",
-        "authorPinyin": "wáng yīng lín",
+        "authorPinyin": "wáng yìng lín",
         "dynasty": "宋",
         "dynastyPinyin": "sòng",
         "contentObject": [
           {
-            "pinyin": "rén zhī chū",
-            "text": "人之初，"
+            "pinyin": "mèng mǔ zé lín chǔ zǐ",
+            "text": "孟母择邻处，"
           },
           {
-            "pinyin": "xìng běn shàn",
-            "text": "性本善。"
-          },
-          {
-            "pinyin": "xìng xiāng jìn",
-            "text": "性相近，"
-          },
-          {
-            "pinyin": "xí xiāng yuǎn",
-            "text": "习相远。"
+            "pinyin": "zǐ bù xué duàn jī zhù",
+            "text": "子不学，断机杼。"
           }
         ],
-        "annotation": "人之初！！性本善！！性相近！！习相远！！",
-        "annotationPinyin": "rén zhī chū xìng běn shàn xìng xiāng jìn xí xiāng yuǎn",
-        "task": "和爸爸妈妈一起，把这四句话背下来。",
-        "taskPinyin": "hé bà ba mā ma yī qǐ bǎ zhè sì jù huà bèi xià lái",
-        "taskAnswer": "人！之！初！性！本！善！",
-        "taskAnswerPinyin": "rén zhī chū xìng běn shàn",
-        "translation": "小朋友刚出生的时候，本性都是善良的。大家天生的本性很相似，但是因为后天学习和生活环境不同，习性就会慢慢不一样啦。",
-        "translationPinyin": "xiǎo péng yǒu gāng chū shēng de shí hou běn xìng dōu shì shàn liáng de dà jiā tiān shēng de běn xìng hěn xiāng sì dàn shì yīn wéi hòu tiān xué xí hé shēng huó huán jìng bù tóng xí xìng jiù huì màn màn bù yī yàng la"
+        "annotation": "择邻：选择邻居。！！机杼：织布机。",
+        "annotationPinyin": "zé lín xuǎn zé lín jū jī zhù zhī bù jī",
+        "task": "孟子的妈妈为什么要搬家？",
+        "taskPinyin": "mèng zǐ de mā ma wèi shén me yào bān jiā",
+        "taskAnswer": "为了让孟子有好的学习环境。",
+        "taskAnswerPinyin": "wèi le ràng mèng zǐ yǒu hǎo de xué xí huán jìng",
+        "translation": "孟子的妈妈选择好的邻居居住，如果孩子不学习，就割断织布机上的线。",
+        "translationPinyin": "mèng zǐ de mā ma xuǎn zé hǎo de lín jū jū zhù rú guǒ hái zi bù xué xí jiù gē duàn zhī bù jī shàng de xiàn"
       },
       {
         "title": "日积月累",
@@ -242,39 +234,39 @@
         "taskAnswerPinyin": "wǒ de shǒu pà shì lán sè de shàng miàn huà zhe yī zhī xiǎo tù zi"
       },
       {
-        "title": "咏鹅",
-        "titlePinyin": "yǒng é",
+        "title": "小池",
+        "titlePinyin": "xiǎo chí",
         "type": "ancient_poem",
-        "author": "骆宾王",
-        "authorPinyin": "luò bīn wáng",
-        "dynasty": "唐",
-        "dynastyPinyin": "táng",
+        "author": "杨万里",
+        "authorPinyin": "yáng wàn lǐ",
+        "dynasty": "宋",
+        "dynastyPinyin": "sòng",
         "contentObject": [
           {
-            "pinyin": "é é é",
-            "text": "鹅，鹅，鹅，"
+            "pinyin": "quán yǎn wú shēng xī xì liú",
+            "text": "泉眼无声惜细流，"
           },
           {
-            "pinyin": "qǔ xiàng xiàng tiān gē",
-            "text": "曲项向天歌。"
+            "pinyin": "shù yīn zhào shuǐ ài qíng róu",
+            "text": "树阴照水爱晴柔。"
           },
           {
-            "pinyin": "bái máo fú lǜ shuǐ",
-            "text": "白毛浮绿水，"
+            "pinyin": "xiǎo hé cái lù jiān jiān jiǎo",
+            "text": "小荷才露尖尖角，"
           },
           {
-            "pinyin": "hóng zhǎng bō qīng bō",
-            "text": "红掌拨清波。"
+            "pinyin": "zǎo yǒu qīng tíng lì shàng tóu",
+            "text": "早有蜻蜓立上头。"
           }
         ],
-        "annotation": "鹅！！曲项！！向天歌！！浮！！清波！！",
-        "annotationPinyin": "é qǔ xiàng xiàng tiān gē fú qīng bō",
-        "task": "朗读时，学一学大白鹅唱歌和游泳的样子。",
-        "taskPinyin": "lǎng dú shí xué yī xué dà bái é chàng gē hé yóu yǒng de yàng zi",
-        "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "好几只大白鹅，伸着长长的脖子对着天空唱歌。它们雪白的羽毛浮在绿色的水面上，红色的脚掌拨动着清水，真好玩！",
-        "translationPinyin": "hǎo jǐ zhī dà bái é shēn zhe cháng cháng de bó zi duì zhe tiān kōng chàng gē tā men xuě bái de yǔ máo fú zài lǜ sè de shuǐ miàn shàng hóng sè de jiǎo zhǎng bō dòng zhe qīng shuǐ zhēn hǎo wán"
+        "annotation": "泉眼：泉水的出口。！！惜：爱惜。！！晴柔：晴天柔和的风光。",
+        "annotationPinyin": "quán yǎn quán shuǐ de chū kǒu xī ài xī qíng róu qíng tiān róu hé de fēng guāng",
+        "task": "诗中写了哪些景物？",
+        "taskPinyin": "shī zhōng xiě le nǎ xiē jǐng wù",
+        "taskAnswer": "有泉水、树荫、小荷叶、蜻蜓。",
+        "taskAnswerPinyin": "yǒu quán shuǐ shù yīn xiǎo hé yè qīng tíng",
+        "translation": "泉眼静静地流着细小的水流，树荫倒映在水面上，喜爱这晴天柔和的风光。小荷叶刚刚露出尖尖的角，早就有蜻蜓停在上面了。",
+        "translationPinyin": "quán yǎn jìng jìng dì liú zhe xì xiǎo de shuǐ liú shù yīn dào yìng zài shuǐ miàn shàng xǐ ài zhè qíng tiān róu hé de fēng guāng xiǎo hé yè gāng gāng lù chū jiān jiān de jiǎo zǎo jiù yǒu qīng tíng tíng zài shàng miàn le"
       },
       {
         "title": "日积月累",
@@ -451,30 +443,30 @@
         "dynastyPinyin": "qīng",
         "contentObject": [
           {
-            "pinyin": "fù mǔ hū",
-            "text": "父母呼，"
+            "pinyin": "chén zé xǐng",
+            "text": "晨则省，"
           },
           {
-            "pinyin": "yīng wù huǎn",
-            "text": "应勿缓。"
+            "pinyin": "hūn zé dìng",
+            "text": "昏则定。"
           },
           {
-            "pinyin": "fù mǔ mìng",
-            "text": "父母命，"
+            "pinyin": "chū bì gào",
+            "text": "出必告，"
           },
           {
-            "pinyin": "xíng wù làn",
-            "text": "行勿懒。"
+            "pinyin": "fǎn bì miàn",
+            "text": "反必面。"
           }
         ],
-        "annotation": "父母呼！！应勿缓！！父母命！！行勿懒！！",
-        "annotationPinyin": "fù mǔ hū yīng wù huǎn fù mǔ mìng xíng wù làn",
-        "task": "读完这四句话，想一想，你有没有马上答应爸爸妈妈的请求？",
-        "taskPinyin": "dú wán zhè sì jù huà xiǎng yī xiǎng nǐ yǒu méi yǒu mǎ shàng dā yīng bà ba mā ma de qǐng qiú",
-        "taskAnswer": "有。妈妈叫我，我马上说：“哎！”",
-        "taskAnswerPinyin": "yǒu mā ma jiào wǒ wǒ mǎ shàng shuō āi",
-        "translation": "爸爸妈妈叫我们的时候，要马上答应，不要慢慢吞吞。爸爸妈妈要我们做的事情，要快点去做，不能偷懒。",
-        "translationPinyin": "bà ba mā ma jiào wǒ men de shí hou yào mǎ shàng dā yīng bù yào màn màn tūn tūn bà ba mā ma yào wǒ men zuò de shì qíng yào kuài diǎn qù zuò bù néng tōu lǎn"
+        "annotation": "省：问候。！！定：安顿。！！告：告诉。！！反：回来。",
+        "annotationPinyin": "xǐng wèn hòu dìng ān dùn gào gào su fǎn huí lái",
+        "task": "早上起床和晚上睡觉时，你应该对爸爸妈妈说什么？",
+        "taskPinyin": "zǎo shang qǐ chuáng hé wǎn shang shuì jiào shí nǐ yīng gāi duì bà ba mā ma shuō shén me",
+        "taskAnswer": "早上说早上好，晚上说晚安。",
+        "taskAnswerPinyin": "zǎo shang shuō zǎo shang hǎo wǎn shang shuō wǎn ān",
+        "translation": "早上起床要向父母问好，晚上睡觉前要安顿好父母。出门前要告诉父母，回来时要向父母报平安。",
+        "translationPinyin": "zǎo shang qǐ chuáng yào xiàng fù mǔ wèn hǎo wǎn shang shuì jiào qián yào ān dùn hǎo fù mǔ chū mén qián yào gào su fù mǔ huí lái shí yào xiàng fù mǔ bào píng ān"
       },
       {
         "title": "日积月累",
@@ -734,39 +726,51 @@
         "taskAnswerPinyin": "bèi zhǎo dào le tā de wěi ba lù chū lái le"
       },
       {
-        "title": "画",
-        "titlePinyin": "huà",
+        "title": "江南",
+        "titlePinyin": "jiāng nán",
         "type": "ancient_poem",
-        "author": "王维",
-        "authorPinyin": "wáng wéi",
-        "dynasty": "唐",
-        "dynastyPinyin": "táng",
+        "author": "汉乐府",
+        "authorPinyin": "hàn yuè fǔ",
+        "dynasty": "汉",
+        "dynastyPinyin": "hàn",
         "contentObject": [
           {
-            "pinyin": "yuǎn kàn shān yǒu sè",
-            "text": "远看山有色，"
+            "pinyin": "jiāng nán kě cǎi lián",
+            "text": "江南可采莲，"
           },
           {
-            "pinyin": "jìn tīng shuǐ wú shēng",
-            "text": "近听水无声。"
+            "pinyin": "lián yè hé tián tián",
+            "text": "莲叶何田田。"
           },
           {
-            "pinyin": "chūn qù huā hái zài",
-            "text": "春去花还在，"
+            "pinyin": "yú xì lián yè jiān",
+            "text": "鱼戏莲叶间。"
           },
           {
-            "pinyin": "rén lái niǎo bù jīng",
-            "text": "人来鸟不惊。"
+            "pinyin": "yú xì lián yè dōng",
+            "text": "鱼戏莲叶东，"
+          },
+          {
+            "pinyin": "yú xì lián yè xī",
+            "text": "鱼戏莲叶西，"
+          },
+          {
+            "pinyin": "yú xì lián yè nán",
+            "text": "鱼戏莲叶南，"
+          },
+          {
+            "pinyin": "yú xì lián yè běi",
+            "text": "鱼戏莲叶北。"
           }
         ],
-        "annotation": "有色！！无声！！不惊！！",
-        "annotationPinyin": "yǒu sè wú shēng bù jīng",
-        "task": "这首诗里藏着一幅画，读的时候，试着用手比划出远和近。",
-        "taskPinyin": "zhè shǒu shī lǐ cáng zhe yī fú huà dú de shí hou shì zhe yòng shǒu bǐ huà chū yuǎn hé jìn",
-        "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "远远看去，山是有颜色的，但是走近听水的声音，却听不到声音。春天过去了，花朵却还开着，有人走近了，鸟儿也不会害怕地飞走。",
-        "translationPinyin": "yuǎn yuǎn kàn qù shān shì yǒu yán sè de dàn shì zǒu jìn tīng shuǐ de shēng yīn què tīng bù dào shēng yīn chūn tiān guò qù le huā duǒ què hái kāi zhe yǒu rén zǒu jìn le niǎo ér yě bù huì hài pà de fēi zǒu"
+        "annotation": "何：多么。！！田田：茂盛的样子。",
+        "annotationPinyin": "hé duō me tián tián mào shèng de yàng zi",
+        "task": "诗中写了鱼在哪里游？",
+        "taskPinyin": "shī zhōng xiě le yú zài nǎ lǐ yóu",
+        "taskAnswer": "鱼在莲叶的东、西、南、北各个方向游。",
+        "taskAnswerPinyin": "yú zài lián yè de dōng xī nán běi gè gè fāng xiàng yóu",
+        "translation": "江南可以采莲，莲叶多么茂盛啊。鱼儿在莲叶间游来游去。鱼儿在莲叶的东边游，在莲叶的西边游，在莲叶的南边游，在莲叶的北边游。",
+        "translationPinyin": "jiāng nán kě yǐ cǎi lián lián yè duō me mào shèng a yú er zài lián yè jiān yóu lái yóu qù yú er zài lián yè de dōng biān yóu zài lián yè de xī biān yóu zài lián yè de nán biān yóu zài lián yè de běi biān yóu"
       },
       {
         "title": "日积月累",

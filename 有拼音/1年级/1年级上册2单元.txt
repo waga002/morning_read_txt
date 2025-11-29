@@ -804,39 +804,39 @@
         "taskAnswerPinyin": "hóng sè de wū dǐng hé lán sè de mén"
       },
       {
-        "title": "静夜思",
-        "titlePinyin": "jìng yè sī",
+        "title": "春晓",
+        "titlePinyin": "chūn xiǎo",
         "type": "ancient_poem",
-        "author": "李白",
-        "authorPinyin": "lǐ bái",
+        "author": "孟浩然",
+        "authorPinyin": "mèng hào rán",
         "dynasty": "唐",
         "dynastyPinyin": "táng",
         "contentObject": [
           {
-            "pinyin": "chuáng qián míng yuè guāng",
-            "text": "床前明月光，"
+            "pinyin": "chūn mián bù jué xiǎo",
+            "text": "春眠不觉晓，"
           },
           {
-            "pinyin": "yí shì dì shàng shuāng",
-            "text": "疑是地上霜。"
+            "pinyin": "chù chù wén tí niǎo",
+            "text": "处处闻啼鸟。"
           },
           {
-            "pinyin": "jǔ tóu wàng míng yuè",
-            "text": "举头望明月，"
+            "pinyin": "yè lái fēng yǔ shēng",
+            "text": "夜来风雨声，"
           },
           {
-            "pinyin": "dī tóu sī gù xiāng",
-            "text": "低头思故乡。"
+            "pinyin": "huā luò zhī duō shǎo",
+            "text": "花落知多少。"
           }
         ],
-        "annotation": "疑：怀疑。！！地上霜：地上的白霜。！！举头：抬起头。！！故乡：自己的家乡。",
-        "annotationPinyin": "yí huái yí dì shàng shuāng dì shàng de bái shuāng jǔ tóu tái qǐ tóu gù xiāng zì jǐ de jiā xiāng",
-        "task": "把这首诗大声读三遍，感受一下诗人的心情。",
-        "taskPinyin": "bǎ zhè shǒu shī dà shēng dú sān biàn gǎn shòu yī xià shī rén de xīn qíng",
-        "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "床前洒满了明亮的月光，我以为是地上结了一层白白的霜。抬起头来看看那天上的月亮，又低下头想念我的家乡。",
-        "translationPinyin": "chuáng qián sǎ mǎn le míng liàng de yuè guāng wǒ yǐ wéi shì dì shàng jié le yī céng bái bái de shuāng tái qǐ tóu lái kàn kan nà tiān shàng de yuè liang yòu dī xià tóu xiǎng niàn wǒ de jiā xiāng"
+        "annotation": "晓：天亮。！！啼鸟：鸟叫。！！处处：每个地方。",
+        "annotationPinyin": "xiǎo tiān liàng tí niǎo niǎo jiào chù chù měi gè dì fāng",
+        "task": "诗中写了哪些声音？",
+        "taskPinyin": "shī zhōng xiě le nǎ xiē shēng yīn",
+        "taskAnswer": "有鸟叫声，风声，雨声。",
+        "taskAnswerPinyin": "yǒu niǎo jiào shēng fēng shēng yǔ shēng",
+        "translation": "春天睡得很香，不知不觉天就亮了。醒来后到处都能听见小鸟在唱歌。想一想昨天晚上风雨的声音，不知道有多少花瓣被吹落了呢？",
+        "translationPinyin": "chūn tiān shuì de hěn xiāng bù zhī bù jué tiān jiù liàng le xǐng lái hòu dào chù dōu néng tīng jiàn xiǎo niǎo zài chàng gē xiǎng yī xiǎng zuó tiān wǎn shàng fēng yǔ de shēng yīn bù zhī dào yǒu duō shǎo huā bàn bèi chuī luò le ne"
       },
       {
         "title": "日积月累",
@@ -1129,38 +1129,38 @@
         "type": "tongue_twisters",
         "alignment": "0",
         "contentObject": [
-            {
-              "pinyin": "xiǎo lǐ jiào lǎo lǐ",
-              "text": "小李叫老李，"
-            },
-            {
-              "pinyin": "yì qǐ xué chuī xiǎo lǎ ba",
-              "text": "一起学吹小喇叭。"
-            },
-            {
-              "pinyin": "lǎo lǐ yòng lì chuī",
-              "text": "老李用力吹，"
-            },
-            {
-              "pinyin": "lǎ ba dī dā jiào",
-              "text": "喇叭嘀嗒叫。"
-            },
-            {
-              "pinyin": "xiǎo lǐ qīng qīng chuī",
-              "text": "小李轻轻吹，"
-            },
-            {
-              "pinyin": "lǎ ba bù shēng xiǎng",
-              "text": "喇叭不声响。"
-            },
-            {
-              "pinyin": "yuán lái xiǎo lǎ ba",
-              "text": "原来小喇叭，"
-            },
-            {
-              "pinyin": "yào yòng lì qi chuī。",
-              "text": "要用力气吹。"
-            }
+          {
+            "pinyin": "xiǎo lǐ jiào lǎo lǐ",
+            "text": "小李叫老李，"
+          },
+          {
+            "pinyin": "yì qǐ xué chuī xiǎo lǎ ba",
+            "text": "一起学吹小喇叭。"
+          },
+          {
+            "pinyin": "lǎo lǐ yòng lì chuī",
+            "text": "老李用力吹，"
+          },
+          {
+            "pinyin": "lǎ ba dī dā jiào",
+            "text": "喇叭嘀嗒叫。"
+          },
+          {
+            "pinyin": "xiǎo lǐ qīng qīng chuī",
+            "text": "小李轻轻吹，"
+          },
+          {
+            "pinyin": "lǎ ba bù shēng xiǎng",
+            "text": "喇叭不声响。"
+          },
+          {
+            "pinyin": "yuán lái xiǎo lǎ ba",
+            "text": "原来小喇叭，"
+          },
+          {
+            "pinyin": "yào yòng lì qi chuī。",
+            "text": "要用力气吹。"
+          }
         ],
         "task": "大声把绕口令读三遍",
         "taskPinyin": "dà shēng bǎ rào kǒu lìng dú sān biàn",
