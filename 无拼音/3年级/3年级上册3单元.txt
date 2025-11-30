@@ -163,7 +163,7 @@
 			},
 			{
 				"title": "弟子规（信篇）",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "李毓秀",
 				"dynasty": "清",
 				"contentObject": [
@@ -457,7 +457,7 @@
 			},
 			{
 				"title": "弟子规（尊长篇）",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "李毓秀",
 				"dynasty": "清",
 				"contentObject": [
@@ -855,7 +855,7 @@
 			},
 			{
 				"title": "弟子规（兄弟篇）",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "李毓秀",
 				"dynasty": "清",
 				"contentObject": [

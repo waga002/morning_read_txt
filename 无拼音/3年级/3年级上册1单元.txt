@@ -163,7 +163,7 @@
 			},
 			{
 				"title": "弟子规（衣冠篇）",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "李毓秀",
 				"dynasty": "清",
 				"contentObject": [
@@ -442,7 +442,7 @@
 			},
 			{
 				"title": "弟子规（谨篇）",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "李毓秀",
 				"dynasty": "清",
 				"contentObject": [
@@ -840,7 +840,7 @@
 			},
 			{
 				"title": "弟子规（日常篇）",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "李毓秀",
 				"dynasty": "清",
 				"contentObject": [

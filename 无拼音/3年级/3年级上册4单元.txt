@@ -157,7 +157,7 @@
 			},
 			{
 				"title": "弟子规（起居篇）",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "李毓秀",
 				"dynasty": "清",
 				"contentObject": [
@@ -424,7 +424,7 @@
 			},
 			{
 				"title": "弟子规（清洁篇）",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "李毓秀",
 				"dynasty": "清",
 				"contentObject": [
@@ -804,7 +804,7 @@
 			},
 			{
 				"title": "弟子规（置冠服）",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "李毓秀",
 				"dynasty": "清",
 				"contentObject": [

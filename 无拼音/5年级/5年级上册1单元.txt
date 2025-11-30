@@ -162,7 +162,7 @@
 			},
 			{
 				"title": "论语：士不可以不弘毅",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "孔子（弟子及其再传弟子）",
 				"dynasty": "春秋战国",
 				"contentObject": [
@@ -230,7 +230,7 @@
 			},
 			{
 				"title": "我是一个任性的孩子",
-				"type": "childrens_verse",
+				"type": "children_poem",
 				"author": "顾城",
 				"dynasty": "现代",
 				"contentObject": [
@@ -453,7 +453,7 @@
 			},
 			{
 				"title": "论语：知之为知之",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "孔子（弟子及其再传弟子）",
 				"dynasty": "春秋战国",
 				"contentObject": [
@@ -542,7 +542,7 @@
 			},
 			{
 				"title": "池上",
-				"type": "childrens_verse",
+				"type": "ancient_poem",
 				"author": "白居易",
 				"dynasty": "唐",
 				"contentObject": [
@@ -844,7 +844,7 @@
 			},
 			{
 				"title": "朱子家训",
-				"type": "classic_recitation",
+				"type": "classics",
 				"author": "朱柏庐",
 				"dynasty": "清",
 				"contentObject": [
@@ -936,7 +936,7 @@
 			},
 			{
 				"title": "我是一个任性的孩子",
-				"type": "childrens_verse",
+				"type": "children_poem",
 				"author": "顾城",
 				"dynasty": "现代",
 				"contentObject": [
