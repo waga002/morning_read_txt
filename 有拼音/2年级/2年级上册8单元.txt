@@ -175,14 +175,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   },
@@ -362,14 +358,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   },
@@ -549,14 +541,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   },
@@ -764,14 +752,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   },
@@ -923,14 +907,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   },
@@ -1134,14 +1114,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   },
@@ -1341,14 +1317,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   },
@@ -1520,14 +1492,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   },
@@ -1687,14 +1655,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   },
@@ -1858,14 +1822,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   },
@@ -2045,14 +2005,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   },
@@ -2236,14 +2192,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "",
         "taskPinyin": "",
         "taskAnswer": "",
-        "taskAnswerPinyin": "",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": ""
       }
     ]
   }

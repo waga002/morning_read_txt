@@ -132,43 +132,37 @@
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
             "content": [
-              [
-                {
-                  "pinyin": "shēng jī bó bó xíng róng shēng mìng lì wàng shèng",
-                  "text": "生机勃勃（形容生命力旺盛）"
-                },
-                {
-                  "pinyin": "bái xuě ái ái xíng róng xuě duō",
-                  "text": "白雪皑皑（形容雪多）"
-                },
-                {
-                  "pinyin": "huān gē xiào yǔ",
-                  "text": "欢歌笑语"
-                },
-                {
-                  "pinyin": "liú lián wàng fǎn shě bù dé lí kāi",
-                  "text": "流连忘返（舍不得离开）"
-                },
-                {
-                  "pinyin": "fú guò dòng cí",
-                  "text": "拂过（动词）"
-                },
-                {
-                  "pinyin": "tián tián xíng róng cí",
-                  "text": "甜甜（形容词）"
-                }
-              ]
+              {
+                "pinyin": "shēng jī bó bó xíng róng shēng mìng lì wàng shèng",
+                "text": "生机勃勃（形容生命力旺盛）"
+              },
+              {
+                "pinyin": "bái xuě ái ái xíng róng xuě duō",
+                "text": "白雪皑皑（形容雪多）"
+              },
+              {
+                "pinyin": "huān gē xiào yǔ",
+                "text": "欢歌笑语"
+              },
+              {
+                "pinyin": "liú lián wàng fǎn shě bù dé lí kāi",
+                "text": "流连忘返（舍不得离开）"
+              },
+              {
+                "pinyin": "fú guò dòng cí",
+                "text": "拂过（动词）"
+              },
+              {
+                "pinyin": "tián tián xíng róng cí",
+                "text": "甜甜（形容词）"
+              }
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "用‘生机勃勃’和‘甜甜’各造一个句子。",
         "taskPinyin": "yòng shēng jī bó bó hé tián tián gè zào yī gè jù zi",
         "taskAnswer": "春天来了，大地一片生机勃勃。妈妈给我买的草莓甜甜的。",
-        "taskAnswerPinyin": "chūn tiān lái le dà dì yī piàn shēng jī bó bó mā ma gěi wǒ mǎi de cǎo méi tián tián de",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "chūn tiān lái le dà dì yī piàn shēng jī bó bó mā ma gěi wǒ mǎi de cǎo méi tián tián de"
       }
     ]
   },
@@ -324,14 +318,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "用‘立刻’和‘诚实可信’各造一个句子。",
         "taskPinyin": "yòng lì kè hé chéng shí kě xìn gè zào yī gè jù zi",
         "taskAnswer": "老师一叫我，我立刻站了起来。！！诚实可信的人，大家都愿意和他做朋友。",
-        "taskAnswerPinyin": "lǎo shī yī jiào wǒ wǒ lì kè zhàn le qǐ lái chéng shí kě xìn de rén dà jiā dōu yuàn yì hé tā zuò péng yǒu",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "lǎo shī yī jiào wǒ wǒ lì kè zhàn le qǐ lái chéng shí kě xìn de rén dà jiā dōu yuàn yì hé tā zuò péng yǒu"
       }
     ]
   },
@@ -479,14 +469,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "用‘先……再……然后……’写一个你放学回家后的句子。",
         "taskPinyin": "yòng xiān zài rán hòu xiě yī gè nǐ fàng xué huí jiā hòu de jù zi",
         "taskAnswer": "我放学回家后，先写作业，再吃饭，然后跟爸爸妈妈一起看书。",
-        "taskAnswerPinyin": "wǒ fàng xué huí jiā hòu xiān xiě zuò yè zài chī fàn rán hòu gēn bà ba mā ma yī qǐ kàn shū",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "wǒ fàng xué huí jiā hòu xiān xiě zuò yè zài chī fàn rán hòu gēn bà ba mā ma yī qǐ kàn shū"
       }
     ]
   },
@@ -646,14 +632,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "请用扩句法，把‘小鱼游’变得更生动、更长。",
         "taskPinyin": "qǐng yòng kuò jù fǎ bǎ xiǎo yú yóu biàn dé gèng shēng dòng gèng cháng",
         "taskAnswer": "一条条红色的小鱼在清澈的河水里快活地游来游去。",
-        "taskAnswerPinyin": "yī tiáo tiáo hóng sè de xiǎo yú zài qīng chè de hé shuǐ lǐ kuài huó dì yóu lái yóu qù",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "yī tiáo tiáo hóng sè de xiǎo yú zài qīng chè de hé shuǐ lǐ kuài huó dì yóu lái yóu qù"
       }
     ]
   },
@@ -805,14 +787,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "用‘温故知新’说一句话。",
         "taskPinyin": "yòng wēn gù zhī xīn shuō yī jù huà",
         "taskAnswer": "我每天坚持复习学过的生字，做到温故知新。",
-        "taskAnswerPinyin": "wǒ měi tiān jiān chí fù xí xué guò de shēng zì zuò dào wēn gù zhī xīn",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "wǒ měi tiān jiān chí fù xí xué guò de shēng zì zuò dào wēn gù zhī xīn"
       }
     ]
   },
@@ -972,14 +950,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "用‘一寸光阴一寸金’说一句话，提醒自己珍惜时间。",
         "taskPinyin": "yòng yī cùn guāng yīn yī cùn jīn shuō yī jù huà tí xǐng zì jǐ zhēn xī shí jiān",
         "taskAnswer": "一寸光阴一寸金，我们要少看电视，把时间用来学习。",
-        "taskAnswerPinyin": "yī cùn guāng yīn yī cùn jīn wǒ men yào shǎo kàn diàn shìbǎ shí jiān yòng lái xué xí",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "yī cùn guāng yīn yī cùn jīn wǒ men yào shǎo kàn diàn shìbǎ shí jiān yòng lái xué xí"
       }
     ]
   },
@@ -1120,43 +1094,37 @@
             "title": "好词积累",
             "titlePinyin": "hǎo cí jī lěi",
             "content": [
-              [
-                {
-                  "pinyin": "bān lán guāng máng xíng róng sè cǎi xuàn lì",
-                  "text": "斑斓光芒（形容色彩绚丽）"
-                },
-                {
-                  "pinyin": "shī lù lù xíng róng hěn shī",
-                  "text": "湿漉漉（形容很湿）"
-                },
-                {
-                  "pinyin": "yǔ hòu chūn sǔn bǐ yù shì wù dà liàng chū xiàn",
-                  "text": "雨后春笋（比喻事物大量出现）"
-                },
-                {
-                  "pinyin": "xiān yàn duó mù",
-                  "text": "鲜艳夺目"
-                },
-                {
-                  "pinyin": "bēn pǎo dòng cí",
-                  "text": "奔跑（动词）"
-                },
-                {
-                  "pinyin": "qīng xīn xíng róng cí",
-                  "text": "清新（形容词）"
-                }
-              ]
+              {
+                "pinyin": "bān lán guāng máng xíng róng sè cǎi xuàn lì",
+                "text": "斑斓光芒（形容色彩绚丽）"
+              },
+              {
+                "pinyin": "shī lù lù xíng róng hěn shī",
+                "text": "湿漉漉（形容很湿）"
+              },
+              {
+                "pinyin": "yǔ hòu chūn sǔn bǐ yù shì wù dà liàng chū xiàn",
+                "text": "雨后春笋（比喻事物大量出现）"
+              },
+              {
+                "pinyin": "xiān yàn duó mù",
+                "text": "鲜艳夺目"
+              },
+              {
+                "pinyin": "bēn pǎo dòng cí",
+                "text": "奔跑（动词）"
+              },
+              {
+                "pinyin": "qīng xīn xíng róng cí",
+                "text": "清新（形容词）"
+              }
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "用‘湿漉漉’和‘清新’各造一个句子。",
         "taskPinyin": "yòng shī lù lù hé qīng xīn gè zào yī gè jù zi",
         "taskAnswer": "刚下过雨，我的鞋子湿漉漉的。清晨的空气很清新，让人感到很舒服。",
-        "taskAnswerPinyin": "gāng xià guò yǔ wǒ de xié zi shī lù lù de qīng chén de kōng qì hěn qīng xīn ràng rén gǎn dào hěn shū fú",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "gāng xià guò yǔ wǒ de xié zi shī lù lù de qīng chén de kōng qì hěn qīng xīn ràng rén gǎn dào hěn shū fú"
       }
     ]
   },
@@ -1312,14 +1280,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "用‘气势雄伟’和‘与日俱增’各造一个句子。",
         "taskPinyin": "yòng qì shì xióng wěi hé yǔ rì jù zēng gè zào yī gè jù zi",
         "taskAnswer": "万里长城气势雄伟。我的知识在老师的教导下，正与日俱增。",
-        "taskAnswerPinyin": "wàn lǐ cháng chéng qì shì xióng wěi wǒ de zhī shi zài lǎo shī de jiào dǎo xià zhèng yǔ rì jù zēng",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "wàn lǐ cháng chéng qì shì xióng wěi wǒ de zhī shi zài lǎo shī de jiào dǎo xià zhèng yǔ rì jù zēng"
       }
     ]
   },
@@ -1475,14 +1439,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "用拟人的方法写一写你书桌上的铅笔。",
         "taskPinyin": "yòng nǐ rén de fāng fǎ xiě yī xiě nǐ shū zhuō shàng de qiān bǐ",
         "taskAnswer": "我的铅笔写累了，就躺在铅笔盒里呼呼大睡。",
-        "taskAnswerPinyin": "wǒ de qiān bǐ xiě lèi le jiù tǎng zài qiān bǐ hé lǐ hū hū dà shuì",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "wǒ de qiān bǐ xiě lèi le jiù tǎng zài qiān bǐ hé lǐ hū hū dà shuì"
       }
     ]
   },
@@ -1658,14 +1618,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "用比喻的方法写一写你妈妈的头发。",
         "taskPinyin": "yòng bǐ yù de fāng fǎ xiě yī xiě nǐ mā ma de tóu fà",
         "taskAnswer": "妈妈的头发又黑又亮，像黑色的瀑布一样，柔顺地披在肩上。",
-        "taskAnswerPinyin": "mā ma de tóu fà yòu hēi yòu liàng xiàng hēi sè de pù bù yī yàng róu shùn dì pī zài jiān shàng",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "mā ma de tóu fà yòu hēi yòu liàng xiàng hēi sè de pù bù yī yàng róu shùn dì pī zài jiān shàng"
       }
     ]
   },
@@ -1817,14 +1773,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "用扩句法，把‘花开了’变得更生动、更长。",
         "taskPinyin": "yòng kuò jù fǎ bǎ huā kāi le biàn dé gèng shēng dòng gèng cháng",
         "taskAnswer": "阳台上，那盆红色的月季花终于在阳光下悄悄地绽放了，美丽极了。",
-        "taskAnswerPinyin": "yáng tái shàng nà pén hóng sè de yuè jì huā zhōng yú zài yáng guāng xià qiāo qiāo de zhàn fàng le měi lì jí le",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "yáng tái shàng nà pén hóng sè de yuè jì huā zhōng yú zài yáng guāng xià qiāo qiāo de zhàn fàng le měi lì jí le"
       }
     ]
   },
@@ -1980,14 +1932,10 @@
             ]
           }
         ],
-        "annotation": "",
-        "annotationPinyin": "",
         "task": "用‘水滴石穿’说一句话，鼓励自己坚持学习。",
         "taskPinyin": "yòng shuǐ dī shí chuān shuō yī jù huà gǔ lì zì jǐ jiān chí xué xí",
         "taskAnswer": "虽然背诵课文很难，但水滴石穿，我每天背一点，总有一天能全部记住。",
-        "taskAnswerPinyin": "suī rán bèi sòng kè wén hěn nán dàn shuǐ dī shí chuān wǒ měi tiān bèi yī diǎn zǒng yǒu yī tiān néng quán bù jì zhù",
-        "translation": "",
-        "translationPinyin": ""
+        "taskAnswerPinyin": "suī rán bèi sòng kè wén hěn nán dàn shuǐ dī shí chuān wǒ měi tiān bèi yī diǎn zǒng yǒu yī tiān néng quán bù jì zhù"
       }
     ]
   }
