@@ -580,7 +580,6 @@
 			{
 				"title": "宿建德江",
 				"type": "textbook_review",
-				"alignment": "0",
 				"author": "孟浩然",
 				"dynasty": "唐",
 				"contentObject": [

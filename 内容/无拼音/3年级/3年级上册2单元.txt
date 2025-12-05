@@ -1007,7 +1007,6 @@
 			{
 				"title": "望洞庭（复习）",
 				"type": "textbook_review",
-				"alignment": "0",
 				"author": "刘禹锡",
 				"dynasty": "唐",
 				"contentObject": [

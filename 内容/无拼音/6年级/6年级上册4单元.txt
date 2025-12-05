@@ -728,7 +728,6 @@
 			{
 				"title": "论语：孝悌为本",
 				"type": "classics",
-				"alignment": "1",
 				"author": "孔丘",
 				"dynasty": "先秦",
 				"contentObject": [
