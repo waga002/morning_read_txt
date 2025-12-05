@@ -83,27 +83,27 @@
 						"content": [
 							{
 								"pinyin": "bǐ bǐ sài",
-								"text": "比——比赛"
+								"text": "比 → 比赛"
 							},
 							{
 								"pinyin": "wěi wěi ba",
-								"text": "尾——尾巴"
+								"text": "尾 → 尾巴"
 							},
 							{
 								"pinyin": "bā xià ba",
-								"text": "巴——下巴"
+								"text": "巴 → 下巴"
 							},
 							{
 								"pinyin": "cháng cháng duǎn",
-								"text": "长——长短"
+								"text": "长 → 长短"
 							},
 							{
 								"pinyin": "duǎn duǎn fà",
-								"text": "短——短发"
+								"text": "短 → 短发"
 							},
 							{
 								"pinyin": "shéi wèn shéi",
-								"text": "谁——问谁"
+								"text": "谁 → 问谁"
 							}
 						]
 					}
@@ -635,27 +635,27 @@
 						"content": [
 							{
 								"pinyin": "hē hē shuǐ",
-								"text": "喝——喝水"
+								"text": "喝 → 喝水"
 							},
 							{
 								"pinyin": "yā ā yā",
-								"text": "呀——啊呀"
+								"text": "呀 → 啊呀"
 							},
 							{
 								"pinyin": "bàn bàn fǎ",
-								"text": "办——办法"
+								"text": "办 → 办法"
 							},
 							{
 								"pinyin": "fǎ bàn fǎ",
-								"text": "法——办法"
+								"text": "法 → 办法"
 							},
 							{
 								"pinyin": "gāo gāo dà",
-								"text": "高——高大"
+								"text": "高 → 高大"
 							},
 							{
 								"pinyin": "dī dī tóu",
-								"text": "低——低头"
+								"text": "低 → 低头"
 							}
 						]
 					}
@@ -1097,27 +1097,27 @@
 						"content": [
 							{
 								"pinyin": "xǔ xǔ duō",
-								"text": "许——许多"
+								"text": "许 → 许多"
 							},
 							{
 								"pinyin": "liàng míng liàng",
-								"text": "亮——明亮"
+								"text": "亮 → 明亮"
 							},
 							{
 								"pinyin": "kē yī kē",
-								"text": "颗——一颗"
+								"text": "颗 → 一颗"
 							},
 							{
 								"pinyin": "xiàng hǎo xiàng",
-								"text": "像——好像"
+								"text": "像 → 好像"
 							},
 							{
 								"pinyin": "qù guò qù",
-								"text": "去——过去"
+								"text": "去 → 过去"
 							},
 							{
 								"pinyin": "lái guò lái",
-								"text": "来——过来"
+								"text": "来 → 过来"
 							}
 						]
 					}

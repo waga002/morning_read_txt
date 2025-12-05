@@ -76,23 +76,23 @@
             "content": [
               {
                 "pinyin": "tiān tiān kōng",
-                "text": "天——天空"
+                "text": "天 → 天空"
               },
               {
                 "pinyin": "dì dà dì",
-                "text": "地——大地"
+                "text": "地 → 大地"
               },
               {
                 "pinyin": "rén dà rén",
-                "text": "人——大人"
+                "text": "人 → 大人"
               },
               {
                 "pinyin": "nǐ nǐ hǎo",
-                "text": "你——你好"
+                "text": "你 → 你好"
               },
               {
                 "pinyin": "wǒ wǒ men",
-                "text": "我——我们"
+                "text": "我 → 我们"
               }
             ]
           }
@@ -598,23 +598,23 @@
             "content": [
               {
                 "pinyin": "kǒu zuǐ bā",
-                "text": "口——嘴巴"
+                "text": "口 → 嘴巴"
               },
               {
                 "pinyin": "ěr ěr duo",
-                "text": "耳——耳朵"
+                "text": "耳 → 耳朵"
               },
               {
                 "pinyin": "shǒu shǒu zhǐ",
-                "text": "手——手指"
+                "text": "手 → 手指"
               },
               {
                 "pinyin": "zú zú jiǎo",
-                "text": "足——脚"
+                "text": "足 → 脚"
               },
               {
                 "pinyin": "jīn jīn zi",
-                "text": "金——金子"
+                "text": "金 → 金子"
               }
             ]
           }
@@ -999,24 +999,24 @@
             "titlePinyin": "shēng zì kāi huā",
             "content": [
               {
-                "pinyin": "rì tài yáng",
-                "text": "日——太阳"
+                "pinyin": "tiān tiān kōng",
+                "text": "天 → 天空"
               },
               {
                 "pinyin": "yuè yuè liang",
-                "text": "月——月亮"
+                "text": "月 → 月亮"
               },
               {
                 "pinyin": "shān shān fēng",
-                "text": "山——山峰"
+                "text": "山 → 山峰"
               },
               {
                 "pinyin": "chuān hé chuān",
-                "text": "川——河川"
+                "text": "川 → 河川"
               },
               {
                 "pinyin": "huǒ dà huǒ",
-                "text": "火——大火"
+                "text": "火 → 大火"
               }
             ]
           }

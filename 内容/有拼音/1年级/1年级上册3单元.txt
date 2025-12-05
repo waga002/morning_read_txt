@@ -76,23 +76,23 @@
 						"content": [
 							{
 								"pinyin": "gē chàng gē",
-								"text": "歌——唱歌"
+								"text": "歌 → 唱歌"
 							},
 							{
 								"pinyin": "kǒu dà kǒu",
-								"text": "口——大口"
+								"text": "口 → 大口"
 							},
 							{
 								"pinyin": "hè hē shuǐ",
-								"text": "喝——喝水"
+								"text": "喝 → 喝水"
 							},
 							{
 								"pinyin": "dà dà rén",
-								"text": "大——大人"
+								"text": "大 → 大人"
 							},
 							{
 								"pinyin": "tiān tiān shàng",
-								"text": "天——天上"
+								"text": "天 → 天上"
 							}
 						]
 					}
@@ -605,23 +605,23 @@
 						"content": [
 							{
 								"pinyin": "chǐ chǐ zi",
-								"text": "尺——尺子"
+								"text": "尺 → 尺子"
 							},
 							{
 								"pinyin": "shù dà shù",
-								"text": "树——大树"
+								"text": "树 → 大树"
 							},
 							{
 								"pinyin": "rè rè nào",
-								"text": "热——热闹"
+								"text": "热 → 热闹"
 							},
 							{
 								"pinyin": "zhī zhī dào",
-								"text": "知——知道"
+								"text": "知 → 知道"
 							},
 							{
 								"pinyin": "chē chū chē",
-								"text": "车——出车"
+								"text": "车 → 出车"
 							}
 						]
 					}
@@ -641,26 +641,26 @@
 		"theme": "绕口令小专家",
 		"content": [
 			{
-				"title": "小舌头练习",
-				"titlePinyin": "xiǎo shé tou liàn xí",
+				"title": "过马路",
+				"titlePinyin": "guò mǎ lù",
 				"type": "textbook_review",
 				"alignment": "0",
 				"contentObject": [
 					{
-						"pinyin": "zhōng qián shì chē zi",
-						"text": "中前是车子，"
+						"pinyin": "mǎ lù shàng yǒu chē",
+						"text": "马路上，有车。"
 					},
 					{
-						"pinyin": "chī fàn yào chēng hao",
-						"text": "吃饭要称好，"
+						"pinyin": "guò mǎ lù， kàn liǎng biān",
+						"text": "过马路， 看两边。"
 					},
 					{
-						"pinyin": "rén men zài shù xià xiū xi",
-						"text": "人们在树下休息。"
+						"pinyin": "ān quán dì yī wǒ jì zhù",
+						"text": "安全第一我记住。"
 					}
 				],
 				"task": "大声读三遍，注意发音。",
-				"taskPinyin": "dà shēng dú sān biàn zhù yì fā yīn",
+				"taskPinyin": "dà shēng dú sān biàn， zhù yì fā yīn。",
 				"taskAnswer": "",
 				"taskAnswerPinyin": ""
 			},
@@ -967,15 +967,15 @@
 				"contentObject": [
 					{
 						"pinyin": "zuò xià hē shuǐ",
-						"text": "坐下，喝水。"
+						"text": "坐下 喝水。"
 					},
 					{
 						"pinyin": "gē ge wán shuǎ",
-						"text": "哥哥玩耍。"
+						"text": "哥哥 玩耍。"
 					},
 					{
-						"pinyin": "jī qiú xià tiān",
-						"text": "飞机，球，夏天。"
+						"pinyin": "fēi jī qiú xià tiān",
+						"text": "飞机 球 夏天。"
 					}
 				]
 			},
@@ -1021,23 +1021,23 @@
 						"content": [
 							{
 								"pinyin": "wán wán shuǎ",
-								"text": "玩——玩耍"
+								"text": "玩 → 玩耍"
 							},
 							{
 								"pinyin": "yǒu péng yǒu",
-								"text": "友——朋友"
+								"text": "友 → 朋友"
 							},
 							{
 								"pinyin": "kuài kuài lè",
-								"text": "快——快乐"
+								"text": "快 → 快乐"
 							},
 							{
 								"pinyin": "duō hěn duō",
-								"text": "多——很多"
+								"text": "多 → 很多"
 							},
 							{
 								"pinyin": "shǎo duō shǎo",
-								"text": "少——多少"
+								"text": "少 → 多少"
 							}
 						]
 					}

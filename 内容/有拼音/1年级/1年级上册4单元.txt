@@ -75,23 +75,23 @@
 						"content": [
 							{
 								"pinyin": "bái bái sè",
-								"text": "白——白色"
+								"text": "白 → 白色"
 							},
 							{
 								"pinyin": "fēi fēi jī",
-								"text": "飞——飞机"
+								"text": "飞 → 飞机"
 							},
 							{
 								"pinyin": "duì duì cuò",
-								"text": "对——对错"
+								"text": "对 → 对错"
 							},
 							{
 								"pinyin": "yī yī bān",
-								"text": "一——一般"
+								"text": "一 → 一般"
 							},
 							{
 								"pinyin": "dà dà gài",
-								"text": "大——大概"
+								"text": "大 → 大概"
 							}
 						]
 					}
@@ -565,23 +565,23 @@
 						"content": [
 							{
 								"pinyin": "yè shù yè",
-								"text": "叶——树叶"
+								"text": "叶 → 树叶"
 							},
 							{
 								"pinyin": "yuè yuè liàng",
-								"text": "月——月亮"
+								"text": "月 → 月亮"
 							},
 							{
 								"pinyin": "ěr ěr duo",
-								"text": "耳——耳朵"
+								"text": "耳 → 耳朵"
 							},
 							{
 								"pinyin": "wān wān qū qū",
-								"text": "弯——弯弯曲曲"
+								"text": "弯 → 弯弯曲曲"
 							},
 							{
 								"pinyin": "péi péi bàn",
-								"text": "陪——陪伴"
+								"text": "陪 → 陪伴"
 							}
 						]
 					}
@@ -957,23 +957,23 @@
 						"content": [
 							{
 								"pinyin": "cháng cháng dà",
-								"text": "长——长大"
+								"text": "长 → 长大"
 							},
 							{
 								"pinyin": "fēng fēng zhēng",
-								"text": "风——风筝"
+								"text": "风 → 风筝"
 							},
 							{
 								"pinyin": "dēng dēng guāng",
-								"text": "灯——灯光"
+								"text": "灯 → 灯光"
 							},
 							{
 								"pinyin": "chàng chàng gē",
-								"text": "唱——唱歌"
+								"text": "唱 → 唱歌"
 							},
 							{
 								"pinyin": "dōng dōng xī",
-								"text": "东——东西"
+								"text": "东 → 东西"
 							}
 						]
 					}

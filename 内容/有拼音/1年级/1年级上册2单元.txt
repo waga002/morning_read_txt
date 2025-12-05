@@ -80,23 +80,23 @@
             "content": [
               {
                 "pinyin": "dà dà xiǎo",
-                "text": "大——大小"
+                "text": "大 → 大小"
               },
               {
                 "pinyin": "shàng shàng xià",
-                "text": "上——上下"
+                "text": "上 → 上下"
               },
               {
                 "pinyin": "gē gē gē",
-                "text": "哥——哥哥"
+                "text": "哥 → 哥哥"
               },
               {
                 "pinyin": "mèi mèi mei",
-                "text": "妹——妹妹"
+                "text": "妹 → 妹妹"
               },
               {
                 "pinyin": "hé hé miáo",
-                "text": "禾——禾苗"
+                "text": "禾 → 禾苗"
               }
             ]
           }
@@ -626,23 +626,23 @@
             "content": [
               {
                 "pinyin": "wǒ wǒ men",
-                "text": "我——我们"
+                "text": "我 → 我们"
               },
               {
                 "pinyin": "tā tā men",
-                "text": "他——他们"
+                "text": "他 → 他们"
               },
               {
                 "pinyin": "bù bù duì",
-                "text": "不——不对"
+                "text": "不 → 不对"
               },
               {
                 "pinyin": "wèn wèn hào",
-                "text": "问——问号"
+                "text": "问 → 问号"
               },
               {
                 "pinyin": "shì shì qing",
-                "text": "事——事情"
+                "text": "事 → 事情"
               }
             ]
           }
@@ -1052,23 +1052,23 @@
             "content": [
               {
                 "pinyin": "mù mù tóu",
-                "text": "木——木头"
+                "text": "木 → 木头"
               },
               {
                 "pinyin": "tǔ tǔ dì",
-                "text": "土——土地"
+                "text": "土 → 土地"
               },
               {
                 "pinyin": "dà dà xiǎo",
-                "text": "大——大小"
+                "text": "大 → 大小"
               },
               {
                 "pinyin": "lì lì qi",
-                "text": "力——力气"
+                "text": "力 → 力气"
               },
               {
                 "pinyin": "tián tián yě",
-                "text": "田——田野"
+                "text": "田 → 田野"
               }
             ]
           }
