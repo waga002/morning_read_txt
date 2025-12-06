@@ -91,37 +91,13 @@
 								"pinyin": "shǎn shǎn guāng",
 								"text": "闪 -- 闪光"
 							},
-							[
-								{
-									"pinyin": "liàng míng liàng",
-									"text": "亮——明亮"
-								},
-								{
-									"pinyin": "guà guà tú",
-									"text": "挂——挂图"
-								}
-							]
-						]
-					},
-					{
-						"title": "词语小宝库",
-						"titlePinyin": "cí yǔ xiǎo bǎo kù",
-						"content": [
 							{
-								"pinyin": "wān wān",
-								"text": "弯弯"
+								"pinyin": "liàng míng liàng",
+								"text": "亮——明亮"
 							},
 							{
-								"pinyin": "zhēn liàng",
-								"text": "真亮"
-							},
-							{
-								"pinyin": "yī fān fēng shùn",
-								"text": "一帆风顺"
-							},
-							{
-								"pinyin": "xiǎo xīn yì yì",
-								"text": "小心翼翼"
+								"pinyin": "guà guà tú",
+								"text": "挂——挂图"
 							}
 						]
 					}

@@ -111,7 +111,7 @@
 				"contentObject": [
 					{
 						"pinyin": "é é é",
-						"text": "鹅！鹅！鹅！"
+						"text": "鹅，鹅，鹅，"
 					},
 					{
 						"pinyin": "qǔ xiàng xiàng tiān gē",
