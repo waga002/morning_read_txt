@@ -311,7 +311,7 @@
 			{
 				"title": "小木船（节选）",
 				"type": "textbook_review",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -685,7 +685,7 @@
 			{
 				"title": "我家的菜熟了（习作例文）",
 				"type": "textbook_review",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -892,7 +892,7 @@
 			{
 				"title": "如果我是一朵云",
 				"type": "children_poem",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -943,7 +943,7 @@
 			{
 				"title": "小木船（复习·和解）",
 				"type": "textbook_review",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{

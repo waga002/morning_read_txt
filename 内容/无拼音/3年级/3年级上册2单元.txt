@@ -236,7 +236,7 @@
 			{
 				"title": "秋风娃娃",
 				"type": "children_poem",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -518,7 +518,7 @@
 			{
 				"title": "果园里",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -554,7 +554,7 @@
 			{
 				"title": "秋姑娘",
 				"type": "children_poem",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -635,7 +635,7 @@
 			{
 				"title": "香山红叶",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -914,7 +914,7 @@
 			{
 				"title": "秋风（选读）",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -1031,7 +1031,7 @@
 			{
 				"title": "湖面",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -1148,7 +1148,7 @@
 			{
 				"title": "日记一则（示例）",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{

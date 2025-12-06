@@ -227,7 +227,7 @@
 			{
 				"title": "小蚂蚁",
 				"type": "children_poem",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{

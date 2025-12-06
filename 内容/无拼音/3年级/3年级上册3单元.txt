@@ -823,7 +823,7 @@
 			{
 				"title": "风的故事（选读）",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{

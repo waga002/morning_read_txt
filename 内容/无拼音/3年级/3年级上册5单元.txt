@@ -9,7 +9,7 @@
 			{
 				"title": "翠鸟捕鱼",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -614,7 +614,7 @@
 			{
 				"title": "小刺猬",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -805,7 +805,7 @@
 			{
 				"title": "雨",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -925,7 +925,7 @@
 			{
 				"title": "雾",
 				"type": "children_poem",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -1003,7 +1003,7 @@
 			{
 				"title": "吃西瓜",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -1096,7 +1096,7 @@
 			{
 				"title": "下雪了",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{

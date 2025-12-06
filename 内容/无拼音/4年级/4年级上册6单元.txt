@@ -509,7 +509,7 @@
 			{
 				"title": "月夜",
 				"type": "children_poem",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{

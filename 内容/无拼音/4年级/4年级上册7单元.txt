@@ -221,7 +221,7 @@
 			{
 				"title": "春天的消息",
 				"type": "children_poem",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{

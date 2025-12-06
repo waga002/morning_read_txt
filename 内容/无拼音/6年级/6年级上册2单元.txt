@@ -683,7 +683,7 @@
 			{
 				"title": "珠穆朗玛峰的攀登（素材）",
 				"type": "modern_prose",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{

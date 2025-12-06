@@ -9,7 +9,7 @@
 			{
 				"title": "富饶的西沙群岛（瑰丽的海底）",
 				"type": "textbook_review",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -309,7 +309,7 @@
 			{
 				"title": "美丽的小兴安岭（猴子与野猪）",
 				"type": "textbook_review",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -382,7 +382,7 @@
 			{
 				"title": "香港，璀璨的明珠（夜景）",
 				"type": "textbook_review",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -567,7 +567,7 @@
 			{
 				"title": "富饶的西沙群岛（珍贵的物产）",
 				"type": "textbook_review",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -776,7 +776,7 @@
 			{
 				"title": "美丽的小兴安岭（秋色）",
 				"type": "textbook_review",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -925,7 +925,7 @@
 			{
 				"title": "香港，璀璨的明珠（街道）",
 				"type": "textbook_review",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
@@ -1008,7 +1008,7 @@
 			{
 				"title": "美丽的小兴安岭（总结）",
 				"type": "textbook_review",
-				"author": "佚名",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{

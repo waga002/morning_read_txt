@@ -486,7 +486,7 @@
 			{
 				"title": "夜的书",
 				"type": "children_poem",
-				"author": "外文译作（佚名）",
+				"author": "",
 				"dynasty": "现代",
 				"contentObject": [
 					{
