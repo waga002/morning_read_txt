@@ -12,15 +12,15 @@
 				"type": "textbook_review",
 				"contentObject": [
 					{
-						"pinyin": "ā ā ā gōng jī jiào",
+						"pinyin": "à à à， gōng jī jiào",
 						"text": "啊啊啊，公鸡叫。"
 					},
 					{
-						"pinyin": "ō ō ō tài yáng chū",
+						"pinyin": "ō ō ō， tài yáng chū",
 						"text": "喔喔喔，太阳出。"
 					},
 					{
-						"pinyin": "ē ē ē xiǎo bái é",
+						"pinyin": "é é é， xiǎo bái é",
 						"text": "鹅鹅鹅，小白鹅。"
 					}
 				],
@@ -76,28 +76,28 @@
 				"dynastyPinyin": "",
 				"contentObject": [
 					{
-						"title": "认读生字",
+						"title": "生字开花",
 						"titlePinyin": "rèn dú shēng zì",
 						"content": [
 							{
 								"pinyin": "dà dà xiǎo",
-								"text": "大 → 大小"
+								"text": "大 -- 大小"
 							},
 							{
 								"pinyin": "shàng shàng xià",
-								"text": "上 → 上下"
+								"text": "上 -- 上下"
 							},
 							{
 								"pinyin": "gē gē gē",
-								"text": "哥 → 哥哥"
+								"text": "哥 -- 哥哥"
 							},
 							{
 								"pinyin": "mèi mèi mei",
-								"text": "妹 → 妹妹"
+								"text": "妹 -- 妹妹"
 							},
 							{
 								"pinyin": "hé hé miáo",
-								"text": "禾 → 禾苗"
+								"text": "禾 -- 禾苗"
 							}
 						]
 					}
@@ -150,7 +150,7 @@
 				"paragraph_indent": 3
 			},
 			{
-				"title": "绕口令：小猪",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng xiǎo zhū",
 				"type": "tongue_twisters",
 				"contentObject": [
@@ -630,28 +630,28 @@
 				"dynastyPinyin": "",
 				"contentObject": [
 					{
-						"title": "认读生字",
+						"title": "生字开花",
 						"titlePinyin": "rèn dú shēng zì",
 						"content": [
 							{
 								"pinyin": "wǒ wǒ men",
-								"text": "我 → 我们"
+								"text": "我 -- 我们"
 							},
 							{
 								"pinyin": "tā tā men",
-								"text": "他 → 他们"
+								"text": "他 -- 他们"
 							},
 							{
 								"pinyin": "bù bù duì",
-								"text": "不 → 不对"
+								"text": "不 -- 不对"
 							},
 							{
 								"pinyin": "wèn wèn hào",
-								"text": "问 → 问号"
+								"text": "问 -- 问号"
 							},
 							{
 								"pinyin": "shì shì qing",
-								"text": "事 → 事情"
+								"text": "事 -- 事情"
 							}
 						]
 					}
@@ -700,7 +700,7 @@
 				"paragraph_indent": 2
 			},
 			{
-				"title": "绕口令：画和花",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng huà hé huā",
 				"type": "tongue_twisters",
 				"contentObject": [
@@ -1064,28 +1064,28 @@
 				"dynastyPinyin": "",
 				"contentObject": [
 					{
-						"title": "认读生字",
+						"title": "生字开花",
 						"titlePinyin": "rèn dú shēng zì",
 						"content": [
 							{
 								"pinyin": "mù mù tóu",
-								"text": "木 → 木头"
+								"text": "木 -- 木头"
 							},
 							{
 								"pinyin": "tǔ tǔ dì",
-								"text": "土 → 土地"
+								"text": "土 -- 土地"
 							},
 							{
 								"pinyin": "dà dà xiǎo",
-								"text": "大 → 大小"
+								"text": "大 -- 大小"
 							},
 							{
 								"pinyin": "lì lì qi",
-								"text": "力 → 力气"
+								"text": "力 -- 力气"
 							},
 							{
 								"pinyin": "tián tián yě",
-								"text": "田 → 田野"
+								"text": "田 -- 田野"
 							}
 						]
 					}
@@ -1142,7 +1142,7 @@
 				"paragraph_indent": 1
 			},
 			{
-				"title": "绕口令：小喇叭",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng xiǎo lǎ ba",
 				"type": "tongue_twisters",
 				"contentObject": [

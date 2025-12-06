@@ -75,27 +75,27 @@
 						"content": [
 							{
 								"pinyin": "qiū qiū tiān",
-								"text": "秋 → 秋天"
+								"text": "秋 -- 秋天"
 							},
 							{
 								"pinyin": "huáng huáng sè",
-								"text": "黄 → 黄色"
+								"text": "黄 -- 黄色"
 							},
 							{
 								"pinyin": "yè shù yè",
-								"text": "叶 → 树叶"
+								"text": "叶 -- 树叶"
 							},
 							{
 								"pinyin": "tiān tà tiān",
-								"text": "天 → 大天"
+								"text": "天 -- 大天"
 							},
 							{
 								"pinyin": "hú hú dié",
-								"text": "蝴 → 蝴蝶"
+								"text": "蝴 -- 蝴蝶"
 							},
 							{
 								"pinyin": "dié hú dié",
-								"text": "蝶 → 蝴蝶"
+								"text": "蝶 -- 蝴蝶"
 							}
 						]
 					}
@@ -148,7 +148,7 @@
 				"paragraph_indent": 3
 			},
 			{
-				"title": "绕口令：扁担长",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng biǎn dan cháng",
 				"type": "tongue_twisters",
 				"contentObject": [
@@ -580,24 +580,24 @@
 						"titlePinyin": "shēng zì kāi huā",
 						"content": [
 							{
-								"pinyin": "lián hé lián",
-								"text": "莲 → 荷莲"
+								"pinyin": "lián lián huā",
+								"text": "莲——莲花"
 							},
 							{
-								"pinyin": "tián cǎo tián",
-								"text": "田 → 草田"
+								"pinyin": "tián shuǐ tián",
+								"text": "田——水田"
 							},
 							{
-								"pinyin": "jiān huā jiān",
-								"text": "间 → 花间"
+								"pinyin": "jiān shí jiān",
+								"text": "间——时间"
 							},
 							{
-								"pinyin": "yú xiǎo yú",
-								"text": "鱼 → 小鱼"
+								"pinyin": "yú jīn yú",
+								"text": "鱼——金鱼"
 							},
 							{
-								"pinyin": "xī wán xī",
-								"text": "戏 → 玩戏"
+								"pinyin": "xì yóu xì",
+								"text": "戏——游戏"
 							}
 						]
 					}
@@ -642,7 +642,7 @@
 				"paragraph_indent": 3
 			},
 			{
-				"title": "绕口令：小花狗",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng xiǎo huā gǒu",
 				"type": "tongue_twisters",
 				"contentObject": [
@@ -1035,23 +1035,23 @@
 						"content": [
 							{
 								"pinyin": "jī xiǎo jī",
-								"text": "鸡 → 小鸡"
+								"text": "鸡 -- 小鸡"
 							},
 							{
 								"pinyin": "gǒu xiǎo gǒu",
-								"text": "狗 → 小狗"
+								"text": "狗 -- 小狗"
 							},
 							{
 								"pinyin": "máo yǔ máo",
-								"text": "梅 → 梅花"
+								"text": "梅 -- 梅花"
 							},
 							{
 								"pinyin": "bái bái sè",
-								"text": "白 → 白色"
+								"text": "白 -- 白色"
 							},
 							{
 								"pinyin": "tù xiǎo tù",
-								"text": "兔 → 小兔"
+								"text": "兔 -- 小兔"
 							}
 						]
 					}
@@ -1102,7 +1102,7 @@
 				"taskAnswerPinyin": "mì táng"
 			},
 			{
-				"title": "绕口令：大鼓和小鼓",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng dà gǔ hé xiǎo gǔ",
 				"type": "tongue_twisters",
 				"contentObject": [

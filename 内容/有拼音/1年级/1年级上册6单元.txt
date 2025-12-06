@@ -81,19 +81,19 @@
 						"content": [
 							{
 								"pinyin": "míng míng liàng",
-								"text": "明 → 明亮"
+								"text": "明 -- 明亮"
 							},
 							{
 								"pinyin": "xiǎo xiǎo niǎo",
-								"text": "小 → 小鸟"
+								"text": "小 -- 小鸟"
 							},
 							{
 								"pinyin": "shū kàn shū",
-								"text": "书 → 看书"
+								"text": "书 -- 看书"
 							},
 							{
 								"pinyin": "bāo shū bāo",
-								"text": "包 → 书包"
+								"text": "包 -- 书包"
 							}
 						]
 					}
@@ -142,7 +142,7 @@
 				"paragraph_indent": 3
 			},
 			{
-				"title": "绕口令：吃葡萄",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng chī pú tao",
 				"type": "tongue_twisters",
 				"author": "",
@@ -657,27 +657,27 @@
 						"content": [
 							{
 								"pinyin": "qí guó qí",
-								"text": "旗 → 国旗"
+								"text": "旗 -- 国旗"
 							},
 							{
 								"pinyin": "guó guó jiā",
-								"text": "国 → 国家"
+								"text": "国 -- 国家"
 							},
 							{
 								"pinyin": "rén rén men",
-								"text": "人 → 人们"
+								"text": "人 -- 人们"
 							},
 							{
 								"pinyin": "shēng shēng qǐ",
-								"text": "升 → 升起"
+								"text": "升 -- 升起"
 							},
 							{
 								"pinyin": "míng míng tiān",
-								"text": "明 → 明天"
+								"text": "明 -- 明天"
 							},
 							{
 								"pinyin": "yán yán rè",
-								"text": "炎 → 炎热"
+								"text": "炎 -- 炎热"
 							}
 						]
 					}
@@ -724,7 +724,7 @@
 				"taskAnswerPinyin": ""
 			},
 			{
-				"title": "绕口令：盆和瓶",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng pén hé píng",
 				"type": "tongue_twisters",
 				"author": "",
@@ -1139,27 +1139,27 @@
 						"content": [
 							{
 								"pinyin": "míng míng liàng",
-								"text": "明 → 明亮"
+								"text": "明 -- 明亮"
 							},
 							{
-								"pinyin": "duì duì zi",
-								"text": "对 → 对子"
+								"pinyin": "duì duì miàn",
+								"text": "对 -- 对面"
 							},
 							{
 								"pinyin": "gē gē qǔ",
-								"text": "歌 → 歌曲"
+								"text": "歌 -- 歌曲"
 							},
 							{
 								"pinyin": "rì rì zi",
-								"text": "日 → 日子"
+								"text": "日 -- 日子"
 							},
 							{
 								"pinyin": "yuè yuè liang",
-								"text": "月 → 月亮"
+								"text": "月 -- 月亮"
 							},
 							{
 								"pinyin": "qí cǎi qí",
-								"text": "旗 → 彩旗"
+								"text": "旗 -- 彩旗"
 							}
 						]
 					}
@@ -1216,7 +1216,7 @@
 				"paragraph_indent": 3
 			},
 			{
-				"title": "绕口令：坡上立着一只婆婆",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng pō shàng lì zhe yī zhī pó po",
 				"type": "tongue_twisters",
 				"author": "",

@@ -81,24 +81,26 @@
 						"content": [
 							{
 								"pinyin": "chuán xiǎo chuán",
-								"text": "船 → 小船"
+								"text": "船 -- 小船"
 							},
 							{
 								"pinyin": "wān wān wān de",
-								"text": "弯 → 弯弯的"
+								"text": "弯 -- 弯弯的"
 							},
 							{
-								"pinyin": "shǎn shǎn shǎn guāng",
-								"text": "闪 → 闪闪光"
+								"pinyin": "shǎn shǎn guāng",
+								"text": "闪 -- 闪光"
 							},
-							{
-								"pinyin": "liàng yáng guāng liàng",
-								"text": "亮 → 阳光亮"
-							},
-							{
-								"pinyin": "guà guà shàng",
-								"text": "挂 → 挂上"
-							}
+							[
+								{
+									"pinyin": "liàng míng liàng",
+									"text": "亮——明亮"
+								},
+								{
+									"pinyin": "guà guà tú",
+									"text": "挂——挂图"
+								}
+							]
 						]
 					},
 					{
@@ -166,7 +168,7 @@
 				"taskAnswerPinyin": "wǒ bāng wǒ de hǎo péng yǒu jiǎn qǐ le diào zài dì shàng de qiān bǐ"
 			},
 			{
-				"title": "绕口令：房前屋后",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng fáng qián wū hòu",
 				"type": "tongue_twisters",
 				"author": "",
@@ -651,23 +653,23 @@
 						"content": [
 							{
 								"pinyin": "yǐng yǐng zi",
-								"text": "影 → 影子"
+								"text": "影 -- 影子"
 							},
 							{
 								"pinyin": "qián qián miàn",
-								"text": "前 → 前面"
+								"text": "前 -- 前面"
 							},
 							{
 								"pinyin": "hòu hòu miàn",
-								"text": "后 → 后面"
+								"text": "后 -- 后面"
 							},
 							{
 								"pinyin": "tā tā men",
-								"text": "它 → 它们"
+								"text": "它 -- 它们"
 							},
 							{
 								"pinyin": "hǎo hǎo péng you",
-								"text": "好 → 好朋友"
+								"text": "好 -- 好朋友"
 							}
 						]
 					}
@@ -716,7 +718,7 @@
 				"paragraph_indent": 1
 			},
 			{
-				"title": "绕口令：四和十",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng sì hé shí",
 				"type": "tongue_twisters",
 				"author": "",
@@ -1083,23 +1085,23 @@
 						"content": [
 							{
 								"pinyin": "jiàn yī jiàn",
-								"text": "件 → 一件"
+								"text": "件 -- 一件"
 							},
 							{
 								"pinyin": "bǎo bǎo bèi",
-								"text": "宝 → 宝贝"
+								"text": "宝 -- 宝贝"
 							},
 							{
 								"pinyin": "dòng dòng shǒu",
-								"text": "动 → 动手"
+								"text": "动 -- 动手"
 							},
 							{
 								"pinyin": "zuò zuò shì",
-								"text": "做 → 做事"
+								"text": "做 -- 做事"
 							},
 							{
 								"pinyin": "yòng yòng gōng",
-								"text": "用 → 用功"
+								"text": "用 -- 用功"
 							}
 						]
 					}
@@ -1146,7 +1148,7 @@
 				"taskAnswerPinyin": "tā kàn dào le cǎi sè de shān hú"
 			},
 			{
-				"title": "绕口令：哥哥弟弟",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng gē ge dì di",
 				"type": "tongue_twisters",
 				"author": "",

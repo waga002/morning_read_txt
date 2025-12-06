@@ -77,23 +77,23 @@
 						"content": [
 							{
 								"pinyin": "gē chàng gē",
-								"text": "歌 → 唱歌"
+								"text": "歌 -- 唱歌"
 							},
 							{
 								"pinyin": "kǒu dà kǒu",
-								"text": "口 → 大口"
+								"text": "口 -- 大口"
 							},
 							{
 								"pinyin": "hè hē shuǐ",
-								"text": "喝 → 喝水"
+								"text": "喝 -- 喝水"
 							},
 							{
 								"pinyin": "dà dà rén",
-								"text": "大 → 大人"
+								"text": "大 -- 大人"
 							},
 							{
 								"pinyin": "tiān tiān shàng",
-								"text": "天 → 天上"
+								"text": "天 -- 天上"
 							}
 						]
 					}
@@ -613,23 +613,23 @@
 						"content": [
 							{
 								"pinyin": "chǐ chǐ zi",
-								"text": "尺 → 尺子"
+								"text": "尺 -- 尺子"
 							},
 							{
 								"pinyin": "shù dà shù",
-								"text": "树 → 大树"
+								"text": "树 -- 大树"
 							},
 							{
 								"pinyin": "rè rè nào",
-								"text": "热 → 热闹"
+								"text": "热 -- 热闹"
 							},
 							{
 								"pinyin": "zhī zhī dào",
-								"text": "知 → 知道"
+								"text": "知 -- 知道"
 							},
 							{
 								"pinyin": "chē chū chē",
-								"text": "车 → 出车"
+								"text": "车 -- 出车"
 							}
 						]
 					}
@@ -674,7 +674,7 @@
 				"paragraph_indent": 3
 			},
 			{
-				"title": "绕口令：四是四",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng sì shì sì",
 				"type": "tongue_twisters",
 				"author": "",
@@ -1039,23 +1039,23 @@
 						"content": [
 							{
 								"pinyin": "wán wán shuǎ",
-								"text": "玩 → 玩耍"
+								"text": "玩 -- 玩耍"
 							},
 							{
 								"pinyin": "yǒu péng yǒu",
-								"text": "友 → 朋友"
+								"text": "友 -- 朋友"
 							},
 							{
 								"pinyin": "kuài kuài lè",
-								"text": "快 → 快乐"
+								"text": "快 -- 快乐"
 							},
 							{
 								"pinyin": "duō hěn duō",
-								"text": "多 → 很多"
+								"text": "多 -- 很多"
 							},
 							{
 								"pinyin": "shǎo duō shǎo",
-								"text": "少 → 多少"
+								"text": "少 -- 多少"
 							}
 						]
 					}
@@ -1112,7 +1112,7 @@
 				"paragraph_indent": 3
 			},
 			{
-				"title": "绕口令：黑灰化肥",
+				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng hēi huī huà féi",
 				"type": "tongue_twisters",
 				"author": "",
