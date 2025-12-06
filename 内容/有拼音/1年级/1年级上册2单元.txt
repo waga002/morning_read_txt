@@ -1,1345 +1,1345 @@
 [
 	{
-		"grade":1,
-		"term":0,
-		"week":3,
-		"day":1,
-		"theme":"单韵母娃娃来了",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 3,
+		"day": 1,
+		"theme": "单韵母娃娃来了",
+		"content": [
 			{
-				"title":"小嘴巴，圆又圆",
-				"titlePinyin":"xiǎo zuǐ bā yuán yòu yuán",
-				"type":"textbook_review",
-				"contentObject":[
+				"title": "小嘴巴，圆又圆",
+				"titlePinyin": "xiǎo zuǐ bā yuán yòu yuán",
+				"type": "textbook_review",
+				"contentObject": [
 					{
-						"pinyin":"ā ā ā gōng jī jiào",
-						"text":"啊啊啊，公鸡叫。"
+						"pinyin": "ā ā ā gōng jī jiào",
+						"text": "啊啊啊，公鸡叫。"
 					},
 					{
-						"pinyin":"ō ō ō tài yáng chū",
-						"text":"喔喔喔，太阳出。"
+						"pinyin": "ō ō ō tài yáng chū",
+						"text": "喔喔喔，太阳出。"
 					},
 					{
-						"pinyin":"ē ē ē xiǎo bái é",
-						"text":"鹅鹅鹅，小白鹅。"
+						"pinyin": "ē ē ē xiǎo bái é",
+						"text": "鹅鹅鹅，小白鹅。"
 					}
 				],
-				"task":"大声读出这三个韵母宝宝",
-				"taskPinyin":"dà shēng dú chū zhè sān gè yùn mǔ bǎo bao",
-				"taskAnswer":"",
-				"taskAnswerPinyin":"",
-				"alignment_mode":"left",
-				"paragraph_indent":3
+				"task": "大声读出这三个韵母宝宝",
+				"taskPinyin": "dà shēng dú chū zhè sān gè yùn mǔ bǎo bao",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 3
 			},
 			{
-				"title":"三字经（选段）",
-				"titlePinyin":"sān zì jīng xuǎn duàn",
-				"type":"classics",
-				"author":"王应麟",
-				"authorPinyin":"wáng yìng lín",
-				"dynasty":"宋",
-				"dynastyPinyin":"sòng",
-				"contentObject":[
+				"title": "三字经（选段）",
+				"titlePinyin": "sān zì jīng xuǎn duàn",
+				"type": "classics",
+				"author": "王应麟",
+				"authorPinyin": "wáng yìng lín",
+				"dynasty": "宋",
+				"dynastyPinyin": "sòng",
+				"contentObject": [
 					{
-						"pinyin":"yù bù zhuó",
-						"text":"玉不琢，"
+						"pinyin": "yù bù zhuó",
+						"text": "玉不琢，"
 					},
 					{
-						"pinyin":"bù chéng qì",
-						"text":"不成器。"
+						"pinyin": "bù chéng qì",
+						"text": "不成器。"
 					},
 					{
-						"pinyin":"rén bù xué",
-						"text":"人不学，"
+						"pinyin": "rén bù xué",
+						"text": "人不学，"
 					},
 					{
-						"pinyin":"bù zhī yì",
-						"text":"不知义。"
+						"pinyin": "bù zhī yì",
+						"text": "不知义。"
 					}
 				],
-				"annotation":"琢：雕刻。！！成器：变成有用的东西。！！学：学习。！！知义：懂得道理。",
-				"annotationPinyin":"zhuó diāo kè chéng qì biàn chéng yǒu yòng de dōng xi xué xué xí zhī yì dǒng de dào lǐ",
-				"task":"把“人不学，不知义”大声读三遍，记住学习的重要性。",
-				"taskPinyin":"bǎ rén bù xué bù zhī yì dà shēng dú sān biàn jì zhù xué xí de zhòng yào xìng",
-				"taskAnswer":"",
-				"taskAnswerPinyin":"",
-				"translation":"一块美玉如果不雕刻打磨，就不会成为精美的玉器。人如果不学习，就不会懂得做人做事的道理。",
-				"translationPinyin":"yī kuài měi yù rú guǒ bù diāo kè dǎ mó jiù bú huì chéng wéi jīng měi de yù qì rén rú guǒ bù xué xí jiù bú huì dǒng de zuò rén zuò shì de dào lǐ"
+				"annotation": "琢：雕刻。！！成器：变成有用的东西。！！学：学习。！！知义：懂得道理。",
+				"annotationPinyin": "zhuó diāo kè chéng qì biàn chéng yǒu yòng de dōng xi xué xué xí zhī yì dǒng de dào lǐ",
+				"task": "把“人不学，不知义”大声读三遍，记住学习的重要性。",
+				"taskPinyin": "bǎ rén bù xué bù zhī yì dà shēng dú sān biàn jì zhù xué xí de zhòng yào xìng",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"translation": "一块美玉如果不雕刻打磨，就不会成为精美的玉器。人如果不学习，就不会懂得做人做事的道理。",
+				"translationPinyin": "yī kuài měi yù rú guǒ bù diāo kè dǎ mó jiù bú huì chéng wéi jīng měi de yù qì rén rú guǒ bù xué xí jiù bú huì dǒng de zuò rén zuò shì de dào lǐ"
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"认读生字",
-						"titlePinyin":"rèn dú shēng zì",
-						"content":[
+						"title": "认读生字",
+						"titlePinyin": "rèn dú shēng zì",
+						"content": [
 							{
-								"pinyin":"dà dà xiǎo",
-								"text":"大 → 大小"
+								"pinyin": "dà dà xiǎo",
+								"text": "大 → 大小"
 							},
 							{
-								"pinyin":"shàng shàng xià",
-								"text":"上 → 上下"
+								"pinyin": "shàng shàng xià",
+								"text": "上 → 上下"
 							},
 							{
-								"pinyin":"gē gē gē",
-								"text":"哥 → 哥哥"
+								"pinyin": "gē gē gē",
+								"text": "哥 → 哥哥"
 							},
 							{
-								"pinyin":"mèi mèi mei",
-								"text":"妹 → 妹妹"
+								"pinyin": "mèi mèi mei",
+								"text": "妹 → 妹妹"
 							},
 							{
-								"pinyin":"hé hé miáo",
-								"text":"禾 → 禾苗"
+								"pinyin": "hé hé miáo",
+								"text": "禾 → 禾苗"
 							}
 						]
 					}
 				],
-				"task":"指着这些生字和组词，大声读给你的小玩偶听。",
-				"taskPinyin":"zhǐ zhe zhè xiē shēng zì hé zǔ cí dà shēng dú gěi nǐ de xiǎo wán ǒu tīng",
-				"taskAnswer":"大、上下、哥哥、妹妹、禾。",
-				"taskAnswerPinyin":"dà shàng xià gē gē mèi mei hé"
+				"task": "指着这些生字和组词，大声读给你的小玩偶听。",
+				"taskPinyin": "zhǐ zhe zhè xiē shēng zì hé zǔ cí dà shēng dú gěi nǐ de xiǎo wán ǒu tīng",
+				"taskAnswer": "大、上下、哥哥、妹妹、禾。",
+				"taskAnswerPinyin": "dà shàng xià gē gē mèi mei hé"
 			}
 		]
 	},
 	{
-		"grade":1,
-		"term":0,
-		"week":3,
-		"day":2,
-		"theme":"小猫捉老鼠",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 3,
+		"day": 2,
+		"theme": "小猫捉老鼠",
+		"content": [
 			{
-				"title":"小花猫钓鱼",
-				"titlePinyin":"xiǎo huā māo diào yú",
-				"type":"story_legend",
-				"contentObject":[
+				"title": "小花猫钓鱼",
+				"titlePinyin": "xiǎo huā māo diào yú",
+				"type": "story_legend",
+				"contentObject": [
 					{
-						"pinyin":"xiǎo huā māo diào yú",
-						"text":"小花猫钓鱼，"
+						"pinyin": "xiǎo huā māo diào yú",
+						"text": "小花猫钓鱼，"
 					},
 					{
-						"pinyin":"yī huì zhuō qīng tíng",
-						"text":"一会捉蜻蜓，"
+						"pinyin": "yī huì zhuō qīng tíng",
+						"text": "一会捉蜻蜓，"
 					},
 					{
-						"pinyin":"yī huì zhuō hú dié",
-						"text":"一会捉蝴蝶。"
+						"pinyin": "yī huì zhuō hú dié",
+						"text": "一会捉蝴蝶。"
 					},
 					{
-						"pinyin":"bié de xiǎo dòng wù dōu diào dào yú le",
-						"text":"别的小动物都钓到鱼了，"
+						"pinyin": "bié de xiǎo dòng wù dōu diào dào yú le",
+						"text": "别的小动物都钓到鱼了，"
 					},
 					{
-						"pinyin":"zhǐ yǒu tā méi diào dào",
-						"text":"只有它没钓到。"
+						"pinyin": "zhǐ yǒu tā méi diào dào",
+						"text": "只有它没钓到。"
 					}
 				],
-				"task":"想一想，小花猫为什么没钓到鱼呢？",
-				"taskPinyin":"xiǎng yī xiǎng xiǎo huā māo wèi shén me méi diào dào yú ne",
-				"taskAnswer":"因为它做事不专心，一会捉蜻蜓一会捉蝴蝶。",
-				"taskAnswerPinyin":"yīn wèi tā zuò shì bù zhuān xīn yī huì zhuō qīng tíng yī huì zhuō hú dié",
-				"alignment_mode":"left",
-				"paragraph_indent":3
+				"task": "想一想，小花猫为什么没钓到鱼呢？",
+				"taskPinyin": "xiǎng yī xiǎng xiǎo huā māo wèi shén me méi diào dào yú ne",
+				"taskAnswer": "因为它做事不专心，一会捉蜻蜓一会捉蝴蝶。",
+				"taskAnswerPinyin": "yīn wèi tā zuò shì bù zhuān xīn yī huì zhuō qīng tíng yī huì zhuō hú dié",
+				"alignment_mode": "left",
+				"paragraph_indent": 3
 			},
 			{
-				"title":"绕口令：小猪",
-				"titlePinyin":"rào kǒu lìng xiǎo zhū",
-				"type":"tongue_twisters",
-				"contentObject":[
+				"title": "绕口令：小猪",
+				"titlePinyin": "rào kǒu lìng xiǎo zhū",
+				"type": "tongue_twisters",
+				"contentObject": [
 					{
-						"pinyin":"xiǎo zhū zài shù xià shuì dà jiào",
-						"text":"小猪在树下睡大觉，"
+						"pinyin": "xiǎo zhū zài shù xià shuì dà jiào",
+						"text": "小猪在树下睡大觉，"
 					},
 					{
-						"pinyin":"wàng jì chī zhū ròu",
-						"text":"忘记吃猪肉。"
+						"pinyin": "wàng jì chī wǔ fàn",
+						"text": "忘记吃午饭。"
 					},
 					{
-						"pinyin":"xiǎo chē zài shān shàng pǎo",
-						"text":"小车在山上跑，"
+						"pinyin": "xiǎo chē zài shān shàng pǎo",
+						"text": "小车在山上跑，"
 					},
 					{
-						"pinyin":"chēng zhe zhòng zhòng de huò",
-						"text":"撑着重重的货。"
+						"pinyin": "zài zhe zhòng zhòng de huò",
+						"text": "载着重重的货。"
 					}
 				],
-				"task":"大声读三遍，注意发音。",
-				"taskPinyin":"dà shēng dú sān biàn zhù yì fā yīn",
-				"taskAnswer":"",
-				"taskAnswerPinyin":"",
-				"alignment_mode":"left",
-				"paragraph_indent":2
+				"task": "大声读三遍，注意发音。",
+				"taskPinyin": "dà shēng dú sān biàn zhù yì fā yīn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"学说一句话：什么像什么",
-						"titlePinyin":"shuō huà liàn xí shén me xiàng shén me",
-						"content":[
+						"title": "学说一句话：什么像什么",
+						"titlePinyin": "shuō huà liàn xí shén me xiàng shén me",
+						"content": [
 							{
-								"pinyin":"bái yún xiàng mián huā táng",
-								"text":"白云像棉花糖。"
+								"pinyin": "bái yún xiàng mián huā táng",
+								"text": "白云像棉花糖。"
 							},
 							{
-								"pinyin":"yuè liang xiàng wān wān de xiǎo chuán",
-								"text":"月亮像弯弯的小船。"
+								"pinyin": "yuè liang xiàng wān wān de xiǎo chuán",
+								"text": "月亮像弯弯的小船。"
 							},
 							{
-								"pinyin":"tài yáng xiàng dà dà de pín guǒ",
-								"text":"太阳像大大的苹果。"
+								"pinyin": "tài yáng xiàng dà dà de pín guǒ",
+								"text": "太阳像大大的苹果。"
 							},
 							{
-								"pinyin":"xiǎo cǎo xiàng lǜ sè de dì tǎn",
-								"text":"小草像绿色的地毯。"
+								"pinyin": "xiǎo cǎo xiàng lǜ sè de dì tǎn",
+								"text": "小草像绿色的地毯。"
 							}
 						]
 					}
 				],
-				"task":"用“什么像什么”的句式，说说星星像什么。",
-				"taskPinyin":"yòng shén me xiàng shén me de jù shì shuō shuo xīng xing xiàng shén me",
-				"taskAnswer":"星星像亮晶晶的眼睛。",
-				"taskAnswerPinyin":"xīng xing xiàng liàng jīng jīng de yǎn jīng"
+				"task": "用“什么像什么”的句式，说说星星像什么。",
+				"taskPinyin": "yòng shén me xiàng shén me de jù shì shuō shuo xīng xing xiàng shén me",
+				"taskAnswer": "星星像亮晶晶的眼睛。",
+				"taskAnswerPinyin": "xīng xing xiàng liàng jīng jīng de yǎn jīng"
 			}
 		]
 	},
 	{
-		"grade":1,
-		"term":0,
-		"week":3,
-		"day":3,
-		"theme":"秋天的景色",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 3,
+		"day": 3,
+		"theme": "秋天的景色",
+		"content": [
 			{
-				"title":"秋娃娃",
-				"titlePinyin":"qiū wá wa",
-				"type":"children_poem",
-				"contentObject":[
+				"title": "秋娃娃",
+				"titlePinyin": "qiū wá wa",
+				"type": "children_poem",
+				"contentObject": [
 					{
-						"pinyin":"qiū tiān dào le guā guǒ xiāng",
-						"text":"秋天到了瓜果香，"
+						"pinyin": "qiū tiān dào le guā guǒ xiāng",
+						"text": "秋天到了瓜果香，"
 					},
 					{
-						"pinyin":"hóng hóng de yè zi piāo piāo xià",
-						"text":"红红的叶子飘飘下。"
+						"pinyin": "hóng hóng de yè zi piāo piāo xià",
+						"text": "红红的叶子飘飘下。"
 					},
 					{
-						"pinyin":"xiǎo péng you men huān chàng zhe",
-						"text":"小朋友们欢唱着，"
+						"pinyin": "xiǎo péng you men huān chàng zhe",
+						"text": "小朋友们欢唱着，"
 					},
 					{
-						"pinyin":"gǎn xiè qiū tiān zhēn piào liang",
-						"text":"感谢秋天真漂亮。"
+						"pinyin": "gǎn xiè qiū tiān zhēn piào liang",
+						"text": "感谢秋天真漂亮。"
 					}
 				],
-				"task":"儿歌里提到了秋天有什么颜色？找一找。",
-				"taskPinyin":"ér gē lǐ tí dào le qiū tiān yǒu shén me yán sè zhǎo yī zhǎo",
-				"taskAnswer":"红红的。",
-				"taskAnswerPinyin":"hóng hóng de",
-				"alignment_mode":"left",
-				"paragraph_indent":1
+				"task": "儿歌里提到了秋天有什么颜色？找一找。",
+				"taskPinyin": "ér gē lǐ tí dào le qiū tiān yǒu shén me yán sè zhǎo yī zhǎo",
+				"taskAnswer": "红红的。",
+				"taskAnswerPinyin": "hóng hóng de",
+				"alignment_mode": "left",
+				"paragraph_indent": 1
 			},
 			{
-				"title":"登鹳雀楼",
-				"titlePinyin":"dēng guàn què lóu",
-				"type":"ancient_poem",
-				"author":"王之涣",
-				"authorPinyin":"wáng zhī huàn",
-				"dynasty":"唐",
-				"dynastyPinyin":"táng",
-				"contentObject":[
+				"title": "登鹳雀楼",
+				"titlePinyin": "dēng guàn què lóu",
+				"type": "ancient_poem",
+				"author": "王之涣",
+				"authorPinyin": "wáng zhī huàn",
+				"dynasty": "唐",
+				"dynastyPinyin": "táng",
+				"contentObject": [
 					{
-						"pinyin":"bái rì yī shān jìn",
-						"text":"白日依山尽，"
+						"pinyin": "bái rì yī shān jìn",
+						"text": "白日依山尽，"
 					},
 					{
-						"pinyin":"huáng hé rù hǎi liú",
-						"text":"黄河入海流。"
+						"pinyin": "huáng hé rù hǎi liú",
+						"text": "黄河入海流。"
 					},
 					{
-						"pinyin":"yù qióng qiān lǐ mù",
-						"text":"欲穷千里目，"
+						"pinyin": "yù qióng qiān lǐ mù",
+						"text": "欲穷千里目，"
 					},
 					{
-						"pinyin":"gèng shàng yī céng lóu",
-						"text":"更上一层楼。"
+						"pinyin": "gèng shàng yī céng lóu",
+						"text": "更上一层楼。"
 					}
 				],
-				"annotation":"白日：太阳。！！依山尽：沿着山边落下去。！！欲穷：想要看到尽头。！！千里目：看很远很远的地方。",
-				"annotationPinyin":"bái rì tài yáng yī shān jìn yán zhe shān biān luò xià qù yù qióng xiǎng yào kàn dào jìn tóu qiān lǐ mù kàn hěn yuǎn hěn yuǎn de dì fang",
-				"task":"诗里说，要看得更远，应该怎么做呢？",
-				"taskPinyin":"shī lǐ shuō yào kàn de gèng yuǎn yīng gāi zěn me zuò ne",
-				"taskAnswer":"应该再往楼上走一层。",
-				"taskAnswerPinyin":"yīng gāi zài wǎng lóu shàng zǒu yī céng",
-				"translation":"夕阳沿着山峦的边儿渐渐落下去，黄河滚滚地流向大海。如果想要看到更远更远的美丽景色，就请再往上走一层楼吧！",
-				"translationPinyin":"xī yáng yán zhe shān luán de biān ér jiàn jiàn luò xià qù huáng hé gǔn gǔn de liú xiàng dà hǎi rú guǒ xiǎng yào kàn dào gèng yuǎn gèng yuǎn de měi lì jǐng sè jiù qǐng zài wǎng shàng zǒu yī céng lóu ba"
+				"annotation": "白日：太阳。！！依山尽：沿着山边落下去。！！欲穷：想要看到尽头。！！千里目：看很远很远的地方。",
+				"annotationPinyin": "bái rì tài yáng yī shān jìn yán zhe shān biān luò xià qù yù qióng xiǎng yào kàn dào jìn tóu qiān lǐ mù kàn hěn yuǎn hěn yuǎn de dì fang",
+				"task": "诗里说，要看得更远，应该怎么做呢？",
+				"taskPinyin": "shī lǐ shuō yào kàn de gèng yuǎn yīng gāi zěn me zuò ne",
+				"taskAnswer": "应该再往楼上走一层。",
+				"taskAnswerPinyin": "yīng gāi zài wǎng lóu shàng zǒu yī céng",
+				"translation": "夕阳沿着山峦的边儿渐渐落下去，黄河滚滚地流向大海。如果想要看到更远更远的美丽景色，就请再往上走一层楼吧！",
+				"translationPinyin": "xī yáng yán zhe shān luán de biān ér jiàn jiàn luò xià qù huáng hé gǔn gǔn de liú xiàng dà hǎi rú guǒ xiǎng yào kàn dào gèng yuǎn gèng yuǎn de měi lì jǐng sè jiù qǐng zài wǎng shàng zǒu yī céng lóu ba"
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"词语小宝库",
-						"titlePinyin":"jī lěi cí yǔ",
-						"content":[
+						"title": "词语小宝库",
+						"titlePinyin": "jī lěi cí yǔ",
+						"content": [
 							{
-								"pinyin":"hóng sè",
-								"text":"红色"
+								"pinyin": "hóng sè",
+								"text": "红色"
 							},
 							{
-								"pinyin":"píng guǒ",
-								"text":"苹果"
+								"pinyin": "píng guǒ",
+								"text": "苹果"
 							},
 							{
-								"pinyin":"kàn shū",
-								"text":"看书"
+								"pinyin": "kàn shū",
+								"text": "看书"
 							},
 							{
-								"pinyin":"yī qǐ",
-								"text":"一起"
+								"pinyin": "yī qǐ",
+								"text": "一起"
 							},
 							{
-								"pinyin":"zhēn zhēn xiāng xiāng",
-								"text":"真真香香"
+								"pinyin": "zhēn zhēn xiāng xiāng",
+								"text": "真真香香"
 							}
 						]
 					}
 				],
-				"task":"用“苹果”说一句完整的话。",
-				"taskPinyin":"yòng píng guǒ shuō yī jù wán zhěng de huà",
-				"taskAnswer":"红色的苹果甜甜的。",
-				"taskAnswerPinyin":"hóng sè de píng guǒ tián tián de"
+				"task": "用“苹果”说一句完整的话。",
+				"taskPinyin": "yòng píng guǒ shuō yī jù wán zhěng de huà",
+				"taskAnswer": "红色的苹果甜甜的。",
+				"taskAnswerPinyin": "hóng sè de píng guǒ tián tián de"
 			}
 		]
 	},
 	{
-		"grade":1,
-		"term":0,
-		"week":3,
-		"day":4,
-		"theme":"小嘴巴，说儿歌",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 3,
+		"day": 4,
+		"theme": "小嘴巴，说儿歌",
+		"content": [
 			{
-				"title":"韵母歌",
-				"titlePinyin":"yùn mǔ gē",
-				"type":"textbook_review",
-				"contentObject":[
+				"title": "韵母歌",
+				"titlePinyin": "yùn mǔ gē",
+				"type": "textbook_review",
+				"contentObject": [
 					{
-						"pinyin":"i i i chuān xīn yī",
-						"text":"衣衣衣，穿新衣。"
+						"pinyin": "i i i chuān xīn yī",
+						"text": "衣衣衣，穿新衣。"
 					},
 					{
-						"pinyin":"u u u kāi huǒ chē",
-						"text":"呜呜呜，开火车。"
+						"pinyin": "u u u kāi huǒ chē",
+						"text": "呜呜呜，开火车。"
 					},
 					{
-						"pinyin":"ü ü ü xiǎo yú ér",
-						"text":"鱼鱼鱼，小鱼儿。"
+						"pinyin": "ü ü ü xiǎo yú ér",
+						"text": "鱼鱼鱼，小鱼儿。"
 					}
 				],
-				"task":"试着记住这三个韵母宝宝的口型",
-				"taskPinyin":"shì zhe jì zhù zhè sān gè yùn mǔ bǎo bao de kǒu xíng",
-				"taskAnswer":"",
-				"taskAnswerPinyin":"",
-				"alignment_mode":"left",
-				"paragraph_indent":4
+				"task": "试着记住这三个韵母宝宝的口型",
+				"taskPinyin": "shì zhe jì zhù zhè sān gè yùn mǔ bǎo bao de kǒu xíng",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
 			},
 			{
-				"title":"谜语：猜猜我是谁",
-				"titlePinyin":"mí yǔ cāi cāi wǒ shì shuí",
-				"type":"fun_riddles",
-				"contentObject":[
+				"title": "谜语：猜猜我是谁",
+				"titlePinyin": "mí yǔ cāi cāi wǒ shì shuí",
+				"type": "fun_riddles",
+				"contentObject": [
 					{
-						"pinyin":"xiǎo xiǎo chuān shàng bái páo pào",
-						"text":"小小穿上白袍袍，"
+						"pinyin": "xiǎo xiǎo chuān shàng bái páo pào",
+						"text": "小小穿上白袍袍，"
 					},
 					{
-						"pinyin":"bù chī wán lái bù chī cǎo",
-						"text":"不吃碗来不吃草。"
+						"pinyin": "bù chī wán lái bù chī cǎo",
+						"text": "不吃碗来不吃草。"
 					},
 					{
-						"pinyin":"zài tiān shàng gēn zhe tài yáng zǒu",
-						"text":"在天上跟着太阳走，"
+						"pinyin": "zài tiān shàng gēn zhe tài yáng zǒu",
+						"text": "在天上跟着太阳走，"
 					},
 					{
-						"pinyin":"wǎn shang chuān qǐ hēi yī fu",
-						"text":"晚上穿起黑衣服。"
+						"pinyin": "wǎn shang chuān qǐ hēi yī fu",
+						"text": "晚上穿起黑衣服。"
 					}
 				],
-				"task":"猜一猜，这个白天穿“白袍袍”，晚上穿“黑衣服”的是谁？",
-				"taskPinyin":"cāi yī cāi zhè gè bái tiān chuān bái páo páo wǎn shang chuān hēi yī fu de shì shuí",
-				"taskAnswer":"云朵。",
-				"taskAnswerPinyin":"yún duǒ",
-				"alignment_mode":"left",
-				"paragraph_indent":1
+				"task": "猜一猜，这个白天穿“白袍袍”，晚上穿“黑衣服”的是谁？",
+				"taskPinyin": "cāi yī cāi zhè gè bái tiān chuān bái páo páo wǎn shang chuān hēi yī fu de shì shuí",
+				"taskAnswer": "云朵。",
+				"taskAnswerPinyin": "yún duǒ",
+				"alignment_mode": "left",
+				"paragraph_indent": 1
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"好习惯小明星",
-						"titlePinyin":"xí guàn yǎng chéng shēng huó hǎo bāng shǒu",
-						"content":[
+						"title": "好习惯小明星",
+						"titlePinyin": "xí guàn yǎng chéng shēng huó hǎo bāng shǒu",
+						"content": [
 							{
-								"pinyin":"dú shū shí hòu yào zuò zhèng tíng zhí yāo",
-								"text":"读书时候要坐正。（挺直腰）"
+								"pinyin": "dú shū shí hòu yào zuò zhèng tíng zhí yāo",
+								"text": "读书时候要坐正。（挺直腰）"
 							},
 							{
-								"pinyin":"xiě zì shí hòu tóu bù dī ài yǎn jīng",
-								"text":"写字时候头不低。（爱眼睛）"
+								"pinyin": "xiě zì shí hòu tóu bù dī ài yǎn jīng",
+								"text": "写字时候头不低。（爱眼睛）"
 							},
 							{
-								"pinyin":"dà jiā wán jù yào fēn xiǎng hǎo péng you",
-								"text":"大家玩具要分享。（好朋友）"
+								"pinyin": "dà jiā wán jù yào fēn xiǎng hǎo péng you",
+								"text": "大家玩具要分享。（好朋友）"
 							}
 						]
 					}
 				],
-				"task":"你今天有没有把身体坐得直直的呢？",
-				"taskPinyin":"nǐ jīn tiān yǒu méi yǒu bǎ shēn tǐ zuò de zhí zhí de ne",
-				"taskAnswer":"我把身体坐得直直的，像个小松树。",
-				"taskAnswerPinyin":"wǒ bǎ shēn tǐ zuò de zhí zhí de xiàng gè xiǎo sōng shù"
+				"task": "你今天有没有把身体坐得直直的呢？",
+				"taskPinyin": "nǐ jīn tiān yǒu méi yǒu bǎ shēn tǐ zuò de zhí zhí de ne",
+				"taskAnswer": "我把身体坐得直直的，像个小松树。",
+				"taskAnswerPinyin": "wǒ bǎ shēn tǐ zuò de zhí zhí de xiàng gè xiǎo sōng shù"
 			}
 		]
 	},
 	{
-		"grade":1,
-		"term":0,
-		"week":3,
-		"day":5,
-		"theme":"我有一个好妈妈",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 3,
+		"day": 5,
+		"theme": "我有一个好妈妈",
+		"content": [
 			{
-				"title":"小猴子爬山",
-				"titlePinyin":"xiǎo hóu zi pá shān",
-				"type":"story_legend",
-				"contentObject":[
+				"title": "小猴子爬山",
+				"titlePinyin": "xiǎo hóu zi pá shān",
+				"type": "story_legend",
+				"contentObject": [
 					{
-						"pinyin":"xiǎo hóu zi gēn zhe māmā qù pá shān",
-						"text":"小猴子跟着妈妈去爬山，"
+						"pinyin": "xiǎo hóu zi gēn zhe māmā qù pá shān",
+						"text": "小猴子跟着妈妈去爬山，"
 					},
 					{
-						"pinyin":"lù shàng kàn dào hěn duō piào liang de huā",
-						"text":"路上看到很多漂亮的花。"
+						"pinyin": "lù shàng kàn dào hěn duō piào liang de huā",
+						"text": "路上看到很多漂亮的花。"
 					},
 					{
-						"pinyin":"hóu zi māmā shuō",
-						"text":"猴子妈妈说："
+						"pinyin": "hóu zi māmā shuō",
+						"text": "猴子妈妈说："
 					},
 					{
-						"pinyin":"yào zhù yì jiǎo xià de lù ō",
-						"text":"“要注意脚下的路哦！”，"
+						"pinyin": "yào zhù yì jiǎo xià de lù ō",
+						"text": "“要注意脚下的路哦！”，"
 					},
 					{
-						"pinyin":"xiǎo hóu zi tīng māmā de huà",
-						"text":"小猴子听妈妈的话，"
+						"pinyin": "xiǎo hóu zi tīng māmā de huà",
+						"text": "小猴子听妈妈的话，"
 					},
 					{
-						"pinyin":"shùn lì pā shàng le shān dǐng",
-						"text":"顺利爬上了山顶。"
+						"pinyin": "shùn lì pā shàng le shān dǐng",
+						"text": "顺利爬上了山顶。"
 					}
 				],
-				"task":"想一想，小猴子为什么能顺利爬上山顶？",
-				"taskPinyin":"xiǎng yī xiǎng xiǎo hóu zi wèi shén me néng shùn lì pá shàng shān dǐng",
-				"taskAnswer":"因为它听了妈妈的话，注意脚下的路。",
-				"taskAnswerPinyin":"yīn wèi tā tīng le mā ma de huà zhù yì jiǎo xià de lù",
-				"alignment_mode":"left",
-				"paragraph_indent":3
+				"task": "想一想，小猴子为什么能顺利爬上山顶？",
+				"taskPinyin": "xiǎng yī xiǎng xiǎo hóu zi wèi shén me néng shùn lì pá shàng shān dǐng",
+				"taskAnswer": "因为它听了妈妈的话，注意脚下的路。",
+				"taskAnswerPinyin": "yīn wèi tā tīng le mā ma de huà zhù yì jiǎo xià de lù",
+				"alignment_mode": "left",
+				"paragraph_indent": 3
 			},
 			{
-				"title":"弟子规（选读）",
-				"titlePinyin":"dì zǐ guī xuǎn dú",
-				"type":"classics",
-				"author":"李毓秀",
-				"authorPinyin":"lǐ yù xiù",
-				"dynasty":"清",
-				"dynastyPinyin":"qīng",
-				"contentObject":[
+				"title": "弟子规（选读）",
+				"titlePinyin": "dì zǐ guī xuǎn dú",
+				"type": "classics",
+				"author": "李毓秀",
+				"authorPinyin": "lǐ yù xiù",
+				"dynasty": "清",
+				"dynastyPinyin": "qīng",
+				"contentObject": [
 					{
-						"pinyin":"chū zé tì",
-						"text":"出则悌，"
+						"pinyin": "chū zé tì",
+						"text": "出则悌，"
 					},
 					{
-						"pinyin":"jié shēn chù",
-						"text":"谨慎处。"
+						"pinyin": "jié shēn chù",
+						"text": "谨慎处。"
 					},
 					{
-						"pinyin":"fàn zhòng ér",
-						"text":"汎众而，"
+						"pinyin": "fàn zhòng ér",
+						"text": "汎众而，"
 					},
 					{
-						"pinyin":"qīn rén cí",
-						"text":"亲仁慈。"
+						"pinyin": "qīn rén cí",
+						"text": "亲仁慈。"
 					}
 				],
-				"annotation":"出则悌：出门要尊敬兄长和年长的人。！！谨慎处：做事说话要小心。！！汎众：和大家相处。！！亲仁慈：亲近有仁德的人。",
-				"annotationPinyin":"chū zé tì chū mén yào zūn jìng xiōng zhǎng hé nián zhǎng de rén jǐn shèn chù zuò shì shuō huà yào xiǎo xīn fàn zhòng hé dà jiā xiāng chǔ qīn rén cí qīn jìn yǒu rén dé de rén",
-				"task":"你觉得什么样的人是“仁慈”的人呢？",
-				"taskPinyin":"nǐ jué de shén me yàng de rén shì rén cí de rén ne",
-				"taskAnswer":"爱护小动物，帮助有困难的人，就是仁慈的人。",
-				"taskAnswerPinyin":"ài hù xiǎo dòng wù bāng zhù yǒu kùn nan de rén jiù shì rén cí de rén",
-				"translation":"出门在外，要懂得尊敬哥哥姐姐和年长的人。我们做事说话要小心谨慎。和大家相处时，要亲近那些有爱心、善良的人。",
-				"translationPinyin":"chū mén zài wài yào dǒng de zūn jìng gē gē jiě jie hé nián zhǎng de rén wǒ men zuò shì shuō huà yào xiǎo xīn jǐn shèn hé dà jiā xiāng chǔ shí yào qīn jìn nà xiē yǒu ài xīn shàn liáng de rén"
+				"annotation": "出则悌：出门要尊敬兄长和年长的人。！！谨慎处：做事说话要小心。！！汎众：和大家相处。！！亲仁慈：亲近有仁德的人。",
+				"annotationPinyin": "chū zé tì chū mén yào zūn jìng xiōng zhǎng hé nián zhǎng de rén jǐn shèn chù zuò shì shuō huà yào xiǎo xīn fàn zhòng hé dà jiā xiāng chǔ qīn rén cí qīn jìn yǒu rén dé de rén",
+				"task": "你觉得什么样的人是“仁慈”的人呢？",
+				"taskPinyin": "nǐ jué de shén me yàng de rén shì rén cí de rén ne",
+				"taskAnswer": "爱护小动物，帮助有困难的人，就是仁慈的人。",
+				"taskAnswerPinyin": "ài hù xiǎo dòng wù bāng zhù yǒu kùn nan de rén jiù shì rén cí de rén",
+				"translation": "出门在外，要懂得尊敬哥哥姐姐和年长的人。我们做事说话要小心谨慎。和大家相处时，要亲近那些有爱心、善良的人。",
+				"translationPinyin": "chū mén zài wài yào dǒng de zūn jìng gē gē jiě jie hé nián zhǎng de rén wǒ men zuò shì shuō huà yào xiǎo xīn jǐn shèn hé dà jiā xiāng chǔ shí yào qīn jìn nà xiē yǒu ài xīn shàn liáng de rén"
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"奇思妙想屋",
-						"titlePinyin":"shuō huà liàn xí xiǎng xiàng",
-						"content":[
+						"title": "奇思妙想屋",
+						"titlePinyin": "shuō huà liàn xí xiǎng xiàng",
+						"content": [
 							{
-								"pinyin":"rú guǒ wǒ shì yī kē shù wǒ jiù gěi dà jiā zhē yáng",
-								"text":"如果我是一棵树，我就给大家遮阳。"
+								"pinyin": "rú guǒ wǒ shì yī kē shù wǒ jiù gěi dà jiā zhē yáng",
+								"text": "如果我是一棵树，我就给大家遮阳。"
 							},
 							{
-								"pinyin":"rú guǒ wǒ shì yī gè wán jù wǒ jiù péi xiǎo péng you wán",
-								"text":"如果我是一个玩具，我就陪小朋友玩。"
+								"pinyin": "rú guǒ wǒ shì yī gè wán jù wǒ jiù péi xiǎo péng you wán",
+								"text": "如果我是一个玩具，我就陪小朋友玩。"
 							},
 							{
-								"pinyin":"rú guǒ wǒ shì yī běn shū wǒ jiù gěi dà jiā jiǎng gù shi",
-								"text":"如果我是一本书，我就给大家讲故事。"
+								"pinyin": "rú guǒ wǒ shì yī běn shū wǒ jiù gěi dà jiā jiǎng gù shi",
+								"text": "如果我是一本书，我就给大家讲故事。"
 							}
 						]
 					}
 				],
-				"task":"如果我是一朵云，我会怎么做呢？",
-				"taskPinyin":"rú guǒ wǒ shì yī duǒ yún wǒ huì zěn me zuò ne",
-				"taskAnswer":"如果我是一朵云，我就给干旱的土地下雨。",
-				"taskAnswerPinyin":"rú guǒ wǒ shì yī duǒ yún wǒ jiù gěi gān hàn de tǔ dì xià yǔ"
+				"task": "如果我是一朵云，我会怎么做呢？",
+				"taskPinyin": "rú guǒ wǒ shì yī duǒ yún wǒ huì zěn me zuò ne",
+				"taskAnswer": "如果我是一朵云，我就给干旱的土地下雨。",
+				"taskAnswerPinyin": "rú guǒ wǒ shì yī duǒ yún wǒ jiù gěi gān hàn de tǔ dì xià yǔ"
 			}
 		]
 	},
 	{
-		"grade":1,
-		"term":0,
-		"week":3,
-		"day":6,
-		"theme":"小嘴巴，爱说话",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 3,
+		"day": 6,
+		"theme": "小嘴巴，爱说话",
+		"content": [
 			{
-				"title":"学说话",
-				"titlePinyin":"xué shuō huà",
-				"type":"children_poem",
-				"contentObject":[
+				"title": "学说话",
+				"titlePinyin": "xué shuō huà",
+				"type": "children_poem",
+				"contentObject": [
 					{
-						"pinyin":"xiǎo zuǐ bā",
-						"text":"小嘴巴，"
+						"pinyin": "xiǎo zuǐ bā",
+						"text": "小嘴巴，"
 					},
 					{
-						"pinyin":"zhēn lì hài",
-						"text":"真厉害。"
+						"pinyin": "zhēn lì hài",
+						"text": "真厉害。"
 					},
 					{
-						"pinyin":"huì jiào bā ba",
-						"text":"会叫爸爸，"
+						"pinyin": "huì jiào bā ba",
+						"text": "会叫爸爸，"
 					},
 					{
-						"pinyin":"yě jiào māmā",
-						"text":"也叫妈妈。"
+						"pinyin": "yě jiào māmā",
+						"text": "也叫妈妈。"
 					},
 					{
-						"pinyin":"huì chī fàn",
-						"text":"会吃饭，"
+						"pinyin": "huì chī fàn",
+						"text": "会吃饭，"
 					},
 					{
-						"pinyin":"gèng huì shuō huà",
-						"text":"更会说话。"
+						"pinyin": "gèng huì shuō huà",
+						"text": "更会说话。"
 					}
 				],
-				"task":"大声读三遍，想想你的小嘴巴还会做什么？",
-				"taskPinyin":"dà shēng dú sān biàn xiǎng xiǎng nǐ de xiǎo zuǐ ba hái huì zuò shén me",
-				"taskAnswer":"我的小嘴巴会唱歌，会背诵古诗。",
-				"taskAnswerPinyin":"wǒ de xiǎo zuǐ ba huì chàng gē huì bèi sòng gǔ shī",
-				"alignment_mode":"left",
-				"paragraph_indent":6
+				"task": "大声读三遍，想想你的小嘴巴还会做什么？",
+				"taskPinyin": "dà shēng dú sān biàn xiǎng xiǎng nǐ de xiǎo zuǐ ba hái huì zuò shén me",
+				"taskAnswer": "我的小嘴巴会唱歌，会背诵古诗。",
+				"taskAnswerPinyin": "wǒ de xiǎo zuǐ ba huì chàng gē huì bèi sòng gǔ shī",
+				"alignment_mode": "left",
+				"paragraph_indent": 6
 			},
 			{
-				"title":"爱问问题的小红",
-				"titlePinyin":"ài wèn wèn tí de xiǎo hóng",
-				"type":"story_legend",
-				"contentObject":[
+				"title": "爱问问题的小红",
+				"titlePinyin": "ài wèn wèn tí de xiǎo hóng",
+				"type": "story_legend",
+				"contentObject": [
 					{
-						"pinyin":"xiǎo hóng yǒu gè wèn tí bù dǒng",
-						"text":"小红有个问题不懂，"
+						"pinyin": "xiǎo hóng yǒu gè wèn tí bù dǒng",
+						"text": "小红有个问题不懂，"
 					},
 					{
-						"pinyin":"tā dà dǎn de qù wèn tóng xué",
-						"text":"她大胆地去问同学。"
+						"pinyin": "tā dà dǎn de qù wèn tóng xué",
+						"text": "她大胆地去问同学。"
 					},
 					{
-						"pinyin":"tóng xué gào su le tā dá àn",
-						"text":"同学告诉了她答案，"
+						"pinyin": "tóng xué gào su le tā dá àn",
+						"text": "同学告诉了她答案，"
 					},
 					{
-						"pinyin":"xiǎo hóng jì zhù le zhè ge zhī shi",
-						"text":"小红记住了这个知识。"
+						"pinyin": "xiǎo hóng jì zhù le zhè ge zhī shi",
+						"text": "小红记住了这个知识。"
 					},
 					{
-						"pinyin":"dì èr tiān tā jiù yòng zhè ge zhī shi bāng zhù le bié rén",
-						"text":"第二天她就用这个知识帮助了别人。"
+						"pinyin": "dì èr tiān tā jiù yòng zhè ge zhī shi bāng zhù le bié rén",
+						"text": "第二天她就用这个知识帮助了别人。"
 					}
 				],
-				"task":"小红是怎么学会新知识的？",
-				"taskPinyin":"xiǎo hóng shì zěn me xué huì xīn zhī shi de",
-				"taskAnswer":"她大胆地向同学请教，然后学以致用，用学到的知识帮助别人。",
-				"taskAnswerPinyin":"tā dà dǎn dì xiàng tóng xué qǐng jiào rán hòu xué yǐ zhì yòng yòng xué dào de zhī shi bāng zhù bié rén",
-				"translation":"",
-				"translationPinyin":"",
-				"alignment_mode":"left",
-				"paragraph_indent":3
+				"task": "小红是怎么学会新知识的？",
+				"taskPinyin": "xiǎo hóng shì zěn me xué huì xīn zhī shi de",
+				"taskAnswer": "她大胆地向同学请教，然后学以致用，用学到的知识帮助别人。",
+				"taskAnswerPinyin": "tā dà dǎn dì xiàng tóng xué qǐng jiào rán hòu xué yǐ zhì yòng yòng xué dào de zhī shi bāng zhù bié rén",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 3
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"认读生字",
-						"titlePinyin":"rèn dú shēng zì",
-						"content":[
+						"title": "认读生字",
+						"titlePinyin": "rèn dú shēng zì",
+						"content": [
 							{
-								"pinyin":"wǒ wǒ men",
-								"text":"我 → 我们"
+								"pinyin": "wǒ wǒ men",
+								"text": "我 → 我们"
 							},
 							{
-								"pinyin":"tā tā men",
-								"text":"他 → 他们"
+								"pinyin": "tā tā men",
+								"text": "他 → 他们"
 							},
 							{
-								"pinyin":"bù bù duì",
-								"text":"不 → 不对"
+								"pinyin": "bù bù duì",
+								"text": "不 → 不对"
 							},
 							{
-								"pinyin":"wèn wèn hào",
-								"text":"问 → 问号"
+								"pinyin": "wèn wèn hào",
+								"text": "问 → 问号"
 							},
 							{
-								"pinyin":"shì shì qing",
-								"text":"事 → 事情"
+								"pinyin": "shì shì qing",
+								"text": "事 → 事情"
 							}
 						]
 					}
 				],
-				"task":"指着这些生字和组词，大声读给爸爸妈妈听。",
-				"taskPinyin":"zhǐ zhe zhè xiē shēng zì hé zǔ cí dà shēng dú gěi bà ba mā ma tīng",
-				"taskAnswer":"我、他、不、问、事。",
-				"taskAnswerPinyin":"wǒ tā bù wèn shì"
+				"task": "指着这些生字和组词，大声读给爸爸妈妈听。",
+				"taskPinyin": "zhǐ zhe zhè xiē shēng zì hé zǔ cí dà shēng dú gěi bà ba mā ma tīng",
+				"taskAnswer": "我、他、不、问、事。",
+				"taskAnswerPinyin": "wǒ tā bù wèn shì"
 			}
 		]
 	},
 	{
-		"grade":1,
-		"term":0,
-		"week":4,
-		"day":1,
-		"theme":"声母好朋友（b p m f）",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 4,
+		"day": 1,
+		"theme": "声母好朋友（b p m f）",
+		"content": [
 			{
-				"title":"声母宝宝练习",
-				"titlePinyin":"shēng mǔ bǎo bao liàn xí",
-				"type":"textbook_review",
-				"contentObject":[
+				"title": "声母宝宝练习",
+				"titlePinyin": "shēng mǔ bǎo bao liàn xí",
+				"type": "textbook_review",
+				"contentObject": [
 					{
-						"pinyin":"bō bō bō",
-						"text":"波波波，"
+						"pinyin": "bō bō bō",
+						"text": "波波波，"
 					},
 					{
-						"pinyin":"pō pō pō",
-						"text":"泼泼泼，"
+						"pinyin": "pō pō pō",
+						"text": "泼泼泼，"
 					},
 					{
-						"pinyin":"mō mō mō",
-						"text":"摸摸摸，"
+						"pinyin": "mō mō mō",
+						"text": "摸摸摸，"
 					},
 					{
-						"pinyin":"fó fó fó",
-						"text":"佛佛佛。"
+						"pinyin": "fó fó fó",
+						"text": "佛佛佛。"
 					}
 				],
-				"task":"不同的发音，你的小嘴巴有什么不一样？",
-				"taskPinyin":"bù tóng de fā yīn nǐ de xiǎo zuǐ ba yǒu shén me bù yí yàng",
-				"taskAnswer":"",
-				"taskAnswerPinyin":"",
-				"alignment_mode":"center",
-				"paragraph_indent":2
+				"task": "不同的发音，你的小嘴巴有什么不一样？",
+				"taskPinyin": "bù tóng de fā yīn nǐ de xiǎo zuǐ ba yǒu shén me bù yí yàng",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "center",
+				"paragraph_indent": 2
 			},
 			{
-				"title":"绕口令：画和花",
-				"titlePinyin":"rào kǒu lìng huà hé huā",
-				"type":"tongue_twisters",
-				"contentObject":[
+				"title": "绕口令：画和花",
+				"titlePinyin": "rào kǒu lìng huà hé huā",
+				"type": "tongue_twisters",
+				"contentObject": [
 					{
-						"pinyin":"bà ba huà le yī zhī bái tù zi",
-						"text":"爸爸画了一只白兔子，"
+						"pinyin": "bà ba huà le yī zhī bái tù zi",
+						"text": "爸爸画了一只白兔子，"
 					},
 					{
-						"pinyin":"mā ma zāi le yī duǒ hóng huā er",
-						"text":"妈妈栽了一朵红花儿。"
+						"pinyin": "mā ma zāi le yī duǒ hóng huā er",
+						"text": "妈妈栽了一朵红花儿。"
 					},
 					{
-						"pinyin":"ràng wǒ kàn huà hái shì kàn huā",
-						"text":"让我看画还是看花，"
+						"pinyin": "ràng wǒ kàn huà hái shì kàn huā",
+						"text": "让我看画还是看花，"
 					},
 					{
-						"pinyin":"kàn huà kàn huā dōu xǐ huān",
-						"text":"看画看花都喜欢。"
+						"pinyin": "kàn huà kàn huā dōu xǐ huān",
+						"text": "看画看花都喜欢。"
 					}
 				],
-				"task":"试着用最快的速度，大声读三遍。",
-				"taskPinyin":"shì zhe yòng zuì kuài de sù dù dà shēng dú sān biàn",
-				"taskAnswer":"",
-				"taskAnswerPinyin":"",
-				"alignment_mode":"left",
-				"paragraph_indent":3
+				"task": "试着用最快的速度，大声读三遍。",
+				"taskPinyin": "shì zhe yòng zuì kuài de sù dù dà shēng dú sān biàn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 3
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"词语小宝库",
-						"titlePinyin":"jī lěi cí yǔ",
-						"content":[
+						"title": "词语小宝库",
+						"titlePinyin": "jī lěi cí yǔ",
+						"content": [
 							{
-								"pinyin":"bō bō lí",
-								"text":"玻璃"
+								"pinyin": "bō bō lí",
+								"text": "玻璃"
 							},
 							{
-								"pinyin":"pǎo bù",
-								"text":"跑步"
+								"pinyin": "pǎo bù",
+								"text": "跑步"
 							},
 							{
-								"pinyin":"mǎ mǎ lù",
-								"text":"马路"
+								"pinyin": "mǎ mǎ lù",
+								"text": "马路"
 							},
 							{
-								"pinyin":"fēi jī",
-								"text":"飞机"
+								"pinyin": "fēi jī",
+								"text": "飞机"
 							},
 							{
-								"pinyin":"qīng qīng bái bái",
-								"text":"清清白白"
+								"pinyin": "qīng qīng bái bái",
+								"text": "清清白白"
 							}
 						]
 					}
 				],
-				"task":"用“跑步”说一句完整的话。",
-				"taskPinyin":"yòng pǎo bù shuō yī jù wán zhěng de huà",
-				"taskAnswer":"我喜欢在草地上跑步。",
-				"taskAnswerPinyin":"wǒ xǐ huan zài cǎo dì shàng pǎo bù"
+				"task": "用“跑步”说一句完整的话。",
+				"taskPinyin": "yòng pǎo bù shuō yī jù wán zhěng de huà",
+				"taskAnswer": "我喜欢在草地上跑步。",
+				"taskAnswerPinyin": "wǒ xǐ huan zài cǎo dì shàng pǎo bù"
 			}
 		]
 	},
 	{
-		"grade":1,
-		"term":0,
-		"week":4,
-		"day":2,
-		"theme":"爱动脑筋的宝宝",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 4,
+		"day": 2,
+		"theme": "爱动脑筋的宝宝",
+		"content": [
 			{
-				"title":"小兔子盖房子",
-				"titlePinyin":"xiǎo tù zi gài fáng zi",
-				"type":"story_legend",
-				"contentObject":[
+				"title": "小兔子盖房子",
+				"titlePinyin": "xiǎo tù zi gài fáng zi",
+				"type": "story_legend",
+				"contentObject": [
 					{
-						"pinyin":"xiǎo tù zi yòng wán jù jī mù",
-						"text":"小兔子用玩具积木，"
+						"pinyin": "xiǎo tù zi yòng wán jù jī mù",
+						"text": "小兔子用玩具积木，"
 					},
 					{
-						"pinyin":"gài le yī gè dà dà de fáng zi",
-						"text":"盖了一个大大的房子。"
+						"pinyin": "gài le yī gè dà dà de fáng zi",
+						"text": "盖了一个大大的房子。"
 					},
 					{
-						"pinyin":"fáng zi yǒu hóng sè de wū dǐng",
-						"text":"房子有红色的屋顶，"
+						"pinyin": "fáng zi yǒu hóng sè de wū dǐng",
+						"text": "房子有红色的屋顶，"
 					},
 					{
-						"pinyin":"hái yǒu lán sè de mén",
-						"text":"还有蓝色的门。"
+						"pinyin": "hái yǒu lán sè de mén",
+						"text": "还有蓝色的门。"
 					},
 					{
-						"pinyin":"tā qǐng hǎo péng you lái zuò kè",
-						"text":"它请好朋友来做客，"
+						"pinyin": "tā qǐng hǎo péng you lái zuò kè",
+						"text": "它请好朋友来做客，"
 					},
 					{
-						"pinyin":"dà jiā dōu shuō fáng zi zhēn piào liang",
-						"text":"大家都说房子真漂亮。"
+						"pinyin": "dà jiā dōu shuō fáng zi zhēn piào liang",
+						"text": "大家都说房子真漂亮。"
 					}
 				],
-				"task":"小兔子盖的房子有什么颜色？",
-				"taskPinyin":"xiǎo tù zi gài de fáng zi yǒu shén me yán sè",
-				"taskAnswer":"红色的屋顶和蓝色的门。",
-				"taskAnswerPinyin":"hóng sè de wū dǐng hé lán sè de mén",
-				"alignment_mode":"left",
-				"paragraph_indent":3
+				"task": "小兔子盖的房子有什么颜色？",
+				"taskPinyin": "xiǎo tù zi gài de fáng zi yǒu shén me yán sè",
+				"taskAnswer": "红色的屋顶和蓝色的门。",
+				"taskAnswerPinyin": "hóng sè de wū dǐng hé lán sè de mén",
+				"alignment_mode": "left",
+				"paragraph_indent": 3
 			},
 			{
-				"title":"春晓",
-				"titlePinyin":"chūn xiǎo",
-				"type":"ancient_poem",
-				"author":"孟浩然",
-				"authorPinyin":"mèng hào rán",
-				"dynasty":"唐",
-				"dynastyPinyin":"táng",
-				"contentObject":[
+				"title": "春晓",
+				"titlePinyin": "chūn xiǎo",
+				"type": "ancient_poem",
+				"author": "孟浩然",
+				"authorPinyin": "mèng hào rán",
+				"dynasty": "唐",
+				"dynastyPinyin": "táng",
+				"contentObject": [
 					{
-						"pinyin":"chūn mián bù jué xiǎo",
-						"text":"春眠不觉晓，"
+						"pinyin": "chūn mián bù jué xiǎo",
+						"text": "春眠不觉晓，"
 					},
 					{
-						"pinyin":"chù chù wén tí niǎo",
-						"text":"处处闻啼鸟。"
+						"pinyin": "chù chù wén tí niǎo",
+						"text": "处处闻啼鸟。"
 					},
 					{
-						"pinyin":"yè lái fēng yǔ shēng",
-						"text":"夜来风雨声，"
+						"pinyin": "yè lái fēng yǔ shēng",
+						"text": "夜来风雨声，"
 					},
 					{
-						"pinyin":"huā luò zhī duō shǎo",
-						"text":"花落知多少。"
+						"pinyin": "huā luò zhī duō shǎo",
+						"text": "花落知多少。"
 					}
 				],
-				"annotation":"晓：天亮。！！啼鸟：鸟叫。！！处处：每个地方。",
-				"annotationPinyin":"xiǎo tiān liàng tí niǎo niǎo jiào chù chù měi gè dì fāng",
-				"task":"诗中写了哪些声音？",
-				"taskPinyin":"shī zhōng xiě le nǎ xiē shēng yīn",
-				"taskAnswer":"有鸟叫声，风声，雨声。",
-				"taskAnswerPinyin":"yǒu niǎo jiào shēng fēng shēng yǔ shēng",
-				"translation":"春天睡得很香，不知不觉天就亮了。醒来后到处都能听见小鸟在唱歌。想一想昨天晚上风雨的声音，不知道有多少花瓣被吹落了呢？",
-				"translationPinyin":"chūn tiān shuì de hěn xiāng bù zhī bù jué tiān jiù liàng le xǐng lái hòu dào chù dōu néng tīng jiàn xiǎo niǎo zài chàng gē xiǎng yī xiǎng zuó tiān wǎn shàng fēng yǔ de shēng yīn bù zhī dào yǒu duō shǎo huā bàn bèi chuī luò le ne"
+				"annotation": "晓：天亮。！！啼鸟：鸟叫。！！处处：每个地方。",
+				"annotationPinyin": "xiǎo tiān liàng tí niǎo niǎo jiào chù chù měi gè dì fāng",
+				"task": "诗中写了哪些声音？",
+				"taskPinyin": "shī zhōng xiě le nǎ xiē shēng yīn",
+				"taskAnswer": "有鸟叫声，风声，雨声。",
+				"taskAnswerPinyin": "yǒu niǎo jiào shēng fēng shēng yǔ shēng",
+				"translation": "春天睡得很香，不知不觉天就亮了。醒来后到处都能听见小鸟在唱歌。想一想昨天晚上风雨的声音，不知道有多少花瓣被吹落了呢？",
+				"translationPinyin": "chūn tiān shuì de hěn xiāng bù zhī bù jué tiān jiù liàng le xǐng lái hòu dào chù dōu néng tīng jiàn xiǎo niǎo zài chàng gē xiǎng yī xiǎng zuó tiān wǎn shàng fēng yǔ de shēng yīn bù zhī dào yǒu duō shǎo huā bàn bèi chuī luò le ne"
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"好习惯小明星",
-						"titlePinyin":"xí guàn yǎng chéng shēng huó hǎo bāng shǒu",
-						"content":[
+						"title": "好习惯小明星",
+						"titlePinyin": "xí guàn yǎng chéng shēng huó hǎo bāng shǒu",
+						"content": [
 							{
-								"pinyin":"bù wèn bú dǒng yào qǐng jiào ài xué xí",
-								"text":"不问不懂要请教。（爱学习）"
+								"pinyin": "bù wèn bú dǒng yào qǐng jiào ài xué xí",
+								"text": "不问不懂要请教。（爱学习）"
 							},
 							{
-								"pinyin":"zuò cuò shì qíng yào dào qiàn zhēn yǒng gǎn",
-								"text":"做错事情要道歉。（真勇敢）"
+								"pinyin": "zuò cuò shì qíng yào dào qiàn zhēn yǒng gǎn",
+								"text": "做错事情要道歉。（真勇敢）"
 							},
 							{
-								"pinyin":"fàn qián yào xiě zuò yè qián yào xǐ shǒu",
-								"text":"写作业前要洗手。（讲卫生）"
+								"pinyin": "fàn qián yào xiě zuò yè qián yào xǐ shǒu",
+								"text": "写作业前要洗手。（讲卫生）"
 							}
 						]
 					}
 				],
-				"task":"你今天有没有勇敢地承认自己的小错误呢？",
-				"taskPinyin":"nǐ jīn tiān yǒu méi yǒu yǒng gǎn dì chéng rèn zì jǐ de xiǎo cuò wù ne",
-				"taskAnswer":"我把水洒了，马上跟老师说对不起。",
-				"taskAnswerPinyin":"wǒ bǎ shuǐ sǎ le mǎ shàng gēn lǎo shī shuō duì bù qǐ"
+				"task": "你今天有没有勇敢地承认自己的小错误呢？",
+				"taskPinyin": "nǐ jīn tiān yǒu méi yǒu yǒng gǎn dì chéng rèn zì jǐ de xiǎo cuò wù ne",
+				"taskAnswer": "我把水洒了，马上跟老师说对不起。",
+				"taskAnswerPinyin": "wǒ bǎ shuǐ sǎ le mǎ shàng gēn lǎo shī shuō duì bù qǐ"
 			}
 		]
 	},
 	{
-		"grade":1,
-		"term":0,
-		"week":4,
-		"day":3,
-		"theme":"小嘴巴，找朋友",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 4,
+		"day": 3,
+		"theme": "小嘴巴，找朋友",
+		"content": [
 			{
-				"title":"下雨歌",
-				"titlePinyin":"xià yǔ gē",
-				"type":"children_poem",
-				"contentObject":[
+				"title": "下雨歌",
+				"titlePinyin": "xià yǔ gē",
+				"type": "children_poem",
+				"contentObject": [
 					{
-						"pinyin":"dī dī dā dā xià yǔ la",
-						"text":"滴滴答答下雨啦，"
+						"pinyin": "dī dī dā dā xià yǔ la",
+						"text": "滴滴答答下雨啦，"
 					},
 					{
-						"pinyin":"bǎo bǎo chuān shàng yǔ yī ba",
-						"text":"宝宝穿上雨衣吧。"
+						"pinyin": "bǎo bǎo chuān shàng yǔ yī ba",
+						"text": "宝宝穿上雨衣吧。"
 					},
 					{
-						"pinyin":"cháng cháng de yǔ sǎn juǎn yī juǎn",
-						"text":"长长的雨伞卷一卷，"
+						"pinyin": "cháng cháng de yǔ sǎn juǎn yī juǎn",
+						"text": "长长的雨伞卷一卷，"
 					},
 					{
-						"pinyin":"cǎi zhe shuǐ wā huí jiā la",
-						"text":"踩着水洼回家啦。"
+						"pinyin": "cǎi zhe shuǐ wā huí jiā la",
+						"text": "踩着水洼回家啦。"
 					}
 				],
-				"task":"下雨天，宝宝要做什么？",
-				"taskPinyin":"xià yǔ tiān bǎo bao yào zuò shén me",
-				"taskAnswer":"穿上雨衣，打着雨伞。",
-				"taskAnswerPinyin":"chuān shàng yǔ yī dǎ zhe yǔ sǎn",
-				"alignment_mode":"left",
-				"paragraph_indent":1
+				"task": "下雨天，宝宝要做什么？",
+				"taskPinyin": "xià yǔ tiān bǎo bao yào zuò shén me",
+				"taskAnswer": "穿上雨衣，打着雨伞。",
+				"taskAnswerPinyin": "chuān shàng yǔ yī dǎ zhe yǔ sǎn",
+				"alignment_mode": "left",
+				"paragraph_indent": 1
 			},
 			{
-				"title":"谜语：猜动物",
-				"titlePinyin":"mí yǔ cāi dòng wù",
-				"type":"fun_riddles",
-				"contentObject":[
+				"title": "谜语：猜动物",
+				"titlePinyin": "mí yǔ cāi dòng wù",
+				"type": "fun_riddles",
+				"contentObject": [
 					{
-						"pinyin":"ér duō jiān jiān",
-						"text":"耳朵尖尖，"
+						"pinyin": "ér duō jiān jiān",
+						"text": "耳朵尖尖，"
 					},
 					{
-						"pinyin":"wěi ba zhuī zhuī",
-						"text":"尾巴垂垂，"
+						"pinyin": "wěi ba zhuī zhuī",
+						"text": "尾巴垂垂，"
 					},
 					{
-						"pinyin":"huì zhuō lǎo shǔ",
-						"text":"会捉老鼠，"
+						"pinyin": "huì zhuō lǎo shǔ",
+						"text": "会捉老鼠，"
 					},
 					{
-						"pinyin":"mí yǔ zhēn piào liang",
-						"text":"迷语真漂亮。"
+						"pinyin": "mí yǔ zhēn piào liang",
+						"text": "迷语真漂亮。"
 					}
 				],
-				"task":"猜一猜，耳朵尖尖、会捉老鼠的是谁？",
-				"taskPinyin":"cāi yī cāi ěr duo jiān jiān huì zhuō lǎo shǔ de shì shuí",
-				"taskAnswer":"小猫。",
-				"taskAnswerPinyin":"xiǎo māo",
-				"alignment_mode":"left",
-				"paragraph_indent":4
+				"task": "猜一猜，耳朵尖尖、会捉老鼠的是谁？",
+				"taskPinyin": "cāi yī cāi ěr duo jiān jiān huì zhuō lǎo shǔ de shì shuí",
+				"taskAnswer": "小猫。",
+				"taskAnswerPinyin": "xiǎo māo",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"学说一句话：什么时候，谁在哪儿干什么",
-						"titlePinyin":"shuō huà liàn xí shén me shí hou shuí zài dì fāng gàn shén me",
-						"content":[
+						"title": "学说一句话：什么时候，谁在哪儿干什么",
+						"titlePinyin": "shuō huà liàn xí shén me shí hou shuí zài dì fāng gàn shén me",
+						"content": [
 							{
-								"pinyin":"zǎo shang xiǎo gǒu zài cǎo dì shàng pǎo bù",
-								"text":"早上，小狗在草地上跑步。"
+								"pinyin": "zǎo shang xiǎo gǒu zài cǎo dì shàng pǎo bù",
+								"text": "早上，小狗在草地上跑步。"
 							},
 							{
-								"pinyin":"zhōng wǔ lǎo shī zài jiào shì lǐ jiǎng gù shi",
-								"text":"中午，老师在教室里讲故事。"
+								"pinyin": "zhōng wǔ lǎo shī zài jiào shì lǐ jiǎng gù shi",
+								"text": "中午，老师在教室里讲故事。"
 							},
 							{
-								"pinyin":"wǎn shang wǒ zài wū zi lǐ kàn shū",
-								"text":"晚上，我在屋子里看书。"
+								"pinyin": "wǎn shang wǒ zài wū zi lǐ kàn shū",
+								"text": "晚上，我在屋子里看书。"
 							}
 						]
 					}
 				],
-				"task":"用这个句式，说说你的爸爸妈妈今天早上在哪里做了什么。",
-				"taskPinyin":"yòng zhè gè jù shì shuō shuo nǐ de bà ba mā ma jīn tiān zǎo shang zài nǎ lǐ zuò le shén me",
-				"taskAnswer":"早上，爸爸在阳台浇花。",
-				"taskAnswerPinyin":"zǎo shang bà ba zài yáng tái jiāo huā"
+				"task": "用这个句式，说说你的爸爸妈妈今天早上在哪里做了什么。",
+				"taskPinyin": "yòng zhè gè jù shì shuō shuo nǐ de bà ba mā ma jīn tiān zǎo shang zài nǎ lǐ zuò le shén me",
+				"taskAnswer": "早上，爸爸在阳台浇花。",
+				"taskAnswerPinyin": "zǎo shang bà ba zài yáng tái jiāo huā"
 			}
 		]
 	},
 	{
-		"grade":1,
-		"term":0,
-		"week":4,
-		"day":4,
-		"theme":"声母好朋友（d t n l）",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 4,
+		"day": 4,
+		"theme": "声母好朋友（d t n l）",
+		"content": [
 			{
-				"title":"声母宝宝练习",
-				"titlePinyin":"shēng mǔ bǎo bao liàn xí",
-				"type":"textbook_review",
-				"contentObject":[
+				"title": "声母宝宝练习",
+				"titlePinyin": "shēng mǔ bǎo bao liàn xí",
+				"type": "textbook_review",
+				"contentObject": [
 					{
-						"pinyin":"dīng dīng dīng",
-						"text":"丁丁丁，"
+						"pinyin": "dīng dīng dīng",
+						"text": "丁丁丁，"
 					},
 					{
-						"pinyin":"tīng tīng tīng",
-						"text":"听听听，"
+						"pinyin": "tīng tīng tīng",
+						"text": "听听听，"
 					},
 					{
-						"pinyin":"nǐ nǐ nǐ",
-						"text":"你你你，"
+						"pinyin": "nǐ nǐ nǐ",
+						"text": "你你你，"
 					},
 					{
-						"pinyin":"lǐ lǐ lǐ",
-						"text":"李李李。"
+						"pinyin": "lǐ lǐ lǐ",
+						"text": "李李李。"
 					}
 				],
-				"task":"不同的发音，你的小嘴巴有什么不一样？",
-				"taskPinyin":"bù tóng de fā yīn nǐ de xiǎo zuǐ ba yǒu shén me bù yí yàng",
-				"taskAnswer":"",
-				"taskAnswerPinyin":"",
-				"alignment_mode":"center",
-				"paragraph_indent":2
+				"task": "不同的发音，你的小嘴巴有什么不一样？",
+				"taskPinyin": "bù tóng de fā yīn nǐ de xiǎo zuǐ ba yǒu shén me bù yí yàng",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "center",
+				"paragraph_indent": 2
 			},
 			{
-				"title":"声律启蒙（节选二）",
-				"titlePinyin":"shēng lǜ qǐ méng jié xuǎn èr",
-				"type":"classics",
-				"author":"车万育",
-				"authorPinyin":"chē wàn yù",
-				"dynasty":"清",
-				"dynastyPinyin":"qīng",
-				"contentObject":[
+				"title": "声律启蒙（节选二）",
+				"titlePinyin": "shēng lǜ qǐ méng jié xuǎn èr",
+				"type": "classics",
+				"author": "车万育",
+				"authorPinyin": "chē wàn yù",
+				"dynasty": "清",
+				"dynastyPinyin": "qīng",
+				"contentObject": [
 					{
-						"pinyin":"shān duì hǎi",
-						"text":"山对海，"
+						"pinyin": "shān duì hǎi",
+						"text": "山对海，"
 					},
 					{
-						"pinyin":"rì duì yuè",
-						"text":"日对月。"
+						"pinyin": "rì duì yuè",
+						"text": "日对月。"
 					},
 					{
-						"pinyin":"huā luò duì yún shōu",
-						"text":"花落对云收。"
+						"pinyin": "huā luò duì yún shōu",
+						"text": "花落对云收。"
 					}
 				],
-				"annotation":"山对海：山和大海相对。！！日对月：太阳和月亮相对。！！花落对云收：花儿落下对着云朵收起。",
-				"annotationPinyin":"shān duì hǎi shān hé dà hǎi xiāng duì rì duì yuè tài yáng hé yuè liang xiāng duì huā luò duì yún shōu huā ér luò xià duì zhe yún duǒ shōu qǐ",
-				"task":"找一找，有哪些表示天上的景色的词？",
-				"taskPinyin":"zhǎo yī zhǎo yǒu nǎ xiē biǎo shì tiān shàng de jǐng sè de cí",
-				"taskAnswer":"日、月、云。",
-				"taskAnswerPinyin":"rì yuè yún",
-				"translation":"高高的山对着深深的海，白天出的太阳对着晚上出来的月亮。花儿飘落下来，对着天空的云朵慢慢收起。",
-				"translationPinyin":"gāo gāo de shān duì zhe shēn shēn de hǎi bái tiān chū de tài yáng duì zhe wǎn shang chū lái de yuè liang huā ér piāo luò xià lái duì zhe tiān kōng de yún duǒ màn màn shōu qǐ",
-				"alignment_mode":"left",
-				"paragraph_indent":6
+				"annotation": "山对海：山和大海相对。！！日对月：太阳和月亮相对。！！花落对云收：花儿落下对着云朵收起。",
+				"annotationPinyin": "shān duì hǎi shān hé dà hǎi xiāng duì rì duì yuè tài yáng hé yuè liang xiāng duì huā luò duì yún shōu huā ér luò xià duì zhe yún duǒ shōu qǐ",
+				"task": "找一找，有哪些表示天上的景色的词？",
+				"taskPinyin": "zhǎo yī zhǎo yǒu nǎ xiē biǎo shì tiān shàng de jǐng sè de cí",
+				"taskAnswer": "日、月、云。",
+				"taskAnswerPinyin": "rì yuè yún",
+				"translation": "高高的山对着深深的海，白天出的太阳对着晚上出来的月亮。花儿飘落下来，对着天空的云朵慢慢收起。",
+				"translationPinyin": "gāo gāo de shān duì zhe shēn shēn de hǎi bái tiān chū de tài yáng duì zhe wǎn shang chū lái de yuè liang huā ér piāo luò xià lái duì zhe tiān kōng de yún duǒ màn màn shōu qǐ",
+				"alignment_mode": "left",
+				"paragraph_indent": 6
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"认读生字",
-						"titlePinyin":"rèn dú shēng zì",
-						"content":[
+						"title": "认读生字",
+						"titlePinyin": "rèn dú shēng zì",
+						"content": [
 							{
-								"pinyin":"mù mù tóu",
-								"text":"木 → 木头"
+								"pinyin": "mù mù tóu",
+								"text": "木 → 木头"
 							},
 							{
-								"pinyin":"tǔ tǔ dì",
-								"text":"土 → 土地"
+								"pinyin": "tǔ tǔ dì",
+								"text": "土 → 土地"
 							},
 							{
-								"pinyin":"dà dà xiǎo",
-								"text":"大 → 大小"
+								"pinyin": "dà dà xiǎo",
+								"text": "大 → 大小"
 							},
 							{
-								"pinyin":"lì lì qi",
-								"text":"力 → 力气"
+								"pinyin": "lì lì qi",
+								"text": "力 → 力气"
 							},
 							{
-								"pinyin":"tián tián yě",
-								"text":"田 → 田野"
+								"pinyin": "tián tián yě",
+								"text": "田 → 田野"
 							}
 						]
 					}
 				],
-				"task":"指着这些生字和组词，大声读给你的小动物玩具听。",
-				"taskPinyin":"zhǐ zhe zhè xiē shēng zì hé zǔ cí dà shēng dú gěi nǐ de xiǎo dòng wù wán jù tīng",
-				"taskAnswer":"木、土、大、力、田。",
-				"taskAnswerPinyin":"mù tǔ dà lì tián"
+				"task": "指着这些生字和组词，大声读给你的小动物玩具听。",
+				"taskPinyin": "zhǐ zhe zhè xiē shēng zì hé zǔ cí dà shēng dú gěi nǐ de xiǎo dòng wù wán jù tīng",
+				"taskAnswer": "木、土、大、力、田。",
+				"taskAnswerPinyin": "mù tǔ dà lì tián"
 			}
 		]
 	},
 	{
-		"grade":1,
-		"term":0,
-		"week":4,
-		"day":5,
-		"theme":"小蜜蜂采花蜜",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 4,
+		"day": 5,
+		"theme": "小蜜蜂采花蜜",
+		"content": [
 			{
-				"title":"勤劳的小蜜蜂",
-				"titlePinyin":"qín láo de xiǎo mì fēng",
-				"type":"story_legend",
-				"contentObject":[
+				"title": "勤劳的小蜜蜂",
+				"titlePinyin": "qín láo de xiǎo mì fēng",
+				"type": "story_legend",
+				"contentObject": [
 					{
-						"pinyin":"xiǎo mì fēng zǎo zǎo qǐ",
-						"text":"小蜜蜂早早起，"
+						"pinyin": "xiǎo mì fēng zǎo zǎo qǐ",
+						"text": "小蜜蜂早早起，"
 					},
 					{
-						"pinyin":"fēi dào huā cóng cǎi huā mì",
-						"text":"飞到花丛采花蜜。"
+						"pinyin": "fēi dào huā cóng cǎi huā mì",
+						"text": "飞到花丛采花蜜。"
 					},
 					{
-						"pinyin":"huā er xiǎo",
-						"text":"花儿小，"
+						"pinyin": "huā er xiǎo",
+						"text": "花儿小，"
 					},
 					{
-						"pinyin":"mì fēng qín láo bù pā hài",
-						"text":"蜜蜂勤劳不怕累。"
+						"pinyin": "mì fēng qín láo bù pā hài",
+						"text": "蜜蜂勤劳不怕累。"
 					},
 					{
-						"pinyin":"yī diǎn yī diǎn dōu jī lěi",
-						"text":"一点一点都积累，"
+						"pinyin": "yī diǎn yī diǎn dōu jī lěi",
+						"text": "一点一点都积累，"
 					},
 					{
-						"pinyin":"cǎi mǎn le yī zhěng guàn mì táng",
-						"text":"采满了一整罐蜜糖。"
+						"pinyin": "cǎi mǎn le yī zhěng guàn mì táng",
+						"text": "采满了一整罐蜜糖。"
 					}
 				],
-				"task":"想一想，小蜜蜂是怎样采满一整罐蜜糖的？",
-				"taskPinyin":"xiǎng yī xiǎng xiǎo mì fēng shì zěn yàng cǎi mǎn yī zhěng guàn mì táng de",
-				"taskAnswer":"它勤劳不怕累，一点一点地积累。",
-				"taskAnswerPinyin":"tā qín láo bú pà lèi yī diǎn yī diǎn de jī lěi",
-				"alignment_mode":"left",
-				"paragraph_indent":1
+				"task": "想一想，小蜜蜂是怎样采满一整罐蜜糖的？",
+				"taskPinyin": "xiǎng yī xiǎng xiǎo mì fēng shì zěn yàng cǎi mǎn yī zhěng guàn mì táng de",
+				"taskAnswer": "它勤劳不怕累，一点一点地积累。",
+				"taskAnswerPinyin": "tā qín láo bú pà lèi yī diǎn yī diǎn de jī lěi",
+				"alignment_mode": "left",
+				"paragraph_indent": 1
 			},
 			{
-				"title":"绕口令：小喇叭",
-				"titlePinyin":"rào kǒu lìng xiǎo lǎ ba",
-				"type":"tongue_twisters",
-				"contentObject":[
+				"title": "绕口令：小喇叭",
+				"titlePinyin": "rào kǒu lìng xiǎo lǎ ba",
+				"type": "tongue_twisters",
+				"contentObject": [
 					{
-						"pinyin":"xiǎo lǐ jiào lǎo lǐ",
-						"text":"小李叫老李，"
+						"pinyin": "xiǎo lǐ jiào lǎo lǐ",
+						"text": "小李叫老李，"
 					},
 					{
-						"pinyin":"yì qǐ xué chuī xiǎo lǎ ba",
-						"text":"一起学吹小喇叭。"
+						"pinyin": "yì qǐ xué chuī xiǎo lǎ ba",
+						"text": "一起学吹小喇叭。"
 					},
 					{
-						"pinyin":"lǎo lǐ yòng lì chuī",
-						"text":"老李用力吹，"
+						"pinyin": "lǎo lǐ yòng lì chuī",
+						"text": "老李用力吹，"
 					},
 					{
-						"pinyin":"lǎ ba dī dā jiào",
-						"text":"喇叭嘀嗒叫。"
+						"pinyin": "lǎ ba dī dā jiào",
+						"text": "喇叭嘀嗒叫。"
 					},
 					{
-						"pinyin":"xiǎo lǐ qīng qīng chuī",
-						"text":"小李轻轻吹，"
+						"pinyin": "xiǎo lǐ qīng qīng chuī",
+						"text": "小李轻轻吹，"
 					},
 					{
-						"pinyin":"lǎ ba bù shēng xiǎng",
-						"text":"喇叭不声响。"
+						"pinyin": "lǎ ba bù shēng xiǎng",
+						"text": "喇叭不声响。"
 					},
 					{
-						"pinyin":"yuán lái xiǎo lǎ ba",
-						"text":"原来小喇叭，"
+						"pinyin": "yuán lái xiǎo lǎ ba",
+						"text": "原来小喇叭，"
 					},
 					{
-						"pinyin":"yào yòng lì qi chuī",
-						"text":"要用力气吹。"
+						"pinyin": "yào yòng lì qi chuī",
+						"text": "要用力气吹。"
 					}
 				],
-				"task":"大声把绕口令读三遍",
-				"taskPinyin":"dà shēng bǎ rào kǒu lìng dú sān biàn",
-				"taskAnswer":"",
-				"taskAnswerPinyin":"",
-				"alignment_mode":"left",
-				"paragraph_indent":4
+				"task": "大声把绕口令读三遍",
+				"taskPinyin": "dà shēng bǎ rào kǒu lìng dú sān biàn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"词语小宝库",
-						"titlePinyin":"jī lěi cí yǔ",
-						"content":[
+						"title": "词语小宝库",
+						"titlePinyin": "jī lěi cí yǔ",
+						"content": [
 							{
-								"pinyin":"zǎo shang",
-								"text":"早上"
+								"pinyin": "zǎo shang",
+								"text": "早上"
 							},
 							{
-								"pinyin":"bǐ sài",
-								"text":"比赛"
+								"pinyin": "bǐ sài",
+								"text": "比赛"
 							},
 							{
-								"pinyin":"tóng xué",
-								"text":"同学"
+								"pinyin": "tóng xué",
+								"text": "同学"
 							},
 							{
-								"pinyin":"lǎo shī",
-								"text":"老师"
+								"pinyin": "lǎo shī",
+								"text": "老师"
 							},
 							{
-								"pinyin":"wān wān qǔ qǔ",
-								"text":"弯弯曲曲"
+								"pinyin": "wān wān qǔ qǔ",
+								"text": "弯弯曲曲"
 							}
 						]
 					}
 				],
-				"task":"用“老师”说一句完整的话。",
-				"taskPinyin":"yòng lǎo shī shuō yī jù wán zhěng de huà",
-				"taskAnswer":"老师教我们唱歌。",
-				"taskAnswerPinyin":"lǎo shī jiāo wǒ men chàng gē"
+				"task": "用“老师”说一句完整的话。",
+				"taskPinyin": "yòng lǎo shī shuō yī jù wán zhěng de huà",
+				"taskAnswer": "老师教我们唱歌。",
+				"taskAnswerPinyin": "lǎo shī jiāo wǒ men chàng gē"
 			}
 		]
 	},
 	{
-		"grade":1,
-		"term":0,
-		"week":4,
-		"day":6,
-		"theme":"美丽的大自然",
-		"content":[
+		"grade": 1,
+		"term": 0,
+		"week": 4,
+		"day": 6,
+		"theme": "美丽的大自然",
+		"content": [
 			{
-				"title":"小雨点",
-				"titlePinyin":"xiǎo yǔ diǎn",
-				"type":"children_poem",
-				"contentObject":[
+				"title": "小雨点",
+				"titlePinyin": "xiǎo yǔ diǎn",
+				"type": "children_poem",
+				"contentObject": [
 					{
-						"pinyin":"xiǎo yǔ diǎn",
-						"text":"小雨点，"
+						"pinyin": "xiǎo yǔ diǎn",
+						"text": "小雨点，"
 					},
 					{
-						"pinyin":"tiào xià lái",
-						"text":"跳下来。"
+						"pinyin": "tiào xià lái",
+						"text": "跳下来。"
 					},
 					{
-						"pinyin":"dī dā dī",
-						"text":"滴答滴，"
+						"pinyin": "dī dā dī",
+						"text": "滴答滴，"
 					},
 					{
-						"pinyin":"gěi huā xǐ xǐ zǎo",
-						"text":"给花洗洗澡。"
+						"pinyin": "gěi huā xǐ xǐ zǎo",
+						"text": "给花洗洗澡。"
 					},
 					{
-						"pinyin":"wā wā jiào",
-						"text":"蛙蛙叫，"
+						"pinyin": "wā wā jiào",
+						"text": "蛙蛙叫，"
 					},
 					{
-						"pinyin":"yùn yùn dào",
-						"text":"雨运到。"
+						"pinyin": "yùn yùn dào",
+						"text": "雨运到。"
 					}
 				],
-				"task":"儿歌里的小雨点像什么一样跳下来？",
-				"taskPinyin":"ér gē lǐ de xiǎo yǔ diǎn xiàng shén me yī yàng tiào xià lái",
-				"taskAnswer":"像调皮的小娃娃。",
-				"taskAnswerPinyin":"xiàng tiáo pí de xiǎo wá wa",
-				"alignment_mode":"left",
-				"paragraph_indent":5
+				"task": "儿歌里的小雨点像什么一样跳下来？",
+				"taskPinyin": "ér gē lǐ de xiǎo yǔ diǎn xiàng shén me yī yàng tiào xià lái",
+				"taskAnswer": "像调皮的小娃娃。",
+				"taskAnswerPinyin": "xiàng tiáo pí de xiǎo wá wa",
+				"alignment_mode": "left",
+				"paragraph_indent": 5
 			},
 			{
-				"title":"悯农",
-				"titlePinyin":"mǐn nóng",
-				"type":"ancient_poem",
-				"author":"李绅",
-				"authorPinyin":"lǐ shēn",
-				"dynasty":"唐",
-				"dynastyPinyin":"táng",
-				"contentObject":[
+				"title": "悯农",
+				"titlePinyin": "mǐn nóng",
+				"type": "ancient_poem",
+				"author": "李绅",
+				"authorPinyin": "lǐ shēn",
+				"dynasty": "唐",
+				"dynastyPinyin": "táng",
+				"contentObject": [
 					{
-						"pinyin":"chú hé rì dāng wǔ",
-						"text":"锄禾日当午，"
+						"pinyin": "chú hé rì dāng wǔ",
+						"text": "锄禾日当午，"
 					},
 					{
-						"pinyin":"hàn dī hé xià tǔ",
-						"text":"汗滴禾下土。"
+						"pinyin": "hàn dī hé xià tǔ",
+						"text": "汗滴禾下土。"
 					},
 					{
-						"pinyin":"shuí zhī pán zhōng cān",
-						"text":"谁知盘中餐，"
+						"pinyin": "shuí zhī pán zhōng cān",
+						"text": "谁知盘中餐，"
 					},
 					{
-						"pinyin":"lì lì jiē xī kǔ",
-						"text":"粒粒皆辛苦。"
+						"pinyin": "lì lì jiē xī kǔ",
+						"text": "粒粒皆辛苦。"
 					}
 				],
-				"annotation":"锄禾：在田里除草。！！日当午：中午太阳最热的时候。！！禾下土：掉在禾苗下面的泥土里。！！盘中餐：碗里的饭。",
-				"annotationPinyin":"chú hé zài tián lǐ chú cǎo rì dāng wǔ zhōng wǔ tài yáng zuì rè de shí hou hé xià tǔ diào zài hé miáo xià miàn de ní tǔ lǐ pán zhōng cān wǎn lǐ de fàn",
-				"task":"记住这首诗，以后吃饭要做到“光盘行动”。",
-				"taskPinyin":"jì zhù zhè shǒu shī yǐ hòu chī fàn yào zuò dào guāng pán xíng dòng",
-				"taskAnswer":"",
-				"taskAnswerPinyin":"",
-				"translation":"农民伯伯在正午太阳最大的时候还在田里除草。汗水滴落在禾苗下的泥土里。谁知道我们碗里的每一粒米饭，都是农民伯伯辛辛苦苦种出来的呢！",
-				"translationPinyin":"nóng mín bó bo zài zhèng wǔ tài yáng zuì dà de shí hou hái zài tián lǐ chú cǎo hàn shuǐ dī luò zài hé miáo xià mian de ní tǔ lǐ shuí zhī dào wǒ men wǎn lǐ de měi yī lì mǐ fàn dōu shì nóng mín bó bo xīn xīn kǔ kǔ zhǒng chū lái de ne"
+				"annotation": "锄禾：在田里除草。！！日当午：中午太阳最热的时候。！！禾下土：掉在禾苗下面的泥土里。！！盘中餐：碗里的饭。",
+				"annotationPinyin": "chú hé zài tián lǐ chú cǎo rì dāng wǔ zhōng wǔ tài yáng zuì rè de shí hou hé xià tǔ diào zài hé miáo xià miàn de ní tǔ lǐ pán zhōng cān wǎn lǐ de fàn",
+				"task": "记住这首诗，以后吃饭要做到“光盘行动”。",
+				"taskPinyin": "jì zhù zhè shǒu shī yǐ hòu chī fàn yào zuò dào guāng pán xíng dòng",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"translation": "农民伯伯在正午太阳最大的时候还在田里除草。汗水滴落在禾苗下的泥土里。谁知道我们碗里的每一粒米饭，都是农民伯伯辛辛苦苦种出来的呢！",
+				"translationPinyin": "nóng mín bó bo zài zhèng wǔ tài yáng zuì dà de shí hou hái zài tián lǐ chú cǎo hàn shuǐ dī luò zài hé miáo xià mian de ní tǔ lǐ shuí zhī dào wǒ men wǎn lǐ de měi yī lì mǐ fàn dōu shì nóng mín bó bo xīn xīn kǔ kǔ zhǒng chū lái de ne"
 			},
 			{
-				"title":"日积月累",
-				"titlePinyin":"rì jī yuè lěi",
-				"type":"daily_accumulation",
-				"author":"",
-				"authorPinyin":"",
-				"dynasty":"",
-				"dynastyPinyin":"",
-				"contentObject":[
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
 					{
-						"title":"智慧小口诀",
-						"titlePinyin":"sú yǔ xiǎo zhī shi",
-						"content":[
+						"title": "智慧小口诀",
+						"titlePinyin": "sú yǔ xiǎo zhī shi",
+						"content": [
 							{
-								"pinyin":"wèi bào mǔ ēn shēn rú hǎi zhī ēn",
-								"text":"未报母恩，深如海。（知恩）"
+								"pinyin": "wèi bào mǔ ēn shēn rú hǎi zhī ēn",
+								"text": "未报母恩，深如海。（知恩）"
 							},
 							{
-								"pinyin":"jīn rì shì jīn rì bì",
-								"text":"今日事，今日毕。（不拖拉）"
+								"pinyin": "jīn rì shì jīn rì bì bù tuō lā",
+								"text": "今日事，今日毕。（不拖拉）"
 							},
 							{
-								"pinyin":"zhǐ yǒu fù chū cái néng yǒu shōu huò",
-								"text":"不劳无获。（只有付出才能有收获）"
+								"pinyin": "bù láo wú huò zhǐ yǒu fù chū cái néng yǒu shōu huò",
+								"text": "不劳无获。（只有付出才能有收获）"
 							}
 						]
 					}
 				],
-				"task":"“今日事，今日毕”，是什么意思呢？",
-				"taskPinyin":"jīn rì shì jīn rì bì shì shén me yì si ne",
-				"taskAnswer":"今天要做的事情，一定要在今天完成，不能拖到明天。",
-				"taskAnswerPinyin":"jīn tiān yào zuò de shì qing yī dìng yào zài jīn tiān wán chéng bù néng tuō dào míng tiān"
+				"task": "“今日事，今日毕”，是什么意思呢？",
+				"taskPinyin": "jīn rì shì jīn rì bì shì shén me yì si ne",
+				"taskAnswer": "今天要做的事情，一定要在今天完成，不能拖到明天。",
+				"taskAnswerPinyin": "jīn tiān yào zuò de shì qing yī dìng yào zài jīn tiān wán chéng bù néng tuō dào míng tiān"
 			}
 		]
 	}
