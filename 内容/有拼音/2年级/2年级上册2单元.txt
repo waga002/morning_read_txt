@@ -271,8 +271,8 @@
 				"title": "弟子规（选段）",
 				"titlePinyin": "dì zǐ guī xuǎn duàn",
 				"type": "classics",
-				"author": "",
-				"authorPinyin": "",
+				"author": "李毓秀",
+				"authorPinyin": "lǐ yù xiù",
 				"dynasty": "清",
 				"dynastyPinyin": "qīng",
 				"contentObject": [
@@ -581,10 +581,10 @@
 				"title": "乌鸦喝水",
 				"titlePinyin": "wū yā hē shuǐ",
 				"type": "story_legend",
-				"author": "伊索",
-				"authorPinyin": "yī suǒ",
-				"dynasty": "古希腊",
-				"dynastyPinyin": "gǔ xī là",
+				"author": "伊索（古希腊）",
+				"authorPinyin": "yī suǒ gǔ xī là",
+				"dynasty": "",
+				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"pinyin": "yǒu yī zhī kě kǒu de wū yā",
@@ -745,13 +745,13 @@
 				"translationPinyin": "suǒ yǒu de shān shàng fēi niǎo de zōng yǐng dōu xiāo shī le suǒ yǒu de xiǎo lù shàng xíng rén de zú jì yě wán quán méi yǒu lezhī yǒu yī sōu gū líng líng de xiǎo chuán shàng zuò zhe yī wèi pī zhe suō yī dài zhe dòu lì de lǎo wēng zài hán lěng de jiāng shàng dú diào hán jiāng xuě"
 			},
 			{
-				"title": "国学经典（选段）",
-				"titlePinyin": "guó xué jīng diǎn xuǎn duàn",
+				"title": "论语（选段）",
+				"titlePinyin": "lún yǔ xuǎn duàn",
 				"type": "classics",
-				"author": "孔子",
-				"authorPinyin": "kǒng zǐ",
-				"dynasty": "春秋",
-				"dynastyPinyin": "chūn qiū",
+				"author": "孔子及其弟子",
+				"authorPinyin": "kǒng zǐ jí qí dì zǐ",
+				"dynasty": "先秦",
+				"dynastyPinyin": "xiān qín",
 				"contentObject": [
 					{
 						"pinyin": "xué ér shí xí zhī",
@@ -870,10 +870,10 @@
 				"title": "狐狸和葡萄",
 				"titlePinyin": "hú li hé pú táo",
 				"type": "story_legend",
-				"author": "伊索",
-				"authorPinyin": "yī suǒ",
-				"dynasty": "古希腊",
-				"dynastyPinyin": "gǔ xī là",
+				"author": "伊索（古希腊）",
+				"authorPinyin": "yī suǒ gǔ xī là",
+				"dynasty": "",
+				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"pinyin": "yǒu yī zhī hú li kàn jiàn yī chuàn yòu dà yòu tián de pú táo",

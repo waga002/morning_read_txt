@@ -468,8 +468,8 @@
 				"type": "classical_chinese",
 				"author": "",
 				"authorPinyin": "",
-				"dynasty": "元",
-				"dynastyPinyin": "yuán",
+				"dynasty": "",
+				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"pinyin": "qún ér xì yú tíng",
@@ -1463,10 +1463,10 @@
 				"title": "敕勒歌",
 				"titlePinyin": "chì lè gē",
 				"type": "ancient_poem",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "北朝",
-				"dynastyPinyin": "běi cháo",
+				"author": "北朝民歌",
+				"authorPinyin": "běi cháo mín gē",
+				"dynasty": "南北朝",
+				"dynastyPinyin": "nán běi cháo",
 				"contentObject": [
 					{
 						"pinyin": "chì lè chuān yīn shān xià",
@@ -1498,7 +1498,8 @@
 				"translation": "辽阔的敕勒大平原，就在阴山脚下。天空像个巨大的圆帐篷，笼罩着四面八方的原野。天是青色的，野外辽阔无边，风儿吹过，草儿低头，露出了成群的牛羊。",
 				"translationPinyin": "liáo kuò de chì lè dà píng yuán jiù zài yīn shān jiǎo xià tiān kōng xiàng gè jù dà de yuán zhàng peng lóng zhào zhe sì miàn bā fāng de yuán yě tiān shì qīng sè de yě wài liáo kuò wú biān fēng ér chuī guò cǎo ér dī tóu lù chū le chéng qún de niú yáng",
 				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"paragraph_indent": 2,
+				"ttsType": "all"
 			},
 			{
 				"title": "日积月累",
@@ -1638,8 +1639,8 @@
 				"type": "classics",
 				"author": "孔子及其弟子",
 				"authorPinyin": "kǒng zǐ jí qí dì zǐ",
-				"dynasty": "春秋",
-				"dynastyPinyin": "chūn qiū",
+				"dynasty": "先秦",
+				"dynastyPinyin": "xiān qín",
 				"contentObject": [
 					{
 						"pinyin": "zhī zhī wéi zhī zhī",

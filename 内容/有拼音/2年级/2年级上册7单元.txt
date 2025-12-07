@@ -820,8 +820,8 @@
 				"type": "classics",
 				"author": "孔子及其弟子",
 				"authorPinyin": "kǒng zǐ jí qí dì zǐ",
-				"dynasty": "春秋",
-				"dynastyPinyin": "chūn qiū",
+				"dynasty": "先秦",
+				"dynastyPinyin": "xiān qín",
 				"contentObject": [
 					{
 						"pinyin": "xué ér shí xí zhī",
@@ -1496,13 +1496,13 @@
 				"paragraph_indent": 4
 			},
 			{
-				"title": "敕勒歌（复习）",
-				"titlePinyin": "chì lè gē fù xí",
+				"title": "敕勒歌",
+				"titlePinyin": "chì lè gē",
 				"type": "textbook_review",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
+				"author": "北朝民歌",
+				"authorPinyin": "běi cháo mín gē",
+				"dynasty": "南北朝",
+				"dynastyPinyin": "nán běi cháo",
 				"contentObject": [
 					{
 						"pinyin": "tiān cāng cāng",
@@ -1524,7 +1524,8 @@
 				"taskAnswer": "苍苍（深青色，指天），茫茫（辽阔，指草原绿），还有牛羊的白和黑。",
 				"taskAnswerPinyin": "cāng cāng shēn qīng sè zhǐ tiān máng máng liáo kuò zhǐ cǎo yuán lǜ hái yǒu niú yáng de bái hé hēi",
 				"translation": "",
-				"translationPinyin": ""
+				"translationPinyin": "",
+				"ttsType": "all"
 			},
 			{
 				"title": "三字经（选段）",

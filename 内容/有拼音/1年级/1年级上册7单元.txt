@@ -1021,8 +1021,8 @@
 				"title": "声律启蒙（选读）",
 				"titlePinyin": "shēng lǜ qǐ méng xuǎn dú",
 				"type": "classics",
-				"author": "",
-				"authorPinyin": "",
+				"author": "车万育",
+				"authorPinyin": "chē wàn yù",
 				"dynasty": "清",
 				"dynastyPinyin": "qīng",
 				"contentObject": [

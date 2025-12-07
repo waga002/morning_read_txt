@@ -39,8 +39,8 @@
 				"title": "三字经（选段）",
 				"titlePinyin": "sān zì jīng xuǎn duàn",
 				"type": "classics",
-				"author": "",
-				"authorPinyin": "",
+				"author": "王应麟",
+				"authorPinyin": "wáng yìng lín",
 				"dynasty": "宋",
 				"dynastyPinyin": "sòng",
 				"contentObject": [
@@ -105,7 +105,7 @@
 							},
 							{
 								"pinyin": "mù mù tou",
-    							"text": "木——木头"
+								"text": "木——木头"
 							}
 						]
 					}

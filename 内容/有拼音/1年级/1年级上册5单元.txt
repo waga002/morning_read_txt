@@ -45,7 +45,7 @@
 				"dynastyPinyin": "sòng",
 				"contentObject": [
 					{
-						"pinyin": "mèng mǔ zé lín chǔ zǐ",
+						"pinyin": "mèng mǔ zé lín chǔ",
 						"text": "孟母择邻处，"
 					},
 					{
@@ -328,6 +328,10 @@
 				"title": "江南（节选）",
 				"titlePinyin": "jiāng nán jié xuǎn",
 				"type": "textbook_review",
+				"author": "汉乐府",
+				"authorPinyin": "hàn yuè fǔ",
+				"dynasty": "汉",
+				"dynastyPinyin": "hàn",
 				"contentObject": [
 					{
 						"pinyin": "jiāng nán kě cǎi lián",
@@ -347,7 +351,8 @@
 				"taskAnswer": "江南、莲叶、鱼。",
 				"taskAnswerPinyin": "jiāng nán lián yè yú",
 				"alignment_mode": "center",
-				"paragraph_indent": 2
+				"paragraph_indent": 2,
+				"ttsType": "all"
 			},
 			{
 				"title": "趣味谜语：水中小伞",

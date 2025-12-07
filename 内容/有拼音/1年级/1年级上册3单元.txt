@@ -467,18 +467,26 @@
 				"title": "孝敬父母",
 				"titlePinyin": "xiào jìng fù mǔ dì zǐ guī",
 				"type": "classics",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
+				"author": "李毓秀",
+				"authorPinyin": "lǐ yù xiù",
+				"dynasty": "清",
+				"dynastyPinyin": "qīng",
 				"contentObject": [
 					{
-						"pinyin": "fù mǔ hū yìng wù huǎn",
-						"text": "父母呼，应勿缓。"
+						"pinyin": "fù mǔ hū",
+						"text": "父母呼，"
 					},
 					{
-						"pinyin": "fù mǔ mìng xíng wù lǎn",
-						"text": "父母命，行勿懒。"
+						"pinyin": "yìng wù huǎn",
+						"text": "应勿缓，"
+					},
+					{
+						"pinyin": "fù mǔ mìng",
+						"text": "父母命，"
+					},
+					{
+						"pinyin": "xíng wù lǎn",
+						"text": "行勿懒。"
 					}
 				],
 				"annotation": "呼：呼唤。！！应：答应。！！缓：迟缓，慢慢的。！！懒：偷懒，不积极。",
@@ -570,7 +578,7 @@
 				"paragraph_indent": 4
 			},
 			{
-				"title": "勤奋小口诀）",
+				"title": "勤奋小口诀",
 				"titlePinyin": "qín fèn xiǎo kǒu jué sú yǔ yàn yǔ",
 				"type": "proverb_saying",
 				"author": "",
