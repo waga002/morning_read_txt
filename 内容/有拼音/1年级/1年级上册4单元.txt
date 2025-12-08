@@ -32,13 +32,9 @@
 				"paragraph_indent": 2
 			},
 			{
-				"title": "三字经（选段）",
+				"title": "三字经",
 				"titlePinyin": "sān zì jīng xuǎn duàn",
 				"type": "classics",
-				"author": "王应麟",
-				"authorPinyin": "wáng yīng lín",
-				"dynasty": "宋",
-				"dynastyPinyin": "sòng",
 				"contentObject": [
 					{
 						"pinyin": "rén zhī chū",
@@ -239,10 +235,6 @@
 				"title": "池上",
 				"titlePinyin": "chí shàng",
 				"type": "ancient_poem",
-				"author": "白居易",
-				"authorPinyin": "bái jū yì",
-				"dynasty": "唐",
-				"dynastyPinyin": "táng",
 				"contentObject": [
 					{
 						"pinyin": "xiǎo wá chēng xiǎo tǐng",
@@ -440,13 +432,9 @@
 				"taskAnswerPinyin": ""
 			},
 			{
-				"title": "弟子规（选读）",
+				"title": "弟子规",
 				"titlePinyin": "dì zǐ guī xuǎn dú",
 				"type": "classics",
-				"author": "李毓秀",
-				"authorPinyin": "lǐ yù xiù",
-				"dynasty": "清",
-				"dynastyPinyin": "qīng",
 				"contentObject": [
 					{
 						"pinyin": "fù mǔ hū",
@@ -738,13 +726,9 @@
 				"taskAnswerPinyin": "wǒ bāng mā ma ná le tuō xié"
 			},
 			{
-				"title": "悯农（其二）",
+				"title": "悯农",
 				"titlePinyin": "mǐn nóng qí èr",
 				"type": "ancient_poem",
-				"author": "李绅",
-				"authorPinyin": "lǐ shēn",
-				"dynasty": "唐",
-				"dynastyPinyin": "táng",
 				"contentObject": [
 					{
 						"pinyin": "chūn zhòng yī lì sù",
@@ -930,13 +914,9 @@
 				"paragraph_indent": 4
 			},
 			{
-				"title": "三字经（选段）",
+				"title": "三字经",
 				"titlePinyin": "sān zì jīng xuǎn duàn",
 				"type": "classics",
-				"author": "王应麟",
-				"authorPinyin": "wáng yīng lín",
-				"dynasty": "宋",
-				"dynastyPinyin": "sòng",
 				"contentObject": [
 					{
 						"pinyin": "yǎng bù jiào",
@@ -1143,10 +1123,6 @@
 				"title": "江雪",
 				"titlePinyin": "jiāng xuě",
 				"type": "ancient_poem",
-				"author": "柳宗元",
-				"authorPinyin": "liǔ zōng yuán",
-				"dynasty": "唐",
-				"dynastyPinyin": "táng",
 				"contentObject": [
 					{
 						"pinyin": "qiān shān niǎo fēi jué",

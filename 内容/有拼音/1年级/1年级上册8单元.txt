@@ -7,7 +7,7 @@
 		"theme": "尾巴摇摇真可爱",
 		"content": [
 			{
-				"title": "比尾巴（节选）",
+				"title": "比尾巴",
 				"titlePinyin": "bǐ wěi ba jié xuǎn",
 				"type": "textbook_review",
 				"contentObject": [
@@ -36,13 +36,9 @@
 				"paragraph_indent": 4
 			},
 			{
-				"title": "三字经（选段）",
+				"title": "三字经",
 				"titlePinyin": "sān zì jīng xuǎn duàn",
 				"type": "classics",
-				"author": "王应麟",
-				"authorPinyin": "wáng yìng lín",
-				"dynasty": "宋",
-				"dynastyPinyin": "sòng",
 				"contentObject": [
 					{
 						"pinyin": "rén zhī chū",
@@ -74,10 +70,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "生字开花",
@@ -182,10 +174,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "学说一句话：我看到（哪里）有（什么），它（怎么样）",
@@ -259,10 +247,6 @@
 				"title": "所见",
 				"titlePinyin": "suǒ jiàn",
 				"type": "ancient_poem",
-				"author": "袁枚",
-				"authorPinyin": "yuán méi",
-				"dynasty": "清",
-				"dynastyPinyin": "qīng",
 				"contentObject": [
 					{
 						"pinyin": "mù tóng qí huáng niú",
@@ -296,10 +280,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "词语小宝库",
@@ -347,7 +327,7 @@
 		"theme": "爱动脑筋小乌鸦",
 		"content": [
 			{
-				"title": "乌鸦喝水（节选）",
+				"title": "乌鸦喝水",
 				"titlePinyin": "wū yā hē shuǐ jié xuǎn",
 				"type": "textbook_review",
 				"contentObject": [
@@ -424,10 +404,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "好习惯小明星",
@@ -494,13 +470,9 @@
 				"taskAnswerPinyin": "xiǎo tù zi shuō xiè xiè nǐ men wǒ de hǎo péng you"
 			},
 			{
-				"title": "弟子规（选段）",
+				"title": "弟子规",
 				"titlePinyin": "dì zǐ guī xuǎn duàn",
 				"type": "classics",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "清",
-				"dynastyPinyin": "qīng",
 				"contentObject": [
 					{
 						"pinyin": "fù mǔ hū",
@@ -532,10 +504,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "奇思妙想屋",
@@ -638,10 +606,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "生字开花",
@@ -689,7 +653,7 @@
 		"theme": "一起把水喝光光",
 		"content": [
 			{
-				"title": "乌鸦喝水（选段）",
+				"title": "乌鸦喝水",
 				"titlePinyin": "wū yā hē shuǐ xuǎn duàn",
 				"type": "textbook_review",
 				"contentObject": [
@@ -752,10 +716,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "词语小宝库",
@@ -839,10 +799,6 @@
 				"title": "望庐山瀑布",
 				"titlePinyin": "wàng lú shān pù bù",
 				"type": "ancient_poem",
-				"author": "李白",
-				"authorPinyin": "lǐ bái",
-				"dynasty": "唐",
-				"dynastyPinyin": "táng",
 				"contentObject": [
 					{
 						"pinyin": "rì zhào xiāng lú shēng zǐ yān",
@@ -876,10 +832,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "好习惯小明星",
@@ -986,10 +938,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "学说一句话：怎样的谁干什么？",
@@ -1027,7 +975,7 @@
 		"theme": "云里来土里去",
 		"content": [
 			{
-				"title": "雨点儿（节选）",
+				"title": "雨点儿",
 				"titlePinyin": "yǔ diǎn ér jié xuǎn",
 				"type": "textbook_review",
 				"contentObject": [
@@ -1064,13 +1012,9 @@
 				"paragraph_indent": 4
 			},
 			{
-				"title": "声律启蒙（选段）",
+				"title": "声律启蒙",
 				"titlePinyin": "shēng lǜ qǐ méng xuǎn duàn",
 				"type": "classics",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "清",
-				"dynastyPinyin": "qīng",
 				"contentObject": [
 					{
 						"pinyin": "tiān duì dì",
@@ -1112,10 +1056,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "生字开花",
@@ -1234,10 +1174,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "词语小宝库",
@@ -1323,10 +1259,6 @@
 				"title": "梅花",
 				"titlePinyin": "méi huā",
 				"type": "ancient_poem",
-				"author": "王安石",
-				"authorPinyin": "wáng ān shí",
-				"dynasty": "宋",
-				"dynastyPinyin": "sòng",
 				"contentObject": [
 					{
 						"pinyin": "qiáng jiǎo shù zhī méi",
@@ -1358,10 +1290,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "智慧小口诀",

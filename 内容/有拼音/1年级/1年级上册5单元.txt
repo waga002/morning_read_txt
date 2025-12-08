@@ -7,7 +7,7 @@
 		"theme": "秋天的画笔真漂亮",
 		"content": [
 			{
-				"title": "秋天（节选）",
+				"title": "秋天",
 				"titlePinyin": "qiū tiān jié xuǎn",
 				"type": "textbook_review",
 				"contentObject": [
@@ -36,13 +36,9 @@
 				"paragraph_indent": 3
 			},
 			{
-				"title": "三字经（选段）",
+				"title": "三字经",
 				"titlePinyin": "sān zì jīng xuǎn duàn",
 				"type": "classics",
-				"author": "王应麟",
-				"authorPinyin": "wáng yìng lín",
-				"dynasty": "宋",
-				"dynastyPinyin": "sòng",
 				"contentObject": [
 					{
 						"pinyin": "mèng mǔ zé lín chǔ",
@@ -247,10 +243,6 @@
 				"title": "小池",
 				"titlePinyin": "xiǎo chí",
 				"type": "ancient_poem",
-				"author": "杨万里",
-				"authorPinyin": "yáng wàn lǐ",
-				"dynasty": "宋",
-				"dynastyPinyin": "sòng",
 				"contentObject": [
 					{
 						"pinyin": "quán yǎn wú shēng xī xì liú",
@@ -325,13 +317,9 @@
 		"theme": "美丽的江南风光",
 		"content": [
 			{
-				"title": "江南（节选）",
+				"title": "江南",
 				"titlePinyin": "jiāng nán jié xuǎn",
 				"type": "textbook_review",
-				"author": "汉乐府",
-				"authorPinyin": "hàn yuè fǔ",
-				"dynasty": "汉",
-				"dynastyPinyin": "hàn",
 				"contentObject": [
 					{
 						"pinyin": "jiāng nán kě cǎi lián",
@@ -453,13 +441,9 @@
 				"paragraph_indent": 1
 			},
 			{
-				"title": "弟子规（选读）",
+				"title": "弟子规",
 				"titlePinyin": "dì zǐ guī xuǎn dú",
 				"type": "classics",
-				"author": "李毓秀",
-				"authorPinyin": "lǐ yù xiù",
-				"dynasty": "清",
-				"dynastyPinyin": "qīng",
 				"contentObject": [
 					{
 						"pinyin": "chén zé xǐng",
@@ -622,7 +606,7 @@
 		"theme": "雪地里的小脚印",
 		"content": [
 			{
-				"title": "雪地里的小画家（节选）",
+				"title": "雪地里的小画家",
 				"titlePinyin": "xuě dì lǐ de xiǎo huà jiā jié xuǎn",
 				"type": "textbook_review",
 				"contentObject": [
@@ -758,10 +742,6 @@
 				"title": "江南",
 				"titlePinyin": "jiāng nán",
 				"type": "ancient_poem",
-				"author": "汉乐府",
-				"authorPinyin": "hàn yuè fǔ",
-				"dynasty": "汉",
-				"dynastyPinyin": "hàn",
 				"contentObject": [
 					{
 						"pinyin": "jiāng nán kě cǎi lián",
@@ -840,7 +820,7 @@
 		"theme": "四季娃娃换衣服",
 		"content": [
 			{
-				"title": "四季（童谣）",
+				"title": "四季",
 				"titlePinyin": "sì jì tóng yáo",
 				"type": "children_poem",
 				"contentObject": [
@@ -950,7 +930,7 @@
 		"theme": "大自然的朋友",
 		"content": [
 			{
-				"title": "四季（节选）",
+				"title": "四季",
 				"titlePinyin": "sì jì jié xuǎn",
 				"type": "textbook_review",
 				"contentObject": [
@@ -995,13 +975,9 @@
 				"paragraph_indent": 6
 			},
 			{
-				"title": "声律启蒙（选读）",
+				"title": "声律启蒙",
 				"titlePinyin": "shēng lǜ qǐ méng xuǎn dú",
 				"type": "classics",
-				"author": "车万育",
-				"authorPinyin": "chē wàn yù",
-				"dynasty": "清",
-				"dynastyPinyin": "qīng",
 				"contentObject": [
 					{
 						"pinyin": "yún duì yǔ",
@@ -1217,13 +1193,9 @@
 				"paragraph_indent": 1
 			},
 			{
-				"title": "悯农（选读）",
+				"title": "悯农",
 				"titlePinyin": "mǐn nóng xuǎn dú",
 				"type": "ancient_poem",
-				"author": "李绅",
-				"authorPinyin": "lǐ shēn",
-				"dynasty": "唐",
-				"dynastyPinyin": "táng",
 				"contentObject": [
 					{
 						"pinyin": "chú hé rì dāng wǔ",

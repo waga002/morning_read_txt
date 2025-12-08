@@ -32,13 +32,9 @@
 				"paragraph_indent": 3
 			},
 			{
-				"title": "三字经（选段）",
+				"title": "三字经",
 				"titlePinyin": "sān zì jīng xuǎn duàn",
 				"type": "classics",
-				"author": "王应麟",
-				"authorPinyin": "wáng yìng lín",
-				"dynasty": "宋",
-				"dynastyPinyin": "sòng",
 				"contentObject": [
 					{
 						"pinyin": "yù bù zhuó",
@@ -70,10 +66,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "生字开花",
@@ -182,10 +174,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "学说一句话：什么像什么",
@@ -257,10 +245,6 @@
 				"title": "登鹳雀楼",
 				"titlePinyin": "dēng guàn què lóu",
 				"type": "ancient_poem",
-				"author": "王之涣",
-				"authorPinyin": "wáng zhī huàn",
-				"dynasty": "唐",
-				"dynastyPinyin": "táng",
 				"contentObject": [
 					{
 						"pinyin": "bái rì yī shān jìn",
@@ -292,10 +276,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "词语小宝库",
@@ -396,10 +376,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "好习惯小明星",
@@ -472,13 +448,9 @@
 				"paragraph_indent": 3
 			},
 			{
-				"title": "弟子规（选读）",
+				"title": "弟子规",
 				"titlePinyin": "dì zǐ guī xuǎn dú",
 				"type": "classics",
-				"author": "李毓秀",
-				"authorPinyin": "lǐ yù xiù",
-				"dynasty": "清",
-				"dynastyPinyin": "qīng",
 				"contentObject": [
 					{
 						"pinyin": "chū zé tì",
@@ -510,10 +482,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "奇思妙想屋",
@@ -624,10 +592,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "生字开花",
@@ -732,10 +696,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "词语小宝库",
@@ -819,10 +779,6 @@
 				"title": "春晓",
 				"titlePinyin": "chūn xiǎo",
 				"type": "ancient_poem",
-				"author": "孟浩然",
-				"authorPinyin": "mèng hào rán",
-				"dynasty": "唐",
-				"dynastyPinyin": "táng",
 				"contentObject": [
 					{
 						"pinyin": "chūn mián bù jué xiǎo",
@@ -854,10 +810,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "好习惯小明星",
@@ -954,10 +906,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "学说一句话：什么时候，谁在哪儿干什么",
@@ -1022,13 +970,9 @@
 				"paragraph_indent": 2
 			},
 			{
-				"title": "声律启蒙（节选二）",
+				"title": "声律启蒙",
 				"titlePinyin": "shēng lǜ qǐ méng jié xuǎn èr",
 				"type": "classics",
-				"author": "车万育",
-				"authorPinyin": "chē wàn yù",
-				"dynasty": "清",
-				"dynastyPinyin": "qīng",
 				"contentObject": [
 					{
 						"pinyin": "shān duì hǎi",
@@ -1058,10 +1002,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "生字开花",
@@ -1190,10 +1130,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "词语小宝库",
@@ -1277,10 +1213,6 @@
 				"title": "悯农",
 				"titlePinyin": "mǐn nóng",
 				"type": "ancient_poem",
-				"author": "李绅",
-				"authorPinyin": "lǐ shēn",
-				"dynasty": "唐",
-				"dynastyPinyin": "táng",
 				"contentObject": [
 					{
 						"pinyin": "chú hé rì dāng wǔ",
@@ -1312,10 +1244,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "智慧小口诀",

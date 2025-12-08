@@ -7,7 +7,7 @@
 		"theme": "星星月亮眨眨眼",
 		"content": [
 			{
-				"title": "小小的船（节选）",
+				"title": "小小的船",
 				"titlePinyin": "xiǎo xiǎo de chuán jié xuǎn",
 				"type": "textbook_review",
 				"contentObject": [
@@ -32,13 +32,9 @@
 				"paragraph_indent": 3
 			},
 			{
-				"title": "三字经（选段）",
+				"title": "三字经",
 				"titlePinyin": "sān zì jīng xuǎn duàn",
 				"type": "classics",
-				"author": "王应麟",
-				"authorPinyin": "wáng yìng lín",
-				"dynasty": "宋",
-				"dynastyPinyin": "sòng",
 				"contentObject": [
 					{
 						"pinyin": "rì yuè xīng",
@@ -70,10 +66,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "生字开花",
@@ -147,10 +139,6 @@
 				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng fáng qián wū hòu",
 				"type": "tongue_twisters",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"pinyin": "fáng qián yǒu fěn fáng",
@@ -180,10 +168,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "学说一句话：……先……，然后……，最后……？",
@@ -267,10 +251,6 @@
 				"title": "寻隐者不遇",
 				"titlePinyin": "xún yǐn zhě bù yù",
 				"type": "ancient_poem",
-				"author": "贾岛",
-				"authorPinyin": "jiǎ dǎo",
-				"dynasty": "唐",
-				"dynastyPinyin": "táng",
 				"contentObject": [
 					{
 						"pinyin": "sōng xià wèn tóng zǐ",
@@ -302,10 +282,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "词语小宝库",
@@ -349,7 +325,7 @@
 		"theme": "宝藏在哪里",
 		"content": [
 			{
-				"title": "两件宝（节选）",
+				"title": "两件宝",
 				"titlePinyin": "liǎng jiàn bǎo jié xuǎn",
 				"type": "textbook_review",
 				"contentObject": [
@@ -389,10 +365,6 @@
 				"title": "趣味谜语：打一自然物",
 				"titlePinyin": "qù wèi mí yǔ dǎ yī zì rán wù",
 				"type": "fun_riddles",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"pinyin": "bái tiān hēi yè gēn zhe wǒ",
@@ -412,10 +384,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "好习惯小明星",
@@ -478,13 +446,9 @@
 				"taskAnswerPinyin": "wǒ de xiǎo shǒu zài bèi zi lǐ shuì le yī jiào xiàn zài shì nuǎn nuǎn de"
 			},
 			{
-				"title": "弟子规（选读）",
+				"title": "弟子规",
 				"titlePinyin": "dì zǐ guī xuǎn dú",
 				"type": "classics",
-				"author": "李毓秀",
-				"authorPinyin": "lǐ yù xiù",
-				"dynasty": "清",
-				"dynastyPinyin": "qīng",
 				"contentObject": [
 					{
 						"pinyin": "wù zì bào",
@@ -516,10 +480,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "奇思妙想屋",
@@ -595,10 +555,6 @@
 				"title": "智慧小口诀",
 				"titlePinyin": "zhì huì xiǎo kǒu jué",
 				"type": "proverb_saying",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"pinyin": "shǎo zhuàng bù nǔ lì lǎo dà tú shāng bēi yào zhēn xī shí jiān xué xí",
@@ -618,10 +574,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "生字开花",
@@ -665,7 +617,7 @@
 		"theme": "影子的秘密",
 		"content": [
 			{
-				"title": "影子（节选）",
+				"title": "影子",
 				"titlePinyin": "yǐng zi jié xuǎn",
 				"type": "textbook_review",
 				"contentObject": [
@@ -697,10 +649,6 @@
 				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng sì hé shí",
 				"type": "tongue_twisters",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"pinyin": "sì shì sì shí shì shí",
@@ -734,10 +682,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "词语小宝库",
@@ -811,10 +755,6 @@
 				"title": "早发白帝城",
 				"titlePinyin": "zǎo fā bái dì chéng",
 				"type": "ancient_poem",
-				"author": "李白",
-				"authorPinyin": "lǐ bái",
-				"dynasty": "唐",
-				"dynastyPinyin": "táng",
 				"contentObject": [
 					{
 						"pinyin": "zhāo cí bái dì cǎi yún jiān",
@@ -848,10 +788,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "好习惯小明星",
@@ -927,10 +863,6 @@
 				"title": "趣味谜语：打一小动物",
 				"titlePinyin": "qù wèi mí yǔ dǎ yī xiǎo dòng wù",
 				"type": "fun_riddles",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"pinyin": "shēn tǐ bái bái ěr duǒ cháng cháng",
@@ -952,10 +884,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "学说一句话：什么像什么",
@@ -991,7 +919,7 @@
 		"theme": "读读园地七",
 		"content": [
 			{
-				"title": "语文园地七（复习）",
+				"title": "语文园地七",
 				"titlePinyin": "yǔ wén yuán dì qī fù xí",
 				"type": "textbook_review",
 				"contentObject": [
@@ -1018,13 +946,9 @@
 				"taskAnswerPinyin": ""
 			},
 			{
-				"title": "声律启蒙（选读）",
+				"title": "声律启蒙",
 				"titlePinyin": "shēng lǜ qǐ méng xuǎn dú",
 				"type": "classics",
-				"author": "车万育",
-				"authorPinyin": "chē wàn yù",
-				"dynasty": "清",
-				"dynastyPinyin": "qīng",
 				"contentObject": [
 					{
 						"pinyin": "tiān duì dì yǔ duì fēng",
@@ -1050,10 +974,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "生字开花",
@@ -1127,10 +1047,6 @@
 				"title": "绕口令",
 				"titlePinyin": "rào kǒu lìng gē ge dì di",
 				"type": "tongue_twisters",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"pinyin": "gē ge huà màn huá huá",
@@ -1160,10 +1076,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "词语小宝库",
@@ -1243,10 +1155,6 @@
 				"title": "回乡偶书",
 				"titlePinyin": "huí xiāng ǒu shū",
 				"type": "ancient_poem",
-				"author": "贺知章",
-				"authorPinyin": "hè zhī zhāng",
-				"dynasty": "唐",
-				"dynastyPinyin": "táng",
 				"contentObject": [
 					{
 						"pinyin": "shào xiǎo lí jiā lǎo dà huí",
@@ -1278,10 +1186,6 @@
 				"title": "日积月累",
 				"titlePinyin": "rì jī yuè lěi",
 				"type": "daily_accumulation",
-				"author": "",
-				"authorPinyin": "",
-				"dynasty": "",
-				"dynastyPinyin": "",
 				"contentObject": [
 					{
 						"title": "智慧小口诀",
