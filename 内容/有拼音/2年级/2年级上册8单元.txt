@@ -1804,7 +1804,7 @@
 			{
 				"title": "咏柳",
 				"titlePinyin": "yǒng liǔ",
-				"type": "children_poem",
+				"type": "ancient_poem",
 				"author": "贺知章",
 				"authorPinyin": "hè zhī zhāng",
 				"dynasty": "唐",

@@ -1080,8 +1080,8 @@
 				"title": "三字经（选段）",
 				"titlePinyin": "sān zì jīng xuǎn duàn",
 				"type": "classical_chinese",
-				"author": "",
-				"authorPinyin": "",
+				"author": "王应麟",
+				"authorPinyin": "wáng yìng lín",
 				"dynasty": "宋",
 				"dynastyPinyin": "sòng",
 				"contentObject": [
@@ -1424,8 +1424,8 @@
 				"title": "弟子规（选段）",
 				"titlePinyin": "dì zǐ guī xuǎn duàn",
 				"type": "classics",
-				"author": "",
-				"authorPinyin": "",
+				"author": "李毓秀",
+				"authorPinyin": "lǐ yù xiù",
 				"dynasty": "清",
 				"dynastyPinyin": "qīng",
 				"contentObject": [

@@ -199,29 +199,6 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"好词",
-						"content":[
-							{
-								"text":"斩钉截铁"
-							},
-							{
-								"text":"粉身碎骨"
-							},
-							{
-								"text":"气壮山河"
-							},
-							{
-								"text":"坚毅"
-							},
-							{
-								"text":"眺（tiào）望"
-							},
-							{
-								"text":"昂首"
-							}
-						]
-					},
-					{
 						"title":"好段落",
 						"content":[
 							{
@@ -306,29 +283,6 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"好词",
-						"content":[
-							{
-								"text":"聚精会神"
-							},
-							{
-								"text":"千钧（jūn）一发"
-							},
-							{
-								"text":"璀璨（cuǐ càn）"
-							},
-							{
-								"text":"憧憬"
-							},
-							{
-								"text":"微弱"
-							},
-							{
-								"text":"坚韧"
-							}
-						]
-					},
-					{
 						"title":"写作技巧：开头",
 						"content":[
 							{
@@ -404,29 +358,6 @@
 				"title":"日积月累",
 				"type":"daily_accumulation",
 				"contentObject":[
-					{
-						"title":"好词",
-						"content":[
-							{
-								"text":"排山倒海"
-							},
-							{
-								"text":"震耳欲聋"
-							},
-							{
-								"text":"别出心裁"
-							},
-							{
-								"text":"雄伟"
-							},
-							{
-								"text":"肃穆（mù）"
-							},
-							{
-								"text":"欢跃"
-							}
-						]
-					},
 					{
 						"title":"写作技巧：结尾",
 						"content":[
@@ -519,29 +450,6 @@
 				"title":"日积月累",
 				"type":"daily_accumulation",
 				"contentObject":[
-					{
-						"title":"好词",
-						"content":[
-							{
-								"text":"光明磊（lěi）落"
-							},
-							{
-								"text":"大义凛（lǐn）然"
-							},
-							{
-								"text":"鞠（jū）躬尽瘁"
-							},
-							{
-								"text":"崇高"
-							},
-							{
-								"text":"坦荡"
-							},
-							{
-								"text":"无畏"
-							}
-						]
-					},
 					{
 						"title":"八字成语 | 名言",
 						"content":[
@@ -641,29 +549,6 @@
 				"title":"日积月累",
 				"type":"daily_accumulation",
 				"contentObject":[
-					{
-						"title":"好词",
-						"content":[
-							{
-								"text":"生机勃勃"
-							},
-							{
-								"text":"络绎不绝"
-							},
-							{
-								"text":"前赴后继"
-							},
-							{
-								"text":"辉煌"
-							},
-							{
-								"text":"执着"
-							},
-							{
-								"text":"烂漫"
-							}
-						]
-					},
 					{
 						"title":"歇后语 | 谚语",
 						"content":[
@@ -842,29 +727,6 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"好词",
-						"content":[
-							{
-								"text":"巧舌如簧"
-							},
-							{
-								"text":"滔滔不绝"
-							},
-							{
-								"text":"语惊四座"
-							},
-							{
-								"text":"慷慨"
-							},
-							{
-								"text":"陈述"
-							},
-							{
-								"text":"雄辩"
-							}
-						]
-					},
-					{
 						"title":"好段落",
 						"content":[
 							{
@@ -938,29 +800,6 @@
 				"title":"日积月累",
 				"type":"daily_accumulation",
 				"contentObject":[
-					{
-						"title":"好词",
-						"content":[
-							{
-								"text":"井然有序"
-							},
-							{
-								"text":"铺张浪费"
-							},
-							{
-								"text":"悔恨交加"
-							},
-							{
-								"text":"荡漾"
-							},
-							{
-								"text":"检阅"
-							},
-							{
-								"text":"肃杀"
-							}
-						]
-					},
 					{
 						"title":"修辞手法",
 						"content":[
@@ -1036,29 +875,6 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"好词",
-						"content":[
-							{
-								"text":"卧薪尝胆"
-							},
-							{
-								"text":"发愤图强"
-							},
-							{
-								"text":"忍辱负重"
-							},
-							{
-								"text":"晶莹"
-							},
-							{
-								"text":"湿润"
-							},
-							{
-								"text":"覆盖"
-							}
-						]
-					},
-					{
 						"title":"修辞手法",
 						"content":[
 							{
@@ -1129,29 +945,6 @@
 				"title":"日积月累",
 				"type":"daily_accumulation",
 				"contentObject":[
-					{
-						"title":"好词",
-						"content":[
-							{
-								"text":"自相矛盾"
-							},
-							{
-								"text":"漏洞百出"
-							},
-							{
-								"text":"参差（cēn cī）不齐"
-							},
-							{
-								"text":"静谧（mì）"
-							},
-							{
-								"text":"朦胧"
-							},
-							{
-								"text":"倾泻"
-							}
-						]
-					},
 					{
 						"title":"描写手法",
 						"content":[
@@ -1232,29 +1025,6 @@
 				"title":"日积月累",
 				"type":"daily_accumulation",
 				"contentObject":[
-					{
-						"title":"好词",
-						"content":[
-							{
-								"text":"稍纵即逝"
-							},
-							{
-								"text":"白驹过隙"
-							},
-							{
-								"text":"只争朝夕"
-							},
-							{
-								"text":"惋惜"
-							},
-							{
-								"text":"匆匆"
-							},
-							{
-								"text":"豪迈"
-							}
-						]
-					},
 					{
 						"title":"描写手法",
 						"content":[
