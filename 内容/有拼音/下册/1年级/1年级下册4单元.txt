@@ -1,0 +1,737 @@
+[
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 7,
+		"day": 1,
+		"theme": "床前明月光",
+		"content": [
+			{
+				"title": "静夜思",
+				"titlePinyin": "jìng yè sī",
+				"type": "textbook_review",
+				"contentObject": [
+					{"pinyin": "chuáng qián míng yuè guāng", "text": "床前明月光，"},
+					{"pinyin": "yí shì dì shàng shuāng", "text": "疑是地上霜。"},
+					{"pinyin": "jǔ tóu wàng míng yuè", "text": "举头望明月，"},
+					{"pinyin": "dī tóu sī gù xiāng", "text": "低头思故乡。"}
+				],
+				"task": "大声把这首诗读三遍，背给家人听。",
+				"taskPinyin": "dà shēng bǎ zhè shǒu shī dú sān biàn bèi gěi jiā rén tīng",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "center",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "三字经",
+				"titlePinyin": "sān zì jīng xuǎn duàn",
+				"type": "classics",
+				"contentObject": [
+					{"pinyin": "xiāng jiǔ líng", "text": "香九龄，"},
+					{"pinyin": "néng wēn xí", "text": "能温席。"},
+					{"pinyin": "xiào yú qīn", "text": "孝于亲，"},
+					{"pinyin": "suǒ dāng zhí", "text": "所当执。"}
+				],
+				"annotation": "香：黄香。！！温席：暖被窝。！！孝于亲：孝顺父母。！！所当执：应该做的。",
+				"annotationPinyin": "xiāng huáng xiāng wēn xí nuǎn bèi wō xiào yú qīn xiào shùn fù mǔ suǒ dāng zhí yīng gāi zuò de",
+				"task": "黄香九岁会做什么？我们也要孝顺长辈哦。",
+				"taskPinyin": "huáng xiāng jiǔ suì huì zuò shén me wǒ men yě yào xiào shùn zhǎng bèi ō",
+				"taskAnswer": "能给爸爸暖被窝。我们也要帮大人做小事。",
+				"taskAnswerPinyin": "néng gěi bà ba nuǎn bèi wō wǒ men yě yào bāng dà rén zuò xiǎo shì",
+				"translation": "黄香九岁的时候，冬天会给爸爸先把被窝暖热。孝顺爸爸妈妈，是我们应该做的事。",
+				"translationPinyin": "huáng xiāng jiǔ suì de shí hou dōng tiān huì gěi bà ba xiān bǎ bèi wō nuǎn rè xiào shùn bà ba mā ma shì wǒ men yīng gāi zuò de shì",
+				"alignment_mode": "center",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "生字开花", "titlePinyin": "shēng zì kāi huā", "content": [
+					{"pinyin": "sī sī niàn", "text": "思 -- 思念"},
+					{"pinyin": "chuáng chuáng tou", "text": "床 -- 床头"},
+					{"pinyin": "qián qián miàn", "text": "前 -- 前面"},
+					{"pinyin": "guāng dēng guāng", "text": "光 -- 灯光"},
+					{"pinyin": "dī dī tóu", "text": "低 -- 低头"}
+				]}],
+				"task": "指着生字和组词，大声读给爸爸妈妈听。",
+				"taskPinyin": "zhǐ zhe shēng zì hé zǔ cí dà shēng dú gěi bà ba mā ma tīng",
+				"taskAnswer": "思、思念、床、床头、前、前面、光、灯光、低、低头。",
+				"taskAnswerPinyin": "sī sī niàn chuáng chuáng tou qián qián miàn guāng dēng guāng dī dī tóu"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 7,
+		"day": 2,
+		"theme": "我不再怕黑",
+		"content": [
+			{
+				"title": "小兔子看月亮",
+				"titlePinyin": "xiǎo tù zi kàn yuè liang",
+				"type": "story_legend",
+				"contentObject": [
+					{"pinyin": "xiǎo tù zi yǐ qián pá hēi", "text": "小兔子以前怕黑，"},
+					{"pinyin": "tiān yī hēi jiù duǒ jìn wō", "text": "天一黑就躲进窝。"},
+					{"pinyin": "mā ma péi tā chū mén zǒu", "text": "妈妈陪它出门走，"},
+					{"pinyin": "yuè guāng xià huā cǎo zài xiào", "text": "月光下花草在笑。"},
+					{"pinyin": "xiǎo tù shuō yè sè zhēn měi", "text": "小兔说夜色真美，再也不怕啦。"}
+				],
+				"task": "小兔子后来为什么不怕黑了？",
+				"taskPinyin": "xiǎo tù zi hòu lái wèi shén me bù pà hēi le",
+				"taskAnswer": "妈妈陪它出门，它发现月光下花草很美，就不怕了。",
+				"taskAnswerPinyin": "mā ma péi tā chū mén tā fā xiàn yuè guāng xià huā cǎo hěn měi jiù bù pà le",
+				"alignment_mode": "left",
+				"paragraph_indent": 3
+			},
+			{
+				"title": "绕口令",
+				"titlePinyin": "rào kǒu lìng yuè guāng",
+				"type": "tongue_twisters",
+				"contentObject": [
+					{"pinyin": "yuè guāng guāng", "text": "月光光，"},
+					{"pinyin": "zhào dì táng", "text": "照地堂。"},
+					{"pinyin": "dì táng liàng", "text": "地堂亮，"},
+					{"pinyin": "xiǎo hái kàn yuè liang", "text": "小孩看月亮。"}
+				],
+				"task": "试着用最快的速度，大声读三遍！",
+				"taskPinyin": "shì zhe yòng zuì kuài de sù dù dà shēng dú sān biàn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "学说一句话：谁干什么", "titlePinyin": "xué shuō yī jù huà shuí gàn shén me", "content": [
+					{"pinyin": "wǒ jǔ tóu wàng yuè liang", "text": "我举头望月亮。"},
+					{"pinyin": "bà ba lā wǒ qù sàn bù", "text": "爸爸拉我去散步。"},
+					{"pinyin": "wài pó bāo zòng zi", "text": "外婆包粽子。"}
+				]}],
+				"task": "用“谁干什么”说说晚上你和家人做过的事。",
+				"taskPinyin": "yòng shuí gàn shén me shuō shuo wǎn shang nǐ hé jiā rén zuò guò de shì",
+				"taskAnswer": "晚上妈妈给我讲故事。",
+				"taskAnswerPinyin": "wǎn shang mā ma gěi wǒ jiǎng gù shì"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 7,
+		"day": 3,
+		"theme": "夜色真美丽",
+		"content": [
+			{
+				"title": "夜色",
+				"titlePinyin": "yè sè",
+				"type": "children_poem",
+				"contentObject": [
+					{"pinyin": "wǒ cóng qián dǎn zi hěn xiǎo hěn xiǎo", "text": "我从前胆子很小很小，"},
+					{"pinyin": "tiān yī hēi jiù bù gǎn wǎng wài kàn", "text": "天一黑就不敢往外看。"},
+					{"pinyin": "bà ba wǎn shang piān yào lā wǒ qù sàn bù", "text": "爸爸晚上偏要拉我去散步，"},
+					{"pinyin": "yuán lái huā cǎo dōu xiàng bái tiān yī yàng wēi xiào", "text": "原来花草都像白天一样微笑。"},
+					{"pinyin": "cóng cǐ zài hēi de wǎn shang", "text": "从此再黑的晚上，"},
+					{"pinyin": "wǒ yě néng kàn jiàn xiǎo niǎo zài yuè guāng xià shuì jiào", "text": "我也能看见小鸟在月光下睡觉。"}
+				],
+				"task": "大声读三遍，你怕黑吗？学了课文会勇敢一点吗？",
+				"taskPinyin": "dà shēng dú sān biàn nǐ pà hēi ma xué le kè wén huì yǒng gǎn yī diǎn ma",
+				"taskAnswer": "我有时怕黑。学了课文我知道夜色很美，会试着勇敢。",
+				"taskAnswerPinyin": "wǒ yǒu shí pà hēi xué le kè wén wǒ zhī dào yè sè hěn měi huì shì zhe yǒng gǎn",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "终南望余雪",
+				"titlePinyin": "zhōng nán wàng yú xuě",
+				"type": "ancient_poem",
+				"contentObject": [
+					{"pinyin": "zhōng nán yīn lǐng xiù", "text": "终南阴岭秀，"},
+					{"pinyin": "jī xuě fú yún duān", "text": "积雪浮云端。"},
+					{"pinyin": "lín biǎo míng jì sè", "text": "林表明霁色，"},
+					{"pinyin": "chéng zhōng zēng mù hán", "text": "城中增暮寒。"}
+				],
+				"author": "祖咏",
+				"authorPinyin": "zǔ yǒng",
+				"dynasty": "唐",
+				"dynastyPinyin": "táng",
+				"annotation": "终南：终南山。！！阴岭：北面的山岭。！！霁色：雪后放晴的光。！！暮寒：傍晚的寒意。",
+				"annotationPinyin": "zhōng nán zhōng nán shān yīn lǐng běi miàn de shān lǐng jì sè xuě hòu fàng qíng de guāng mù hán bàng wǎn de hán yì",
+				"task": "诗里说山上的雪在哪里呀？",
+				"taskPinyin": "shī lǐ shuō shān shàng de xuě zài nǎ lǐ ya",
+				"taskAnswer": "雪好像浮在云端，山林上还有雪后放晴的亮光。",
+				"taskAnswerPinyin": "xuě hǎo xiàng fú zài yún duān shān lín shàng hái yǒu xuě hòu fàng qíng de liàng guāng",
+				"translation": "终南山的北面特别秀美，积雪好像浮在云朵上面。树林顶上映着雪后放晴的亮光，城里到了傍晚却更冷了。",
+				"translationPinyin": "zhōng nán shān de běi miàn tè bié xiù měi jī xuě hǎo xiàng fú zài yún duǒ shàng miàn shù lín dǐng shàng yìng zhe xuě hòu fàng qíng de liàng guāng chéng lǐ dào le bàng wǎn què gèng lěng le",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "词语小宝库", "titlePinyin": "cí yǔ xiǎo bǎo kù", "content": [
+					{"pinyin": "yuè guāng", "text": "月光"},
+					{"pinyin": "yè sè", "text": "夜色"},
+					{"pinyin": "wēi xiào", "text": "微笑"},
+					{"pinyin": "dǎn zi", "text": "胆子"},
+					{"pinyin": "hēi chén chén", "text": "黑沉沉"}
+				]}],
+				"task": "用“微笑”说一句话。",
+				"taskPinyin": "yòng wēi xiào shuō yī jù huà",
+				"taskAnswer": "妈妈看着我，脸上带着微笑。",
+				"taskAnswerPinyin": "mā ma kàn zhe wǒ liǎn shàng dài zhe wēi xiào"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 7,
+		"day": 4,
+		"theme": "青青的粽叶白白的米",
+		"content": [
+			{
+				"title": "端午粽",
+				"titlePinyin": "duān wǔ zòng",
+				"type": "textbook_review",
+				"contentObject": [
+					{"pinyin": "zòng zi shì yòng qīng qīng de ruò zhú yè bāo de", "text": "粽子是用青青的箬竹叶包的，"},
+					{"pinyin": "lǐ miàn guǒ zhe bái bái de nuò mǐ", "text": "里面裹着白白的糯米，"},
+					{"pinyin": "zhōng jiān yǒu yī kē hóng hóng de zǎo", "text": "中间有一颗红红的枣。"},
+					{"pinyin": "wài pó yī xiān guō gài", "text": "外婆一掀锅盖，"},
+					{"pinyin": "zhǔ shú de zòng zi piāo chū qīng xiāng", "text": "煮熟的粽子飘出清香。"},
+					{"pinyin": "bāo kāi zòng yè yǎo yī kǒu zhēn shì yòu nián yòu tián", "text": "剥开粽叶咬一口，真是又黏又甜。"}
+				],
+				"task": "大声读三遍，粽子里有什么呀？",
+				"taskPinyin": "dà shēng dú sān biàn zòng zi lǐ yǒu shén me ya",
+				"taskAnswer": "有青青的箬竹叶、白白的糯米、红红的枣。",
+				"taskAnswerPinyin": "yǒu qīng qīng de ruò zhú yè bái bái de nuò mǐ hóng hóng de zǎo",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "谜语：猜食物",
+				"titlePinyin": "mí yǔ cāi shí wù",
+				"type": "fun_riddles",
+				"contentObject": [
+					{"pinyin": "sì jiǎo qiǎo", "text": "四角巧，"},
+					{"pinyin": "lǜ yī bāo", "text": "绿衣包。"},
+					{"pinyin": "bái mǐ hóng zǎo lǐ miàn cáng", "text": "白米红枣里面藏。"},
+					{"pinyin": "duān wǔ jié dà jiā chī", "text": "端午节大家吃。"}
+				],
+				"task": "猜一猜，这是什么呀？",
+				"taskPinyin": "cāi yī cāi zhè shì shén me ya",
+				"taskAnswer": "粽子。",
+				"taskAnswerPinyin": "zòng zi",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "好习惯小明星", "titlePinyin": "hǎo xí guàn xiǎo míng xīng", "content": [
+					{"pinyin": "wǎn shang zǎo shuì zǎo qǐ", "text": "晚上早睡早起。（身体好）"},
+					{"pinyin": "pà hēi shí jiào bà ba mā ma péi", "text": "怕黑时叫爸爸妈妈陪。（勇敢一点）"},
+					{"pinyin": "chī dōng xī qián xǐ shǒu", "text": "吃东西前洗手。（讲卫生）"}
+				]}],
+				"task": "你晚上怕黑的时候会怎么做呀？",
+				"taskPinyin": "nǐ wǎn shang pà hēi de shí hou huì zěn me zuò ya",
+				"taskAnswer": "我会叫妈妈陪，或者开着小灯。",
+				"taskAnswerPinyin": "wǒ huì jiào mā ma péi huò zhě kāi zhe xiǎo dēng"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 7,
+		"day": 5,
+		"theme": "外婆的粽子香又甜",
+		"content": [
+			{
+				"title": "小熊过端午",
+				"titlePinyin": "xiǎo xióng guò duān wǔ",
+				"type": "story_legend",
+				"contentObject": [
+					{"pinyin": "xiǎo xióng qù wài pó jiā", "text": "小熊去外婆家，"},
+					{"pinyin": "wài pó bāo le hóng zǎo zòng", "text": "外婆包了红枣粽。"},
+					{"pinyin": "qīng qīng yè bái bái mǐ", "text": "青青叶，白白米，"},
+					{"pinyin": "yòu nián yòu tián zhēn hǎo chī", "text": "又黏又甜真好吃。"},
+					{"pinyin": "xiǎo xióng shuō xiè xie wài pó", "text": "小熊说谢谢外婆。"}
+				],
+				"task": "外婆给小熊包了什么？小熊说了什么？",
+				"taskPinyin": "wài pó gěi xiǎo xióng bāo le shén me xiǎo xióng shuō le shén me",
+				"taskAnswer": "包了红枣粽。小熊说谢谢外婆。",
+				"taskAnswerPinyin": "bāo le hóng zǎo zòng xiǎo xióng shuō xiè xie wài pó",
+				"alignment_mode": "left",
+				"paragraph_indent": 3
+			},
+			{
+				"title": "弟子规",
+				"titlePinyin": "dì zǐ guī xuǎn dú",
+				"type": "classics",
+				"contentObject": [
+					{"pinyin": "chēng zūn zhǎng", "text": "称尊长，"},
+					{"pinyin": "wù hū míng", "text": "勿呼名。"},
+					{"pinyin": "duì zūn zhǎng", "text": "对尊长，"},
+					{"pinyin": "wù xiàn néng", "text": "勿见能。"}
+				],
+				"annotation": "称：称呼。！！勿呼名：不要直接叫名字。！！勿见能：不要炫耀自己。",
+				"annotationPinyin": "chēng chēng hū wù hū míng bú yào zhí jiē jiào míng zi wù xiàn néng bú yào xuàn yào zì jǐ",
+				"task": "对爷爷奶奶可以直呼名字吗？",
+				"taskPinyin": "duì yé ye nǎi nai kě yǐ zhí hū míng zi ma",
+				"taskAnswer": "不可以，要叫爷爷奶奶，不能直呼名字。",
+				"taskAnswerPinyin": "bù kě yǐ yào jiào yé ye nǎi nai bù néng zhí hū míng zi",
+				"translation": "称呼长辈不要直接叫名字。在长辈面前，不要炫耀自己有多厉害。要有礼貌哦。",
+				"translationPinyin": "chēng hū zhǎng bèi bú yào zhí jiē jiào míng zi zài zhǎng bèi miàn qián bú yào xuàn yào zì jǐ yǒu duō lì hai yào yǒu lǐ mào ō",
+				"alignment_mode": "center",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "奇思妙想屋", "titlePinyin": "qí sī miào xiǎng wū", "content": [
+					{"pinyin": "rú guǒ wǒ shì yuè liang wǒ jiù zhào liàng yè lǐ de xiǎo lù", "text": "如果我是月亮，我就照亮夜里的小路。"},
+					{"pinyin": "rú guǒ wǒ shì xiǎo niǎo wǒ jiù zài yuè guāng xià shuì jiào", "text": "如果我是小鸟，我就在月光下睡觉。"},
+					{"pinyin": "rú guǒ wǒ néng bāo zòng zi wǒ jiù bāo gěi wài pó chī", "text": "如果我能包粽子，我就包给外婆吃。"}
+				]}],
+				"task": "如果我是月亮，我会做什么？",
+				"taskPinyin": "rú guǒ wǒ shì yuè liang wǒ huì zuò shén me",
+				"taskAnswer": "我会照亮黑夜，让小朋友不怕黑。",
+				"taskAnswerPinyin": "wǒ huì zhào liàng hēi yè ràng xiǎo péng you bù pà hēi"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 7,
+		"day": 6,
+		"theme": "语文园地四",
+		"content": [
+			{
+				"title": "月光下",
+				"titlePinyin": "yuè guāng xià",
+				"type": "children_poem",
+				"contentObject": [
+					{"pinyin": "yuè guāng guāng zhào dì shàng", "text": "月光光，照地上。"},
+					{"pinyin": "huā er cǎo er wēi xiào le", "text": "花儿草儿微笑了。"},
+					{"pinyin": "xiǎo niǎo shuì zài shù zhī shàng", "text": "小鸟睡在树枝上。"},
+					{"pinyin": "yè sè zhēn měi wǒ bù pà", "text": "夜色真美我不怕。"}
+				],
+				"task": "把儿歌大声读三遍。",
+				"taskPinyin": "bǎ ér gē dà shēng dú sān biàn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "智慧小口诀",
+				"titlePinyin": "zhì huì xiǎo kǒu jué",
+				"type": "proverb_saying",
+				"contentObject": [
+					{"pinyin": "jǔ tóu wàng míng yuè dī tóu sī gù xiāng", "text": "举头望明月，低头思故乡。（想家）"},
+					{"pinyin": "yè sè měi yǒng gǎn kàn", "text": "夜色美，勇敢看。（不怕黑）"},
+					{"pinyin": "duān wǔ chī zòng jì niàn qū yuán", "text": "端午吃粽纪念屈原。（传统）"}
+				],
+				"task": "端午节吃粽子是为了纪念谁呀？",
+				"taskPinyin": "duān wǔ jié chī zòng zi shì wèi le jì niàn shuí ya",
+				"taskAnswer": "纪念爱国诗人屈原。",
+				"taskAnswerPinyin": "jì niàn ài guó shī rén qū yuán",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "生字开花", "titlePinyin": "shēng zì kāi huā", "content": [
+					{"pinyin": "wǎn wǎn shang", "text": "晚 -- 晚上"},
+					{"pinyin": "zài zài jiā", "text": "再 -- 再见"},
+					{"pinyin": "wài wài pó", "text": "外 -- 外婆"},
+					{"pinyin": "wǔ duān wǔ", "text": "午 -- 端午"},
+					{"pinyin": "jié guǒ jié", "text": "节 -- 过节"},
+					{"pinyin": "yè zhú yè", "text": "叶 -- 竹叶"}
+				]}],
+				"task": "指着生字和组词，大声读一读。",
+				"taskPinyin": "zhǐ zhe shēng zì hé zǔ cí dà shēng dú yī dú",
+				"taskAnswer": "晚、晚上、再、再见、外、外婆、午、端午、节、过节、叶、竹叶。",
+				"taskAnswerPinyin": "wǎn wǎn shang zài zài jiàn wài wài pó wǔ duān wǔ jié guò jié yè zhú yè"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 8,
+		"day": 1,
+		"theme": "第四单元复习",
+		"content": [
+			{
+				"title": "静夜思与端午粽",
+				"titlePinyin": "jìng yè sī yǔ duān wǔ zòng",
+				"type": "textbook_review",
+				"contentObject": [
+					{"pinyin": "chuáng qián míng yuè guāng yí shì dì shàng shuāng", "text": "床前明月光，疑是地上霜。"},
+					{"pinyin": "jǔ tóu wàng míng yuè dī tóu sī gù xiāng", "text": "举头望明月，低头思故乡。"},
+					{"pinyin": "zòng zi yòu nián yòu tián", "text": "粽子又黏又甜。"},
+					{"pinyin": "duān wǔ chī zòng jì niàn qū yuán", "text": "端午吃粽纪念屈原。"}
+				],
+				"task": "大声把这几句读三遍。",
+				"taskPinyin": "dà shēng bǎ zhè jǐ jù dú sān biàn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "绕口令",
+				"titlePinyin": "rào kǒu lìng zòng zi",
+				"type": "tongue_twisters",
+				"contentObject": [
+					{"pinyin": "dà zòng zi xiǎo zòng zi", "text": "大粽子，小粽子，"},
+					{"pinyin": "zòng zi xiāng zòng zi tián", "text": "粽子香，粽子甜。"},
+					{"pinyin": "chī le zòng zi guò duān wǔ", "text": "吃了粽子过端午。"}
+				],
+				"task": "大声读三遍！",
+				"taskPinyin": "dà shēng dú sān biàn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "词语小宝库", "titlePinyin": "cí yǔ xiǎo bǎo kù", "content": [
+					{"pinyin": "qīng qīng de", "text": "青青的"},
+					{"pinyin": "bái bái de", "text": "白白的"},
+					{"pinyin": "hóng hóng de", "text": "红红的"},
+					{"pinyin": "yòu nián yòu tián", "text": "又黏又甜"},
+					{"pinyin": "sī niàn", "text": "思念"}
+				]}],
+				"task": "用“又黏又甜”说一句话。",
+				"taskPinyin": "yòng yòu nián yòu tián shuō yī jù huà",
+				"taskAnswer": "外婆包的粽子又黏又甜。",
+				"taskAnswerPinyin": "wài pó bāo de zòng zi yòu nián yòu tián"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 8,
+		"day": 2,
+		"theme": "夜色与家人",
+		"content": [
+			{
+				"title": "小羊陪妈妈",
+				"titlePinyin": "xiǎo yáng péi mā ma",
+				"type": "story_legend",
+				"contentObject": [
+					{"pinyin": "mā ma pá hēi bù gǎn chū mén", "text": "妈妈怕黑不敢出门。"},
+					{"pinyin": "xiǎo yáng shuō wǒ péi nǐ", "text": "小羊说我陪你。"},
+					{"pinyin": "liǎng gè yī qǐ zǒu ya zǒu", "text": "两个一起走呀走，"},
+					{"pinyin": "kàn jiàn yuè liang kàn jiàn xīng", "text": "看见月亮看见星。"},
+					{"pinyin": "mā ma shuō yǒu nǐ péi wǒ bù pà le", "text": "妈妈说有你陪我不怕了。"}
+				],
+				"task": "小羊做了什么事？妈妈还怕吗？",
+				"taskPinyin": "xiǎo yáng zuò le shén me shì mā ma hái pà ma",
+				"taskAnswer": "小羊陪妈妈出门。妈妈不怕了。",
+				"taskAnswerPinyin": "xiǎo yáng péi mā ma chū mén mā ma bù pà le",
+				"alignment_mode": "left",
+				"paragraph_indent": 3
+			},
+			{
+				"title": "弹琴",
+				"titlePinyin": "tán qín",
+				"type": "ancient_poem",
+				"contentObject": [
+					{"pinyin": "líng líng qī xián shàng", "text": "泠泠七弦上，"},
+					{"pinyin": "jìng tīng sōng fēng hán", "text": "静听松风寒。"},
+					{"pinyin": "gǔ diào suī zì ài", "text": "古调虽自爱，"},
+					{"pinyin": "jīn rén duō bù tán", "text": "今人多不弹。"}
+				],
+				"author": "刘长卿",
+				"authorPinyin": "liú cháng qīng",
+				"dynasty": "唐",
+				"dynastyPinyin": "táng",
+				"annotation": "泠泠：琴声清冷。！！七弦：古琴。！！松风寒：像松林里的风那样清寒。！！古调：老曲子。",
+				"annotationPinyin": "líng líng qín shēng qīng lěng qī xián gǔ qín sōng fēng hán xiàng sōng lín lǐ de fēng nà yàng qīng hán gǔ diào lǎo qǔ zi",
+				"task": "诗里的人在听什么呀？",
+				"taskPinyin": "shī lǐ de rén zài tīng shén me ya",
+				"taskAnswer": "在听有人弹琴，琴声泠泠的，像松林里的风。",
+				"taskAnswerPinyin": "zài tīng yǒu rén tán qín qín shēng líng líng de xiàng sōng lín lǐ de fēng",
+				"translation": "七弦琴上发出泠泠的琴声，静静地听，好像松林里的风那样清寒。这古老的调子自己虽然喜欢，可惜现在的人大多不弹了。",
+				"translationPinyin": "qī xián qín shàng fā chū líng líng de qín shēng jìng jìng de tīng hǎo xiàng sōng lín lǐ de fēng nà yàng qīng hán zhè gǔ lǎo de diào zi zì jǐ suī rán xǐ huan kě xī xiàn zài de rén dà duō bù tán le",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "好习惯小明星", "titlePinyin": "hǎo xí guàn xiǎo míng xīng", "content": [
+					{"pinyin": "chī zòng bù làng fèi", "text": "吃粽不浪费。（爱惜粮食）"},
+					{"pinyin": "jiào zhǎng bèi yòng zūn chēng", "text": "叫长辈用尊称。（有礼貌）"},
+					{"pinyin": "xiǎng jiā shí gěi jiā rén dǎ diàn huà", "text": "想家时给家人打电话。（表达爱）"}
+				]}],
+				"task": "你会怎么称呼爷爷奶奶呀？",
+				"taskPinyin": "nǐ huì zěn me chēng hū yé ye nǎi nai ya",
+				"taskAnswer": "叫爷爷、奶奶，不叫名字。",
+				"taskAnswerPinyin": "jiào yé ye nǎi nai bù jiào míng zi"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 8,
+		"day": 3,
+		"theme": "家人与节日",
+		"content": [
+			{
+				"title": "过端午",
+				"titlePinyin": "guò duān wǔ",
+				"type": "children_poem",
+				"contentObject": [
+					{"pinyin": "duān wǔ dào chī zòng zi", "text": "端午到，吃粽子。"},
+					{"pinyin": "qīng qīng yè bái bái mǐ", "text": "青青叶，白白米。"},
+					{"pinyin": "hóng zǎo zài zhōng jiān", "text": "红枣在中间，"},
+					{"pinyin": "yòu nián yòu tián jì qū yuán", "text": "又黏又甜记屈原。"}
+				],
+				"task": "把儿歌大声读三遍。",
+				"taskPinyin": "bǎ ér gē dà shēng dú sān biàn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "谜语：打一自然物",
+				"titlePinyin": "mí yǔ dǎ yī zì rán wù",
+				"type": "fun_riddles",
+				"contentObject": [
+					{"pinyin": "yǒu shí guà tiān biān", "text": "有时挂天边，"},
+					{"pinyin": "yǒu shí xiàng yù pán", "text": "有时像玉盘。"},
+					{"pinyin": "yè lǐ tā zuì liàng", "text": "夜里它最亮，"},
+					{"pinyin": "zhào de dì táng liàng", "text": "照得地堂亮。"}
+				],
+				"task": "猜一猜，这是什么呀？",
+				"taskPinyin": "cāi yī cāi zhè shì shén me ya",
+				"taskAnswer": "月亮。",
+				"taskAnswerPinyin": "yuè liang",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "学说一句话：什么时候，谁在哪儿干什么", "titlePinyin": "xué shuō yī jù huà shén me shí hou shuí zài nǎ er gàn shén me", "content": [
+					{"pinyin": "wǎn shang wǒ hé bà ba zài lù shàng sàn bù", "text": "晚上，我和爸爸在路上散步。"},
+					{"pinyin": "duān wǔ wài pó zài chú fáng bāo zòng zi", "text": "端午，外婆在厨房包粽子。"}
+				]}],
+				"task": "用这个句式说说你和家人一起做的事。",
+				"taskPinyin": "yòng zhè gè jù shì shuō shuo nǐ hé jiā rén yī qǐ zuò de shì",
+				"taskAnswer": "晚上，我和妈妈在客厅看书。",
+				"taskAnswerPinyin": "wǎn shang wǒ hé mā ma zài kè tīng kàn shū"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 8,
+		"day": 4,
+		"theme": "第四单元小结",
+		"content": [
+			{
+				"title": "语文园地四",
+				"titlePinyin": "yǔ wén yuán dì sì",
+				"type": "textbook_review",
+				"contentObject": [
+					{"pinyin": "jǔ tóu wàng míng yuè dī tóu sī gù xiāng", "text": "举头望明月，低头思故乡。"},
+					{"pinyin": "cóng cǐ zài hēi de wǎn shang wǒ yě néng kàn jiàn xiǎo niǎo zài yuè guāng xià shuì jiào", "text": "从此再黑的晚上，我也能看见小鸟在月光下睡觉。"},
+					{"pinyin": "zòng zi yòu nián yòu tián", "text": "粽子又黏又甜。"}
+				],
+				"task": "把这几句课文大声读三遍。",
+				"taskPinyin": "bǎ zhè jǐ jù kè wén dà shēng dú sān biàn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "声律启蒙",
+				"titlePinyin": "shēng lǜ qǐ méng jié xuǎn",
+				"type": "classics",
+				"contentObject": [
+					{"pinyin": "qiū duì xià", "text": "秋对夏，"},
+					{"pinyin": "xī duì zhāo", "text": "夕对朝。"},
+					{"pinyin": "yuè luò duì yún xiāo", "text": "月落对云消。"}
+				],
+				"annotation": "秋对夏：秋天和夏天相对。！！夕对朝：傍晚和早晨相对。！！月落对云消：月亮落下和云散相对。",
+				"annotationPinyin": "qiū duì xià qiū tiān hé xià tiān xiāng duì xī duì zhāo bàng wǎn hé zǎo chén xiāng duì yuè luò duì yún xiāo yuè liang luò xià hé yún sàn xiāng duì",
+				"task": "找一找，哪两个字是相对的？",
+				"taskPinyin": "zhǎo yī zhǎo nǎ liǎng gè zì shì xiāng duì de",
+				"taskAnswer": "秋和夏、夕和朝、月落和云消。",
+				"taskAnswerPinyin": "qiū hé xià xī hé zhāo yuè luò hé yún xiāo",
+				"translation": "秋天对着夏天，傍晚对着早晨。月亮落下、云儿散开，都相对呢。",
+				"translationPinyin": "qiū tiān duì zhe xià tiān bàng wǎn duì zhe zǎo chén yuè liang luò xià yún er sàn kāi dōu xiāng duì ne",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "生字开花", "titlePinyin": "shēng zì kāi huā", "content": [
+					{"pinyin": "gù gù xiāng", "text": "故 -- 故乡"},
+					{"pinyin": "dǎn dǎn zi", "text": "胆 -- 胆子"},
+					{"pinyin": "gǎn bù gǎn", "text": "敢 -- 不敢"},
+					{"pinyin": "wǎng wǎng wài", "text": "往 -- 往外"},
+					{"pinyin": "yǒng yǒng gǎn", "text": "勇 -- 勇敢"}
+				]}],
+				"task": "大声读出这些生字和组词。",
+				"taskPinyin": "dà shēng dú chū zhè xiē shēng zì hé zǔ cí",
+				"taskAnswer": "故、故乡、胆、胆子、敢、不敢、往、往外、勇、勇敢。",
+				"taskAnswerPinyin": "gù gù xiāng dǎn dǎn zi gǎn bù gǎn wǎng wǎng wài yǒng yǒng gǎn"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 8,
+		"day": 5,
+		"theme": "思念与感恩",
+		"content": [
+			{
+				"title": "小燕子想家",
+				"titlePinyin": "xiǎo yàn zi xiǎng jiā",
+				"type": "story_legend",
+				"contentObject": [
+					{"pinyin": "xiǎo yàn zi fēi ya fēi", "text": "小燕子飞呀飞，"},
+					{"pinyin": "fēi dào hěn yuǎn de dì fang", "text": "飞到很远的地方。"},
+					{"pinyin": "yè lǐ kàn jiàn míng yuè", "text": "夜里看见明月，"},
+					{"pinyin": "dī tóu sī gù xiāng", "text": "低头思故乡。"},
+					{"pinyin": "chūn tiān dào le tā fēi huí jiā", "text": "春天到了它飞回家。"}
+				],
+				"task": "小燕子想家的时候会怎样？",
+				"taskPinyin": "xiǎo yàn zi xiǎng jiā de shí hou huì zěn yàng",
+				"taskAnswer": "看见明月就低头思故乡，春天飞回家。",
+				"taskAnswerPinyin": "kàn jiàn míng yuè jiù dī tóu sī gù xiāng chūn tiān fēi huí jiā",
+				"alignment_mode": "left",
+				"paragraph_indent": 3
+			},
+			{
+				"title": "绕口令",
+				"titlePinyin": "rào kǒu lìng yè sè",
+				"type": "tongue_twisters",
+				"contentObject": [
+					{"pinyin": "yè sè hēi yè sè liàng", "text": "夜色黑，夜色亮。"},
+					{"pinyin": "yuè guāng zhào yè sè liàng", "text": "月光照，夜色亮。"},
+					{"pinyin": "bù pà hēi lái kàn yè sè", "text": "不怕黑，来看夜色。"}
+				],
+				"task": "大声读三遍。",
+				"taskPinyin": "dà shēng dú sān biàn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "词语小宝库", "titlePinyin": "cí yǔ xiǎo bǎo kù", "content": [
+					{"pinyin": "sī niàn", "text": "思念"},
+					{"pinyin": "gù xiāng", "text": "故乡"},
+					{"pinyin": "qīng xiāng", "text": "清香"},
+					{"pinyin": "jì niàn", "text": "纪念"},
+					{"pinyin": "sān xīn èr yì", "text": "三心二意"}
+				]}],
+				"task": "用“思念”说一句话。",
+				"taskPinyin": "yòng sī niàn shuō yī jù huà",
+				"taskAnswer": "我思念远方的爷爷奶奶。",
+				"taskAnswerPinyin": "wǒ sī niàn yuǎn fāng de yé ye nǎi nai"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 8,
+		"day": 6,
+		"theme": "第四单元快乐收官",
+		"content": [
+			{
+				"title": "静夜思",
+				"titlePinyin": "jìng yè sī",
+				"type": "children_poem",
+				"contentObject": [
+					{"pinyin": "chuáng qián míng yuè guāng", "text": "床前明月光，"},
+					{"pinyin": "yí shì dì shàng shuāng", "text": "疑是地上霜。"},
+					{"pinyin": "jǔ tóu wàng míng yuè", "text": "举头望明月，"},
+					{"pinyin": "dī tóu sī gù xiāng", "text": "低头思故乡。"}
+				],
+				"task": "背诵《静夜思》给家人听。",
+				"taskPinyin": "bèi sòng jìng yè sī gěi jiā rén tīng",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "center",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "登乐游原",
+				"titlePinyin": "dēng lè yóu yuán",
+				"type": "ancient_poem",
+				"contentObject": [
+					{"pinyin": "xiàng wǎn yì bù shì", "text": "向晚意不适，"},
+					{"pinyin": "qū chē dēng gǔ yuán", "text": "驱车登古原。"},
+					{"pinyin": "xī yáng wú xiàn hǎo", "text": "夕阳无限好，"},
+					{"pinyin": "zhǐ shì jìn huáng hūn", "text": "只是近黄昏。"}
+				],
+				"author": "李商隐",
+				"authorPinyin": "lǐ shāng yǐn",
+				"dynasty": "唐",
+				"dynastyPinyin": "táng",
+				"annotation": "向晚：傍晚。！！意不适：心情不好。！！古原：乐游原。！！夕阳：快落山的太阳。！！黄昏：天快黑时。",
+				"annotationPinyin": "xiàng wǎn bàng wǎn yì bù shì xīn qíng bù hǎo gǔ yuán lè yóu yuán xī yáng kuài luò shān de tài yáng huáng hūn tiān kuài hēi shí",
+				"task": "诗里说夕阳怎么样呀？",
+				"taskPinyin": "shī lǐ shuō xī yáng zěn me yàng ya",
+				"taskAnswer": "夕阳无限好，只是快天黑了。",
+				"taskAnswerPinyin": "xī yáng wú xiàn hǎo zhǐ shì kuài tiān hēi le",
+				"translation": "傍晚的时候心情有点不好，就坐车登上乐游原散心。夕阳特别美，可惜快要天黑了。",
+				"translationPinyin": "bàng wǎn de shí hou xīn qíng yǒu diǎn bù hǎo jiù zuò chē dēng shàng lè yóu yuán sàn xīn xī yáng tè bié měi kě xī kuài yào tiān hēi le",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [{"title": "智慧小口诀", "titlePinyin": "zhì huì xiǎo kǒu jué", "content": [
+					{"pinyin": "jǔ tóu wàng míng yuè dī tóu sī gù xiāng", "text": "举头望明月，低头思故乡。（想家）"},
+					{"pinyin": "yè sè měi yǒng gǎn kàn", "text": "夜色美，勇敢看。（不怕黑）"},
+					{"pinyin": "duān wǔ chī zòng jì qū yuán", "text": "端午吃粽纪屈原。（传统）"}
+				]}],
+				"task": "第四单元你学会了什么？",
+				"taskPinyin": "dì sì dān yuán nǐ xué huì le shén me",
+				"taskAnswer": "我学会了静夜思，不怕黑，还知道端午吃粽子纪念屈原。",
+				"taskAnswerPinyin": "wǒ xué huì le jìng yè sī bù pà hēi hái zhī dào duān wǔ chī zòng zi jì niàn qū yuán"
+			}
+		]
+	}
+]
