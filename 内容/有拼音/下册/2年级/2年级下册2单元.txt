@@ -1,0 +1,1918 @@
+[
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 3,
+		"day": 1,
+		"theme": "雷锋叔叔在哪里",
+		"content": [
+			{
+				"title": "雷锋叔叔，你在哪里（节选）",
+				"titlePinyin": "léi fēng shū shu nǐ zài nǎ lǐ jié xuǎn",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "yán zhe cháng cháng de xiǎo xī",
+						"text": "沿着长长的小溪，"
+					},
+					{
+						"pinyin": "xún zhǎo léi fēng de zú jì",
+						"text": "寻找雷锋的足迹。"
+					},
+					{
+						"pinyin": "léi fēng shū shu nǐ zài nǎ lǐ",
+						"text": "雷锋叔叔，你在哪里？"
+					},
+					{
+						"pinyin": "xiǎo xī shuō zuó tiān tā céng jīng lù guò zhè lǐ",
+						"text": "小溪说：昨天，他曾路过这里，"
+					},
+					{
+						"pinyin": "bēi zhe mí lù de xiǎo jiě mèi",
+						"text": "背着迷路的小姐妹，"
+					},
+					{
+						"pinyin": "tà zhe ní nìng yī bù bù sòng huí jiā",
+						"text": "踏着泥泞一步一步送回家。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "雷锋叔叔帮小姐妹做了什么？",
+				"taskPinyin": "léi fēng shū shu bāng xiǎo jiě mèi zuò le shén me",
+				"taskAnswer": "他背着迷路的小姐妹，踏着泥路，一步一步把她们送回家。",
+				"taskAnswerPinyin": "tā bēi zhe mí lù de xiǎo jiě mèi tà zhe ní lù yī bù yī bù bǎ tā men sòng huí jiā",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "小小的善意",
+				"titlePinyin": "xiǎo xiǎo de shàn yì",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "tóng xué de qiān bǐ duàn le",
+						"text": "同学的铅笔断了。"
+					},
+					{
+						"pinyin": "wǒ bǎ zì jǐ de juǎn bǐ dāo jiè gěi tā",
+						"text": "我把自己的卷笔刀借给他。"
+					},
+					{
+						"pinyin": "tā shuō xiè xie nǐ",
+						"text": "他说：谢谢你！"
+					},
+					{
+						"pinyin": "wǒ shuō bù kè qì zhè shì wǒ yīng gāi zuò de",
+						"text": "我说：不客气，这是我应该做的。"
+					},
+					{
+						"pinyin": "bāng zhù bié ren zì jǐ yě hěn kuài lè",
+						"text": "帮助别人，自己也很快乐。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你帮助过谁？说一说。",
+				"taskPinyin": "nǐ bāng zhù guo shuí shuō yi shuō",
+				"taskAnswer": "我帮同桌捡过掉在地上的橡皮，她很高兴。",
+				"taskAnswerPinyin": "wǒ bāng tóng zhuō jiǎn guo diào zài dì shàng de xiàng pí tā hěn gāo xìng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "悯农（其一）",
+				"titlePinyin": "mǐn nóng qí yī",
+				"type": "ancient_poem",
+				"author": "李绅",
+				"authorPinyin": "lǐ shēn",
+				"dynasty": "唐",
+				"dynastyPinyin": "táng",
+				"contentObject": [
+					{
+						"pinyin": "chú hé rì dāng wǔ",
+						"text": "锄禾日当午，"
+					},
+					{
+						"pinyin": "hàn dī hé xià tǔ",
+						"text": "汗滴禾下土。"
+					},
+					{
+						"pinyin": "shuí zhī pán zhōng cān",
+						"text": "谁知盘中餐，"
+					},
+					{
+						"pinyin": "lì lì jiē xīn kǔ",
+						"text": "粒粒皆辛苦。"
+					}
+				],
+				"annotation": "锄禾：在田里锄草。！！餐：饭。！！皆：都。",
+				"annotationPinyin": "chú hé zài tián lǐ chú cǎo cān fàn jiē dōu",
+				"task": "为什么说“粒粒皆辛苦”？",
+				"taskPinyin": "wèi shén me shuō lì lì jiē xīn kǔ",
+				"taskAnswer": "因为每一粒米饭都是农民伯伯用汗水种出来的，要爱惜粮食。",
+				"taskAnswerPinyin": "yīn wèi měi yī lì mǐ fàn dōu shì nóng mín bó bo yòng hàn shuǐ zhòng chū lái de yào ài xī liáng shi",
+				"translation": "正午太阳火辣辣的，农民在田里锄草，汗水一滴滴落在禾苗下的泥土里。有谁知道碗里的每一粒饭，都是辛辛苦苦种出来的呢？",
+				"translationPinyin": "zhèng wǔ tài yáng huǒ là là de nóng mín zài tián lǐ chú cǎo hàn shuǐ yī dī dī luò zài hé miáo xià de ní tǔ lǐ yǒu shuí zhī dào wǎn lǐ de měi yī lì fàn dōu shì xīn xīn kǔ kǔ zhòng chū lái de ne",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好词积累",
+						"titlePinyin": "hǎo cí jī lěi",
+						"content": [
+							{
+								"pinyin": "léi fēng shū shu",
+								"text": "雷锋叔叔"
+							},
+							{
+								"pinyin": "mí lù",
+								"text": "迷路"
+							},
+							{
+								"pinyin": "zú jì",
+								"text": "足迹"
+							},
+							{
+								"pinyin": "bēi zhe",
+								"text": "背着"
+							},
+							{
+								"pinyin": "xīn kǔ",
+								"text": "辛苦"
+							},
+							{
+								"pinyin": "ài xī",
+								"text": "爱惜"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 3,
+		"day": 2,
+		"theme": "千人糕",
+		"content": [
+			{
+				"title": "千人糕（节选）",
+				"titlePinyin": "qiān rén gāo jié xuǎn",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "yī tiān bà ba duì hái zi shuō jīn tiān mā ma mǎi lái qiān rén gāo",
+						"text": "一天，爸爸对孩子说：今天妈妈买来千人糕。"
+					},
+					{
+						"pinyin": "hái zi shuō qiān rén gāo yào yī qiān gè rén cái néng zuò chéng ma",
+						"text": "孩子说：千人糕？要一千个人才能做成吗？"
+					},
+					{
+						"pinyin": "bà ba shuō shì de yī kuài pǔ tōng de mǐ gāo",
+						"text": "爸爸说：是的。一块普通的米糕，"
+					},
+					{
+						"pinyin": "jīng guò hěn duō hěn duō rén de láo dòng cái néng bǎi zài wǒ men miàn qián",
+						"text": "经过很多很多人的劳动，才能摆在我们面前。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "为什么叫“千人糕”？",
+				"taskPinyin": "wèi shén me jiào qiān rén gāo",
+				"taskAnswer": "因为一块米糕要经过种稻、收割、磨粉、做糕等很多人的劳动，所以叫千人糕。",
+				"taskAnswerPinyin": "yīn wèi yī kuài mǐ gāo yào jīng guò zhòng dào shōu gē mó fěn zuò gāo děng hěn duō rén de láo dòng suǒ yǐ jiào qiān rén gāo",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "孔融让梨",
+				"titlePinyin": "kǒng róng ràng lí",
+				"type": "story_legend",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "kǒng róng sì suì de shí hou",
+						"text": "孔融四岁的时候，"
+					},
+					{
+						"pinyin": "yī tiān fù qīn ná lái yī pán lí",
+						"text": "一天，父亲拿来一盘梨。"
+					},
+					{
+						"pinyin": "xiōng dì men dōu qiǎng zhe ná dà de",
+						"text": "兄弟们都抢着拿大的。"
+					},
+					{
+						"pinyin": "kǒng róng què tiāo le yī gè zuì xiǎo de",
+						"text": "孔融却挑了一个最小的。"
+					},
+					{
+						"pinyin": "fù qīn wèn nǐ wèi shén me ná xiǎo de",
+						"text": "父亲问：你为什么拿小的？"
+					},
+					{
+						"pinyin": "kǒng róng shuō wǒ nián jì xiǎo yīng gāi chī xiǎo de",
+						"text": "孔融说：我年纪小，应该吃小的。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "孔融为什么挑最小的梨？",
+				"taskPinyin": "kǒng róng wèi shén me tiāo zuì xiǎo de lí",
+				"taskAnswer": "因为他年纪小，觉得应该把大的让给哥哥们，自己吃小的。",
+				"taskAnswerPinyin": "yīn wèi tā nián jì xiǎo jué de yīng gāi bǎ dà de ràng gěi gē ge men zì jǐ chī xiǎo de",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "三字经（节选）",
+				"titlePinyin": "sān zì jīng jié xuǎn",
+				"type": "classics",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiāng jiǔ líng néng wēn xí",
+						"text": "香九龄，能温席。"
+					},
+					{
+						"pinyin": "xiào yú qīn suǒ dāng zhí",
+						"text": "孝于亲，所当执。"
+					},
+					{
+						"pinyin": "róng sì suì néng ràng lí",
+						"text": "融四岁，能让梨。"
+					},
+					{
+						"pinyin": "dì yú zhǎng yí xiān zhī",
+						"text": "弟于长，宜先知。"
+					}
+				],
+				"annotation": "香：黄香。！！温席：暖被窝。！！融：孔融。！！弟：敬爱兄长。",
+				"annotationPinyin": "xiāng huáng xiāng wēn xí nuǎn bèi wō róng kǒng róng dì jìng ài xiōng zhǎng",
+				"task": "黄香和孔融分别做了什么？",
+				"taskPinyin": "huáng xiāng hé kǒng róng fēn bié zuò le shén me",
+				"taskAnswer": "黄香给爸爸暖被窝；孔融把大梨让给哥哥，自己吃小的。",
+				"taskAnswerPinyin": "huáng xiāng gěi bà ba nuǎn bèi wō kǒng róng bǎ dà lí ràng gěi gē ge zì jǐ chī xiǎo de",
+				"translation": "黄香九岁就懂得给父亲暖被窝，孝顺父母是我们应该做的。孔融四岁就会让梨，尊敬兄长，这些道理要早点知道。",
+				"translationPinyin": "huáng xiāng jiǔ suì jiù dǒng de gěi fù qīn nuǎn bèi wō xiào shùn fù mǔ shì wǒ men yīng gāi zuò de kǒng róng sì suì jiù huì ràng lí zūn jìng xiōng zhǎng zhè xiē dào lǐ yào zǎo diǎn zhī dào",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好句积累",
+						"titlePinyin": "hǎo jù jī lěi",
+						"content": [
+							{
+								"pinyin": "léi fēng shū shu bēi zhe mí lù de xiǎo jiě mèi tà zhe ní lù yī bù bù sòng huí jiā dòng zuò miáo xiě",
+								"text": "雷锋叔叔背着迷路的小姐妹，踏着泥路一步一步送回家。（动作描写）"
+							},
+							{
+								"pinyin": "mǐ gāo jīng guò hěn duō rén de láo dòng cái néng bǎi zài wǒ men miàn qián yuán yīn jié guǒ",
+								"text": "米糕经过很多人的劳动才能摆在我们面前。（因果关系）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 3,
+		"day": 3,
+		"theme": "劳动最光荣",
+		"content": [
+			{
+				"title": "一粒米的旅行",
+				"titlePinyin": "yī lì mǐ de lǚ xíng",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "yī lì mǐ cóng nǎ lǐ lái",
+						"text": "一粒米从哪里来？"
+					},
+					{
+						"pinyin": "nóng mín bó bo bǎ gǔ zhǒng sǎ jìn tián lǐ",
+						"text": "农民伯伯把谷种撒进田里。"
+					},
+					{
+						"pinyin": "jiāo shuǐ chú cǎo shài tài yáng",
+						"text": "浇水、锄草、晒太阳。"
+					},
+					{
+						"pinyin": "dào le qiū tiān jīn huáng de dào zi shú le",
+						"text": "到了秋天，金黄的稻子熟了。"
+					},
+					{
+						"pinyin": "shōu gē tuō lì mò chéng mǐ zuò chéng fàn",
+						"text": "收割、脱粒、磨成米、做成饭。"
+					},
+					{
+						"pinyin": "suǒ yǐ wǒ men yào ài xī měi yī lì liáng shi",
+						"text": "所以，我们要爱惜每一粒粮食。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "用“先……再……然后……”说一说米从哪里来。",
+				"taskPinyin": "yòng xiān zài rán hòu shuō yi shuō mǐ cóng nǎ lǐ lái",
+				"taskAnswer": "农民先播种、浇水，再锄草、施肥，然后收割、脱粒，最后磨成米。",
+				"taskAnswerPinyin": "nóng mín xiān bō zhǒng jiāo shuǐ zài chú cǎo shī féi rán hòu shōu gē tuō lì zuì hòu mó chéng mǐ",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "劳动",
+				"titlePinyin": "láo dòng",
+				"type": "children_poem",
+				"author": "圣野",
+				"authorPinyin": "shèng yě",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo mǎ yǐ bān liáng",
+						"text": "小蚂蚁搬粮，"
+					},
+					{
+						"pinyin": "xiǎo mì fēng cǎi mì",
+						"text": "小蜜蜂采蜜。"
+					},
+					{
+						"pinyin": "wǒ men sǎo dì cā zhuō",
+						"text": "我们扫地、擦桌，"
+					},
+					{
+						"pinyin": "dà jiā dōu ài láo dòng",
+						"text": "大家都爱劳动。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你在家会做哪些劳动？",
+				"taskPinyin": "nǐ zài jiā huì zuò nǎ xiē láo dòng",
+				"taskAnswer": "我会收拾书包、摆碗筷、擦桌子。",
+				"taskAnswerPinyin": "wǒ huì shōu shi shū bāo bǎi wǎn kuài cā zhuō zi",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "孔融让梨（小古文）",
+				"titlePinyin": "kǒng róng ràng lí xiǎo gǔ wén",
+				"type": "classical_chinese",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "kǒng róng sì suì yǔ xiōng shí lí",
+						"text": "孔融四岁，与诸兄食梨。"
+					},
+					{
+						"pinyin": "róng dú qǔ xiǎo zhě",
+						"text": "融独取小者。"
+					},
+					{
+						"pinyin": "rén wèn qí gù",
+						"text": "人问其故。"
+					},
+					{
+						"pinyin": "róng yuē wǒ xiǎo ér dāng qǔ xiǎo zhě",
+						"text": "融曰：我小儿，当取小者。"
+					}
+				],
+				"annotation": "诸兄：各位哥哥。！！故：原因。！！当：应该。",
+				"annotationPinyin": "zhū xiōng gè wèi gē ge gù yuán yīn dāng yīng gāi",
+				"task": "孔融“独取小者”的原因是什么？",
+				"taskPinyin": "kǒng róng dú qǔ xiǎo zhě de yuán yīn shì shén me",
+				"taskAnswer": "他觉得自己年纪小，应该拿小的，大的让给哥哥。",
+				"taskAnswerPinyin": "tā jué de zì jǐ nián jì xiǎo yīng gāi ná xiǎo de dà de ràng gěi gē ge",
+				"translation": "孔融四岁时，和哥哥们一起分梨吃。孔融只拿最小的。别人问为什么，他说：我年纪小，应该拿小的。",
+				"translationPinyin": "kǒng róng sì suì shí hé gē ge men yī qǐ fēn lí chī kǒng róng zhǐ ná zuì xiǎo de bié ren wèn wèi shén me tā shuō wǒ nián jì xiǎo yīng gāi ná xiǎo de",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "写话锦囊",
+						"titlePinyin": "xiě huà jǐn náng",
+						"content": [
+							{
+								"pinyin": "yuán yīn guǒ fǎ yīn wèi suǒ yǐ biǎo shì yuán yīn hé jié guǒ",
+								"text": "因果法：“因为……所以……”表示原因和结果。"
+							},
+							{
+								"pinyin": "fàn lì yīn wèi jīn tiān xià yǔ suǒ yǐ wǒ dài le sǎn",
+								"text": "范例：因为今天下雨，所以我带了伞。"
+							},
+							{
+								"pinyin": "lián cí chéng jù xiān zài rán hòu biǎo shì shùn xù",
+								"text": "连词成句：“先……再……然后……”表示顺序。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 3,
+		"day": 4,
+		"theme": "一匹出色的马",
+		"content": [
+			{
+				"title": "一匹出色的马（节选）",
+				"titlePinyin": "yī pǐ chū sè de mǎ jié xuǎn",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "huí jiā de lù shàng mèi mei hái xiǎng ràng bà ba mā ma bào",
+						"text": "回家的路上，妹妹还想让爸爸妈妈抱。"
+					},
+					{
+						"pinyin": "bà ba cóng lù biān liǔ shù shàng zhé xià yī gēn yòu cháng yòu xì de liǔ tiáo",
+						"text": "爸爸从路边柳树上折下一根又长又细的柳条。"
+					},
+					{
+						"pinyin": "bǎ liǔ tiáo dì gěi mèi mei shuō zhè shì yī pǐ chū sè de mǎ",
+						"text": "把柳条递给妹妹，说：这是一匹出色的马。"
+					},
+					{
+						"pinyin": "mèi mei qí shàng mǎ pǎo a pǎo bǐ wǒ men dōu zǎo dào jiā",
+						"text": "妹妹骑上马，跑啊跑，比我们都早到家。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "“出色的马”指什么？妹妹为什么能早到家？",
+				"taskPinyin": "chū sè de mǎ zhǐ shén me mèi mei wèi shén me néng zǎo dào jiā",
+				"taskAnswer": "指柳条。妹妹把柳条当马骑，觉得有趣，就自己跑回家，不用抱了。",
+				"taskAnswerPinyin": "zhǐ liǔ tiáo mèi mei bǎ liǔ tiáo dàng mǎ qí jué de yǒu qù jiù zì jǐ pǎo huí jiā bù yòng bào le",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "妹妹的柳条马",
+				"titlePinyin": "mèi mei de liǔ tiáo mǎ",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "mèi mei lèi le bù xiǎng zǒu lù",
+						"text": "妹妹累了，不想走路。"
+					},
+					{
+						"pinyin": "bà ba zhé le yī gēn liǔ tiáo shuō qí shàng zhè pǐ mǎ ba",
+						"text": "爸爸折了一根柳条，说：骑上这匹马吧！"
+					},
+					{
+						"pinyin": "mèi mei qí zhe liǔ tiáo mǎ dé dé dé dé pǎo de fēi kuài",
+						"text": "妹妹骑着柳条马，嘚嘚嘚嘚，跑得飞快。"
+					},
+					{
+						"pinyin": "tā wàng le pí láo yī lù xiào dào le jiā",
+						"text": "她忘了疲劳，一路笑到了家。"
+					},
+					{
+						"pinyin": "yǒu shí hou xiǎng xiàng lì jiù shì zuì hǎo de mǎ",
+						"text": "有时候，想象力就是最好的马。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你有过把一样东西想象成另一样吗？",
+				"taskPinyin": "nǐ yǒu guo bǎ yī yàng dōng xi xiǎng xiàng chéng lìng yī yàng ma",
+				"taskAnswer": "我把扫把想象成马，骑在上面跑来跑去。",
+				"taskAnswerPinyin": "wǒ bǎ sào bǎ xiǎng xiàng chéng mǎ qí zài shàng miàn pǎo lái pǎo qù",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "程门立雪",
+				"titlePinyin": "chéng mén lì xuě",
+				"type": "story_legend",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "yáng shí hé yǒu zuò qù bài jiàn lǎo shī chéng yí",
+						"text": "杨时和游酢去拜见老师程颐。"
+					},
+					{
+						"pinyin": "chéng yí zhèng zài dǎ dǔn",
+						"text": "程颐正在打盹。"
+					},
+					{
+						"pinyin": "liǎng rén bù yuàn jīng xǐng lǎo shī jiù zhàn zài mén wài děng",
+						"text": "两人不愿惊醒老师，就站在门外等。"
+					},
+					{
+						"pinyin": "xuě yuè xià yuè dà dì shàng jī le hòu hòu yī céng",
+						"text": "雪越下越大，地上积了厚厚一层。"
+					},
+					{
+						"pinyin": "chéng yí xǐng lái kàn jiàn tā men hěn shòu gǎn dòng",
+						"text": "程颐醒来看见他们，很受感动。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "杨时和游酢为什么站在雪里等？",
+				"taskPinyin": "yáng shí hé yóu zuò wèi shén me zhàn zài xuě lǐ děng",
+				"taskAnswer": "因为老师正在休息，他们不想吵醒老师，所以宁可站在门外雪地里等。",
+				"taskAnswerPinyin": "yīn wèi lǎo shī zhèng zài xiū xī tā men bù xiǎng chǎo xǐng lǎo shī suǒ yǐ nìng kě zhàn zài mén wài xuě dì lǐ děng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "写话锦囊",
+						"titlePinyin": "xiě huà jǐn náng",
+						"content": [
+							{
+								"pinyin": "fǎng xiě yòng yòu yòu xiě chū xíng róng",
+								"text": "仿写：用“又……又……”写出样子。"
+							},
+							{
+								"pinyin": "fàn lì liǔ tiáo yòu cháng yòu xì xiàng yī pǐ chū sè de mǎ",
+								"text": "范例：柳条又长又细，像一匹出色的马。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 3,
+		"day": 5,
+		"theme": "帮助与分享",
+		"content": [
+			{
+				"title": "雷锋叔叔，你在哪里（节选二）",
+				"titlePinyin": "léi fēng shū shu nǐ zài nǎ lǐ jié xuǎn èr",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "shùn zhe wān wān de xiǎo lù",
+						"text": "顺着弯弯的小路，"
+					},
+					{
+						"pinyin": "xún zhǎo léi fēng de zú jì",
+						"text": "寻找雷锋的足迹。"
+					},
+					{
+						"pinyin": "léi fēng shū shu nǐ zài nǎ lǐ",
+						"text": "雷锋叔叔，你在哪里？"
+					},
+					{
+						"pinyin": "xiǎo lù shuō zuó tiān tā céng jīng lù guò zhè lǐ",
+						"text": "小路说：昨天，他曾路过这里，"
+					},
+					{
+						"pinyin": "bēi zhe nián mài de dà niáng",
+						"text": "背着年迈的大娘，"
+					},
+					{
+						"pinyin": "tà zhe jīng jí de lù jīng",
+						"text": "踏着荆棘的路径。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "雷锋还帮谁做了什么？",
+				"taskPinyin": "léi fēng hái bāng shuí zuò le shén me",
+				"taskAnswer": "他还背着年迈的大娘，踏着荆棘的路，送她回家。",
+				"taskAnswerPinyin": "tā hái bēi zhe nián mài de dà niáng tà zhe jīng jí de lù sòng tā huí jiā",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "赠汪伦",
+				"titlePinyin": "zèng wāng lún",
+				"type": "ancient_poem",
+				"author": "李白",
+				"authorPinyin": "lǐ bái",
+				"dynasty": "唐",
+				"dynastyPinyin": "táng",
+				"contentObject": [
+					{
+						"pinyin": "lǐ bái chéng zhōu jiāng yù xíng",
+						"text": "李白乘舟将欲行，"
+					},
+					{
+						"pinyin": "hū wén àn shàng tà gē shēng",
+						"text": "忽闻岸上踏歌声。"
+					},
+					{
+						"pinyin": "táo huā tán shuǐ shēn qiān chǐ",
+						"text": "桃花潭水深千尺，"
+					},
+					{
+						"pinyin": "bù jí wāng lún sòng wǒ qíng",
+						"text": "不及汪伦送我情。"
+					}
+				],
+				"annotation": "踏歌：一边踏地一边唱歌。！！不及：比不上。",
+				"annotationPinyin": "tà gē yī biān tà dì yī biān chàng gē bù jí bǐ bu shàng",
+				"task": "诗人为什么说桃花潭水“不及”汪伦的情？",
+				"taskPinyin": "shī rén wèi shén me shuō táo huā tán shuǐ bù jí wāng lún de qíng",
+				"taskAnswer": "因为汪伦来送他，情谊很深，再深的潭水也比不上朋友的情意。",
+				"taskAnswerPinyin": "yīn wèi wāng lún lái sòng tā qíng yì hěn shēn zài shēn de tán shuǐ yě bǐ bu shàng péng you de qíng yì",
+				"translation": "李白坐船正要离开，忽然听见岸上传来踏歌的声音。桃花潭的水就算有千尺深，也比不上汪伦送我的情意深。",
+				"translationPinyin": "lǐ bái zuò chuán zhèng yào lí kāi hū rán tīng jiàn àn shàng chuán lái tà gē de shēng yīn táo huā tán de shuǐ jiù suàn yǒu qiān chǐ shēn yě bǐ bu shàng wāng lún sòng wǒ de qíng yì shēn",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "弟子规（节选）",
+				"titlePinyin": "dì zǐ guī jié xuǎn",
+				"type": "classics",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "dì zǐ guī shèng rén xùn",
+						"text": "弟子规，圣人训。"
+					},
+					{
+						"pinyin": "shǒu xiào tì cì jǐn xìn",
+						"text": "首孝悌，次谨信。"
+					},
+					{
+						"pinyin": "fàn ài zhòng ér qīn rén",
+						"text": "泛爱众，而亲仁。"
+					},
+					{
+						"pinyin": "yǒu yú lì zé xué wén",
+						"text": "有余力，则学文。"
+					}
+				],
+				"annotation": "孝悌：孝敬长辈、友爱兄弟。！！谨信：谨慎、守信。",
+				"annotationPinyin": "xiào tì xiào jìng zhǎng bèi yǒu ài xiōng dì jǐn xìn jǐn shèn shǒu xìn",
+				"task": "“有余力，则学文”是什么意思？",
+				"taskPinyin": "yǒu yú lì zé xué wén shì shén me yì si",
+				"taskAnswer": "先把孝悌、谨信、爱众、亲仁做好，还有精力的话，再去学文化知识。",
+				"taskAnswerPinyin": "xiān bǎ xiào tì jǐn xìn ài zhòng qīn rén zuò hǎo hái yǒu jīng lì de huà zài qù xué wén huà zhī shi",
+				"translation": "《弟子规》是圣人的教导。首先要孝敬长辈、友爱兄弟，其次要谨慎守信，还要爱护大家、亲近有德行的人。做好了这些，还有余力，再去学习文化。",
+				"translationPinyin": "dì zǐ guī shì shèng rén de jiào dǎo shǒu xiān yào xiào jìng zhǎng bèi yǒu ài xiōng dì qí cì yào jǐn shèn shǒu xìn hái yào ài hù dà jiā qīn jìn yǒu dé xíng de rén zuò hǎo le zhè xiē hái yǒu yú lì zài qù xué xí wén huà",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "四字成语",
+						"titlePinyin": "sì zì chéng yǔ",
+						"content": [
+							{
+								"pinyin": "léi fēng jīng shén lè yú zhù rén wú sī fèng xiàn",
+								"text": "雷锋精神（乐于助人、无私奉献）"
+							},
+							{
+								"pinyin": "kǒng róng ràng lí dǒng de qiān ràng",
+								"text": "孔融让梨（懂得谦让）"
+							},
+							{
+								"pinyin": "chéng mén lì xuě zūn shī zhòng dào",
+								"text": "程门立雪（尊师重道）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 3,
+		"day": 6,
+		"theme": "大家齐动手",
+		"content": [
+			{
+				"title": "千人糕是怎么来的",
+				"titlePinyin": "qiān rén gāo shì zěn me lái de",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "mǐ gāo yòng dà mǐ zuò",
+						"text": "米糕用大米做。"
+					},
+					{
+						"pinyin": "dà mǐ shì nóng mín bó bo zhòng de",
+						"text": "大米是农民伯伯种的。"
+					},
+					{
+						"pinyin": "tián lǐ jiāo shuǐ chú cǎo shōu gē tuō lì",
+						"text": "田里浇水、锄草、收割、脱粒。"
+					},
+					{
+						"pinyin": "hái yào yùn dào chǎng lǐ mó chéng fěn",
+						"text": "还要运到厂里磨成粉。"
+					},
+					{
+						"pinyin": "zuò gāo de shū shu ā yí bǎ fěn jiā shuǐ hé miàn",
+						"text": "做糕的叔叔阿姨把粉加水、和面，"
+					},
+					{
+						"pinyin": "zhēng shú le cái néng bǎi shàng zhuō",
+						"text": "蒸熟了才能摆上桌。"
+					},
+					{
+						"pinyin": "yī kuài xiǎo xiǎo de gāo hěn duō rén chū le lì",
+						"text": "一块小小的糕，很多人出了力。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "除了农民，还有谁为千人糕出了力？",
+				"taskPinyin": "chú le nóng mín hái yǒu shuí wèi qiān rén gāo chū le lì",
+				"taskAnswer": "还有运粮食的司机、磨粉的工人、做糕的师傅、卖糕的售货员等。",
+				"taskAnswerPinyin": "hái yǒu yùn liáng shi de sī jī mó fěn de gōng rén zuò gāo de shī fu mài gāo de shòu huò yuán děng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "管宁割席",
+				"titlePinyin": "guǎn níng gē xí",
+				"type": "story_legend",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "guǎn níng hé huá xīn shì hǎo péng you",
+						"text": "管宁和华歆是好朋友。"
+					},
+					{
+						"pinyin": "yī tiān liǎng rén yī qǐ zài yuàn zi lǐ dú shū",
+						"text": "一天，两人一起在院子里读书。"
+					},
+					{
+						"pinyin": "wài miàn yǒu rén chū jià qián hū hòu yōng hěn rè nao",
+						"text": "外面有人出嫁，前呼后拥，很热闹。"
+					},
+					{
+						"pinyin": "huá xīn pǎo chū qù kàn guǎn níng hái zài dú shū",
+						"text": "华歆跑出去看，管宁还在读书。"
+					},
+					{
+						"pinyin": "guǎn níng ná qǐ dāo bǎ liǎng rén tóng zuò de xí zi gē chéng liǎng bàn",
+						"text": "管宁拿起刀，把两人同坐的席子割成两半。"
+					},
+					{
+						"pinyin": "shuō nǐ bù shì wǒ de péng you le",
+						"text": "说：你不是我的朋友了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "管宁为什么要割席？",
+				"taskPinyin": "guǎn níng wèi shén me yào gē xí",
+				"taskAnswer": "因为华歆读书时被热闹吸引，不专心。管宁觉得两人志向不同，不愿再做朋友。",
+				"taskAnswerPinyin": "yīn wèi huá xīn dú shū shí bèi rè nao xī yǐn bù zhuān xīn guǎn níng jué de liǎng rén zhì xiàng bù tóng bù yuàn zài zuò péng you",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "一起做",
+				"titlePinyin": "yī qǐ zuò",
+				"type": "children_poem",
+				"author": "金子美铃",
+				"authorPinyin": "jīn zi měi líng",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "sǎo dì wǒ sǎo yī kuài nǐ sǎo yī kuài",
+						"text": "扫地，我扫一块，你扫一块。"
+					},
+					{
+						"pinyin": "cā zhuō wǒ cā yī biān nǐ cā yī biān",
+						"text": "擦桌，我擦一边，你擦一边。"
+					},
+					{
+						"pinyin": "dà jiā yī qǐ zuò jiào shì liàng jīng jīng",
+						"text": "大家一起做，教室亮晶晶。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "和同学一起做过什么？",
+				"taskPinyin": "hé tóng xué yī qǐ zuò guo shén me",
+				"taskAnswer": "我们一起出黑板报、打扫卫生、排练节目。",
+				"taskAnswerPinyin": "wǒ men yī qǐ chū hēi bǎn bào dǎ sǎo wèi shēng pái liàn jié mù",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "谚语 | 歇后语",
+						"titlePinyin": "yàn yǔ xiē hòu yǔ",
+						"content": [
+							{
+								"pinyin": "rén rén wèi wǒ wǒ wèi rén rén dōu bāng rén rén dōu bāng nǐ",
+								"text": "人人为我，我为人人。（人人都帮人，人人都帮你）"
+							},
+							{
+								"pinyin": "yī gè lí ba sān gè zhuāng yī gè hǎo hàn sān gè bāng tuán jié hù zhù",
+								"text": "一个篱笆三个桩，一个好汉三个帮。（团结互助）"
+							},
+							{
+								"pinyin": "chī shuǐ bù wàng wā jǐng rén shòu le ēn huì bù néng wàng",
+								"text": "吃水不忘挖井人。（受了恩惠不能忘）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 4,
+		"day": 1,
+		"theme": "寻找足迹",
+		"content": [
+			{
+				"title": "雷锋叔叔，你在哪里（节选三）",
+				"titlePinyin": "léi fēng shū shu nǐ zài nǎ lǐ jié xuǎn sān",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "chéng qiān shàng wàn de hái zi men",
+						"text": "成千上万的孩子们，"
+					},
+					{
+						"pinyin": "zài cǎo dì shàng chàng a tiào a",
+						"text": "在草地上唱啊、跳啊，"
+					},
+					{
+						"pinyin": "xún zhǎo léi fēng de zú jì",
+						"text": "寻找雷锋的足迹。"
+					},
+					{
+						"pinyin": "léi fēng shū shu nǐ zài nǎ lǐ",
+						"text": "雷锋叔叔，你在哪里？"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "我们怎样向雷锋叔叔学习？",
+				"taskPinyin": "wǒ men zěn yàng xiàng léi fēng shū shu xué xí",
+				"taskAnswer": "从身边小事做起，帮助同学、尊敬老人、爱惜粮食。",
+				"taskAnswerPinyin": "cóng shēn biān xiǎo shì zuò qǐ bāng zhù tóng xué zūn jìng lǎo rén ài xī liáng shi",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "借橡皮",
+				"titlePinyin": "jiè xiàng pí",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo míng xiě cuò zì le méi dài xiàng pí",
+						"text": "小明写错字了，没带橡皮。"
+					},
+					{
+						"pinyin": "xiǎo huá bǎ zì jǐ de xiàng pí dì guò qù",
+						"text": "小华把自己的橡皮递过去。"
+					},
+					{
+						"pinyin": "xiǎo míng shuō xiè xie nǐ",
+						"text": "小明说：谢谢你！"
+					},
+					{
+						"pinyin": "xiǎo huá shuō bù yòng kè qì wǒ men shì tóng xué",
+						"text": "小华说：不用客气，我们是同学。"
+					},
+					{
+						"pinyin": "bāng zhù bié ren hěn jiǎn dān yě hěn kuài lè",
+						"text": "帮助别人很简单，也很快乐。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "用“因为……所以……”说一说为什么小华借橡皮。",
+				"taskPinyin": "yòng yīn wèi suǒ yǐ shuō yi shuō wèi shén me xiǎo huá jiè xiàng pí",
+				"taskAnswer": "因为小明没带橡皮，所以小华把自己的橡皮借给他。",
+				"taskAnswerPinyin": "yīn wèi xiǎo míng méi dài xiàng pí suǒ yǐ xiǎo huá bǎ zì jǐ de xiàng pí jiè gěi tā",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "程门立雪（小古文）",
+				"titlePinyin": "chéng mén lì xuě xiǎo gǔ wén",
+				"type": "classical_chinese",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "yáng shí jiàn chéng yí yí zuò ér míng",
+						"text": "杨时见程颐，颐坐而瞑。"
+					},
+					{
+						"pinyin": "shí yǔ yóu zuò shì lì bù qù",
+						"text": "时与游酢侍立不去。"
+					},
+					{
+						"pinyin": "jì jué mén wài xuě shēn yī chǐ yǐ",
+						"text": "既觉，门外雪深一尺矣。"
+					}
+				],
+				"annotation": "瞑：闭眼、打盹。！！侍立：站在一旁。！！觉：醒。",
+				"annotationPinyin": "míng bì yǎn dǎ dǔn shì lì zhàn zài yī páng jué xǐng",
+				"task": "杨时和游酢为什么“侍立不去”？",
+				"taskPinyin": "yáng shí hé yóu zuò wèi shén me shì lì bù qù",
+				"taskAnswer": "因为老师在休息，他们不想打扰，就站在门外等，表示尊敬。",
+				"taskAnswerPinyin": "yīn wèi lǎo shī zài xiū xī tā men bù xiǎng dǎ rǎo jiù zhàn zài mén wài děng biǎo shì zūn jìng",
+				"translation": "杨时去见程颐，程颐正坐着打盹。杨时和游酢就站在旁边等，不离开。程颐醒来看见时，门外的雪已经积了一尺深了。",
+				"translationPinyin": "yáng shí qù jiàn chéng yí chéng yí zhèng zuò zhe dǎ dǔn yáng shí hé yóu zuò jiù zhàn zài páng biān děng bù lí kāi chéng yí xǐng lái kàn jiàn shí mén wài de xuě yǐ jīng jī le yī chǐ shēn le",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好词积累",
+						"titlePinyin": "hǎo cí jī lěi",
+						"content": [
+							{
+								"pinyin": "chéng qiān shàng wàn",
+								"text": "成千上万"
+							},
+							{
+								"pinyin": "yòu cháng yòu xì",
+								"text": "又长又细"
+							},
+							{
+								"pinyin": "jīng jīng yè yè",
+								"text": "兢兢业业"
+							},
+							{
+								"pinyin": "nián mài",
+								"text": "年迈"
+							},
+							{
+								"pinyin": "jí máng",
+								"text": "急忙"
+							},
+							{
+								"pinyin": "gǎn jī",
+								"text": "感激"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 4,
+		"day": 2,
+		"theme": "一匹出色的马",
+		"content": [
+			{
+				"title": "一匹出色的马（节选二）",
+				"titlePinyin": "yī pǐ chū sè de mǎ jié xuǎn èr",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "chūn tiān de jiāo wài",
+						"text": "春天的郊外，"
+					},
+					{
+						"pinyin": "jǐng sè fēi cháng měi lì",
+						"text": "景色非常美丽。"
+					},
+					{
+						"pinyin": "hé àn shàng liǔ yè fú dòng",
+						"text": "河岸上柳叶拂动，"
+					},
+					{
+						"pinyin": "tián yě lǐ miáo er qīng qīng",
+						"text": "田野里苗儿青青。"
+					},
+					{
+						"pinyin": "yī jiā rén sàn bù huí lái",
+						"text": "一家人散步回来，"
+					},
+					{
+						"pinyin": "mèi mei qí zhe liǔ tiáo mǎ pǎo zài qián miàn",
+						"text": "妹妹骑着柳条马跑在前面。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "春天的郊外有哪些景物？",
+				"taskPinyin": "chūn tiān de jiāo wài yǒu nǎ xiē jǐng wù",
+				"taskAnswer": "有河岸、柳叶、田野、苗儿，一家人散步。",
+				"taskAnswerPinyin": "yǒu hé àn liǔ yè tián yě miáo er yī jiā rén sàn bù",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "黄香温席",
+				"titlePinyin": "huáng xiāng wēn xí",
+				"type": "story_legend",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "huáng xiāng jiǔ suì shí mǔ qīn qù shì le",
+						"text": "黄香九岁时，母亲去世了。"
+					},
+					{
+						"pinyin": "tā fēi cháng xiào jìng fù qīn",
+						"text": "他非常孝敬父亲。"
+					},
+					{
+						"pinyin": "dōng tiān tiān lěng",
+						"text": "冬天天冷，"
+					},
+					{
+						"pinyin": "tā xiān zuān jìn bèi wō lǐ bǎ chuáng wù rè",
+						"text": "他先钻进被窝里，把床焐热，"
+					},
+					{
+						"pinyin": "zài ràng fù qīn shuì",
+						"text": "再让父亲睡。"
+					},
+					{
+						"pinyin": "fù qīn shuì de nuǎn hū hū de",
+						"text": "父亲睡得暖乎乎的。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "黄香为什么先钻被窝？",
+				"taskPinyin": "huáng xiāng wèi shén me xiān zuān bèi wō",
+				"taskAnswer": "为了先把床焐热，让爸爸睡的时候不冷，这是孝顺。",
+				"taskAnswerPinyin": "wèi le xiān bǎ chuáng wù rè ràng bà ba shuì de shí hou bù lěng zhè shì xiào shùn",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "登鹳雀楼",
+				"titlePinyin": "dēng guàn què lóu",
+				"type": "ancient_poem",
+				"author": "王之涣",
+				"authorPinyin": "wáng zhī huàn",
+				"dynasty": "唐",
+				"dynastyPinyin": "táng",
+				"contentObject": [
+					{
+						"pinyin": "bái rì yī shān jìn",
+						"text": "白日依山尽，"
+					},
+					{
+						"pinyin": "huáng hé rù hǎi liú",
+						"text": "黄河入海流。"
+					},
+					{
+						"pinyin": "yù qióng qiān lǐ mù",
+						"text": "欲穷千里目，"
+					},
+					{
+						"pinyin": "gèng shàng yī céng lóu",
+						"text": "更上一层楼。"
+					}
+				],
+				"annotation": "依：挨着。！！穷：尽、看尽。",
+				"annotationPinyin": "yī āi zhe qióng jìn kàn jìn",
+				"task": "“更上一层楼”告诉我们什么？",
+				"taskPinyin": "gèng shàng yī céng lóu gào su wǒ men shén me",
+				"taskAnswer": "想看得更远，就要站得更高；学习也一样，要不断进步。",
+				"taskAnswerPinyin": "xiǎng kàn de gèng yuǎn jiù yào zhàn de gèng gāo xué xí yě yī yàng yào bù duàn jìn bù",
+				"translation": "太阳挨着山头慢慢落下，黄河滚滚流向大海。想要看得更远，就要再登上一层楼。",
+				"translationPinyin": "tài yáng āi zhe shān tóu màn màn luò xià huáng hé gǔn gǔn liú xiàng dà hǎi xiǎng yào kàn de gèng yuǎn jiù yào zài dēng shàng yī céng lóu",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好句积累",
+						"titlePinyin": "hǎo jù jī lěi",
+						"content": [
+							{
+								"pinyin": "liǔ tiáo yòu cháng yòu xì xiàng yī pǐ chū sè de mǎ bǐ yù",
+								"text": "柳条又长又细，像一匹出色的马。（比喻）"
+							},
+							{
+								"pinyin": "mèi mei qí zhe mǎ pǎo a pǎo bǐ wǒ men dōu zǎo dào jiā dòng zuò miáo xiě",
+								"text": "妹妹骑着马跑啊跑，比我们都早到家。（动作描写）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 4,
+		"day": 3,
+		"theme": "小溪与小路的回答",
+		"content": [
+			{
+				"title": "雷锋在哪里",
+				"titlePinyin": "léi fēng zài nǎ lǐ",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo xī shuō léi fēng lù guò zhè lǐ bēi zhe mí lù de xiǎo jiě mèi",
+						"text": "小溪说：雷锋路过这里，背着迷路的小姐妹。"
+					},
+					{
+						"pinyin": "xiǎo lù shuō léi fēng lù guò zhè lǐ bēi zhe nián mài de dà niáng",
+						"text": "小路说：雷锋路过这里，背着年迈的大娘。"
+					},
+					{
+						"pinyin": "léi fēng shū shu zài nǎ lǐ",
+						"text": "雷锋叔叔在哪里？"
+					},
+					{
+						"pinyin": "tā zài měi yī gè yuàn yì bāng zhù bié ren de rén shēn shàng",
+						"text": "他在每一个愿意帮助别人的人身上。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "作者说雷锋在哪里？你同意吗？",
+				"taskPinyin": "zuò zhě shuō léi fēng zài nǎ lǐ nǐ tóng yì ma",
+				"taskAnswer": "在愿意帮助别人的人身上。同意，我们学着帮助别人，就是在学雷锋。",
+				"taskAnswerPinyin": "zài yuàn yì bāng zhù bié ren de rén shēn shàng tóng yì wǒ men xué zhe bāng zhù bié ren jiù shì zài xué léi fēng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "千人糕（节选二）",
+				"titlePinyin": "qiān rén gāo jié xuǎn èr",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "bà ba shuō shì de",
+						"text": "爸爸说：是的。"
+					},
+					{
+						"pinyin": "zhè kuài mǐ gāo shì hěn duō hěn duō rén gòng tóng láo dòng de chéng guǒ",
+						"text": "这块米糕是很多很多人共同劳动的成果。"
+					},
+					{
+						"pinyin": "suǒ yǐ wǒ men yào ài xī liáng shi",
+						"text": "所以我们要爱惜粮食。"
+					},
+					{
+						"pinyin": "bù néng làng fèi",
+						"text": "不能浪费。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "为什么不能浪费粮食？",
+				"taskPinyin": "wèi shén me bù néng làng fèi liáng shi",
+				"taskAnswer": "因为每一粒米都是很多人劳动得来的，浪费就是不尊重别人的劳动。",
+				"taskAnswerPinyin": "yīn wèi měi yī lì mǐ dōu shì hěn duō rén láo dòng dé lái de làng fèi jiù shì bù zūn zhòng bié ren de láo dòng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "论语（节选）",
+				"titlePinyin": "lún yǔ jié xuǎn",
+				"type": "classics",
+				"author": "孔子",
+				"authorPinyin": "kǒng zǐ",
+				"dynasty": "先秦",
+				"dynastyPinyin": "xiān qín",
+				"contentObject": [
+					{
+						"pinyin": "jǐ suǒ bù yù wù shī yú rén",
+						"text": "己所不欲，勿施于人。"
+					},
+					{
+						"pinyin": "zài bāng wú yuàn zài jiā wú yuàn",
+						"text": "在邦无怨，在家无怨。"
+					}
+				],
+				"annotation": "不欲：不想要的。！！勿施：不要强加。",
+				"annotationPinyin": "bù yù bù xiǎng yào de wù shī bù yào qiáng jiā",
+				"task": "“己所不欲，勿施于人”是什么意思？",
+				"taskPinyin": "jǐ suǒ bù yù wù shī yú rén shì shén me yì si",
+				"taskAnswer": "自己不喜欢的事，不要强加给别人。",
+				"taskAnswerPinyin": "zì jǐ bù xǐ huan de shì bù yào qiáng jiā gěi bié ren",
+				"translation": "自己不愿意承受的，不要加在别人身上。",
+				"translationPinyin": "zì jǐ bù yuàn yì chéng shòu de bù yào jiā zài bié ren shēn shàng",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "修辞手法（拟人：把物体写得像人一样）",
+						"titlePinyin": "xiū cí shǒu fǎ nǐ rén bǎ wù tǐ xiě de xiàng rén yí yàng",
+						"content": [
+							{
+								"pinyin": "xiǎo xī shuō léi fēng lù guò zhè lǐ xiǎo xī xiàng rén yī yàng huì shuō huà",
+								"text": "小溪说：雷锋路过这里。（小溪像人一样会说话）"
+							},
+							{
+								"pinyin": "xiǎo lù shuō léi fēng bēi zhe dà niáng xiǎo lù xiàng rén yī yàng huì shuō huà",
+								"text": "小路说：雷锋背着大娘。（小路像人一样会说话）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 4,
+		"day": 4,
+		"theme": "像一匹马",
+		"content": [
+			{
+				"title": "柳条马",
+				"titlePinyin": "liǔ tiáo mǎ",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "bà ba zhé xià yī gēn liǔ tiáo",
+						"text": "爸爸折下一根柳条。"
+					},
+					{
+						"pinyin": "liǔ tiáo yòu cháng yòu xì",
+						"text": "柳条又长又细，"
+					},
+					{
+						"pinyin": "xiàng yī pǐ chū sè de mǎ",
+						"text": "像一匹出色的马。"
+					},
+					{
+						"pinyin": "mèi mei qí shàng qù dé dé dé dé",
+						"text": "妹妹骑上去，嘚嘚嘚嘚，"
+					},
+					{
+						"pinyin": "pǎo de bǐ zhēn mǎ hái kuài",
+						"text": "跑得比真马还快。"
+					},
+					{
+						"pinyin": "yuán lái kuài lè jiù shì zuì hǎo de mǎ",
+						"text": "原来，快乐就是最好的马。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "用“像”写一个比喻句。",
+				"taskPinyin": "yòng xiàng xiě yī gè bǐ yù jù",
+				"taskAnswer": "弯弯的月亮像一艘金色的小船。",
+				"taskAnswerPinyin": "wān wān de yuè liang xiàng yī sōu jīn sè de xiǎo chuán",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "孟母三迁",
+				"titlePinyin": "mèng mǔ sān qiān",
+				"type": "story_legend",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "mèng zǐ xiǎo shí hou jiā zhù zài mù chǎng páng",
+						"text": "孟子小时候家住在牧场旁。"
+					},
+					{
+						"pinyin": "tā xué mài mǎ rén jiào mài mǎ",
+						"text": "他学卖马人叫卖马。"
+					},
+					{
+						"pinyin": "mǔ qīn shuō zhè lǐ bù hǎo bān zǒu",
+						"text": "母亲说：这里不好。搬家。"
+					},
+					{
+						"pinyin": "bān dào jí shì páng tā yòu xué shāng rén jiào mài dōng xi",
+						"text": "搬到集市旁，他又学商人叫卖东西。"
+					},
+					{
+						"pinyin": "mǔ qīn yòu bān jiā bān dào xué táng páng",
+						"text": "母亲又搬家，搬到学堂旁。"
+					},
+					{
+						"pinyin": "mèng zǐ kàn jiàn xué zǐ dú shū yě gēn zhe dú shū le",
+						"text": "孟子看见学子读书，也跟着读书了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "孟母为什么三次搬家？",
+				"taskPinyin": "mèng mǔ wèi shén me sān cì bān jiā",
+				"taskAnswer": "为了让孟子有个好环境，从小爱读书，不要学不好的东西。",
+				"taskAnswerPinyin": "wèi le ràng mèng zǐ yǒu gè hǎo huán jìng cóng xiǎo ài dú shū bù yào xué bù hǎo de dōng xi",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "小马",
+				"titlePinyin": "xiǎo mǎ",
+				"type": "children_poem",
+				"author": "圣野",
+				"authorPinyin": "shèng yě",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "wǒ yǒu yī pǐ xiǎo mǎ",
+						"text": "我有一匹小马，"
+					},
+					{
+						"pinyin": "tā shì liǔ tiáo biàn de",
+						"text": "它是柳条变的。"
+					},
+					{
+						"pinyin": "qí shàng tā dé dé dé",
+						"text": "骑上它，嘚嘚嘚，"
+					},
+					{
+						"pinyin": "pǎo dào tián yě pǎo dào jiā",
+						"text": "跑到田野跑到家。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "诗人把小马比作什么？",
+				"taskPinyin": "shī rén bǎ xiǎo mǎ bǐ zuò shén me",
+				"taskAnswer": "比作柳条。柳条像马，骑上它就能跑。",
+				"taskAnswerPinyin": "bǐ zuò liǔ tiáo liǔ tiáo xiàng mǎ qí shàng tā jiù néng pǎo",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "修辞手法（比喻：打比方，说一个东西像另一个东西）",
+						"titlePinyin": "xiū cí shǒu fǎ bǐ yù dǎ bǐ fang shuō yí gè dōng xi xiàng lìng yí gè dōng xi",
+						"content": [
+							{
+								"pinyin": "liǔ tiáo xiàng yī pǐ chū sè de mǎ dǎ bǐ fang",
+								"text": "柳条像一匹出色的马。（打比方）"
+							},
+							{
+								"pinyin": "kuài lè xiàng zuì hǎo de mǎ ràng rén pǎo de kuài dǎ bǐ fang",
+								"text": "快乐像最好的马，让人跑得快。（打比方）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 4,
+		"day": 5,
+		"theme": "爱惜粮食",
+		"content": [
+			{
+				"title": "千人糕（节选三）",
+				"titlePinyin": "qiān rén gāo jié xuǎn sān",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "mǐ gāo shì yòng dà mǐ zuò de",
+						"text": "米糕是用大米做的。"
+					},
+					{
+						"pinyin": "dà mǐ shì nóng mín bó bo zhòng chū lái de",
+						"text": "大米是农民伯伯种出来的。"
+					},
+					{
+						"pinyin": "tián lǐ jiāo shuǐ shī féi chú cǎo",
+						"text": "田里浇水、施肥、锄草。"
+					},
+					{
+						"pinyin": "dào le qiū tiān shōu gē tuō lì",
+						"text": "到了秋天，收割、脱粒。"
+					},
+					{
+						"pinyin": "hòu lái yùn dào chǎng lǐ mó chéng fěn zuò chéng gāo",
+						"text": "后来运到厂里磨成粉，做成糕。"
+					},
+					{
+						"pinyin": "yī kuài pǔ tōng de mǐ gāo lái zhī bù yì",
+						"text": "一块普通的米糕，来之不易。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "米糕要经过哪些步骤才能做好？",
+				"taskPinyin": "mǐ gāo yào jīng guò nǎ xiē bù zhòu cái néng zuò hǎo",
+				"taskAnswer": "种稻、浇水施肥锄草、收割脱粒、运去磨粉、做成糕。",
+				"taskAnswerPinyin": "zhòng dào jiāo shuǐ shī féi chú cǎo shōu gē tuō lì yùn qù mó fěn zuò chéng gāo",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "不浪费",
+				"titlePinyin": "bù làng fèi",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "chī fàn de shí hou wǒ bǎ wǎn lǐ de fàn chī de gān gān jìng jìng",
+						"text": "吃饭的时候，我把碗里的饭吃得更干干净净。"
+					},
+					{
+						"pinyin": "lǎo shī shuō měi yī lì mǐ dōu lái zhī bù yì",
+						"text": "老师说：每一粒米都来之不易。"
+					},
+					{
+						"pinyin": "nóng mín bó bo liú le hěn duō hàn shuǐ",
+						"text": "农民伯伯流了很多汗水。"
+					},
+					{
+						"pinyin": "wǒ men yào ài xī liáng shi bù làng fèi",
+						"text": "我们要爱惜粮食，不浪费。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你在家怎样爱惜粮食？",
+				"taskPinyin": "nǐ zài jiā zěn yàng ài xī liáng shi",
+				"taskAnswer": "吃多少盛多少，不剩饭，不掉米粒。",
+				"taskAnswerPinyin": "chī duō shǎo chéng duō shǎo bù shèng fàn bù diào mǐ lì",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "悯农（小古文式）",
+				"titlePinyin": "mǐn nóng xiǎo gǔ wén shì",
+				"type": "classical_chinese",
+				"author": "李绅",
+				"authorPinyin": "lǐ shēn",
+				"dynasty": "唐",
+				"dynastyPinyin": "táng",
+				"contentObject": [
+					{
+						"pinyin": "chú hé rì dāng wǔ hàn dī hé xià tǔ",
+						"text": "锄禾日当午，汗滴禾下土。"
+					},
+					{
+						"pinyin": "shuí zhī pán zhōng cān lì lì jiē xīn kǔ",
+						"text": "谁知盘中餐，粒粒皆辛苦。"
+					}
+				],
+				"annotation": "锄禾：在田里锄草。！！餐：饭。",
+				"annotationPinyin": "chú hé zài tián lǐ chú cǎo cān fàn",
+				"task": "背诵《悯农》，说说怎样爱惜粮食。",
+				"taskPinyin": "bèi sòng mǐn nóng shuō shuo zěn yàng ài xī liáng shi",
+				"taskAnswer": "吃干净不剩饭，不挑食，不浪费。",
+				"taskAnswerPinyin": "chī gān jìng bù shèng fàn bù tiāo shí bù làng fèi",
+				"translation": "正午太阳晒，农民在锄草，汗珠滴进泥土。谁知碗里的饭，粒粒都是辛苦换来的。",
+				"translationPinyin": "zhèng wǔ tài yáng shài nóng mín zài chú cǎo hàn zhū dī jìn ní tǔ shuí zhī wǎn lǐ de fàn lì lì dōu shì xīn kǔ huàn lái de",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "描写小妙招",
+						"titlePinyin": "miáo xiě xiǎo miào zhāo",
+						"content": [
+							{
+								"pinyin": "dòng zuò yòng zhǔn què de dòng cí rú bēi tà zhé qí",
+								"text": "动作：用准确的动词，如“背”“踏”“折”“骑”。"
+							},
+							{
+								"pinyin": "yán sè yòng jù tǐ de yán sè cí rú jīn huáng bì lǜ",
+								"text": "颜色：用具体的颜色词，如“金黄”“碧绿”。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 4,
+		"day": 6,
+		"theme": "复习与积累",
+		"content": [
+			{
+				"title": "一匹出色的马（复习）",
+				"titlePinyin": "yī pǐ chū sè de mǎ fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "bà ba cóng lù biān liǔ shù shàng zhé xià yī gēn yòu cháng yòu xì de liǔ tiáo",
+						"text": "爸爸从路边柳树上折下一根又长又细的柳条。"
+					},
+					{
+						"pinyin": "bǎ liǔ tiáo dì gěi mèi mei shuō zhè shì yī pǐ chū sè de mǎ",
+						"text": "把柳条递给妹妹，说：这是一匹出色的马。"
+					},
+					{
+						"pinyin": "mèi mei qí shàng mǎ pǎo a pǎo bǐ wǒ men dōu zǎo dào jiā",
+						"text": "妹妹骑上马，跑啊跑，比我们都早到家。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "背诵这段话，再用“又……又……”写一句。",
+				"taskPinyin": "bèi sòng zhè duàn huà zài yòng yòu yòu xiě yī jù",
+				"taskAnswer": "西瓜又大又圆，像一只绿皮球。",
+				"taskAnswerPinyin": "xī guā yòu dà yòu yuán xiàng yī zhī lǜ pí qiú",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "帮老奶奶提东西",
+				"titlePinyin": "bāng lǎo nǎi nai tí dōng xi",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "fàng xué lù shàng wǒ kàn jiàn yī wèi lǎo nǎi nai tí zhe chén diàn diàn de dōng xi",
+						"text": "放学路上，我看见一位老奶奶提着沉甸甸的东西。"
+					},
+					{
+						"pinyin": "wǒ pǎo guò qù shuō nǎi nai wǒ bāng nín tí ba",
+						"text": "我跑过去说：奶奶，我帮您提吧。"
+					},
+					{
+						"pinyin": "lǎo nǎi nai xiào le shuō xiè xie nǐ hǎo hái zi",
+						"text": "老奶奶笑了，说：谢谢你，好孩子。"
+					},
+					{
+						"pinyin": "wǒ bāng tā tí dào lóu xià xīn lǐ tè bié kāi xīn",
+						"text": "我帮她提到楼下，心里特别开心。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你帮助过长辈吗？说一说。",
+				"taskPinyin": "nǐ bāng zhù guo zhǎng bèi ma shuō yi shuō",
+				"taskAnswer": "我帮爷爷拿过老花镜，帮妈妈摆过碗筷。",
+				"taskAnswerPinyin": "wǒ bāng yé ye ná guo lǎo huā jìng bāng mā ma bǎi guo wǎn kuài",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "静夜思",
+				"titlePinyin": "jìng yè sī",
+				"type": "ancient_poem",
+				"author": "李白",
+				"authorPinyin": "lǐ bái",
+				"dynasty": "唐",
+				"dynastyPinyin": "táng",
+				"contentObject": [
+					{
+						"pinyin": "chuáng qián míng yuè guāng",
+						"text": "床前明月光，"
+					},
+					{
+						"pinyin": "yí shì dì shàng shuāng",
+						"text": "疑是地上霜。"
+					},
+					{
+						"pinyin": "jǔ tóu wàng míng yuè",
+						"text": "举头望明月，"
+					},
+					{
+						"pinyin": "dī tóu sī gù xiāng",
+						"text": "低头思故乡。"
+					}
+				],
+				"annotation": "疑：好像。！！举头：抬头。",
+				"annotationPinyin": "yí hǎo xiàng jǔ tóu tái tóu",
+				"task": "诗人把月光比作什么？",
+				"taskPinyin": "shī rén bǎ yuè guāng bǐ zuò shén me",
+				"taskAnswer": "比作地上的霜。月光白白的，照在地上像一层霜。",
+				"taskAnswerPinyin": "bǐ zuò dì shàng de shuāng yuè guāng bái bái de zhào zài dì shàng xiàng yī céng shuāng",
+				"translation": "床前照进明亮的月光，好像地上铺了一层霜。抬头望着明月，低头想起故乡。",
+				"translationPinyin": "chuáng qián zhào jìn míng liàng de yuè guāng hǎo xiàng dì shàng pū le yī céng shuāng tái tóu wàng zhe míng yuè dī tóu xiǎng qǐ gù xiāng",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "谚语 | 歇后语",
+						"titlePinyin": "yàn yǔ xiē hòu yǔ",
+						"content": [
+							{
+								"pinyin": "léi fēng chū mén yī qiān lǐ hǎo shì zuò le yī huǒ chē lè yú zhù rén",
+								"text": "雷锋出差一千里，好事做了一火车。（乐于助人）"
+							},
+							{
+								"pinyin": "zhī ēn tú bào shòu le ēn huì yào bào dá",
+								"text": "知恩图报。（受了恩惠要报答）"
+							},
+							{
+								"pinyin": "dī shuǐ zhī ēn dāng yǒng quán xiāng bào xiǎo ēn yě yào jì zhù",
+								"text": "滴水之恩，当涌泉相报。（小恩也要记住）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	}
+]

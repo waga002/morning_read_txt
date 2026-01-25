@@ -1,0 +1,1618 @@
+[
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 9,
+		"day": 1,
+		"theme": "亡羊补牢",
+		"content": [
+			{
+				"title": "亡羊补牢（节选）",
+				"titlePinyin": "wáng yáng bǔ láo jié xuǎn",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "yáng diū le yī zhī",
+						"text": "羊丢了一只，"
+					},
+					{
+						"pinyin": "lín jū quàn tā xiū yáng juàn",
+						"text": "邻居劝他修羊圈。"
+					},
+					{
+						"pinyin": "tā shuō dōu diū le hái xiū shén me",
+						"text": "他说：都丢了还修什么？"
+					},
+					{
+						"pinyin": "jié guǒ yòu diū le yī zhī",
+						"text": "结果又丢了一只。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "亡羊补牢告诉我们什么？",
+				"taskPinyin": "wáng yáng bǔ láo gào su wǒ men shén me",
+				"taskAnswer": "出了问题赶紧改，还不晚。",
+				"taskAnswerPinyin": "chū le wèn tí gǎn jǐn gǎi hái bù wǎn",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "小马过河（节选）",
+				"titlePinyin": "xiǎo mǎ guò hé jié xuǎn",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo mǎ yào guò hé",
+						"text": "小马要过河。"
+					},
+					{
+						"pinyin": "niú bó bo shuō shuǐ hěn qiǎn",
+						"text": "牛伯伯说水很浅。"
+					},
+					{
+						"pinyin": "xiǎo sōng shǔ shuō shuǐ hěn shēn",
+						"text": "小松鼠说水很深。"
+					},
+					{
+						"pinyin": "xiǎo mǎ zì jǐ shì le shì cái zhī dào",
+						"text": "小马自己试了试才知道。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "小马为什么自己试了试才知道？",
+				"taskPinyin": "xiǎo mǎ wèi shén me zì jǐ shì le shì cái zhī dào",
+				"taskAnswer": "因为牛说浅、松鼠说深，不一样。自己试试才知深浅。",
+				"taskAnswerPinyin": "yīn wèi niú shuō qiǎn sōng shǔ shuō shēn bù yī yàng zì jǐ shì shi cái zhī shēn qiǎn",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "登鹳雀楼",
+				"titlePinyin": "dēng guàn què lóu",
+				"type": "ancient_poem",
+				"author": "王之涣",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "bái rì yī shān jìn",
+						"text": "白日依山尽，"
+					},
+					{
+						"pinyin": "huáng hé rù hǎi liú",
+						"text": "黄河入海流。"
+					},
+					{
+						"pinyin": "yù qióng qiān lǐ mù",
+						"text": "欲穷千里目，"
+					},
+					{
+						"pinyin": "gèng shàng yī céng lóu",
+						"text": "更上一层楼。"
+					}
+				],
+				"annotation": "依：靠着。穷：尽。千里目：看得极远。",
+				"annotationPinyin": "yī kào zhe qióng jìn qiān lǐ mù kàn de jí yuǎn",
+				"task": "“欲穷千里目，更上一层楼”什么意思？",
+				"taskPinyin": "yù qióng qiān lǐ mù gèng shàng yī céng lóu shén me yì si",
+				"taskAnswer": "想看得远就要站得高。",
+				"taskAnswerPinyin": "xiǎng kàn de yuǎn jiù yào zhàn de gāo",
+				"translation": "太阳靠着山落下去，黄河流入大海。想看得远，就要再上一层楼。",
+				"translationPinyin": "tài yáng kào zhe shān luò xià qù huáng hé liú rù dà hǎi xiǎng kàn de yuǎn jiù yào zài shàng yī céng lóu",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好词积累",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "huà yáng táo",
+								"text": "画杨桃"
+							},
+							{
+								"pinyin": "xiǎo mǎ guò hé",
+								"text": "小马过河"
+							},
+							{
+								"pinyin": "bǔ láo",
+								"text": "补牢"
+							},
+							{
+								"pinyin": "yáng juàn",
+								"text": "羊圈"
+							},
+							{
+								"pinyin": "nǔ lì",
+								"text": "努力"
+							},
+							{
+								"pinyin": "rèn zhēn",
+								"text": "认真"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 9,
+		"day": 2,
+		"theme": "画杨桃",
+		"content": [
+			{
+				"title": "画杨桃（节选）",
+				"titlePinyin": "huà yáng táo jié xuǎn",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "lǎo shī bǎ yáng táo fàng zài jiǎng tái shàng",
+						"text": "老师把杨桃放在讲台上。"
+					},
+					{
+						"pinyin": "ràng dà jiā cóng wǒ de zuò wèi kàn",
+						"text": "让大家从我的座位看。"
+					},
+					{
+						"pinyin": "tóng xué men kàn jiàn le wǔ jiǎo xīng",
+						"text": "同学们看见了五角星。"
+					},
+					{
+						"pinyin": "yáng táo cóng bù tóng jiǎo dù kàn bù yī yàng",
+						"text": "杨桃从不同角度看不一样。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "从不同角度看杨桃，为什么像五角星？",
+				"taskPinyin": "cóng bù tóng jiǎo dù kàn yáng táo wèi shén me xiàng wǔ jiǎo xīng",
+				"taskAnswer": "因为从某些角度看，杨桃就像五角星。",
+				"taskAnswerPinyin": "yīn wèi cóng mǒu xiē jiǎo dù kàn yáng táo jiù xiàng wǔ jiǎo xīng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "揠苗助长",
+				"titlePinyin": "yà miáo zhù zhǎng",
+				"type": "story_legend",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "nóng fū xián miáo zhǎng de màn",
+						"text": "农夫嫌苗长得慢。"
+					},
+					{
+						"pinyin": "bǎ miáo yī kē kē bá gāo",
+						"text": "把苗一棵棵拔高。"
+					},
+					{
+						"pinyin": "jié guǒ miáo quán kū le",
+						"text": "结果苗全枯了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "农夫错在哪里？",
+				"taskPinyin": "nóng fū cuò zài nǎ lǐ",
+				"taskAnswer": "不该把苗拔高。苗要自己长，不能着急。",
+				"taskAnswerPinyin": "bù gāi bǎ miáo bá gāo miáo yào zì jǐ zhǎng bù néng zháo jí",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "弟子规（节选）",
+				"titlePinyin": "dì zǐ guī jié xuǎn",
+				"type": "classics",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "jiàn wèi zhēn wù qīng yán",
+						"text": "见未真，勿轻言。"
+					},
+					{
+						"pinyin": "zhī wèi dí wù qīng chuán",
+						"text": "知未的，勿轻传。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "“见人善，即思齐”要我们怎么做？",
+				"taskPinyin": "jiàn rén shàn jí sī qí yào wǒ men zěn me zuò",
+				"taskAnswer": "看到别人好，要向他学习。",
+				"taskAnswerPinyin": "kàn dào bié rén hǎo yào xiàng tā xué xí",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好句积累",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "yáng táo cóng wǒ de zuò wèi kàn xiàng wǔ jiǎo xīng",
+								"text": "杨桃从我的座位看像五角星。（角度）"
+							},
+							{
+								"pinyin": "yù qióng qiān lǐ mù gèng shàng yī céng lóu",
+								"text": "欲穷千里目，更上一层楼。（站高望远）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 9,
+		"day": 3,
+		"theme": "寓言与道理",
+		"content": [
+			{
+				"title": "小马过河（节选）",
+				"titlePinyin": "xiǎo mǎ guò hé jié xuǎn",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "mǎ mā ma shuō hái zi guò hé qù shì shì",
+						"text": "妈妈说过河去试试。"
+					},
+					{
+						"pinyin": "xiǎo mǎ yī shì shuǐ bù shēn yě bù qiǎn",
+						"text": "小马一试水不深也不浅。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "小马为什么自己试了试才知道？",
+				"taskPinyin": "xiǎo mǎ wèi shén me zì jǐ shì le shì cái zhī dào",
+				"taskAnswer": "因为牛说浅、松鼠说深，不一样。自己试试才知深浅。",
+				"taskAnswerPinyin": "yīn wèi niú shuō qiǎn sōng shǔ shuō shēn bù yī yàng zì jǐ shì shi cái zhī shēn qiǎn",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "试试才知道",
+				"titlePinyin": "shì shi cái zhī dào",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "hěn duō shì yào zì jǐ shì guo cái zhī dào",
+						"text": "很多事要自己试过才知道。"
+					},
+					{
+						"pinyin": "bié ren shuō de bù yī dìng shì nǐ de",
+						"text": "别人说的不一定是你的。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你试过什么才知道的？说一说。",
+				"taskPinyin": "nǐ shì guo shén me cái zhī dào de shuō yi shuō",
+				"taskAnswer": "我试过自己洗手绢，才知道要搓很久才干净。",
+				"taskAnswerPinyin": "wǒ shì guo zì jǐ xǐ shǒu juàn cái zhī dào yào cuō hěn jiǔ cái gān jìng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "亡羊补牢（小古文）",
+				"titlePinyin": "wáng yáng bǔ láo xiǎo gǔ wén",
+				"type": "classical_chinese",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "juàn pò yáng táo",
+						"text": "圈破羊逃。"
+					},
+					{
+						"pinyin": "bǔ láo wèi wǎn",
+						"text": "补牢未晚。"
+					}
+				],
+				"annotation": "牢：羊圈。破：坏。",
+				"annotationPinyin": "láo yáng juàn pò huài",
+				"task": "亡羊补牢告诉我们什么？",
+				"taskPinyin": "wáng yáng bǔ láo gào su wǒ men shén me",
+				"taskAnswer": "出了问题赶紧改，还不晚。",
+				"taskAnswerPinyin": "chū le wèn tí gǎn jǐn gǎi hái bù wǎn",
+				"translation": "羊圈破了羊跑掉，赶紧补好还不晚。",
+				"translationPinyin": "yáng juàn pò le yáng pǎo diào gǎn jǐn bǔ hǎo hái bù wǎn",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "写话锦囊",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "bǔ láo wèi wǎn",
+								"text": "补牢未晚。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 9,
+		"day": 4,
+		"theme": "寓言与道理",
+		"content": [
+			{
+				"title": "小马过河（节选）",
+				"titlePinyin": "xiǎo mǎ guò hé jié xuǎn",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "mǎ mā ma shuō hái zi guò hé qù shì shì",
+						"text": "妈妈说过河去试试。"
+					},
+					{
+						"pinyin": "xiǎo mǎ yī shì shuǐ bù shēn yě bù qiǎn",
+						"text": "小马一试水不深也不浅。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "小马为什么自己试了试才知道？",
+				"taskPinyin": "xiǎo mǎ wèi shén me zì jǐ shì le shì cái zhī dào",
+				"taskAnswer": "因为牛说浅、松鼠说深，不一样。自己试试才知深浅。",
+				"taskAnswerPinyin": "yīn wèi niú shuō qiǎn sōng shǔ shuō shēn bù yī yàng zì jǐ shì shi cái zhī shēn qiǎn",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "试试才知道",
+				"titlePinyin": "shì shi cái zhī dào",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "hěn duō shì yào zì jǐ shì guo cái zhī dào",
+						"text": "很多事要自己试过才知道。"
+					},
+					{
+						"pinyin": "bié ren shuō de bù yī dìng shì nǐ de",
+						"text": "别人说的不一定是你的。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你试过什么才知道的？说一说。",
+				"taskPinyin": "nǐ shì guo shén me cái zhī dào de shuō yi shuō",
+				"taskAnswer": "我试过自己洗手绢，才知道要搓很久才干净。",
+				"taskAnswerPinyin": "wǒ shì guo zì jǐ xǐ shǒu juàn cái zhī dào yào cuō hěn jiǔ cái gān jìng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "亡羊补牢（小古文）",
+				"titlePinyin": "wáng yáng bǔ láo xiǎo gǔ wén",
+				"type": "classical_chinese",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "juàn pò yáng táo",
+						"text": "圈破羊逃。"
+					},
+					{
+						"pinyin": "bǔ láo wèi wǎn",
+						"text": "补牢未晚。"
+					}
+				],
+				"annotation": "牢：羊圈。破：坏。",
+				"annotationPinyin": "láo yáng juàn pò huài",
+				"task": "亡羊补牢告诉我们什么？",
+				"taskPinyin": "wáng yáng bǔ láo gào su wǒ men shén me",
+				"taskAnswer": "出了问题赶紧改，还不晚。",
+				"taskAnswerPinyin": "chū le wèn tí gǎn jǐn gǎi hái bù wǎn",
+				"translation": "羊圈破了羊跑掉，赶紧补好还不晚。",
+				"translationPinyin": "yáng juàn pò le yáng pǎo diào gǎn jǐn bǔ hǎo hái bù wǎn",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "谚语",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "bǔ láo wèi wǎn",
+								"text": "补牢未晚。"
+							},
+							{
+								"pinyin": "shū shān yǒu lù qín wéi jìng",
+								"text": "书山有路勤为径。"
+							},
+							{
+								"pinyin": "shǎo zhuàng bù nǔ lì lǎo dà tú shāng bēi",
+								"text": "少壮不努力，老大徒伤悲。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 9,
+		"day": 5,
+		"theme": "寓言与道理",
+		"content": [
+			{
+				"title": "小马过河（节选）",
+				"titlePinyin": "xiǎo mǎ guò hé jié xuǎn",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "mǎ mā ma shuō hái zi guò hé qù shì shì",
+						"text": "妈妈说过河去试试。"
+					},
+					{
+						"pinyin": "xiǎo mǎ yī shì shuǐ bù shēn yě bù qiǎn",
+						"text": "小马一试水不深也不浅。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "小马为什么自己试了试才知道？",
+				"taskPinyin": "xiǎo mǎ wèi shén me zì jǐ shì le shì cái zhī dào",
+				"taskAnswer": "因为牛说浅、松鼠说深，不一样。自己试试才知深浅。",
+				"taskAnswerPinyin": "yīn wèi niú shuō qiǎn sōng shǔ shuō shēn bù yī yàng zì jǐ shì shi cái zhī shēn qiǎn",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "试试才知道",
+				"titlePinyin": "shì shi cái zhī dào",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "hěn duō shì yào zì jǐ shì guo cái zhī dào",
+						"text": "很多事要自己试过才知道。"
+					},
+					{
+						"pinyin": "bié ren shuō de bù yī dìng shì nǐ de",
+						"text": "别人说的不一定是你的。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你试过什么才知道的？说一说。",
+				"taskPinyin": "nǐ shì guo shén me cái zhī dào de shuō yi shuō",
+				"taskAnswer": "我试过自己洗手绢，才知道要搓很久才干净。",
+				"taskAnswerPinyin": "wǒ shì guo zì jǐ xǐ shǒu juàn cái zhī dào yào cuō hěn jiǔ cái gān jìng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "亡羊补牢（小古文）",
+				"titlePinyin": "wáng yáng bǔ láo xiǎo gǔ wén",
+				"type": "classical_chinese",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "juàn pò yáng táo",
+						"text": "圈破羊逃。"
+					},
+					{
+						"pinyin": "bǔ láo wèi wǎn",
+						"text": "补牢未晚。"
+					}
+				],
+				"annotation": "牢：羊圈。破：坏。",
+				"annotationPinyin": "láo yáng juàn pò huài",
+				"task": "亡羊补牢告诉我们什么？",
+				"taskPinyin": "wáng yáng bǔ láo gào su wǒ men shén me",
+				"taskAnswer": "出了问题赶紧改，还不晚。",
+				"taskAnswerPinyin": "chū le wèn tí gǎn jǐn gǎi hái bù wǎn",
+				"translation": "羊圈破了羊跑掉，赶紧补好还不晚。",
+				"translationPinyin": "yáng juàn pò le yáng pǎo diào gǎn jǐn bǔ hǎo hái bù wǎn",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "四字成语",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "xiān zài rán hòu",
+								"text": "先…再…然后…"
+							},
+							{
+								"pinyin": "wáng yáng bǔ láo wèi shí bù wǎn",
+								"text": "亡羊补牢为时不晚。"
+							},
+							{
+								"pinyin": "dī shuǐ chuān shí jiān chí jiù yǒu shōu huò",
+								"text": "滴水穿石（坚持就有收获）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 9,
+		"day": 6,
+		"theme": "寓言与道理",
+		"content": [
+			{
+				"title": "小马过河（节选）",
+				"titlePinyin": "xiǎo mǎ guò hé jié xuǎn",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "mǎ mā ma shuō hái zi guò hé qù shì shì",
+						"text": "妈妈说过河去试试。"
+					},
+					{
+						"pinyin": "xiǎo mǎ yī shì shuǐ bù shēn yě bù qiǎn",
+						"text": "小马一试水不深也不浅。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "小马为什么自己试了试才知道？",
+				"taskPinyin": "xiǎo mǎ wèi shén me zì jǐ shì le shì cái zhī dào",
+				"taskAnswer": "因为牛说浅、松鼠说深，不一样。自己试试才知深浅。",
+				"taskAnswerPinyin": "yīn wèi niú shuō qiǎn sōng shǔ shuō shēn bù yī yàng zì jǐ shì shi cái zhī shēn qiǎn",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "试试才知道",
+				"titlePinyin": "shì shi cái zhī dào",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "hěn duō shì yào zì jǐ shì guo cái zhī dào",
+						"text": "很多事要自己试过才知道。"
+					},
+					{
+						"pinyin": "bié ren shuō de bù yī dìng shì nǐ de",
+						"text": "别人说的不一定是你的。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你试过什么才知道的？说一说。",
+				"taskPinyin": "nǐ shì guo shén me cái zhī dào de shuō yi shuō",
+				"taskAnswer": "我试过自己洗手绢，才知道要搓很久才干净。",
+				"taskAnswerPinyin": "wǒ shì guo zì jǐ xǐ shǒu juàn cái zhī dào yào cuō hěn jiǔ cái gān jìng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "亡羊补牢（小古文）",
+				"titlePinyin": "wáng yáng bǔ láo xiǎo gǔ wén",
+				"type": "classical_chinese",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "juàn pò yáng táo",
+						"text": "圈破羊逃。"
+					},
+					{
+						"pinyin": "bǔ láo wèi wǎn",
+						"text": "补牢未晚。"
+					}
+				],
+				"annotation": "牢：羊圈。破：坏。",
+				"annotationPinyin": "láo yáng juàn pò huài",
+				"task": "亡羊补牢告诉我们什么？",
+				"taskPinyin": "wáng yáng bǔ láo gào su wǒ men shén me",
+				"taskAnswer": "出了问题赶紧改，还不晚。",
+				"taskAnswerPinyin": "chū le wèn tí gǎn jǐn gǎi hái bù wǎn",
+				"translation": "羊圈破了羊跑掉，赶紧补好还不晚。",
+				"translationPinyin": "yáng juàn pò le yáng pǎo diào gǎn jǐn bǔ hǎo hái bù wǎn",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "谚语",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "shì shi cái zhī dào",
+								"text": "试试才知道。"
+							},
+							{
+								"pinyin": "yī cùn guāng yīn yī cùn jīn",
+								"text": "一寸光阴一寸金。"
+							},
+							{
+								"pinyin": "zhòng rén shí chái huǒ yàn gāo",
+								"text": "众人拾柴火焰高。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 10,
+		"day": 1,
+		"theme": "小马与杨桃",
+		"content": [
+			{
+				"title": "画杨桃（复习）",
+				"titlePinyin": "huà yáng táo fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "cóng bù tóng jiǎo dù kàn bù tóng",
+						"text": "从不同角度看不同。"
+					},
+					{
+						"pinyin": "yào shí shì qiú shì",
+						"text": "要实事求是。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "为什么从不同角度看，杨桃不一样？",
+				"taskPinyin": "wèi shén me cóng bù tóng jiǎo dù kàn yáng táo bù yī yàng",
+				"taskAnswer": "因为角度不同，看到的样子就不同。",
+				"taskAnswerPinyin": "yīn wèi jiǎo dù bù tóng kàn dào de yàng zi jiù bù tóng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "自己试一试",
+				"titlePinyin": "zì jǐ shì yi shì",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo mǎ guò hé zì jǐ shì",
+						"text": "小马过河自己试。"
+					},
+					{
+						"pinyin": "bù tīng bié ren luàn shuō",
+						"text": "不听别人乱说。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "听了别人说的，还要自己试吗？为什么？",
+				"taskPinyin": "tīng le bié rén shuō de hái yào zì jǐ shì ma wèi shén me",
+				"taskAnswer": "要。别人说的不一定适合自己，试过才清楚。",
+				"taskAnswerPinyin": "yào bié rén shuō de bù yī dìng shì hé zì jǐ shì guo cái qīng chu",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "绝句",
+				"titlePinyin": "jué jù",
+				"type": "ancient_poem",
+				"author": "杜甫",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "liǎng gè huáng lí míng cuì liǔ",
+						"text": "两个黄鹂鸣翠柳，"
+					},
+					{
+						"pinyin": "yī háng bái lù shàng qīng tiān",
+						"text": "一行白鹭上青天。"
+					},
+					{
+						"pinyin": "chuāng hán xī lǐng qiān qiū xuě",
+						"text": "窗含西岭千秋雪，"
+					},
+					{
+						"pinyin": "mén bó dōng wú wàn lǐ chuán",
+						"text": "门泊东吴万里船。"
+					}
+				],
+				"annotation": "黄鹂：鸟。白鹭：水鸟。含：对着。泊：停。",
+				"annotationPinyin": "huáng lí niǎo bái lù shuǐ niǎo hán duì zhe bó tíng",
+				"task": "诗里写了哪些颜色？",
+				"taskPinyin": "shī lǐ xiě le nǎ xiē yán sè",
+				"taskAnswer": "黄、翠、白、青。",
+				"taskAnswerPinyin": "huáng cuì bái qīng",
+				"translation": "两只黄鹂在翠柳上叫，一行白鹭飞上青天。窗前可见西岭千秋雪，门外停着东吴来的船。",
+				"translationPinyin": "liǎng zhī huáng lí zài cuì liǔ shàng jiào yī háng bái lù fēi shàng qīng tiān chuāng qián kě jiàn xī lǐng qiān qiū xuě mén wài tíng zhe dōng wú lái de chuán",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好词",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "shì shi",
+								"text": "试试"
+							},
+							{
+								"pinyin": "jiǎo dù",
+								"text": "角度"
+							},
+							{
+								"pinyin": "zǐ xì guān chá",
+								"text": "仔细观察"
+							},
+							{
+								"pinyin": "xiōng yǒu chéng zhú",
+								"text": "胸有成竹"
+							},
+							{
+								"pinyin": "zhuān xīn",
+								"text": "专心"
+							},
+							{
+								"pinyin": "zháo jí",
+								"text": "着急"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 10,
+		"day": 2,
+		"theme": "小马与杨桃",
+		"content": [
+			{
+				"title": "画杨桃（复习）",
+				"titlePinyin": "huà yáng táo fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "cóng bù tóng jiǎo dù kàn bù tóng",
+						"text": "从不同角度看不同。"
+					},
+					{
+						"pinyin": "yào shí shì qiú shì",
+						"text": "要实事求是。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "为什么从不同角度看，杨桃不一样？",
+				"taskPinyin": "wèi shén me cóng bù tóng jiǎo dù kàn yáng táo bù yī yàng",
+				"taskAnswer": "因为角度不同，看到的样子就不同。",
+				"taskAnswerPinyin": "yīn wèi jiǎo dù bù tóng kàn dào de yàng zi jiù bù tóng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "自己试一试",
+				"titlePinyin": "zì jǐ shì yi shì",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo mǎ guò hé zì jǐ shì",
+						"text": "小马过河自己试。"
+					},
+					{
+						"pinyin": "bù tīng bié ren luàn shuō",
+						"text": "不听别人乱说。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "听了别人说的，还要自己试吗？为什么？",
+				"taskPinyin": "tīng le bié rén shuō de hái yào zì jǐ shì ma wèi shén me",
+				"taskAnswer": "要。别人说的不一定适合自己，试过才清楚。",
+				"taskAnswerPinyin": "yào bié rén shuō de bù yī dìng shì hé zì jǐ shì guo cái qīng chu",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "绝句",
+				"titlePinyin": "jué jù",
+				"type": "ancient_poem",
+				"author": "杜甫",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "liǎng gè huáng lí míng cuì liǔ",
+						"text": "两个黄鹂鸣翠柳，"
+					},
+					{
+						"pinyin": "yī háng bái lù shàng qīng tiān",
+						"text": "一行白鹭上青天。"
+					},
+					{
+						"pinyin": "chuāng hán xī lǐng qiān qiū xuě",
+						"text": "窗含西岭千秋雪，"
+					},
+					{
+						"pinyin": "mén bó dōng wú wàn lǐ chuán",
+						"text": "门泊东吴万里船。"
+					}
+				],
+				"annotation": "黄鹂：鸟。白鹭：水鸟。含：对着。泊：停。",
+				"annotationPinyin": "huáng lí niǎo bái lù shuǐ niǎo hán duì zhe bó tíng",
+				"task": "诗里写了哪些颜色？",
+				"taskPinyin": "shī lǐ xiě le nǎ xiē yán sè",
+				"taskAnswer": "黄、翠、白、青。",
+				"taskAnswerPinyin": "huáng cuì bái qīng",
+				"translation": "两只黄鹂在翠柳上叫，一行白鹭飞上青天。窗前可见西岭千秋雪，门外停着东吴来的船。",
+				"translationPinyin": "liǎng zhī huáng lí zài cuì liǔ shàng jiào yī háng bái lù fēi shàng qīng tiān chuāng qián kě jiàn xī lǐng qiān qiū xuě mén wài tíng zhe dōng wú lái de chuán",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好句",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "yáng táo xiàng wǔ jiǎo xīng",
+								"text": "杨桃像五角星。"
+							},
+							{
+								"pinyin": "yù qióng qiān lǐ mù gèng shàng yī céng lóu zhàn gāo wàng yuǎn",
+								"text": "欲穷千里目，更上一层楼。（站高望远）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 10,
+		"day": 3,
+		"theme": "小马与杨桃",
+		"content": [
+			{
+				"title": "画杨桃（复习）",
+				"titlePinyin": "huà yáng táo fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "cóng bù tóng jiǎo dù kàn bù tóng",
+						"text": "从不同角度看不同。"
+					},
+					{
+						"pinyin": "yào shí shì qiú shì",
+						"text": "要实事求是。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "为什么从不同角度看，杨桃不一样？",
+				"taskPinyin": "wèi shén me cóng bù tóng jiǎo dù kàn yáng táo bù yī yàng",
+				"taskAnswer": "因为角度不同，看到的样子就不同。",
+				"taskAnswerPinyin": "yīn wèi jiǎo dù bù tóng kàn dào de yàng zi jiù bù tóng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "自己试一试",
+				"titlePinyin": "zì jǐ shì yi shì",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo mǎ guò hé zì jǐ shì",
+						"text": "小马过河自己试。"
+					},
+					{
+						"pinyin": "bù tīng bié ren luàn shuō",
+						"text": "不听别人乱说。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "听了别人说的，还要自己试吗？为什么？",
+				"taskPinyin": "tīng le bié rén shuō de hái yào zì jǐ shì ma wèi shén me",
+				"taskAnswer": "要。别人说的不一定适合自己，试过才清楚。",
+				"taskAnswerPinyin": "yào bié rén shuō de bù yī dìng shì hé zì jǐ shì guo cái qīng chu",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "绝句",
+				"titlePinyin": "jué jù",
+				"type": "ancient_poem",
+				"author": "杜甫",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "liǎng gè huáng lí míng cuì liǔ",
+						"text": "两个黄鹂鸣翠柳，"
+					},
+					{
+						"pinyin": "yī háng bái lù shàng qīng tiān",
+						"text": "一行白鹭上青天。"
+					},
+					{
+						"pinyin": "chuāng hán xī lǐng qiān qiū xuě",
+						"text": "窗含西岭千秋雪，"
+					},
+					{
+						"pinyin": "mén bó dōng wú wàn lǐ chuán",
+						"text": "门泊东吴万里船。"
+					}
+				],
+				"annotation": "黄鹂：鸟。白鹭：水鸟。含：对着。泊：停。",
+				"annotationPinyin": "huáng lí niǎo bái lù shuǐ niǎo hán duì zhe bó tíng",
+				"task": "诗里写了哪些颜色？",
+				"taskPinyin": "shī lǐ xiě le nǎ xiē yán sè",
+				"taskAnswer": "黄、翠、白、青。",
+				"taskAnswerPinyin": "huáng cuì bái qīng",
+				"translation": "两只黄鹂在翠柳上叫，一行白鹭飞上青天。窗前可见西岭千秋雪，门外停着东吴来的船。",
+				"translationPinyin": "liǎng zhī huáng lí zài cuì liǔ shàng jiào yī háng bái lù fēi shàng qīng tiān chuāng qián kě jiàn xī lǐng qiān qiū xuě mén wài tíng zhe dōng wú lái de chuán",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "拟人",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "miáo huì kū",
+								"text": "苗会枯。（拟人）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 10,
+		"day": 4,
+		"theme": "小马与杨桃",
+		"content": [
+			{
+				"title": "画杨桃（复习）",
+				"titlePinyin": "huà yáng táo fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "cóng bù tóng jiǎo dù kàn bù tóng",
+						"text": "从不同角度看不同。"
+					},
+					{
+						"pinyin": "yào shí shì qiú shì",
+						"text": "要实事求是。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "为什么从不同角度看，杨桃不一样？",
+				"taskPinyin": "wèi shén me cóng bù tóng jiǎo dù kàn yáng táo bù yī yàng",
+				"taskAnswer": "因为角度不同，看到的样子就不同。",
+				"taskAnswerPinyin": "yīn wèi jiǎo dù bù tóng kàn dào de yàng zi jiù bù tóng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "自己试一试",
+				"titlePinyin": "zì jǐ shì yi shì",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo mǎ guò hé zì jǐ shì",
+						"text": "小马过河自己试。"
+					},
+					{
+						"pinyin": "bù tīng bié ren luàn shuō",
+						"text": "不听别人乱说。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "听了别人说的，还要自己试吗？为什么？",
+				"taskPinyin": "tīng le bié rén shuō de hái yào zì jǐ shì ma wèi shén me",
+				"taskAnswer": "要。别人说的不一定适合自己，试过才清楚。",
+				"taskAnswerPinyin": "yào bié rén shuō de bù yī dìng shì hé zì jǐ shì guo cái qīng chu",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "绝句",
+				"titlePinyin": "jué jù",
+				"type": "ancient_poem",
+				"author": "杜甫",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "liǎng gè huáng lí míng cuì liǔ",
+						"text": "两个黄鹂鸣翠柳，"
+					},
+					{
+						"pinyin": "yī háng bái lù shàng qīng tiān",
+						"text": "一行白鹭上青天。"
+					},
+					{
+						"pinyin": "chuāng hán xī lǐng qiān qiū xuě",
+						"text": "窗含西岭千秋雪，"
+					},
+					{
+						"pinyin": "mén bó dōng wú wàn lǐ chuán",
+						"text": "门泊东吴万里船。"
+					}
+				],
+				"annotation": "黄鹂：鸟。白鹭：水鸟。含：对着。泊：停。",
+				"annotationPinyin": "huáng lí niǎo bái lù shuǐ niǎo hán duì zhe bó tíng",
+				"task": "诗里写了哪些颜色？",
+				"taskPinyin": "shī lǐ xiě le nǎ xiē yán sè",
+				"taskAnswer": "黄、翠、白、青。",
+				"taskAnswerPinyin": "huáng cuì bái qīng",
+				"translation": "两只黄鹂在翠柳上叫，一行白鹭飞上青天。窗前可见西岭千秋雪，门外停着东吴来的船。",
+				"translationPinyin": "liǎng zhī huáng lí zài cuì liǔ shàng jiào yī háng bái lù fēi shàng qīng tiān chuāng qián kě jiàn xī lǐng qiān qiū xuě mén wài tíng zhe dōng wú lái de chuán",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "比喻",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "yáng táo xiàng wǔ jiǎo xīng",
+								"text": "杨桃像五角星。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 10,
+		"day": 5,
+		"theme": "小马与杨桃",
+		"content": [
+			{
+				"title": "画杨桃（复习）",
+				"titlePinyin": "huà yáng táo fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "cóng bù tóng jiǎo dù kàn bù tóng",
+						"text": "从不同角度看不同。"
+					},
+					{
+						"pinyin": "yào shí shì qiú shì",
+						"text": "要实事求是。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "为什么从不同角度看，杨桃不一样？",
+				"taskPinyin": "wèi shén me cóng bù tóng jiǎo dù kàn yáng táo bù yī yàng",
+				"taskAnswer": "因为角度不同，看到的样子就不同。",
+				"taskAnswerPinyin": "yīn wèi jiǎo dù bù tóng kàn dào de yàng zi jiù bù tóng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "自己试一试",
+				"titlePinyin": "zì jǐ shì yi shì",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo mǎ guò hé zì jǐ shì",
+						"text": "小马过河自己试。"
+					},
+					{
+						"pinyin": "bù tīng bié ren luàn shuō",
+						"text": "不听别人乱说。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "听了别人说的，还要自己试吗？为什么？",
+				"taskPinyin": "tīng le bié rén shuō de hái yào zì jǐ shì ma wèi shén me",
+				"taskAnswer": "要。别人说的不一定适合自己，试过才清楚。",
+				"taskAnswerPinyin": "yào bié rén shuō de bù yī dìng shì hé zì jǐ shì guo cái qīng chu",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "绝句",
+				"titlePinyin": "jué jù",
+				"type": "ancient_poem",
+				"author": "杜甫",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "liǎng gè huáng lí míng cuì liǔ",
+						"text": "两个黄鹂鸣翠柳，"
+					},
+					{
+						"pinyin": "yī háng bái lù shàng qīng tiān",
+						"text": "一行白鹭上青天。"
+					},
+					{
+						"pinyin": "chuāng hán xī lǐng qiān qiū xuě",
+						"text": "窗含西岭千秋雪，"
+					},
+					{
+						"pinyin": "mén bó dōng wú wàn lǐ chuán",
+						"text": "门泊东吴万里船。"
+					}
+				],
+				"annotation": "黄鹂：鸟。白鹭：水鸟。含：对着。泊：停。",
+				"annotationPinyin": "huáng lí niǎo bái lù shuǐ niǎo hán duì zhe bó tíng",
+				"task": "诗里写了哪些颜色？",
+				"taskPinyin": "shī lǐ xiě le nǎ xiē yán sè",
+				"taskAnswer": "黄、翠、白、青。",
+				"taskAnswerPinyin": "huáng cuì bái qīng",
+				"translation": "两只黄鹂在翠柳上叫，一行白鹭飞上青天。窗前可见西岭千秋雪，门外停着东吴来的船。",
+				"translationPinyin": "liǎng zhī huáng lí zài cuì liǔ shàng jiào yī háng bái lù fēi shàng qīng tiān chuāng qián kě jiàn xī lǐng qiān qiū xuě mén wài tíng zhe dōng wú lái de chuán",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "描写",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "yòng dòng cí shì",
+								"text": "用动词试。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 10,
+		"day": 6,
+		"theme": "小马与杨桃",
+		"content": [
+			{
+				"title": "画杨桃（复习）",
+				"titlePinyin": "huà yáng táo fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "cóng bù tóng jiǎo dù kàn bù tóng",
+						"text": "从不同角度看不同。"
+					},
+					{
+						"pinyin": "yào shí shì qiú shì",
+						"text": "要实事求是。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "为什么从不同角度看，杨桃不一样？",
+				"taskPinyin": "wèi shén me cóng bù tóng jiǎo dù kàn yáng táo bù yī yàng",
+				"taskAnswer": "因为角度不同，看到的样子就不同。",
+				"taskAnswerPinyin": "yīn wèi jiǎo dù bù tóng kàn dào de yàng zi jiù bù tóng",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "自己试一试",
+				"titlePinyin": "zì jǐ shì yi shì",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo mǎ guò hé zì jǐ shì",
+						"text": "小马过河自己试。"
+					},
+					{
+						"pinyin": "bù tīng bié ren luàn shuō",
+						"text": "不听别人乱说。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "听了别人说的，还要自己试吗？为什么？",
+				"taskPinyin": "tīng le bié rén shuō de hái yào zì jǐ shì ma wèi shén me",
+				"taskAnswer": "要。别人说的不一定适合自己，试过才清楚。",
+				"taskAnswerPinyin": "yào bié rén shuō de bù yī dìng shì hé zì jǐ shì guo cái qīng chu",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "绝句",
+				"titlePinyin": "jué jù",
+				"type": "ancient_poem",
+				"author": "杜甫",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "liǎng gè huáng lí míng cuì liǔ",
+						"text": "两个黄鹂鸣翠柳，"
+					},
+					{
+						"pinyin": "yī háng bái lù shàng qīng tiān",
+						"text": "一行白鹭上青天。"
+					},
+					{
+						"pinyin": "chuāng hán xī lǐng qiān qiū xuě",
+						"text": "窗含西岭千秋雪，"
+					},
+					{
+						"pinyin": "mén bó dōng wú wàn lǐ chuán",
+						"text": "门泊东吴万里船。"
+					}
+				],
+				"annotation": "黄鹂：鸟。白鹭：水鸟。含：对着。泊：停。",
+				"annotationPinyin": "huáng lí niǎo bái lù shuǐ niǎo hán duì zhe bó tíng",
+				"task": "诗里写了哪些颜色？",
+				"taskPinyin": "shī lǐ xiě le nǎ xiē yán sè",
+				"taskAnswer": "黄、翠、白、青。",
+				"taskAnswerPinyin": "huáng cuì bái qīng",
+				"translation": "两只黄鹂在翠柳上叫，一行白鹭飞上青天。窗前可见西岭千秋雪，门外停着东吴来的船。",
+				"translationPinyin": "liǎng zhī huáng lí zài cuì liǔ shàng jiào yī háng bái lù fēi shàng qīng tiān chuāng qián kě jiàn xī lǐng qiān qiū xuě mén wài tíng zhe dōng wú lái de chuán",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "谚语",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "wáng yáng bǔ láo",
+								"text": "亡羊补牢。"
+							},
+							{
+								"pinyin": "qiān lǐ zhī xíng shǐ yú zú xià",
+								"text": "千里之行，始于足下。"
+							},
+							{
+								"pinyin": "yī nián zhī jì zài yú chūn",
+								"text": "一年之计在于春。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	}
+]

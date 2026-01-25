@@ -1,0 +1,1679 @@
+[
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 13,
+		"day": 1,
+		"theme": "大象的耳朵",
+		"content": [
+			{
+				"title": "大象的耳朵（节选）",
+				"titlePinyin": "dà xiàng de ěr duo jié xuǎn",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "dà xiàng yǒu yī duì dà ěr duo",
+						"text": "大象有一对大耳朵。"
+					},
+					{
+						"pinyin": "xiàng shàn zi shì de dā la zhe",
+						"text": "像扇子似的耷拉着。"
+					},
+					{
+						"pinyin": "xiǎo tù zi shuō nǐ de ěr duo zěn me shì dā la zhe de",
+						"text": "小兔子说：你的耳朵怎么是耷拉着的？"
+					},
+					{
+						"pinyin": "dà xiàng yě nà mèn le",
+						"text": "大象也纳闷了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "大象的耳朵什么样？",
+				"taskPinyin": "dà xiàng de ěr duo shén me yàng",
+				"taskAnswer": "像扇子似的耷拉着。",
+				"taskAnswerPinyin": "xiàng shàn zi shì de dā la zhe",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "蜘蛛开店（节选）",
+				"titlePinyin": "zhī zhū kāi diàn jié xuǎn",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "zhī zhū jué dìng kāi yī jiā diàn",
+						"text": "蜘蛛决定开一家店。"
+					},
+					{
+						"pinyin": "mài shén me ne mài wà zi ba",
+						"text": "卖什么呢？卖袜子吧。"
+					},
+					{
+						"pinyin": "kè rén lái le shì yī zhī wú gōng jiǎo yǒu hěn duō zhī",
+						"text": "客人来了，是一只蜈蚣，脚有很多只。"
+					},
+					{
+						"pinyin": "zhī zhū máng le hěn jiǔ",
+						"text": "蜘蛛忙了很久。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "蜘蛛卖袜子，谁来了？",
+				"taskPinyin": "zhī zhū mài wà zi shuí lái le",
+				"taskAnswer": "蜈蚣来了，脚有很多只。",
+				"taskAnswerPinyin": "wú gōng lái le jiǎo yǒu hěn duō zhī",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "赋得古原草送别（节选）",
+				"titlePinyin": "fù dé gǔ yuán cǎo sòng bié jié xuǎn",
+				"type": "ancient_poem",
+				"author": "白居易",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "lí lí yuán shàng cǎo",
+						"text": "离离原上草，"
+					},
+					{
+						"pinyin": "yī suì yī kū róng",
+						"text": "一岁一枯荣。"
+					},
+					{
+						"pinyin": "yě huǒ shāo bù jìn",
+						"text": "野火烧不尽，"
+					},
+					{
+						"pinyin": "chūn fēng chuī yòu shēng",
+						"text": "春风吹又生。"
+					}
+				],
+				"annotation": "离离：茂盛。枯荣：枯黄和茂盛。",
+				"annotationPinyin": "lí lí mào shèng kū róng kū huáng hé mào shèng",
+				"task": "“野火烧不尽，春风吹又生”说草怎样？",
+				"taskPinyin": "yě huǒ shāo bù jìn chūn fēng chuī yòu shēng shuō cǎo zěn yàng",
+				"taskAnswer": "草很顽强，烧了春风一吹又长出来。",
+				"taskAnswerPinyin": "cǎo hěn wán qiáng shāo le chūn fēng yī chuī yòu zhǎng chū lái",
+				"translation": "原上草长得很密，一年一度枯了又荣。野火烧不完，春风一吹又发芽。",
+				"translationPinyin": "yuán shàng cǎo zhǎng de hěn mì yī nián yī dù kū le yòu róng yě huǒ shāo bu wán chūn fēng yī chuī yòu fā yá",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好词积累",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "dà xiàng",
+								"text": "大象"
+							},
+							{
+								"pinyin": "ěr duo",
+								"text": "耳朵"
+							},
+							{
+								"pinyin": "zhī zhū",
+								"text": "蜘蛛"
+							},
+							{
+								"pinyin": "qīng wā",
+								"text": "青蛙"
+							},
+							{
+								"pinyin": "ní táng",
+								"text": "泥塘"
+							},
+							{
+								"pinyin": "xiǎo máo chóng",
+								"text": "小毛虫"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 13,
+		"day": 2,
+		"theme": "蜘蛛开店",
+		"content": [
+			{
+				"title": "蜘蛛开店（节选二）",
+				"titlePinyin": "zhī zhū kāi diàn jié xuǎn èr",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "zhī zhū gěi wà zi biāo jià měi zhī yī yuán qián",
+						"text": "蜘蛛给袜子标价每只一元钱。"
+					},
+					{
+						"pinyin": "kè rén shì zhǎng zhe hěn duō zhī jiǎo de wú gōng",
+						"text": "客人是长着很多只脚的蜈蚣。"
+					},
+					{
+						"pinyin": "zhī zhū zhī dào nán le",
+						"text": "蜘蛛知道难了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "蜘蛛卖袜子遇到了什么？",
+				"taskPinyin": "zhī zhū mài wà zi yù dào le shén me",
+				"taskAnswer": "蜈蚣脚多，蜘蛛忙了很久。",
+				"taskAnswerPinyin": "wú gōng jiǎo duō zhī zhū máng le hěn jiǔ",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "青蛙卖泥塘（节选）",
+				"titlePinyin": "qīng wā mài ní táng jié xuǎn",
+				"type": "story_legend",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "qīng wā xiǎng mài diào ní táng",
+						"text": "青蛙想卖掉泥塘。"
+					},
+					{
+						"pinyin": "méi rén mǎi",
+						"text": "没人买。"
+					},
+					{
+						"pinyin": "tā zhǒng cǎo zāi shù yǐn shuǐ",
+						"text": "他种草栽树引水。"
+					},
+					{
+						"pinyin": "ní táng biàn měi le tā bù mài le",
+						"text": "泥塘变美了，他不卖了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "青蛙怎样让泥塘变美？",
+				"taskPinyin": "qīng wā zěn yàng ràng ní táng biàn měi",
+				"taskAnswer": "种草、栽树、引水。",
+				"taskAnswerPinyin": "zhǒng cǎo zāi shù yǐn shuǐ",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "小毛虫（节选）",
+				"titlePinyin": "xiǎo máo chóng jié xuǎn",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "yī tiáo xiǎo máo chóng pā zài shù yè shàng",
+						"text": "一条小毛虫趴在树叶上。"
+					},
+					{
+						"pinyin": "tā bù dǒng de fēi",
+						"text": "它不懂得飞。"
+					},
+					{
+						"pinyin": "dàn tā zhī dào měi gè rén yǒu zì jǐ gāi zuò de shì",
+						"text": "但它知道每个人有自己该做的事。"
+					},
+					{
+						"pinyin": "tā jiān chí zuò jiǎn pò jiǎn chéng le hú dié",
+						"text": "它坚持做茧，破茧成了蝴蝶。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "小毛虫最后变成了什么？",
+				"taskPinyin": "xiǎo máo chóng zuì hòu biàn chéng le shén me",
+				"taskAnswer": "变成蝴蝶。",
+				"taskAnswerPinyin": "biàn chéng hú dié",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "悯农",
+				"titlePinyin": "mǐn nóng",
+				"type": "ancient_poem",
+				"author": "李绅",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "chú hé rì dāng wǔ",
+						"text": "锄禾日当午，"
+					},
+					{
+						"pinyin": "hàn dī hé xià tǔ",
+						"text": "汗滴禾下土。"
+					},
+					{
+						"pinyin": "shuí zhī pán zhōng cān",
+						"text": "谁知盘中餐，"
+					},
+					{
+						"pinyin": "lì lì jiē xīn kǔ",
+						"text": "粒粒皆辛苦。"
+					}
+				],
+				"annotation": "锄禾：在田里锄草。！！餐：饭。！！皆：都。",
+				"annotationPinyin": "chú hé zài tián lǐ chú cǎo cān fàn jiē dōu",
+				"task": "为什么说“粒粒皆辛苦”？",
+				"taskPinyin": "wèi shén me shuō lì lì jiē xīn kǔ",
+				"taskAnswer": "因为每一粒米饭都是农民辛苦种出来的，要爱惜粮食。",
+				"taskAnswerPinyin": "yīn wèi měi yī lì mǐ fàn dōu shì nóng mín xīn kǔ zhòng chū lái de yào ài xī liáng shi",
+				"translation": "正午太阳火辣辣的，农民在田里锄草，汗水一滴滴落在禾苗下的泥土里。有谁知道碗里的每一粒饭，都是辛辛苦苦种出来的呢？",
+				"translationPinyin": "zhèng wǔ tài yáng huǒ là là de nóng mín zài tián lǐ chú cǎo hàn shuǐ yī dī dī luò zài hé miáo xià de ní tǔ lǐ yǒu shuí zhī dào wǎn lǐ de měi yī lì fàn dōu shì xīn xīn kǔ kǔ zhòng chū lái de ne",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好句积累",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "ěr duo xiàng shàn zi shì de dā la zhe",
+								"text": "耳朵像扇子似的耷拉着。（比喻）"
+							},
+							{
+								"pinyin": "ní táng biàn měi le",
+								"text": "泥塘变美了。（变化）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 13,
+		"day": 3,
+		"theme": "动物与成长",
+		"content": [
+			{
+				"title": "大象的耳朵",
+				"titlePinyin": "dà xiàng de ěr duo",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "dà xiàng shuō wǒ shēng lái jiù shì zhè yàng",
+						"text": "大象说：我生来就是这样。"
+					},
+					{
+						"pinyin": "rén men bǎ wǒ de ěr duo chēng zuò shàn zi",
+						"text": "人们把我的耳朵称作扇子。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "大象的耳朵为什么耷拉着？",
+				"taskPinyin": "dà xiàng de ěr duo wèi shén me dā la zhe",
+				"taskAnswer": "天生就是这样，能赶虫子。",
+				"taskAnswerPinyin": "tiān shēng jiù shì zhè yàng néng gǎn chóng zi",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "小毛虫变蝴蝶",
+				"titlePinyin": "xiǎo máo chóng biàn hú dié",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo máo chóng zuò jiǎn",
+						"text": "小毛虫做茧。"
+					},
+					{
+						"pinyin": "jiǎn lǐ biàn chéng hú dié",
+						"text": "茧里变成蝴蝶。"
+					},
+					{
+						"pinyin": "fēi chū lái le",
+						"text": "飞出来了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "小毛虫怎么变成蝴蝶的？",
+				"taskPinyin": "xiǎo máo chóng zěn me biàn chéng hú dié de",
+				"taskAnswer": "先做茧，再破茧，就成蝴蝶了。",
+				"taskAnswerPinyin": "xiān zuò jiǎn zài pò jiǎn jiù chéng hú dié le",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "亡羊补牢（小古文）",
+				"titlePinyin": "wáng yáng bǔ láo xiǎo gǔ wén",
+				"type": "classical_chinese",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "yáng táo bǔ láo",
+						"text": "羊逃补牢。"
+					},
+					{
+						"pinyin": "wèi wǎn yě",
+						"text": "未晚也。"
+					}
+				],
+				"annotation": "牢：羊圈。未晚：还不迟。",
+				"annotationPinyin": "láo yáng juàn wèi wǎn hái bù chí",
+				"task": "亡羊补牢告诉我们什么？",
+				"taskPinyin": "wáng yáng bǔ láo gào su wǒ men shén me",
+				"taskAnswer": "出了问题赶紧改，还不晚。",
+				"taskAnswerPinyin": "chū le wèn tí gǎn jǐn gǎi hái bù wǎn",
+				"translation": "羊跑了赶紧补好羊圈，还不迟。",
+				"translationPinyin": "yáng pǎo le gǎn jǐn bǔ hǎo yáng juàn hái bù chí",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "写话",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "yīn wèi suǒ yǐ",
+								"text": "因为…所以…"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 13,
+		"day": 4,
+		"theme": "动物与成长",
+		"content": [
+			{
+				"title": "大象的耳朵",
+				"titlePinyin": "dà xiàng de ěr duo",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "dà xiàng shuō wǒ shēng lái jiù shì zhè yàng",
+						"text": "大象说：我生来就是这样。"
+					},
+					{
+						"pinyin": "rén men bǎ wǒ de ěr duo chēng zuò shàn zi",
+						"text": "人们把我的耳朵称作扇子。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "大象的耳朵为什么耷拉着？",
+				"taskPinyin": "dà xiàng de ěr duo wèi shén me dā la zhe",
+				"taskAnswer": "天生就是这样，能赶虫子。",
+				"taskAnswerPinyin": "tiān shēng jiù shì zhè yàng néng gǎn chóng zi",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "小毛虫变蝴蝶",
+				"titlePinyin": "xiǎo máo chóng biàn hú dié",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo máo chóng zuò jiǎn",
+						"text": "小毛虫做茧。"
+					},
+					{
+						"pinyin": "jiǎn lǐ biàn chéng hú dié",
+						"text": "茧里变成蝴蝶。"
+					},
+					{
+						"pinyin": "fēi chū lái le",
+						"text": "飞出来了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "小毛虫怎么变成蝴蝶的？",
+				"taskPinyin": "xiǎo máo chóng zěn me biàn chéng hú dié de",
+				"taskAnswer": "先做茧，再破茧，就成蝴蝶了。",
+				"taskAnswerPinyin": "xiān zuò jiǎn zài pò jiǎn jiù chéng hú dié le",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "亡羊补牢（小古文）",
+				"titlePinyin": "wáng yáng bǔ láo xiǎo gǔ wén",
+				"type": "classical_chinese",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "yáng táo bǔ láo",
+						"text": "羊逃补牢。"
+					},
+					{
+						"pinyin": "wèi wǎn yě",
+						"text": "未晚也。"
+					}
+				],
+				"annotation": "牢：羊圈。未晚：还不迟。",
+				"annotationPinyin": "láo yáng juàn wèi wǎn hái bù chí",
+				"task": "亡羊补牢告诉我们什么？",
+				"taskPinyin": "wáng yáng bǔ láo gào su wǒ men shén me",
+				"taskAnswer": "出了问题赶紧改，还不晚。",
+				"taskAnswerPinyin": "chū le wèn tí gǎn jǐn gǎi hái bù wǎn",
+				"translation": "羊跑了赶紧补好羊圈，还不迟。",
+				"translationPinyin": "yáng pǎo le gǎn jǐn bǔ hǎo yáng juàn hái bù chí",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "谚语",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "tiān dào chóu qín",
+								"text": "天道酬勤"
+							},
+							{
+								"pinyin": "qín néng bǔ zhuō",
+								"text": "勤能补拙。"
+							},
+							{
+								"pinyin": "huǒ bàn tuán jié yī jiā qīn",
+								"text": "伙伴团结一家亲。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 13,
+		"day": 5,
+		"theme": "动物与成长",
+		"content": [
+			{
+				"title": "大象的耳朵",
+				"titlePinyin": "dà xiàng de ěr duo",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "dà xiàng shuō wǒ shēng lái jiù shì zhè yàng",
+						"text": "大象说：我生来就是这样。"
+					},
+					{
+						"pinyin": "rén men bǎ wǒ de ěr duo chēng zuò shàn zi",
+						"text": "人们把我的耳朵称作扇子。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "大象的耳朵为什么耷拉着？",
+				"taskPinyin": "dà xiàng de ěr duo wèi shén me dā la zhe",
+				"taskAnswer": "天生就是这样，能赶虫子。",
+				"taskAnswerPinyin": "tiān shēng jiù shì zhè yàng néng gǎn chóng zi",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "小毛虫变蝴蝶",
+				"titlePinyin": "xiǎo máo chóng biàn hú dié",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo máo chóng zuò jiǎn",
+						"text": "小毛虫做茧。"
+					},
+					{
+						"pinyin": "jiǎn lǐ biàn chéng hú dié",
+						"text": "茧里变成蝴蝶。"
+					},
+					{
+						"pinyin": "fēi chū lái le",
+						"text": "飞出来了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "小毛虫怎么变成蝴蝶的？",
+				"taskPinyin": "xiǎo máo chóng zěn me biàn chéng hú dié de",
+				"taskAnswer": "先做茧，再破茧，就成蝴蝶了。",
+				"taskAnswerPinyin": "xiān zuò jiǎn zài pò jiǎn jiù chéng hú dié le",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "亡羊补牢（小古文）",
+				"titlePinyin": "wáng yáng bǔ láo xiǎo gǔ wén",
+				"type": "classical_chinese",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "yáng táo bǔ láo",
+						"text": "羊逃补牢。"
+					},
+					{
+						"pinyin": "wèi wǎn yě",
+						"text": "未晚也。"
+					}
+				],
+				"annotation": "牢：羊圈。未晚：还不迟。",
+				"annotationPinyin": "láo yáng juàn wèi wǎn hái bù chí",
+				"task": "亡羊补牢告诉我们什么？",
+				"taskPinyin": "wáng yáng bǔ láo gào su wǒ men shén me",
+				"taskAnswer": "出了问题赶紧改，还不晚。",
+				"taskAnswerPinyin": "chū le wèn tí gǎn jǐn gǎi hái bù wǎn",
+				"translation": "羊跑了赶紧补好羊圈，还不迟。",
+				"translationPinyin": "yáng pǎo le gǎn jǐn bǔ hǎo yáng juàn hái bù chí",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "四字",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "jiān chí bù xiè",
+								"text": "坚持不懈"
+							},
+							{
+								"pinyin": "qǔ cháng bǔ duǎn xué bié ren de cháng chù",
+								"text": "取长补短（学别人的长处）"
+							},
+							{
+								"pinyin": "yù qióng qiān lǐ mù zhàn gāo wàng yuǎn",
+								"text": "欲穷千里目（站高望远）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 13,
+		"day": 6,
+		"theme": "动物与成长",
+		"content": [
+			{
+				"title": "大象的耳朵",
+				"titlePinyin": "dà xiàng de ěr duo",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "dà xiàng shuō wǒ shēng lái jiù shì zhè yàng",
+						"text": "大象说：我生来就是这样。"
+					},
+					{
+						"pinyin": "rén men bǎ wǒ de ěr duo chēng zuò shàn zi",
+						"text": "人们把我的耳朵称作扇子。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "大象的耳朵为什么耷拉着？",
+				"taskPinyin": "dà xiàng de ěr duo wèi shén me dā la zhe",
+				"taskAnswer": "天生就是这样，能赶虫子。",
+				"taskAnswerPinyin": "tiān shēng jiù shì zhè yàng néng gǎn chóng zi",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "小毛虫变蝴蝶",
+				"titlePinyin": "xiǎo máo chóng biàn hú dié",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo máo chóng zuò jiǎn",
+						"text": "小毛虫做茧。"
+					},
+					{
+						"pinyin": "jiǎn lǐ biàn chéng hú dié",
+						"text": "茧里变成蝴蝶。"
+					},
+					{
+						"pinyin": "fēi chū lái le",
+						"text": "飞出来了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "小毛虫怎么变成蝴蝶的？",
+				"taskPinyin": "xiǎo máo chóng zěn me biàn chéng hú dié de",
+				"taskAnswer": "先做茧，再破茧，就成蝴蝶了。",
+				"taskAnswerPinyin": "xiān zuò jiǎn zài pò jiǎn jiù chéng hú dié le",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "亡羊补牢（小古文）",
+				"titlePinyin": "wáng yáng bǔ láo xiǎo gǔ wén",
+				"type": "classical_chinese",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "yáng táo bǔ láo",
+						"text": "羊逃补牢。"
+					},
+					{
+						"pinyin": "wèi wǎn yě",
+						"text": "未晚也。"
+					}
+				],
+				"annotation": "牢：羊圈。未晚：还不迟。",
+				"annotationPinyin": "láo yáng juàn wèi wǎn hái bù chí",
+				"task": "亡羊补牢告诉我们什么？",
+				"taskPinyin": "wáng yáng bǔ láo gào su wǒ men shén me",
+				"taskAnswer": "出了问题赶紧改，还不晚。",
+				"taskAnswerPinyin": "chū le wèn tí gǎn jǐn gǎi hái bù wǎn",
+				"translation": "羊跑了赶紧补好羊圈，还不迟。",
+				"translationPinyin": "yáng pǎo le gǎn jǐn bǔ hǎo yáng juàn hái bù chí",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "谚语",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "tiān dào chóu qín",
+								"text": "天道酬勤"
+							},
+							{
+								"pinyin": "rén xiǎo guǐ dà xiǎo hái yě yǒu xiǎng fǎ",
+								"text": "人小鬼大。（小孩也有想法）"
+							},
+							{
+								"pinyin": "tuán jié yī zhì lì liàng dà",
+								"text": "团结一致力量大。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 14,
+		"day": 1,
+		"theme": "单元复习",
+		"content": [
+			{
+				"title": "青蛙卖泥塘（复习）",
+				"titlePinyin": "qīng wā mài ní táng fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "qīng wā zhǒng cǎo zāi shù",
+						"text": "青蛙种草栽树。"
+					},
+					{
+						"pinyin": "ní táng biàn měi le",
+						"text": "泥塘变美了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "青蛙为什么最后不卖泥塘了？",
+				"taskPinyin": "qīng wā wèi shén me zuì hòu bù mài ní táng le",
+				"taskAnswer": "因为泥塘变美了，他想自己住。",
+				"taskAnswerPinyin": "yīn wèi ní táng biàn měi le tā xiǎng zì jǐ zhù",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "我的变化",
+				"titlePinyin": "wǒ de biàn huà",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "wǒ cóng xiǎo hái biàn chéng xiǎo xué shēng",
+						"text": "我从小孩变成小学生。"
+					},
+					{
+						"pinyin": "xué de běn lǐng yuè lái yuè duō",
+						"text": "学的本领越来越多。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你觉得自己有什么变化？",
+				"taskPinyin": "nǐ jué de zì jǐ yǒu shén me biàn huà",
+				"taskAnswer": "我长高了，认识的字也多了。",
+				"taskAnswerPinyin": "wǒ zhǎng gāo le rèn shi de zì yě duō le",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "草",
+				"titlePinyin": "cǎo",
+				"type": "ancient_poem",
+				"author": "白居易",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "lí lí yuán shàng cǎo",
+						"text": "离离原上草，"
+					},
+					{
+						"pinyin": "yī suì yī kū róng",
+						"text": "一岁一枯荣。"
+					},
+					{
+						"pinyin": "yě huǒ shāo bù jìn",
+						"text": "野火烧不尽，"
+					},
+					{
+						"pinyin": "chūn fēng chuī yòu shēng",
+						"text": "春风吹又生。"
+					}
+				],
+				"annotation": "离离：茂盛。枯荣：枯黄和茂盛。",
+				"annotationPinyin": "lí lí mào shèng kū róng kū huáng hé mào shèng",
+				"task": "野火为什么烧不尽草？",
+				"taskPinyin": "yě huǒ wèi shén me shāo bù jìn cǎo",
+				"taskAnswer": "因为草的根在土里，春风一吹又长出来。",
+				"taskAnswerPinyin": "yīn wèi cǎo de gēn zài tǔ lǐ chūn fēng yī chuī yòu zhǎng chū lái",
+				"translation": "原上草长得很密，一年一度枯了又荣。野火烧不完，春风一吹又发芽。",
+				"translationPinyin": "yuán shàng cǎo zhǎng de hěn mì yī nián yī dù kū le yòu róng yě huǒ shāo bu wán chūn fēng yī chuī yòu fā yá",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好词",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "biàn huà",
+								"text": "变化"
+							},
+							{
+								"pinyin": "jiān chí",
+								"text": "坚持"
+							},
+							{
+								"pinyin": "jiān chí",
+								"text": "坚持"
+							},
+							{
+								"pinyin": "yī sī bù gǒu",
+								"text": "一丝不苟"
+							},
+							{
+								"pinyin": "qín néng bǔ zhuō",
+								"text": "勤能补拙"
+							},
+							{
+								"pinyin": "jī jí xiàng shàng",
+								"text": "积极向上"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 14,
+		"day": 2,
+		"theme": "单元复习",
+		"content": [
+			{
+				"title": "青蛙卖泥塘（复习）",
+				"titlePinyin": "qīng wā mài ní táng fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "qīng wā zhǒng cǎo zāi shù",
+						"text": "青蛙种草栽树。"
+					},
+					{
+						"pinyin": "ní táng biàn měi le",
+						"text": "泥塘变美了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "青蛙为什么最后不卖泥塘了？",
+				"taskPinyin": "qīng wā wèi shén me zuì hòu bù mài ní táng le",
+				"taskAnswer": "因为泥塘变美了，他想自己住。",
+				"taskAnswerPinyin": "yīn wèi ní táng biàn měi le tā xiǎng zì jǐ zhù",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "我的变化",
+				"titlePinyin": "wǒ de biàn huà",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "wǒ cóng xiǎo hái biàn chéng xiǎo xué shēng",
+						"text": "我从小孩变成小学生。"
+					},
+					{
+						"pinyin": "xué de běn lǐng yuè lái yuè duō",
+						"text": "学的本领越来越多。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你觉得自己有什么变化？",
+				"taskPinyin": "nǐ jué de zì jǐ yǒu shén me biàn huà",
+				"taskAnswer": "我长高了，认识的字也多了。",
+				"taskAnswerPinyin": "wǒ zhǎng gāo le rèn shi de zì yě duō le",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "草",
+				"titlePinyin": "cǎo",
+				"type": "ancient_poem",
+				"author": "白居易",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "lí lí yuán shàng cǎo",
+						"text": "离离原上草，"
+					},
+					{
+						"pinyin": "yī suì yī kū róng",
+						"text": "一岁一枯荣。"
+					},
+					{
+						"pinyin": "yě huǒ shāo bù jìn",
+						"text": "野火烧不尽，"
+					},
+					{
+						"pinyin": "chūn fēng chuī yòu shēng",
+						"text": "春风吹又生。"
+					}
+				],
+				"annotation": "离离：茂盛。枯荣：枯黄和茂盛。",
+				"annotationPinyin": "lí lí mào shèng kū róng kū huáng hé mào shèng",
+				"task": "野火为什么烧不尽草？",
+				"taskPinyin": "yě huǒ wèi shén me shāo bù jìn cǎo",
+				"taskAnswer": "因为草的根在土里，春风一吹又长出来。",
+				"taskAnswerPinyin": "yīn wèi cǎo de gēn zài tǔ lǐ chūn fēng yī chuī yòu zhǎng chū lái",
+				"translation": "原上草长得很密，一年一度枯了又荣。野火烧不完，春风一吹又发芽。",
+				"translationPinyin": "yuán shàng cǎo zhǎng de hěn mì yī nián yī dù kū le yòu róng yě huǒ shāo bu wán chūn fēng yī chuī yòu fā yá",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "好句",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "ěr duo xiàng shàn zi",
+								"text": "耳朵像扇子。"
+							},
+							{
+								"pinyin": "mǎn tiān wū yún hēi chén chén de léi yǔ qián",
+								"text": "满天乌云黑沉沉的。（雷雨前）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 14,
+		"day": 3,
+		"theme": "单元复习",
+		"content": [
+			{
+				"title": "青蛙卖泥塘（复习）",
+				"titlePinyin": "qīng wā mài ní táng fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "qīng wā zhǒng cǎo zāi shù",
+						"text": "青蛙种草栽树。"
+					},
+					{
+						"pinyin": "ní táng biàn měi le",
+						"text": "泥塘变美了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "青蛙为什么最后不卖泥塘了？",
+				"taskPinyin": "qīng wā wèi shén me zuì hòu bù mài ní táng le",
+				"taskAnswer": "因为泥塘变美了，他想自己住。",
+				"taskAnswerPinyin": "yīn wèi ní táng biàn měi le tā xiǎng zì jǐ zhù",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "我的变化",
+				"titlePinyin": "wǒ de biàn huà",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "wǒ cóng xiǎo hái biàn chéng xiǎo xué shēng",
+						"text": "我从小孩变成小学生。"
+					},
+					{
+						"pinyin": "xué de běn lǐng yuè lái yuè duō",
+						"text": "学的本领越来越多。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你觉得自己有什么变化？",
+				"taskPinyin": "nǐ jué de zì jǐ yǒu shén me biàn huà",
+				"taskAnswer": "我长高了，认识的字也多了。",
+				"taskAnswerPinyin": "wǒ zhǎng gāo le rèn shi de zì yě duō le",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "草",
+				"titlePinyin": "cǎo",
+				"type": "ancient_poem",
+				"author": "白居易",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "lí lí yuán shàng cǎo",
+						"text": "离离原上草，"
+					},
+					{
+						"pinyin": "yī suì yī kū róng",
+						"text": "一岁一枯荣。"
+					},
+					{
+						"pinyin": "yě huǒ shāo bù jìn",
+						"text": "野火烧不尽，"
+					},
+					{
+						"pinyin": "chūn fēng chuī yòu shēng",
+						"text": "春风吹又生。"
+					}
+				],
+				"annotation": "离离：茂盛。枯荣：枯黄和茂盛。",
+				"annotationPinyin": "lí lí mào shèng kū róng kū huáng hé mào shèng",
+				"task": "野火为什么烧不尽草？",
+				"taskPinyin": "yě huǒ wèi shén me shāo bù jìn cǎo",
+				"taskAnswer": "因为草的根在土里，春风一吹又长出来。",
+				"taskAnswerPinyin": "yīn wèi cǎo de gēn zài tǔ lǐ chūn fēng yī chuī yòu zhǎng chū lái",
+				"translation": "原上草长得很密，一年一度枯了又荣。野火烧不完，春风一吹又发芽。",
+				"translationPinyin": "yuán shàng cǎo zhǎng de hěn mì yī nián yī dù kū le yòu róng yě huǒ shāo bu wán chūn fēng yī chuī yòu fā yá",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "拟人",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "qīng wā xiǎng mài",
+								"text": "青蛙想卖。（拟人）"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 14,
+		"day": 4,
+		"theme": "单元复习",
+		"content": [
+			{
+				"title": "青蛙卖泥塘（复习）",
+				"titlePinyin": "qīng wā mài ní táng fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "qīng wā zhǒng cǎo zāi shù",
+						"text": "青蛙种草栽树。"
+					},
+					{
+						"pinyin": "ní táng biàn měi le",
+						"text": "泥塘变美了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "青蛙为什么最后不卖泥塘了？",
+				"taskPinyin": "qīng wā wèi shén me zuì hòu bù mài ní táng le",
+				"taskAnswer": "因为泥塘变美了，他想自己住。",
+				"taskAnswerPinyin": "yīn wèi ní táng biàn měi le tā xiǎng zì jǐ zhù",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "我的变化",
+				"titlePinyin": "wǒ de biàn huà",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "wǒ cóng xiǎo hái biàn chéng xiǎo xué shēng",
+						"text": "我从小孩变成小学生。"
+					},
+					{
+						"pinyin": "xué de běn lǐng yuè lái yuè duō",
+						"text": "学的本领越来越多。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你觉得自己有什么变化？",
+				"taskPinyin": "nǐ jué de zì jǐ yǒu shén me biàn huà",
+				"taskAnswer": "我长高了，认识的字也多了。",
+				"taskAnswerPinyin": "wǒ zhǎng gāo le rèn shi de zì yě duō le",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "草",
+				"titlePinyin": "cǎo",
+				"type": "ancient_poem",
+				"author": "白居易",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "lí lí yuán shàng cǎo",
+						"text": "离离原上草，"
+					},
+					{
+						"pinyin": "yī suì yī kū róng",
+						"text": "一岁一枯荣。"
+					},
+					{
+						"pinyin": "yě huǒ shāo bù jìn",
+						"text": "野火烧不尽，"
+					},
+					{
+						"pinyin": "chūn fēng chuī yòu shēng",
+						"text": "春风吹又生。"
+					}
+				],
+				"annotation": "离离：茂盛。枯荣：枯黄和茂盛。",
+				"annotationPinyin": "lí lí mào shèng kū róng kū huáng hé mào shèng",
+				"task": "野火为什么烧不尽草？",
+				"taskPinyin": "yě huǒ wèi shén me shāo bù jìn cǎo",
+				"taskAnswer": "因为草的根在土里，春风一吹又长出来。",
+				"taskAnswerPinyin": "yīn wèi cǎo de gēn zài tǔ lǐ chūn fēng yī chuī yòu zhǎng chū lái",
+				"translation": "原上草长得很密，一年一度枯了又荣。野火烧不完，春风一吹又发芽。",
+				"translationPinyin": "yuán shàng cǎo zhǎng de hěn mì yī nián yī dù kū le yòu róng yě huǒ shāo bu wán chūn fēng yī chuī yòu fā yá",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "比喻",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "ěr duo xiàng shàn zi",
+								"text": "耳朵像扇子。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 14,
+		"day": 5,
+		"theme": "单元复习",
+		"content": [
+			{
+				"title": "青蛙卖泥塘（复习）",
+				"titlePinyin": "qīng wā mài ní táng fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "qīng wā zhǒng cǎo zāi shù",
+						"text": "青蛙种草栽树。"
+					},
+					{
+						"pinyin": "ní táng biàn měi le",
+						"text": "泥塘变美了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "青蛙为什么最后不卖泥塘了？",
+				"taskPinyin": "qīng wā wèi shén me zuì hòu bù mài ní táng le",
+				"taskAnswer": "因为泥塘变美了，他想自己住。",
+				"taskAnswerPinyin": "yīn wèi ní táng biàn měi le tā xiǎng zì jǐ zhù",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "我的变化",
+				"titlePinyin": "wǒ de biàn huà",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "wǒ cóng xiǎo hái biàn chéng xiǎo xué shēng",
+						"text": "我从小孩变成小学生。"
+					},
+					{
+						"pinyin": "xué de běn lǐng yuè lái yuè duō",
+						"text": "学的本领越来越多。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你觉得自己有什么变化？",
+				"taskPinyin": "nǐ jué de zì jǐ yǒu shén me biàn huà",
+				"taskAnswer": "我长高了，认识的字也多了。",
+				"taskAnswerPinyin": "wǒ zhǎng gāo le rèn shi de zì yě duō le",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "草",
+				"titlePinyin": "cǎo",
+				"type": "ancient_poem",
+				"author": "白居易",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "lí lí yuán shàng cǎo",
+						"text": "离离原上草，"
+					},
+					{
+						"pinyin": "yī suì yī kū róng",
+						"text": "一岁一枯荣。"
+					},
+					{
+						"pinyin": "yě huǒ shāo bù jìn",
+						"text": "野火烧不尽，"
+					},
+					{
+						"pinyin": "chūn fēng chuī yòu shēng",
+						"text": "春风吹又生。"
+					}
+				],
+				"annotation": "离离：茂盛。枯荣：枯黄和茂盛。",
+				"annotationPinyin": "lí lí mào shèng kū róng kū huáng hé mào shèng",
+				"task": "野火为什么烧不尽草？",
+				"taskPinyin": "yě huǒ wèi shén me shāo bù jìn cǎo",
+				"taskAnswer": "因为草的根在土里，春风一吹又长出来。",
+				"taskAnswerPinyin": "yīn wèi cǎo de gēn zài tǔ lǐ chūn fēng yī chuī yòu zhǎng chū lái",
+				"translation": "原上草长得很密，一年一度枯了又荣。野火烧不完，春风一吹又发芽。",
+				"translationPinyin": "yuán shàng cǎo zhǎng de hěn mì yī nián yī dù kū le yòu róng yě huǒ shāo bu wán chūn fēng yī chuī yòu fā yá",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "描写",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "dā la",
+								"text": "耷拉。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	},
+	{
+		"grade": 2,
+		"term": 1,
+		"week": 14,
+		"day": 6,
+		"theme": "单元复习",
+		"content": [
+			{
+				"title": "青蛙卖泥塘（复习）",
+				"titlePinyin": "qīng wā mài ní táng fù xí",
+				"type": "textbook_review",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "qīng wā zhǒng cǎo zāi shù",
+						"text": "青蛙种草栽树。"
+					},
+					{
+						"pinyin": "ní táng biàn měi le",
+						"text": "泥塘变美了。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "青蛙为什么最后不卖泥塘了？",
+				"taskPinyin": "qīng wā wèi shén me zuì hòu bù mài ní táng le",
+				"taskAnswer": "因为泥塘变美了，他想自己住。",
+				"taskAnswerPinyin": "yīn wèi ní táng biàn měi le tā xiǎng zì jǐ zhù",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "我的变化",
+				"titlePinyin": "wǒ de biàn huà",
+				"type": "modern_prose",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "wǒ cóng xiǎo hái biàn chéng xiǎo xué shēng",
+						"text": "我从小孩变成小学生。"
+					},
+					{
+						"pinyin": "xué de běn lǐng yuè lái yuè duō",
+						"text": "学的本领越来越多。"
+					}
+				],
+				"annotation": "",
+				"annotationPinyin": "",
+				"task": "你觉得自己有什么变化？",
+				"taskPinyin": "nǐ jué de zì jǐ yǒu shén me biàn huà",
+				"taskAnswer": "我长高了，认识的字也多了。",
+				"taskAnswerPinyin": "wǒ zhǎng gāo le rèn shi de zì yě duō le",
+				"translation": "",
+				"translationPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "草",
+				"titlePinyin": "cǎo",
+				"type": "ancient_poem",
+				"author": "白居易",
+				"authorPinyin": "",
+				"dynasty": "唐",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"pinyin": "lí lí yuán shàng cǎo",
+						"text": "离离原上草，"
+					},
+					{
+						"pinyin": "yī suì yī kū róng",
+						"text": "一岁一枯荣。"
+					},
+					{
+						"pinyin": "yě huǒ shāo bù jìn",
+						"text": "野火烧不尽，"
+					},
+					{
+						"pinyin": "chūn fēng chuī yòu shēng",
+						"text": "春风吹又生。"
+					}
+				],
+				"annotation": "离离：茂盛。枯荣：枯黄和茂盛。",
+				"annotationPinyin": "lí lí mào shèng kū róng kū huáng hé mào shèng",
+				"task": "野火为什么烧不尽草？",
+				"taskPinyin": "yě huǒ wèi shén me shāo bù jìn cǎo",
+				"taskAnswer": "因为草的根在土里，春风一吹又长出来。",
+				"taskAnswerPinyin": "yīn wèi cǎo de gēn zài tǔ lǐ chūn fēng yī chuī yòu zhǎng chū lái",
+				"translation": "原上草长得很密，一年一度枯了又荣。野火烧不完，春风一吹又发芽。",
+				"translationPinyin": "yuán shàng cǎo zhǎng de hěn mì yī nián yī dù kū le yòu róng yě huǒ shāo bu wán chūn fēng yī chuī yòu fā yá",
+				"alignment_mode": "left",
+				"paragraph_indent": 4
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"author": "",
+				"authorPinyin": "",
+				"dynasty": "",
+				"dynastyPinyin": "",
+				"contentObject": [
+					{
+						"title": "谚语",
+						"titlePinyin": "",
+						"content": [
+							{
+								"pinyin": "jiān chí jiù shì shèng lì",
+								"text": "坚持就是胜利。"
+							},
+							{
+								"pinyin": "fàng fēi xiǎng xiàng dà dǎn biān",
+								"text": "放飞想象，大胆编。（编故事）"
+							},
+							{
+								"pinyin": "chūn jié tiē hóng duì lián fàng biān pào",
+								"text": "春节贴红对联、放鞭炮。"
+							}
+						]
+					}
+				],
+				"task": "",
+				"taskPinyin": "",
+				"taskAnswer": "",
+				"taskAnswerPinyin": ""
+			}
+		]
+	}
+]

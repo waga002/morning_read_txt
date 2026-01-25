@@ -898,6 +898,14 @@
           {
             "pinyin": "wén jù yǒu jiā zhēn xī fēn zhōng shuō huà shuō qīng zuò shì yī xīn",
             "text": "文具有家，珍惜分钟，说话说清，做事一心。"
+          },
+          {
+            "pinyin": "dòng wù kāi dà huì yào shuō qīng shí jiān dì diǎn",
+            "text": "动物开大会要说清时间、地点。"
+          },
+          {
+            "pinyin": "xiǎo hóu zi sān xīn èr yì shén me yě méi dé dào",
+            "text": "小猴子三心二意，什么也没得到。"
           }
         ],
         "task": "大声读三遍。",
