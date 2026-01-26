@@ -1,7 +1,7 @@
 [
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 1,
     "theme": "春天的小精灵",
@@ -105,7 +105,7 @@
   },
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 2,
     "theme": "池塘里的故事",
@@ -198,7 +198,7 @@
   },
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 3,
     "theme": "春天的声音",
@@ -267,7 +267,7 @@
   },
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 4,
     "theme": "江边的风景",
@@ -365,7 +365,7 @@
   },
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 5,
     "theme": "古诗里的色彩",
@@ -457,7 +457,7 @@
   },
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 6,
     "theme": "昆虫的小世界",
@@ -529,7 +529,7 @@
   },
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 1,
     "theme": "燕子的聚会",
@@ -622,7 +622,7 @@
   },
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 2,
     "theme": "变身荷花",
@@ -702,7 +702,7 @@
   },
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 3,
     "theme": "有趣的发现",
@@ -772,7 +772,7 @@
   },
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 4,
     "theme": "森林里的舞会",
@@ -837,7 +837,7 @@
   },
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 5,
     "theme": "昆虫的翅膀",
@@ -911,7 +911,7 @@
   },
   {
     "grade": 3,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 6,
     "theme": "春天的赞歌",

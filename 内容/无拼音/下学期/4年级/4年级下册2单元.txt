@@ -2,7 +2,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 1,
+    "week": 3,
     "day": 1,
     "theme": "科学的奥秘",
     "content": [
@@ -113,7 +113,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 1,
+    "week": 3,
     "day": 2,
     "theme": "进化的奇迹",
     "content": [
@@ -218,7 +218,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 1,
+    "week": 3,
     "day": 3,
     "theme": "科技的翅膀",
     "content": [
@@ -312,7 +312,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 1,
+    "week": 3,
     "day": 4,
     "theme": "微观的奇迹",
     "content": [
@@ -397,7 +397,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 1,
+    "week": 3,
     "day": 5,
     "theme": "立身之道",
     "content": [
@@ -488,7 +488,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 1,
+    "week": 3,
     "day": 6,
     "theme": "童心与智慧",
     "content": [
@@ -582,7 +582,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 2,
+    "week": 4,
     "day": 1,
     "theme": "奇妙的琥珀",
     "content": [
@@ -690,7 +690,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 2,
+    "week": 4,
     "day": 2,
     "theme": "蓝天的梦想",
     "content": [
@@ -778,7 +778,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 2,
+    "week": 4,
     "day": 3,
     "theme": "身边的纳米",
     "content": [
@@ -866,7 +866,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 2,
+    "week": 4,
     "day": 4,
     "theme": "未来的想象",
     "content": [
@@ -960,7 +960,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 2,
+    "week": 4,
     "day": 5,
     "theme": "梦圆航天",
     "content": [
@@ -1045,7 +1045,7 @@
   {
     "grade": 4,
     "term": 1,
-    "week": 2,
+    "week": 4,
     "day": 6,
     "theme": "科学与探索",
     "content": [

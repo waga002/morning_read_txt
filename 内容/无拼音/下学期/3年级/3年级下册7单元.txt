@@ -1,8 +1,8 @@
 [
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 13,
     "day": 1,
     "theme": "奇妙的大自然",
     "content": [
@@ -109,8 +109,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 13,
     "day": 2,
     "theme": "神奇的秘密花园",
     "content": [
@@ -188,8 +188,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 13,
     "day": 3,
     "theme": "寻找春天的声音",
     "content": [
@@ -270,8 +270,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 13,
     "day": 4,
     "theme": "深海探险队",
     "content": [
@@ -346,8 +346,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 13,
     "day": 5,
     "theme": "彩虹色的天空",
     "content": [
@@ -437,8 +437,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 13,
     "day": 6,
     "theme": "大自然的魔术师",
     "content": [
@@ -519,8 +519,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 14,
     "day": 1,
     "theme": "奇妙的色彩之旅",
     "content": [
@@ -603,8 +603,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 14,
     "day": 2,
     "theme": "海底的悄悄话",
     "content": [
@@ -685,8 +685,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 14,
     "day": 3,
     "theme": "云朵变魔术",
     "content": [
@@ -746,8 +746,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 14,
     "day": 4,
     "theme": "神奇的自然景观",
     "content": [
@@ -801,8 +801,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 14,
     "day": 5,
     "theme": "海底的宝藏",
     "content": [
@@ -880,8 +880,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 14,
     "day": 6,
     "theme": "国宝大熊猫",
     "content": [

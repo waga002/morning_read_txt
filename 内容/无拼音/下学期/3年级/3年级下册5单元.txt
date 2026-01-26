@@ -1,8 +1,8 @@
 [
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 9,
     "day": 1,
     "theme": "倒影里的奇幻世界",
     "content": [
@@ -118,8 +118,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 9,
     "day": 2,
     "theme": "奇妙的变化工厂",
     "content": [
@@ -212,8 +212,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 9,
     "day": 3,
     "theme": "梦幻的种子在发芽",
     "content": [
@@ -318,8 +318,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 9,
     "day": 4,
     "theme": "铅笔的梦境大冒险",
     "content": [
@@ -411,8 +411,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 9,
     "day": 5,
     "theme": "懂礼貌的小神仙",
     "content": [
@@ -518,8 +518,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 9,
     "day": 6,
     "theme": "森林里的悄悄话",
     "content": [
@@ -620,8 +620,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 10,
     "day": 1,
     "theme": "宇宙另一边的课堂",
     "content": [
@@ -717,8 +717,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 10,
     "day": 2,
     "theme": "变成大树后的故事",
     "content": [
@@ -820,8 +820,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 10,
     "day": 3,
     "theme": "梦的色彩游戏",
     "content": [
@@ -914,8 +914,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 10,
     "day": 4,
     "theme": "尾巴和猫的派对",
     "content": [
@@ -1016,8 +1016,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 10,
     "day": 5,
     "theme": "铅笔的彩虹梦",
     "content": [
@@ -1113,8 +1113,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 10,
     "day": 6,
     "theme": "奇妙想象大爆发",
     "content": [

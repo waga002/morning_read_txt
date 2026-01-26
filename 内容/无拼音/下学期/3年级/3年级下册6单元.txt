@@ -1,8 +1,8 @@
 [
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 11,
     "day": 1,
     "theme": "多彩的童年",
     "content": [
@@ -126,8 +126,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 11,
     "day": 2,
     "theme": "调皮的小男孩",
     "content": [
@@ -234,8 +234,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 11,
     "day": 3,
     "theme": "彩色的泡泡梦",
     "content": [
@@ -348,8 +348,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 11,
     "day": 4,
     "theme": "快乐的游戏时光",
     "content": [
@@ -456,8 +456,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 11,
     "day": 5,
     "theme": "做一个守信的人",
     "content": [
@@ -550,8 +550,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 11,
     "day": 6,
     "theme": "动物邻居真有趣",
     "content": [
@@ -641,8 +641,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 12,
     "day": 1,
     "theme": "身边的特点人物",
     "content": [
@@ -749,8 +749,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 12,
     "day": 2,
     "theme": "动物的智慧",
     "content": [
@@ -837,8 +837,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 12,
     "day": 3,
     "theme": "童年的色彩",
     "content": [
@@ -919,8 +919,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 12,
     "day": 4,
     "theme": "大自然的童话",
     "content": [
@@ -1007,8 +1007,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 12,
     "day": 5,
     "theme": "美好的品质",
     "content": [
@@ -1089,8 +1089,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 12,
     "day": 6,
     "theme": "快乐过冬",
     "content": [

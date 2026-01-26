@@ -2,7 +2,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 1,
+    "week": 3,
     "day": 1,
     "theme": "等待的兔子",
     "content": [
@@ -110,7 +110,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 1,
+    "week": 3,
     "day": 2,
     "theme": "坚强的陶罐",
     "content": [
@@ -189,7 +189,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 1,
+    "week": 3,
     "day": 3,
     "theme": "美丽的鹿角",
     "content": [
@@ -274,7 +274,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 1,
+    "week": 3,
     "day": 4,
     "theme": "池子里的秘密",
     "content": [
@@ -351,7 +351,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 1,
+    "week": 3,
     "day": 5,
     "theme": "快乐园地",
     "content": [
@@ -439,7 +439,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 1,
+    "week": 3,
     "day": 6,
     "theme": "智慧小寓言",
     "content": [
@@ -520,7 +520,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 2,
+    "week": 4,
     "day": 1,
     "theme": "大自然的脚步",
     "content": [
@@ -614,7 +614,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 2,
+    "week": 4,
     "day": 2,
     "theme": "罐子的对话",
     "content": [
@@ -694,7 +694,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 2,
+    "week": 4,
     "day": 3,
     "theme": "河流的歌声",
     "content": [
@@ -765,7 +765,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 2,
+    "week": 4,
     "day": 4,
     "theme": "森林里的童话",
     "content": [
@@ -837,7 +837,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 2,
+    "week": 4,
     "day": 5,
     "theme": "古代的智慧",
     "content": [
@@ -908,7 +908,7 @@
   {
     "grade": 3,
     "term": 0,
-    "week": 2,
+    "week": 4,
     "day": 6,
     "theme": "单元大复习",
     "content": [

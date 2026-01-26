@@ -1,8 +1,8 @@
 [
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 7,
     "day": 1,
     "theme": "大自然的闹钟",
     "content": [
@@ -103,8 +103,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 7,
     "day": 2,
     "theme": "小蜜蜂的秘密",
     "content": [
@@ -197,8 +197,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 7,
     "day": 3,
     "theme": "有趣的小虾",
     "content": [
@@ -279,8 +279,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 7,
     "day": 4,
     "theme": "我是小科学家",
     "content": [
@@ -350,8 +350,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 7,
     "day": 5,
     "theme": "春天的观察",
     "content": [
@@ -430,8 +430,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 7,
     "day": 6,
     "theme": "快乐的森林",
     "content": [
@@ -510,8 +510,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 8,
     "day": 1,
     "theme": "花儿的钟表",
     "content": [
@@ -614,8 +614,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 8,
     "day": 2,
     "theme": "蜜蜂回家了",
     "content": [
@@ -691,8 +691,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 8,
     "day": 3,
     "theme": "观察的乐趣",
     "content": [
@@ -761,8 +761,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 8,
     "day": 4,
     "theme": "梦幻般的童话",
     "content": [
@@ -843,8 +843,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 8,
     "day": 5,
     "theme": "仔细观察的小眼睛",
     "content": [
@@ -917,8 +917,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 8,
     "day": 6,
     "theme": "自然的画卷",
     "content": [

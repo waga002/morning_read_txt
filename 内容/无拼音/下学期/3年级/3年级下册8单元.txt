@@ -1,8 +1,8 @@
 [
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 15,
     "day": 1,
     "theme": "慢条斯理的秘密",
     "content": [
@@ -119,8 +119,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 15,
     "day": 2,
     "theme": "方帽子的烦恼",
     "content": [
@@ -228,8 +228,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 15,
     "day": 3,
     "theme": "奇妙的夜晚",
     "content": [
@@ -314,8 +314,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 15,
     "day": 4,
     "theme": "老虎和漏",
     "content": [
@@ -402,8 +402,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 15,
     "day": 5,
     "theme": "小小枣核志气大",
     "content": [
@@ -518,8 +518,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 15,
     "day": 6,
     "theme": "快乐童年梦",
     "content": [
@@ -612,8 +612,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 16,
     "day": 1,
     "theme": "慢条斯理的艺术",
     "content": [
@@ -724,8 +724,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 16,
     "day": 2,
     "theme": "圆帽子的胜利",
     "content": [
@@ -816,8 +816,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 16,
     "day": 3,
     "theme": "森林里的趣事",
     "content": [
@@ -902,8 +902,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 16,
     "day": 4,
     "theme": "奇妙的变变变",
     "content": [
@@ -993,8 +993,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 16,
     "day": 5,
     "theme": "小古文里的智慧",
     "content": [
@@ -1079,8 +1079,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 16,
     "day": 6,
     "theme": "故事大王赛",
     "content": [

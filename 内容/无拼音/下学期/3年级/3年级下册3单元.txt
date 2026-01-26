@@ -1,8 +1,8 @@
 [
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 5,
     "day": 1,
     "theme": "爆竹声中一岁除",
     "content": [
@@ -129,8 +129,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 5,
     "day": 2,
     "theme": "智慧的结晶",
     "content": [
@@ -251,8 +251,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 5,
     "day": 3,
     "theme": "文明的足迹",
     "content": [
@@ -376,8 +376,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 5,
     "day": 4,
     "theme": "古人的妙想",
     "content": [
@@ -489,8 +489,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 5,
     "day": 5,
     "theme": "清明时节雨纷纷",
     "content": [
@@ -626,8 +626,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 1,
+    "term": 1,
+    "week": 5,
     "day": 6,
     "theme": "古桥的秘密",
     "content": [
@@ -715,8 +715,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 6,
     "day": 1,
     "theme": "古画里的秘密",
     "content": [
@@ -820,8 +820,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 6,
     "day": 2,
     "theme": "快乐的传统节日",
     "content": [
@@ -931,8 +931,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 6,
     "day": 3,
     "theme": "大自然的四季",
     "content": [
@@ -1042,8 +1042,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 6,
     "day": 4,
     "theme": "有趣的动物朋友",
     "content": [
@@ -1153,8 +1153,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 6,
     "day": 5,
     "theme": "神奇的智慧",
     "content": [
@@ -1266,8 +1266,8 @@
   },
   {
     "grade": 3,
-    "term": 2,
-    "week": 2,
+    "term": 1,
+    "week": 6,
     "day": 6,
     "theme": "走近非遗文化",
     "content": [
