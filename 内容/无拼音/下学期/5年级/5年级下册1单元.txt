@@ -163,40 +163,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "顶天立地"
-              },
-              {
-                "text": "低头折节"
-              },
-              {
-                "text": "风欺雪压"
-              },
-              {
-                "text": "气节"
-              },
-              {
-                "text": "秉（bǐng）性"
-              },
-              {
-                "text": "眷（juàn）恋"
-              }
-            ]
-          },
-          {
-            "title": "好句",
-            "content": [
-              {
-                "text": "她是最有品格、最有灵魂、最有骨气的！（运用排比增强气势，高度评价梅花的精神内涵。）"
-              },
-              {
-                "text": "岁寒，然后知松柏之后凋也。（以松柏为喻，富有哲理，赞美经受考验的坚贞。）"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {
@@ -779,29 +745,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "离乡背井"
-              },
-              {
-                "text": "恍（huǎng）然大悟"
-              },
-              {
-                "text": "相依为命"
-              },
-              {
-                "text": "晶莹"
-              },
-              {
-                "text": "浩渺（miǎo）"
-              },
-              {
-                "text": "旖（yǐ）旎（nǐ）"
-              }
-            ]
-          },
           {
             "title": "修辞手法",
             "content": [

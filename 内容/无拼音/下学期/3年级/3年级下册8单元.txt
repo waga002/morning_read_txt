@@ -187,29 +187,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "舒服（shū fu）"
-              },
-              {
-                "text": "密密麻麻（mì mì má má）"
-              },
-              {
-                "text": "端端正正（duān duān zhèng zhèng）"
-              },
-              {
-                "text": "人山人海（rén shān rén hǎi）"
-              },
-              {
-                "text": "圆溜溜（yuán liū liū）"
-              },
-              {
-                "text": "轻便（qīng biàn）"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {
@@ -473,29 +450,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "勤勤恳恳（qín qín kěn kěn）"
-              },
-              {
-                "text": "蹦蹦跳跳（bèng bèng tiào tiào）"
-              },
-              {
-                "text": "大摇大摆（dà yáo dà bǎi）"
-              },
-              {
-                "text": "骨碌（gǔ lù）"
-              },
-              {
-                "text": "哎呀（āi yā）"
-              },
-              {
-                "text": "聪明（cōng ming）"
-              }
-            ]
-          },
           {
             "title": "八字成语/名言",
             "content": [

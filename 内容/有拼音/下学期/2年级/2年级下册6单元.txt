@@ -143,20 +143,6 @@
                 "text": "停止（tíng zhǐ）"
               }
             ]
-          },
-          {
-            "title": "好句小箩筐",
-            "titlePinyin": "hǎo jù xiǎo luó kuāng",
-            "content": [
-              {
-                "pinyin": "mǎn chí de hé yè lǜ yóu yóu de xiàng yī bǎ bǎ dà sǎn",
-                "text": "满池的荷叶绿油油的，像一把把大伞。（用了比喻，把荷叶写得很形象）"
-              },
-              {
-                "pinyin": "xiǎo yú ér xì shuǐ pèn chū le yī chuàn chuàn shuǐ pào",
-                "text": "小鱼儿戏水，喷出了一串串水泡。（动作描写，非常生动）"
-              }
-            ]
           }
         ],
         "annotation": "",
@@ -283,36 +269,6 @@
         "dynasty": "",
         "dynastyPinyin": "",
         "contentObject": [
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "jīn pí lì jìn",
-                "text": "筋疲力尽"
-              },
-              {
-                "pinyin": "jí yú qiú chéng",
-                "text": "急于求成"
-              },
-              {
-                "pinyin": "yì xíng bái lù",
-                "text": "一行白鹭"
-              },
-              {
-                "pinyin": "huān kuài",
-                "text": "欢快"
-              },
-              {
-                "pinyin": "zhǔn bèi",
-                "text": "准备（zhǔn bèi）"
-              },
-              {
-                "pinyin": "bō wén",
-                "text": "波纹（bō wén）"
-              }
-            ]
-          },
           {
             "title": "好句小箩筐",
             "titlePinyin": "hǎo jù xiǎo luó kuāng",
@@ -461,36 +417,6 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "hēi chén chén",
-                "text": "黑沉沉"
-              },
-              {
-                "pinyin": "yī dòng bù dòng",
-                "text": "一动不动"
-              },
-              {
-                "pinyin": "yǔ guò tiān qíng",
-                "text": "雨过天晴"
-              },
-              {
-                "pinyin": "yā xià lái",
-                "text": "压下来"
-              },
-              {
-                "pinyin": "pèn chū",
-                "text": "喷出（pèn chū）"
-              },
-              {
-                "pinyin": "zhēn zhū",
-                "text": "珍珠（zhēn zhū）"
-              }
-            ]
-          },
-          {
             "title": "写话小技巧",
             "titlePinyin": "xiě huà xiǎo jì qiǎo",
             "content": [
@@ -617,36 +543,6 @@
         "dynasty": "",
         "dynastyPinyin": "",
         "contentObject": [
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "zhōng shí",
-                "text": "忠实"
-              },
-              {
-                "pinyin": "xiàng dǎo",
-                "text": "向导"
-              },
-              {
-                "pinyin": "zhǐ nán zhēn",
-                "text": "指南针"
-              },
-              {
-                "pinyin": "běi jí xīng",
-                "text": "北极星"
-              },
-              {
-                "pinyin": "liàng táng táng",
-                "text": "亮堂堂"
-              },
-              {
-                "pinyin": "bāng zhù",
-                "text": "帮助（bāng zhù）"
-              }
-            ]
-          },
           {
             "title": "写话小技巧",
             "titlePinyin": "xiě huà xiǎo jì qiǎo",
@@ -787,36 +683,6 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "yī fú huà",
-                "text": "一幅画"
-              },
-              {
-                "pinyin": "yī kē xīng",
-                "text": "一颗星"
-              },
-              {
-                "pinyin": "tài kōng chuán",
-                "text": "太空船"
-              },
-              {
-                "pinyin": "piao fu",
-                "text": "漂浮"
-              },
-              {
-                "pinyin": "shén qí",
-                "text": "神奇（shén qí）"
-              },
-              {
-                "pinyin": "piāo piāo dàng dàng",
-                "text": "飘飘荡荡"
-              }
-            ]
-          },
-          {
             "title": "四字成语",
             "titlePinyin": "sì zì chéng yǔ",
             "content": [
@@ -951,36 +817,6 @@
         "dynasty": "",
         "dynastyPinyin": "",
         "contentObject": [
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "qín láo",
-                "text": "勤劳"
-              },
-              {
-                "pinyin": "mèng xiǎng",
-                "text": "梦想"
-              },
-              {
-                "pinyin": "wǔ cǎi bīn fēn",
-                "text": "五彩缤纷"
-              },
-              {
-                "pinyin": "fēi lái fēi qù",
-                "text": "飞来飞去"
-              },
-              {
-                "pinyin": "shēn lǎn yāo",
-                "text": "伸懒腰（shēn lǎn yāo）"
-              },
-              {
-                "pinyin": "diào yú",
-                "text": "钓鱼（diào yú）"
-              }
-            ]
-          },
           {
             "title": "谚语/歇后语",
             "titlePinyin": "yàn yǔ xiē hòu yǔ",
@@ -1137,20 +973,6 @@
                 "text": "旁边（páng biān）"
               }
             ]
-          },
-          {
-            "title": "好句小箩筐",
-            "titlePinyin": "hǎo jù xiǎo luó kuāng",
-            "content": [
-              {
-                "pinyin": "xiǎo qīng wā bǎ hé yè dāng chéng le gē tái",
-                "text": "小青蛙把荷叶当成了歌台。（拟人，描写很生动）"
-              },
-              {
-                "pinyin": "mǎn tiān de xīng xing zhǎ zhe yǎn jing",
-                "text": "满天的星星眨着眼睛。（拟人，让星星变得可爱）"
-              }
-            ]
           }
         ],
         "annotation": "",
@@ -1274,36 +1096,6 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "shǒu zhū dài tù",
-                "text": "守株待兔"
-              },
-              {
-                "pinyin": "fēng bō",
-                "text": "风波"
-              },
-              {
-                "pinyin": "yī yè zhōu",
-                "text": "一叶舟"
-              },
-              {
-                "pinyin": "lái lái wǎng wǎng",
-                "text": "来来往往"
-              },
-              {
-                "pinyin": "xǐ huān",
-                "text": "喜欢（xǐ huan）"
-              },
-              {
-                "pinyin": "gàn huó",
-                "text": "干活（gàn huó）"
-              }
-            ]
-          },
-          {
             "title": "好句小箩筐",
             "titlePinyin": "hǎo jù xiǎo luó kuāng",
             "content": [
@@ -1426,36 +1218,6 @@
         "dynasty": "",
         "dynastyPinyin": "",
         "contentObject": [
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "yǔ hòu chūn sǔn",
-                "text": "雨后春笋"
-              },
-              {
-                "pinyin": "shí yǐn shí xiàn",
-                "text": "时隐时现"
-              },
-              {
-                "pinyin": "cǎi hóng",
-                "text": "彩虹"
-              },
-              {
-                "pinyin": "zhī zhū",
-                "text": "蜘蛛"
-              },
-              {
-                "pinyin": "yóu lái yóu qù",
-                "text": "游来游去（yóu lái yóu qù）"
-              },
-              {
-                "pinyin": "chuān dào",
-                "text": "穿到（chuān dào）"
-              }
-            ]
-          },
           {
             "title": "修辞手法",
             "titlePinyin": "xiū cí shǒu fǎ",
@@ -1588,36 +1350,6 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "pāi dǎ",
-                "text": "拍打"
-              },
-              {
-                "pinyin": "huá xiáng",
-                "text": "滑翔"
-              },
-              {
-                "pinyin": "hú li",
-                "text": "狐狸"
-              },
-              {
-                "pinyin": "chì bǎng",
-                "text": "翅膀"
-              },
-              {
-                "pinyin": "wēi xiào",
-                "text": "微笑（wēi xiào）"
-              },
-              {
-                "pinyin": "bǎo chí",
-                "text": "保持（bǎo chí）"
-              }
-            ]
-          },
-          {
             "title": "修辞手法",
             "titlePinyin": "xiū cí shǒu fǎ",
             "content": [
@@ -1749,36 +1481,6 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "fēn biàn",
-                "text": "分辨"
-              },
-              {
-                "pinyin": "zhǐ yǐn",
-                "text": "指引"
-              },
-              {
-                "pinyin": "gōu qú",
-                "text": "沟渠"
-              },
-              {
-                "pinyin": "nián lún",
-                "text": "年轮"
-              },
-              {
-                "pinyin": "fā xiàn",
-                "text": "发现（fā xiàn）"
-              },
-              {
-                "pinyin": "yān zi",
-                "text": "燕子（yàn zi）"
-              }
-            ]
-          },
-          {
             "title": "描写手法",
             "titlePinyin": "miáo xiě shǒu fǎ",
             "content": [
@@ -1909,36 +1611,6 @@
         "dynasty": "",
         "dynastyPinyin": "",
         "contentObject": [
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "yǔ zhòu fēi chuán",
-                "text": "宇宙飞船"
-              },
-              {
-                "pinyin": "yǔ háng yuán",
-                "text": "宇航员"
-              },
-              {
-                "pinyin": "dì bǎn",
-                "text": "地板"
-              },
-              {
-                "pinyin": "xiāng yīn",
-                "text": "乡音"
-              },
-              {
-                "pinyin": "zhù shì",
-                "text": "注视（zhù shì）"
-              },
-              {
-                "pinyin": "láo láo de",
-                "text": "牢牢地"
-              }
-            ]
-          },
           {
             "title": "谚语/歇后语",
             "titlePinyin": "yàn yǔ xiē hòu yǔ",

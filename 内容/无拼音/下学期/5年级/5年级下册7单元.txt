@@ -94,17 +94,6 @@
                 "text": "静寂笼罩着这座水上城市，古老的威尼斯又沉沉地入睡了。（运用拟人手法，烘托出夜晚威尼斯的宁静。）"
               }
             ]
-          },
-          {
-            "title": "写作技巧：开头",
-            "content": [
-              {
-                "text": "（开门见山式）威尼斯是世界闻名的水上城市，小艇成了这里主要的交通工具。"
-              },
-              {
-                "text": "（特写镜头式）船桨轻轻拨动水面，泛起阵阵涟漪，在这座水城，故事总是从一艘小艇开始的。"
-              }
-            ]
           }
         ],
         "task": "（应用）请运用“操纵自如”写一个描写人物技艺高超的句子。",
@@ -165,29 +154,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "极目远眺"
-              },
-              {
-                "text": "悠然自得"
-              },
-              {
-                "text": "纵横交错"
-              },
-              {
-                "text": "镶嵌（xiāng qiàn）"
-              },
-              {
-                "text": "膘（biāo）肥体壮"
-              },
-              {
-                "text": "辽阔"
-              }
-            ]
-          },
           {
             "title": "好段落",
             "content": [
@@ -268,29 +234,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "熠熠（yì）发光"
-              },
-              {
-                "text": "不可思议"
-              },
-              {
-                "text": "精湛（zhàn）"
-              },
-              {
-                "text": "雄伟"
-              },
-              {
-                "text": "堆砌"
-              },
-              {
-                "text": "旷（kuàng）野"
-              }
-            ]
-          },
-          {
             "title": "写作技巧：开头",
             "content": [
               {
@@ -356,29 +299,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "一碧千里"
-              },
-              {
-                "text": "万籁（lài）俱寂"
-              },
-              {
-                "text": "若隐若现"
-              },
-              {
-                "text": "停泊"
-              },
-              {
-                "text": "摇晃"
-              },
-              {
-                "text": "沉寂（jì）"
-              }
-            ]
-          },
           {
             "title": "写作技巧：结尾",
             "content": [
@@ -453,29 +373,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "严丝合缝"
-              },
-              {
-                "text": "千磨万击"
-              },
-              {
-                "text": "精益求精"
-              },
-              {
-                "text": "恒（héng）久"
-              },
-              {
-                "text": "坚韧"
-              },
-              {
-                "text": "宽阔（kuò）"
-              }
-            ]
-          },
           {
             "title": "八字成语/名言",
             "content": [
@@ -554,29 +451,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "生机盎然"
-              },
-              {
-                "text": "绿草如茵"
-              },
-              {
-                "text": "舍己救人"
-              },
-              {
-                "text": "招（zhāo）摇"
-              },
-              {
-                "text": "湛（zhàn）蓝"
-              },
-              {
-                "text": "坠落"
-              }
-            ]
-          },
           {
             "title": "歇后语/谚语",
             "content": [
@@ -749,29 +623,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "舍身为民"
-              },
-              {
-                "text": "宁静致远"
-              },
-              {
-                "text": "悠然自得"
-              },
-              {
-                "text": "牲（shēng）畜"
-              },
-              {
-                "text": "微弱"
-              },
-              {
-                "text": "幽（yōu）静"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {
@@ -835,29 +686,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "断壁残垣（yuán）"
-              },
-              {
-                "text": "浩大工程"
-              },
-              {
-                "text": "物力维艰"
-              },
-              {
-                "text": "平整"
-              },
-              {
-                "text": "紧密"
-              },
-              {
-                "text": "仰望"
-              }
-            ]
-          },
           {
             "title": "修辞手法",
             "content": [
@@ -930,29 +758,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "敏锐观察"
-              },
-              {
-                "text": "深奥莫测"
-              },
-              {
-                "text": "举一反三"
-              },
-              {
-                "text": "颤（chàn）动"
-              },
-              {
-                "text": "揭示"
-              },
-              {
-                "text": "划破"
-              }
-            ]
-          },
-          {
             "title": "修辞手法",
             "content": [
               {
@@ -1022,29 +827,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "袅娜（niǎo nuó）"
-              },
-              {
-                "text": "欣然自得"
-              },
-              {
-                "text": "纷纷扬扬"
-              },
-              {
-                "text": "憩（qì）息"
-              },
-              {
-                "text": "羞涩"
-              },
-              {
-                "text": "点缀"
-              }
-            ]
-          },
           {
             "title": "描写手法",
             "content": [
@@ -1121,29 +903,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "安谧（mì）深沉"
-              },
-              {
-                "text": "气势磅礴"
-              },
-              {
-                "text": "源源不断"
-              },
-              {
-                "text": "闪烁"
-              },
-              {
-                "text": "倾泻"
-              },
-              {
-                "text": "安详（xiáng）"
-              }
-            ]
-          },
           {
             "title": "描写手法",
             "content": [

@@ -176,29 +176,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "欣喜若狂"
-              },
-              {
-                "text": "茹（rú）毛饮血"
-              },
-              {
-                "text": "点睛之笔"
-              },
-              {
-                "text": "天之骄子"
-              },
-              {
-                "text": "演化"
-              },
-              {
-                "text": "轻盈"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {

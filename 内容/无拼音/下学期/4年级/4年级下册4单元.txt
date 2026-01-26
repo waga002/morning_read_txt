@@ -178,29 +178,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "慈爱无私"
-              },
-              {
-                "text": "毅力惊人"
-              },
-              {
-                "text": "见贤思齐"
-              },
-              {
-                "text": "知错就改"
-              },
-              {
-                "text": "勇敢"
-              },
-              {
-                "text": "掩饰"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {

@@ -143,20 +143,6 @@
                 "text": "叼走"
               }
             ]
-          },
-          {
-            "title": "好句小箩筐",
-            "titlePinyin": "hǎo jù xiǎo luó kuāng",
-            "content": [
-              {
-                "pinyin": "tā qù jiē tou kàn mào zi mào zi bǎ tā de liǎn dōu zhē zhù le miáo xiě hěn jù tǐ",
-                "text": "他去街头看帽子，帽子把他的脸都遮住了。（描写很具体）"
-              },
-              {
-                "pinyin": "tā hòu huǐ méi yǒu tīng lín jū de quàn gào xīn lǐ miáo xiě",
-                "text": "他后悔没有听邻居的劝告。（心理描写）"
-              }
-            ]
           }
         ],
         "annotation": "",
@@ -295,32 +281,6 @@
         "dynasty": "",
         "dynastyPinyin": "",
         "contentObject": [
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "jīn pí lì jìn",
-                "text": "筋疲力尽"
-              },
-              {
-                "pinyin": "yà miáo zhù zhǎng",
-                "text": "揠苗助长"
-              },
-              {
-                "pinyin": "xìng zhì bō bō",
-                "text": "兴致勃勃"
-              },
-              {
-                "pinyin": "fēn fèn",
-                "text": "纷纷"
-              },
-              {
-                "pinyin": "zhuǎn lái zhuǎn qù",
-                "text": "转来转去"
-              }
-            ]
-          },
           {
             "title": "好句小箩筐",
             "titlePinyin": "hǎo jù xiǎo luó kuāng",
@@ -477,32 +437,6 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "wèi lán",
-                "text": "蔚蓝"
-              },
-              {
-                "pinyin": "piāo dàng",
-                "text": "飘荡"
-              },
-              {
-                "pinyin": "zhui rù",
-                "text": "坠入"
-              },
-              {
-                "pinyin": "měi lǐ",
-                "text": "美丽"
-              },
-              {
-                "pinyin": "xì xì de",
-                "text": "细细的"
-              }
-            ]
-          },
-          {
             "title": "写话技巧：标点符号法",
             "titlePinyin": "xiě huà jì qiǎo biāo diǎn fú hào fǎ",
             "content": [
@@ -657,32 +591,6 @@
         "dynasty": "",
         "dynastyPinyin": "",
         "contentObject": [
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "shěn shì",
-                "text": "审视"
-              },
-              {
-                "pinyin": "hē hē dà xiào",
-                "text": "呵呵大笑"
-              },
-              {
-                "pinyin": "xí yǐ wéi cháng",
-                "text": "习以为常"
-              },
-              {
-                "pinyin": "hé yán yuè sè",
-                "text": "和颜悦色"
-              },
-              {
-                "pinyin": "jiào huì",
-                "text": "教诲"
-              }
-            ]
-          },
           {
             "title": "写话技巧：仿写练习",
             "titlePinyin": "xiě huà jì qiǎo fǎng xiě liàn xí",
@@ -847,20 +755,6 @@
                 "text": "实事求是（从实际出发）"
               }
             ]
-          },
-          {
-            "title": "词语积累",
-            "titlePinyin": "cí yǔ jī lěi",
-            "content": [
-              {
-                "pinyin": "hé yán yuè sè",
-                "text": "和颜悦色"
-              },
-              {
-                "pinyin": "jiào huì",
-                "text": "教诲"
-              }
-            ]
           }
         ],
         "annotation": "",
@@ -1004,8 +898,8 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "歇后语积累",
-            "titlePinyin": "xiē hòu yǔ jī lěi",
+            "title": "谚语/歇后语",
+            "titlePinyin": "yàn yǔ xiē hòu yǔ",
             "content": [
               {
                 "pinyin": "zhú lán dǎ shuǐ yī chǎng kōng",
@@ -1014,13 +908,7 @@
               {
                 "pinyin": "xiǎo mǎ guò hé kàn zì jǐ",
                 "text": "小马过河——看自己（比喻要亲自尝试）"
-              }
-            ]
-          },
-          {
-            "title": "谚语",
-            "titlePinyin": "yàn yǔ",
-            "content": [
+              },
               {
                 "pinyin": "huā yào yè fù rén yào xīn hǎo",
                 "text": "花要叶扶，人要心好。（比喻人要有好的品德）"
@@ -1149,8 +1037,8 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "好词小宝库",
-            "titlePinyin": "hǎo cí xiǎo bǎo kù",
+            "title": "词语小宝库",
+            "titlePinyin": "cí yǔ xiǎo bǎo kù",
             "content": [
               {
                 "pinyin": "zhē zhē mǎn mǎn",
@@ -1171,16 +1059,6 @@
               {
                 "pinyin": "shì tàn",
                 "text": "试探"
-              }
-            ]
-          },
-          {
-            "title": "好句积累",
-            "titlePinyin": "hǎo jù jī lěi",
-            "content": [
-              {
-                "pinyin": "xiǎo mǎ dāi dāi dì zhàn zài hé biān dòng zuò miáo xiě",
-                "text": "小马呆呆地站在河边。（动作描写）"
               }
             ]
           }
@@ -1318,34 +1196,8 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "好词积累",
-            "titlePinyin": "hǎo cí jī lěi",
-            "content": [
-              {
-                "pinyin": "hé yán yuè sè",
-                "text": "和颜悦色"
-              },
-              {
-                "pinyin": "wēi fēng lǐn lǐn",
-                "text": "威风凛凛"
-              },
-              {
-                "pinyin": "dà mó dà yàng",
-                "text": "大模大样"
-              },
-              {
-                "pinyin": "pǎo lái pǎo qù",
-                "text": "跑来跑去"
-              },
-              {
-                "pinyin": "tiao ya tiao",
-                "text": "跳呀跳"
-              }
-            ]
-          },
-          {
-            "title": "好句积累",
-            "titlePinyin": "hǎo jù jī lěi",
+            "title": "好句小箩筐",
+            "titlePinyin": "hǎo jù xiǎo luó kuāng",
             "content": [
               {
                 "pinyin": "xiǎo mǎ diē diē zhuàng zhuàng dì pǎo le guò qù miáo xiě sheng dòng",
@@ -1485,16 +1337,6 @@
               {
                 "pinyin": "huā ér lù chū le xiào liǎn nǐ rén",
                 "text": "花儿露出了笑脸。（拟人）"
-              }
-            ]
-          },
-          {
-            "title": "好句",
-            "titlePinyin": "hǎo jù",
-            "content": [
-              {
-                "pinyin": "hú li yáo zhe wěi ba fēi cháng dé yì nǐ rén nǐ rén",
-                "text": "狐狸摇着尾巴，非常得意。（拟人）"
               }
             ]
           }
@@ -1656,16 +1498,6 @@
                 "text": "弯弯的月亮像小船。（比喻）"
               }
             ]
-          },
-          {
-            "title": "好句积累",
-            "titlePinyin": "hǎo jù jī lěi",
-            "content": [
-              {
-                "pinyin": "hóng hóng de tài yáng xiàng gè dà huǒ qiú bǐ yù",
-                "text": "红红的太阳像个大火球。（比喻）"
-              }
-            ]
           }
         ],
         "annotation": "",
@@ -1807,16 +1639,6 @@
               {
                 "pinyin": "huǒ hóng de fēng yè hěn piào liang sè cǎi miáo xiě",
                 "text": "火红的枫叶很漂亮。（色彩描写）"
-              }
-            ]
-          },
-          {
-            "title": "好句",
-            "titlePinyin": "hǎo jù",
-            "content": [
-              {
-                "pinyin": "cuì lǜ de liǔ zhī suí fēng piáo dàng sè cǎi miáo xiě",
-                "text": "翠绿的柳枝随风飘荡。（色彩描写）"
               }
             ]
           }
@@ -1968,20 +1790,6 @@
               {
                 "pinyin": "yī fèn gēng yún yī fèn shōu huò",
                 "text": "一份耕耘，一份收获。（付出就有回报）"
-              }
-            ]
-          },
-          {
-            "title": "词语",
-            "titlePinyin": "cí yǔ",
-            "content": [
-              {
-                "pinyin": "huāng huāng zhāng zhāng",
-                "text": "慌慌张张"
-              },
-              {
-                "pinyin": "cái jī léi lěi",
-                "text": "才积累累"
               }
             ]
           }

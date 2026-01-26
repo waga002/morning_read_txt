@@ -163,20 +163,6 @@
                 "text": "摇篮"
               }
             ]
-          },
-          {
-            "title": "好句小箩筐",
-            "titlePinyin": "hǎo jù xiǎo luó kuāng",
-            "content": [
-              {
-                "pinyin": "yuán shǐ sēn lín shì zǔ xiān de yáo lán",
-                "text": "原始森林是祖先的摇篮。（比喻句，非常生动）"
-              },
-              {
-                "pinyin": "tā zài lǜ yóu yóu de cǎo dì shàng pǎo lái pǎo qù",
-                "text": "他在绿油油的草地上跑来跑去。（颜色和动作描写）"
-              }
-            ]
           }
         ],
         "annotation": "",
@@ -319,36 +305,6 @@
         "dynasty": "",
         "dynastyPinyin": "",
         "contentObject": [
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "jiān nán",
-                "text": "艰难"
-              },
-              {
-                "pinyin": "yán rè",
-                "text": "炎热"
-              },
-              {
-                "pinyin": "fān shān yuè lǐng",
-                "text": "翻山越岭"
-              },
-              {
-                "pinyin": "shén jiàn shǒu",
-                "text": "神箭手"
-              },
-              {
-                "pinyin": "dā jiàn",
-                "text": "搭箭"
-              },
-              {
-                "pinyin": "lì qi",
-                "text": "力气"
-              }
-            ]
-          },
           {
             "title": "好句小箩筐",
             "titlePinyin": "hǎo jù xiǎo luó kuāng",
@@ -823,36 +779,6 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "mín bù liáo shēng",
-                "text": "民不聊生"
-              },
-              {
-                "pinyin": "shén huà gù shi",
-                "text": "神话故事"
-              },
-              {
-                "pinyin": "fèn bù gù shēn",
-                "text": "奋不顾身"
-              },
-              {
-                "pinyin": "jiān nán",
-                "text": "艰难"
-              },
-              {
-                "pinyin": "yǒu yì",
-                "text": "有意"
-              },
-              {
-                "pinyin": "xī wàng",
-                "text": "希望"
-              }
-            ]
-          },
-          {
             "title": "成语对对碰",
             "titlePinyin": "chéng yǔ duì duì pèng",
             "content": [
@@ -1024,7 +950,7 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "谚语歇后语",
+            "title": "谚语/歇后语",
             "titlePinyin": "yàn yǔ xiē hòu yǔ",
             "content": [
               {
@@ -1217,20 +1143,6 @@
               {
                 "pinyin": "huó pō",
                 "text": "活泼"
-              }
-            ]
-          },
-          {
-            "title": "动作描写范例",
-            "titlePinyin": "dòng zuò miáo xiě fàn lì",
-            "content": [
-              {
-                "pinyin": "tā fān guò gāo shān tàng guò dà hé",
-                "text": "他翻过高山，趟过大河。（一连串的动作）"
-              },
-              {
-                "pinyin": "xiǎo bǎ bǎ tuō xià xié zi pǎo jìn le mài tián",
-                "text": "小爸爸脱下鞋子，跑进了麦田。（描写得很具体）"
               }
             ]
           }
@@ -2020,7 +1932,7 @@
         "dynastyPinyin": "",
         "contentObject": [
           {
-            "title": "谚语歇后语",
+            "title": "谚语/歇后语",
             "titlePinyin": "yàn yǔ xiē hòu yǔ",
             "content": [
               {

@@ -155,20 +155,6 @@
                 "text": "生动"
               }
             ]
-          },
-          {
-            "title": "好句小箩筐",
-            "titlePinyin": "hǎo jù xiǎo luó kuāng",
-            "content": [
-              {
-                "pinyin": "màn shān biàn yě de xiǎo huā fěn de xiàng xiá hóng de xiàng huǒ",
-                "text": "满山遍野的小花，粉的像霞，红的像火。（颜色描写，运用了比喻）"
-              },
-              {
-                "pinyin": "yǐn xíng de fēng zài cǎo yuán shàng kuàng bēn bù tíng",
-                "text": "隐形的风在草原上狂奔不停。（拟人手法，写出了风的动态）"
-              }
-            ]
           }
         ],
         "annotation": "",
@@ -295,36 +281,6 @@
         "dynasty": "",
         "dynastyPinyin": "",
         "contentObject": [
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "yìng xǐ què",
-                "text": "喜鹊"
-              },
-              {
-                "pinyin": "zhē bì",
-                "text": "遮蔽"
-              },
-              {
-                "pinyin": "jiǎo jiàn",
-                "text": "矫健"
-              },
-              {
-                "pinyin": "qìng zhù",
-                "text": "庆祝"
-              },
-              {
-                "pinyin": "shēn lán sè",
-                "text": "深蓝色"
-              },
-              {
-                "pinyin": "gāo dà",
-                "text": "高大"
-              }
-            ]
-          },
           {
             "title": "好句小箩筐",
             "titlePinyin": "hǎo jù xiǎo luó kuāng",
@@ -477,28 +433,6 @@
                 "text": "（范例）放学了，我先回家，再做作业，然后去玩耍。"
               }
             ]
-          },
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "jīng yíng",
-                "text": "晶莹"
-              },
-              {
-                "pinyin": "gān hàn",
-                "text": "干旱"
-              },
-              {
-                "pinyin": "wán shuǎ",
-                "text": "玩耍"
-              },
-              {
-                "pinyin": "dī dī dá dá",
-                "text": "滴滴答答"
-              }
-            ]
           }
         ],
         "annotation": "",
@@ -636,28 +570,6 @@
               {
                 "pinyin": "fàn lì hóng hóng de tài yáng xiàng dà huǒ qiú yī yàng",
                 "text": "（范例）红红的太阳像大火球一样。"
-              }
-            ]
-          },
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "shā tān",
-                "text": "沙滩"
-              },
-              {
-                "pinyin": "chéng bǎo",
-                "text": "城堡"
-              },
-              {
-                "pinyin": "lǐ wù",
-                "text": "礼物"
-              },
-              {
-                "pinyin": "zì qī qī rén",
-                "text": "自欺欺人"
               }
             ]
           }
@@ -801,28 +713,6 @@
               {
                 "pinyin": "yà miáo zhù zhǎng",
                 "text": "揠苗助长。（比喻急于求成）"
-              }
-            ]
-          },
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "chóng zi",
-                "text": "虫子"
-              },
-              {
-                "pinyin": "xìng yùn",
-                "text": "幸运"
-              },
-              {
-                "pinyin": "yáo lán",
-                "text": "摇篮"
-              },
-              {
-                "pinyin": "guān miǎn",
-                "text": "冠冕"
               }
             ]
           }
@@ -974,28 +864,6 @@
               {
                 "pinyin": "shí liù kāi huā xiào hé hé",
                 "text": "石榴开花——笑呵呵。（形容很开心）"
-              }
-            ]
-          },
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "hàn liú mǎn miàn",
-                "text": "汗流满面"
-              },
-              {
-                "pinyin": "wēn nuǎn",
-                "text": "温暖"
-              },
-              {
-                "pinyin": "xiào hé hé",
-                "text": "笑呵呵"
-              },
-              {
-                "pinyin": "cè huà",
-                "text": "计划"
               }
             ]
           }
@@ -1161,20 +1029,6 @@
                 "text": "幽静"
               }
             ]
-          },
-          {
-            "title": "好句小箩筐",
-            "titlePinyin": "hǎo jù xiǎo luó kuāng",
-            "content": [
-              {
-                "pinyin": "dà tián lǐ de dào zi shú le jīn càn càn de",
-                "text": "大田里的稻子熟了，金灿灿的。（颜色描写）"
-              },
-              {
-                "pinyin": "yún bái bái de hǎo xiàng yī duǒ duǒ mián huā táng",
-                "text": "云白白的，好像一朵朵棉花糖。（比喻句）"
-              }
-            ]
           }
         ],
         "annotation": "",
@@ -1309,36 +1163,6 @@
         "dynasty": "",
         "dynastyPinyin": "",
         "contentObject": [
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "zhǐ dǎo",
-                "text": "指导"
-              },
-              {
-                "pinyin": "yìng xǐ què",
-                "text": "喜鹊"
-              },
-              {
-                "pinyin": "zàn měi",
-                "text": "赞美"
-              },
-              {
-                "pinyin": "jǐng tì",
-                "text": "警惕"
-              },
-              {
-                "pinyin": "xiāng yīn",
-                "text": "乡音"
-              },
-              {
-                "pinyin": "shuāi lǎo",
-                "text": "衰老"
-              }
-            ]
-          },
           {
             "title": "好句小箩筐",
             "titlePinyin": "hǎo jù xiǎo luó kuāng",
@@ -1491,28 +1315,6 @@
                 "text": "（范例）小豆豆在风中跳起了舞。"
               }
             ]
-          },
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "xiōng hěn",
-                "text": "凶狠"
-              },
-              {
-                "pinyin": "mó guǐ",
-                "text": "魔鬼"
-              },
-              {
-                "pinyin": "xué ér bù sī",
-                "text": "学而不思"
-              },
-              {
-                "pinyin": "guān chá",
-                "text": "观察"
-              }
-            ]
           }
         ],
         "annotation": "",
@@ -1660,28 +1462,6 @@
                 "text": "（范例）红红的苹果像小脸蛋。"
               }
             ]
-          },
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "qín láo",
-                "text": "勤劳"
-              },
-              {
-                "pinyin": "huā cóng",
-                "text": "花丛"
-              },
-              {
-                "pinyin": "wèi yǔ chóu mó",
-                "text": "未雨绸缪"
-              },
-              {
-                "pinyin": "qiāo qiāo de",
-                "text": "悄悄地"
-              }
-            ]
           }
         ],
         "annotation": "",
@@ -1815,28 +1595,6 @@
               {
                 "pinyin": "shén tài miáo xiě tā chuí tóu sāng qì dì dī xià le tóu",
                 "text": "神态描写：他垂头丧气地低下头。（写出了他不开心的样子）"
-              }
-            ]
-          },
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "bēn pǎo",
-                "text": "奔跑"
-              },
-              {
-                "pinyin": "róu ruǎn",
-                "text": "柔软"
-              },
-              {
-                "pinyin": "jiān chí bú xiè",
-                "text": "坚持不懈"
-              },
-              {
-                "pinyin": "yǎng wàng",
-                "text": "仰望"
               }
             ]
           }
@@ -1988,28 +1746,6 @@
               {
                 "pinyin": "zhī mɑ kāi huā jié jié gāo",
                 "text": "芝麻开花——节节高。（形容越来越好）"
-              }
-            ]
-          },
-          {
-            "title": "词语小宝库",
-            "titlePinyin": "cí yǔ xiǎo bǎo kù",
-            "content": [
-              {
-                "pinyin": "lǐ xiǎng",
-                "text": "理想"
-              },
-              {
-                "pinyin": "qián chéng",
-                "text": "前程"
-              },
-              {
-                "pinyin": "zhǐ yuān",
-                "text": "纸鸢"
-              },
-              {
-                "pinyin": "sàn xué",
-                "text": "散学"
               }
             ]
           }

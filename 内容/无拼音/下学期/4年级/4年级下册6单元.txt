@@ -170,29 +170,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "神韵兼备"
-              },
-              {
-                "text": "坚持不懈"
-              },
-              {
-                "text": "半途而废"
-              },
-              {
-                "text": "锲（qiè）而不舍"
-              },
-              {
-                "text": "放弃"
-              },
-              {
-                "text": "勉励"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {

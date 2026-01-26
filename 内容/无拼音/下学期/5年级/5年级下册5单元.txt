@@ -167,29 +167,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "天衣无缝"
-              },
-              {
-                "text": "半信半疑"
-              },
-              {
-                "text": "绰（chuò）号"
-              },
-              {
-                "text": "悠然自得"
-              },
-              {
-                "text": "干脆"
-              },
-              {
-                "text": "衔（xián）接"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {

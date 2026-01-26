@@ -169,29 +169,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "威逼利诱"
-              },
-              {
-                "text": "坚韧不拔"
-              },
-              {
-                "text": "温文尔雅"
-              },
-              {
-                "text": "憧（chōng）憬"
-              },
-              {
-                "text": "凋（diāo）零"
-              },
-              {
-                "text": "坦荡"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {
@@ -276,29 +253,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "生机勃勃"
-              },
-              {
-                "text": "蔚蓝辽阔"
-              },
-              {
-                "text": "沧沧（cāng）凉凉"
-              },
-              {
-                "text": "深邃（suì）"
-              },
-              {
-                "text": "迸（bèng）发"
-              },
-              {
-                "text": "倔强"
-              }
-            ]
-          },
           {
             "title": "写作技巧：开头",
             "content": [
@@ -385,29 +339,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "渐行渐远"
-              },
-              {
-                "text": "推敲"
-              },
-              {
-                "text": "离愁别绪"
-              },
-              {
-                "text": "浥（yì）湿"
-              },
-              {
-                "text": "惬意"
-              },
-              {
-                "text": "宁静"
-              }
-            ]
-          },
-          {
             "title": "写作技巧：结尾",
             "content": [
               {
@@ -492,29 +423,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "润物无声"
-              },
-              {
-                "text": "若隐若现"
-              },
-              {
-                "text": "苦其心志"
-              },
-              {
-                "text": "细腻"
-              },
-              {
-                "text": "酥（sū）"
-              },
-              {
-                "text": "磨砺"
-              }
-            ]
-          },
-          {
             "title": "八字成语/名言",
             "content": [
               {
@@ -595,29 +503,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "豁然开朗"
-              },
-              {
-                "text": "否极泰来"
-              },
-              {
-                "text": "豪情壮志"
-              },
-              {
-                "text": "瞬（shùn）息"
-              },
-              {
-                "text": "羁（jī）绊"
-              },
-              {
-                "text": "洒脱"
-              }
-            ]
-          },
           {
             "title": "歇后语/谚语",
             "content": [
@@ -806,29 +691,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "时光荏苒"
-              },
-              {
-                "text": "一去不返"
-              },
-              {
-                "text": "飒爽英姿"
-              },
-              {
-                "text": "徘（pái）徊（huái）"
-              },
-              {
-                "text": "机杼（zhù）"
-              },
-              {
-                "text": "萌发"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {
@@ -900,29 +762,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "大义凛然"
-              },
-              {
-                "text": "止于至善"
-              },
-              {
-                "text": "坚毅不屈"
-              },
-              {
-                "text": "凝（níng）视"
-              },
-              {
-                "text": "凛（lǐn）冽"
-              },
-              {
-                "text": "解脱"
-              }
-            ]
-          },
           {
             "title": "修辞手法",
             "content": [
@@ -997,29 +836,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "一鼓作气"
-              },
-              {
-                "text": "憨态可掬"
-              },
-              {
-                "text": "通向未来"
-              },
-              {
-                "text": "勾勒（lè）"
-              },
-              {
-                "text": "纤（xiān）细"
-              },
-              {
-                "text": "睿智"
-              }
-            ]
-          },
-          {
             "title": "修辞手法",
             "content": [
               {
@@ -1092,29 +908,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "旷达不羁"
-              },
-              {
-                "text": "父爱如山"
-              },
-              {
-                "text": "后天培养"
-              },
-              {
-                "text": "蹒（pán）跚（shān）"
-              },
-              {
-                "text": "浸（jìn）润"
-              },
-              {
-                "text": "庸常"
-              }
-            ]
-          },
           {
             "title": "描写手法",
             "content": [
@@ -1194,29 +987,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "前程似锦"
-              },
-              {
-                "text": "山花烂漫"
-              },
-              {
-                "text": "眉眼盈盈"
-              },
-              {
-                "text": "隼（sǔn）"
-              },
-              {
-                "text": "盈（yíng）盈"
-              },
-              {
-                "text": "卓越"
-              }
-            ]
-          },
           {
             "title": "描写手法",
             "content": [

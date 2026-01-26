@@ -157,29 +157,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "挨挨挤挤（āi jǐ）"
-              },
-              {
-                "text": "碧绿（bì lǜ）"
-              },
-              {
-                "text": "清香（qīng xiāng）"
-              },
-              {
-                "text": "姿势（zī shì）"
-              },
-              {
-                "text": "雪白"
-              },
-              {
-                "text": "嫩黄"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {
@@ -326,29 +303,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "波光粼粼"
-              },
-              {
-                "text": "扑（pū）通"
-              },
-              {
-                "text": "暖洋洋"
-              },
-              {
-                "text": "一蹦一跳"
-              },
-              {
-                "text": "粉红"
-              },
-              {
-                "text": "翠绿"
-              }
-            ]
-          },
           {
             "title": "写作技巧：结尾",
             "content": [

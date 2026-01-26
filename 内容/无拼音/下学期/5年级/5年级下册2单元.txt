@@ -171,29 +171,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "赤手空拳"
-              },
-              {
-                "text": "惊心动魄"
-              },
-              {
-                "text": "忠心耿耿"
-              },
-              {
-                "text": "胯（kuà）部"
-              },
-              {
-                "text": "抡（lūn）起"
-              },
-              {
-                "text": "咆哮"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {
@@ -282,29 +259,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "沧沧凉凉"
-              },
-              {
-                "text": "光彩夺目"
-              },
-              {
-                "text": "天经地义"
-              },
-              {
-                "text": "迸（bèng）溅"
-              },
-              {
-                "text": "盘盂（yú）"
-              },
-              {
-                "text": "幽寂"
-              }
-            ]
-          },
-          {
             "title": "写作技巧：开头",
             "content": [
               {
@@ -382,29 +336,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "层层叠叠"
-              },
-              {
-                "text": "随风飞舞"
-              },
-              {
-                "text": "永不言弃"
-              },
-              {
-                "text": "溺（nì）亡"
-              },
-              {
-                "text": "瓤（ráng）"
-              },
-              {
-                "text": "清爽"
-              }
-            ]
-          },
           {
             "title": "写作技巧：结尾",
             "content": [
@@ -770,29 +701,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "豪气冲天"
-              },
-              {
-                "text": "粉骨碎身"
-              },
-              {
-                "text": "若等闲"
-              },
-              {
-                "text": "斟（zhēn）酒"
-              },
-              {
-                "text": "焚（fén）烧"
-              },
-              {
-                "text": "坚韧"
-              }
-            ]
-          },
           {
             "title": "好段落",
             "content": [

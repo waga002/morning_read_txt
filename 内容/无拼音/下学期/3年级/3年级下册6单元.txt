@@ -106,17 +106,6 @@
                 "text": "草地上蹦跳着鱼儿和笑声。（把“笑声”写得像鱼儿一样会跳，真有趣！）"
               }
             ]
-          },
-          {
-            "title": "好段落",
-            "content": [
-              {
-                "text": "垂柳把溪水当作梳妆的镜子，山溪像绿玉带一样平静。人影给溪水染绿了，钓竿上立着一只红蜻蜓。（视觉描写：颜色丰富）"
-              },
-              {
-                "text": "大蜻蜓复眼大，翅膀强，飞得快，能捕食苍蝇、蚊子。小蜻蜓复眼小，翅膀弱，飞得慢，主要捕食小虫。（总分结构：介绍蜻蜓）"
-              }
-            ]
           }
         ],
         "task": "请你也用“像”字写一个关于溪水的句子。",
@@ -192,29 +181,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "垂头丧气（chuí tóu sàng qì）"
-              },
-              {
-                "text": "坑坑洼洼（kēng kēng wā wā）"
-              },
-              {
-                "text": "老掉牙（lǎo diào yá）"
-              },
-              {
-                "text": "剃头（tì tóu）"
-              },
-              {
-                "text": "服气（fú qì）"
-              },
-              {
-                "text": "纽扣（niǔ kòu）"
-              }
-            ]
-          },
           {
             "title": "好段落",
             "content": [
@@ -307,29 +273,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "五彩缤纷（wǔ cǎi bīn fēn）"
-              },
-              {
-                "text": "清清（qīng qīng）亮亮"
-              },
-              {
-                "text": "啪嗒（pā dā）"
-              },
-              {
-                "text": "透明（tòu míng）"
-              },
-              {
-                "text": "萤火虫（yíng huǒ chóng）"
-              },
-              {
-                "text": "击（jī）破"
-              }
-            ]
-          },
-          {
             "title": "写作技巧：开头",
             "content": [
               {
@@ -414,29 +357,6 @@
         "title": "日积月累",
         "type": "daily_accumulation",
         "contentObject": [
-          {
-            "title": "好词",
-            "content": [
-              {
-                "text": "玲珑（líng lóng）娇小"
-              },
-              {
-                "text": "五色浮光（fú guāng）"
-              },
-              {
-                "text": "凉丝丝（liáng sī sī）"
-              },
-              {
-                "text": "痒（yǎng）酥酥"
-              },
-              {
-                "text": "脆（cuì）丽"
-              },
-              {
-                "text": "贝壳（bèi ké）"
-              }
-            ]
-          },
           {
             "title": "写作技巧：结尾",
             "content": [

@@ -156,29 +156,6 @@
         "type": "daily_accumulation",
         "contentObject": [
           {
-            "title": "好词",
-            "content": [
-              {
-                "text": "确确实实（què què shí shí）"
-              },
-              {
-                "text": "准确无误（zhǔn què wú wù）"
-              },
-              {
-                "text": "长途跋涉（cháng tú bá shè）"
-              },
-              {
-                "text": "嗡嗡（wēng wēng）"
-              },
-              {
-                "text": "勤劳（qín láo）"
-              },
-              {
-                "text": "飞舞（fēi wǔ）"
-              }
-            ]
-          },
-          {
             "title": "好段落",
             "content": [
               {
