@@ -75,19 +75,19 @@
             "content": [
               {
                 "pinyin": "wén wén jù",
-                "text": "文——文具"
+                "text": "文 -- 文具"
               },
               {
                 "pinyin": "cì yī cì",
-                "text": "次——一次"
+                "text": "次 -- 一次"
               },
               {
                 "pinyin": "zhǎo zhǎo dào",
-                "text": "找——找到"
+                "text": "找 -- 找到"
               },
               {
                 "pinyin": "bān bān jí",
-                "text": "班——班级"
+                "text": "班 -- 班级"
               }
             ]
           }
@@ -527,19 +527,19 @@
             "content": [
               {
                 "pinyin": "hóng hóng huā",
-                "text": "红——红花"
+                "text": "红 -- 红花"
               },
               {
                 "pinyin": "yè lǜ yè",
-                "text": "叶——绿叶"
+                "text": "叶 -- 绿叶"
               },
               {
                 "pinyin": "mǎ mǎ lù",
-                "text": "马——马路"
+                "text": "马 -- 马路"
               },
               {
                 "pinyin": "yī yī fú",
-                "text": "衣——衣服"
+                "text": "衣 -- 衣服"
               }
             ]
           }
@@ -899,19 +899,19 @@
             "content": [
               {
                 "pinyin": "kōng tiān kōng",
-                "text": "空——天空"
+                "text": "空 -- 天空"
               },
               {
                 "pinyin": "shān xià shān",
-                "text": "山——下山"
+                "text": "山 -- 下山"
               },
               {
                 "pinyin": "pǎo pǎo bù",
-                "text": "跑——跑步"
+                "text": "跑 -- 跑步"
               },
               {
                 "pinyin": "yù yù mǐ",
-                "text": "玉——玉米"
+                "text": "玉 -- 玉米"
               }
             ]
           }

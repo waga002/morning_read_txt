@@ -1,7 +1,7 @@
 [
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 1,
     "theme": "四季宝宝来聚会",
@@ -77,19 +77,19 @@
             "content": [
               {
                 "pinyin": "chūn chūn tiān",
-                "text": "春——春天"
+                "text": "春 -- 春天"
               },
               {
                 "pinyin": "fēng fēng ér",
-                "text": "风——风儿"
+                "text": "风 -- 风儿"
               },
               {
                 "pinyin": "xuě xuě huā",
-                "text": "雪——雪花"
+                "text": "雪 -- 雪花"
               },
               {
                 "pinyin": "huā huā duǒ",
-                "text": "花——花朵"
+                "text": "花 -- 花朵"
               }
             ]
           }
@@ -103,7 +103,7 @@
   },
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 2,
     "theme": "小动物的好朋友",
@@ -182,7 +182,7 @@
   },
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 3,
     "theme": "彩色的大自然",
@@ -286,7 +286,7 @@
   },
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 4,
     "theme": "名字里的秘密",
@@ -365,7 +365,7 @@
   },
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 5,
     "theme": "爱心小世界",
@@ -445,7 +445,7 @@
   },
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 1,
     "day": 6,
     "theme": "快乐童谣会",
@@ -501,19 +501,19 @@
             "content": [
               {
                 "pinyin": "zuǒ zuǒ biān",
-                "text": "左——左边"
+                "text": "左 -- 左边"
               },
               {
                 "pinyin": "yòu yòu biān",
-                "text": "右——右边"
+                "text": "右 -- 右边"
               },
               {
                 "pinyin": "dà dà rén",
-                "text": "大——大人"
+                "text": "大 -- 大人"
               },
               {
                 "pinyin": "xiǎo xiǎo gǒu",
-                "text": "小——小狗"
+                "text": "小 -- 小狗"
               }
             ]
           }
@@ -526,7 +526,7 @@
   },
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 1,
     "theme": "清清小池塘",
@@ -613,7 +613,7 @@
   },
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 2,
     "theme": "美丽的画卷",
@@ -700,7 +700,7 @@
   },
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 3,
     "theme": "动脑筋时间",
@@ -783,7 +783,7 @@
   },
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 4,
     "theme": "快乐识字课",
@@ -857,19 +857,19 @@
             "content": [
               {
                 "pinyin": "qíng qíng tiān",
-                "text": "晴——晴天"
+                "text": "晴 -- 晴天"
               },
               {
                 "pinyin": "qīng qīng cǎo",
-                "text": "青——青草"
+                "text": "青 -- 青草"
               },
               {
                 "pinyin": "qǐng qǐng zuò",
-                "text": "请——请坐"
+                "text": "请 -- 请坐"
               },
               {
                 "pinyin": "qīng qīng shuǐ",
-                "text": "清——清水"
+                "text": "清 -- 清水"
               }
             ]
           }
@@ -882,7 +882,7 @@
   },
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 5,
     "theme": "小小的温暖",
@@ -965,7 +965,7 @@
   },
   {
     "grade": 1,
-    "term": 2,
+    "term": 1,
     "week": 2,
     "day": 6,
     "theme": "大自然的歌声",

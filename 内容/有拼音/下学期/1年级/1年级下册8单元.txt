@@ -75,19 +75,19 @@
             "content": [
               {
                 "pinyin": "mián mián huā",
-                "text": "棉——棉花"
+                "text": "棉 -- 棉花"
               },
               {
                 "pinyin": "niáng gū niang",
-                "text": "娘——姑娘"
+                "text": "娘 -- 姑娘"
               },
               {
                 "pinyin": "zhì zhì bìng",
-                "text": "治——治病"
+                "text": "治 -- 治病"
               },
               {
                 "pinyin": "yàn yàn zi",
-                "text": "燕——燕子"
+                "text": "燕 -- 燕子"
               }
             ]
           }
@@ -519,19 +519,19 @@
             "content": [
               {
                 "pinyin": "diào diào yú",
-                "text": "钓——钓鱼"
+                "text": "钓 -- 钓鱼"
               },
               {
                 "pinyin": "mì mì fěng",
-                "text": "蜜——蜜蜂"
+                "text": "蜜 -- 蜜蜂"
               },
               {
                 "pinyin": "yú dà yú",
-                "text": "鱼——大鱼"
+                "text": "鱼 -- 大鱼"
               },
               {
                 "pinyin": "fēi fēi niǎo",
-                "text": "飞——飞鸟"
+                "text": "飞 -- 飞鸟"
               }
             ]
           }
@@ -883,19 +883,19 @@
             "content": [
               {
                 "pinyin": "jiè jiè shū",
-                "text": "借——借书"
+                "text": "借 -- 借书"
               },
               {
                 "pinyin": "qiáng qiáng biào",
-                "text": "墙——墙壁"
+                "text": "墙 -- 墙壁"
               },
               {
                 "pinyin": "yǎo yǎo duàn",
-                "text": "咬——咬断"
+                "text": "咬 -- 咬断"
               },
               {
                 "pinyin": "pó wài pó",
-                "text": "婆——外婆"
+                "text": "婆 -- 外婆"
               }
             ]
           }

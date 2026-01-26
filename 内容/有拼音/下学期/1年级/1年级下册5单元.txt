@@ -69,19 +69,19 @@
             "content": [
               {
                 "pinyin": "mǎ mǎ yǐ",
-                "text": "蚂——蚂蚁"
+                "text": "蚂 -- 蚂蚁"
               },
               {
                 "pinyin": "yùn yùn dòng",
-                "text": "运——运动"
+                "text": "运 -- 运动"
               },
               {
                 "pinyin": "chí chuán tǐng",
-                "text": "池——池塘"
+                "text": "池 -- 池塘"
               },
               {
                 "pinyin": "huān huān lè",
-                "text": "欢——欢乐"
+                "text": "欢 -- 欢乐"
               }
             ]
           }
@@ -517,15 +517,15 @@
             "content": [
               {
                 "pinyin": "jié jié rì",
-                "text": "节——节日"
+                "text": "节 -- 节日"
               },
               {
                 "pinyin": "yìng yìng dā",
-                "text": "应——应当"
+                "text": "应 -- 应当"
               },
               {
                 "pinyin": "shàn shàn liáng",
-                "text": "善——善良"
+                "text": "善 -- 善良"
               }
             ]
           }
@@ -865,15 +865,15 @@
             "content": [
               {
                 "pinyin": "zhào yáng guāng",
-                "text": "照——阳光"
+                "text": "照 -- 阳光"
               },
               {
                 "pinyin": "yí yí dìng",
-                "text": "宜——一定"
+                "text": "宜 -- 一定"
               },
               {
                 "pinyin": "yòu yòu ér yuán",
-                "text": "幼——幼儿园"
+                "text": "幼 -- 幼儿园"
               }
             ]
           }

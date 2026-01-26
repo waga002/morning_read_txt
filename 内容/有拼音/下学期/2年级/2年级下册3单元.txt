@@ -110,7 +110,7 @@
         "appreciationPinyin": "shī rén yòng kuā zhāng hé bǐ yù de shǒu fǎ xiě chū le pù bù de zhuàng guān jǐng xiàng",
         "task": "大声朗读这首诗，读出瀑布的气势。",
         "taskPinyin": "dà shēng lǎng dú zhè shǒu shī dú chū pù bù de qì shì",
-        "taskAnswer": "我会用宏亮且有节奏的声音朗读：飞流直下——三千尺，疑是银河——落九天！",
+        "taskAnswer": "我会用宏亮且有节奏的声音朗读：飞流直下 -- 三千尺，疑是银河 -- 落九天！",
         "taskAnswerPinyin": "wǒ huì yòng hóng liàng qiě yǒu jié zòu de shēng yīn lǎng dú fēi liú zhí xià sān qiān chǐ yí shì yín hé luò jiǔ tiān"
       },
       {
@@ -931,7 +931,7 @@
               },
               {
                 "pinyin": "hǎi bàng de xiā zi kàn bù jiǎn lù",
-                "text": "海蚌里的虾子——看不见路（歇后语）"
+                "text": "海蚌里的虾子 -- 看不见路（歇后语）"
               }
             ]
           }
@@ -1869,7 +1869,7 @@
               },
               {
                 "pinyin": "zhú lán dǎ shuǐ yī chǎng kòng",
-                "text": "竹篮打水——一场空（歇后语）"
+                "text": "竹篮打水 -- 一场空（歇后语）"
               }
             ]
           }

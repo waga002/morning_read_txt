@@ -903,11 +903,11 @@
             "content": [
               {
                 "pinyin": "zhú lán dǎ shuǐ yī chǎng kōng",
-                "text": "竹篮打水——一场空（比喻白费力气）"
+                "text": "竹篮打水 -- 一场空（比喻白费力气）"
               },
               {
                 "pinyin": "xiǎo mǎ guò hé kàn zì jǐ",
-                "text": "小马过河——看自己（比喻要亲自尝试）"
+                "text": "小马过河 -- 看自己（比喻要亲自尝试）"
               },
               {
                 "pinyin": "huā yào yè fù rén yào xīn hǎo",
@@ -924,7 +924,7 @@
         "appreciationPinyin": "",
         "task": "试着背诵这两条歇后语。",
         "taskPinyin": "shì zhe bèi sòng zhè liǎng tiáo xiē hòu yǔ",
-        "taskAnswer": "竹篮打水——一场空；小马过河——看自己。",
+        "taskAnswer": "竹篮打水 -- 一场空；小马过河 -- 看自己。",
         "taskAnswerPinyin": "zhú lán dǎ shuǐ yī chǎng kōng xiǎo mǎ guò hé kàn zì jǐ"
       }
     ]

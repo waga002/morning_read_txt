@@ -59,19 +59,19 @@
             "content": [
               {
                 "pinyin": "zhōng zhōng guó",
-                "text": "中——中国"
+                "text": "中 -- 中国"
               },
               {
                 "pinyin": "guó guó jiā",
-                "text": "国——国家"
+                "text": "国 -- 国家"
               },
               {
                 "pinyin": "wǒ wǒ men",
-                "text": "我——我们"
+                "text": "我 -- 我们"
               },
               {
                 "pinyin": "ài ài xīn",
-                "text": "爱——爱心"
+                "text": "爱 -- 爱心"
               }
             ]
           }
@@ -446,19 +446,19 @@
             "content": [
               {
                 "pinyin": "fēng dà fēng",
-                "text": "风——大风"
+                "text": "风 -- 大风"
               },
               {
                 "pinyin": "huā huā duǒ",
-                "text": "花——花朵"
+                "text": "花 -- 花朵"
               },
               {
                 "pinyin": "yǔ xiǎo yǔ",
-                "text": "雨——小雨"
+                "text": "雨 -- 小雨"
               },
               {
                 "pinyin": "cǎo lǜ cǎo",
-                "text": "草——绿草"
+                "text": "草 -- 绿草"
               }
             ]
           }
@@ -767,19 +767,19 @@
             "content": [
               {
                 "pinyin": "běi běi jīng",
-                "text": "北——北京"
+                "text": "北 -- 北京"
               },
               {
                 "pinyin": "mén dà mén",
-                "text": "门——大门"
+                "text": "门 -- 大门"
               },
               {
                 "pinyin": "guǎng guǎng chǎng",
-                "text": "广——广场"
+                "text": "广 -- 广场"
               },
               {
                 "pinyin": "shēng shēng qǐ",
-                "text": "升——升起"
+                "text": "升 -- 升起"
               }
             ]
           }

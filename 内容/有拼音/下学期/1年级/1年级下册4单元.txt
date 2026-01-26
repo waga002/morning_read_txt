@@ -77,19 +77,19 @@
             "content": [
               {
                 "pinyin": "sī sī niàn",
-                "text": "思——思念"
+                "text": "思 -- 思念"
               },
               {
                 "pinyin": "chuáng mù chuáng",
-                "text": "床——木床"
+                "text": "床 -- 木床"
               },
               {
                 "pinyin": "guāng lán guāng",
-                "text": "光——灯光"
+                "text": "光 -- 灯光"
               },
               {
                 "pinyin": "xiāng gù xiāng",
-                "text": "乡——故乡"
+                "text": "乡 -- 故乡"
               }
             ]
           }
@@ -495,19 +495,19 @@
             "content": [
               {
                 "pinyin": "shǒu xiǎo shǒu",
-                "text": "手——小手"
+                "text": "手 -- 小手"
               },
               {
                 "pinyin": "zòng zòng zi",
-                "text": "粽——粽子"
+                "text": "粽 -- 粽子"
               },
               {
                 "pinyin": "yè yè zi",
-                "text": "叶——叶子"
+                "text": "叶 -- 叶子"
               },
               {
                 "pinyin": "mǐ dà mǐ",
-                "text": "米——大米"
+                "text": "米 -- 大米"
               }
             ]
           }
@@ -829,19 +829,19 @@
             "content": [
               {
                 "pinyin": "yuè yuè liàng",
-                "text": "月——月亮"
+                "text": "月 -- 月亮"
               },
               {
                 "pinyin": "ér ér zi",
-                "text": "儿——儿子"
+                "text": "儿 -- 儿子"
               },
               {
                 "pinyin": "tóu tóu fa",
-                "text": "头——头发"
+                "text": "头 -- 头发"
               },
               {
                 "pinyin": "lǐ bā lǐ",
-                "text": "里——手里"
+                "text": "里 -- 手里"
               }
             ]
           }

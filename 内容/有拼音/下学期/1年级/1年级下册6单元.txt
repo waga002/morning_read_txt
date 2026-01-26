@@ -61,23 +61,23 @@
             "content": [
               {
                 "pinyin": "shǒu shǒu xīn",
-                "text": "首——手心"
+                "text": "首 -- 手心"
               },
               {
                 "pinyin": "cǎi cǎi huā",
-                "text": "采——采花"
+                "text": "采 -- 采花"
               },
               {
                 "pinyin": "ú wú rén",
-                "text": "无——无人"
+                "text": "无 -- 无人"
               },
               {
                 "pinyin": "shù shù yè",
-                "text": "树——树叶"
+                "text": "树 -- 树叶"
               },
               {
                 "pinyin": "ài ài xīn",
-                "text": "爱——爱心"
+                "text": "爱 -- 爱心"
               }
             ]
           }
@@ -485,19 +485,19 @@
             "content": [
               {
                 "pinyin": "lián lián huā",
-                "text": "连——连花"
+                "text": "连 -- 连花"
               },
               {
                 "pinyin": "yùn yùn dòng",
-                "text": "运——运动"
+                "text": "运 -- 运动"
               },
               {
                 "pinyin": "wǎng xiàng wǎng",
-                "text": "网——上网"
+                "text": "网 -- 上网"
               },
               {
                 "pinyin": "yǐn yǐn shuǐ",
-                "text": "饮——饮水"
+                "text": "饮 -- 饮水"
               }
             ]
           }
@@ -821,19 +821,19 @@
             "content": [
               {
                 "pinyin": "liàng liàng jīng jīng",
-                "text": "亮——亮晶晶"
+                "text": "亮 -- 亮晶晶"
               },
               {
                 "pinyin": "tái tái tóu",
-                "text": "台——抬头"
+                "text": "台 -- 抬头"
               },
               {
                 "pinyin": "fàng fàng xué",
-                "text": "放——放学"
+                "text": "放 -- 放学"
               },
               {
                 "pinyin": "yú yú ér",
-                "text": "鱼——鱼儿"
+                "text": "鱼 -- 鱼儿"
               }
             ]
           }

@@ -661,8 +661,8 @@
         "appreciationPinyin": "zhè shǒu shī xiě chū le gōng jī de wēi wǔ hé tā qín láo de tè diǎn",
         "task": "模仿大公鸡叫一叫，并试着背诵这首诗。",
         "taskPinyin": "mó fǎng dà gōng jī jiào yī jiào bìng shì zhe bèi sòng zhè shǒu shī",
-        "taskAnswer": "喔喔喔——我背会了这首神气的《画鸡》。",
-        "taskAnswerPinyin": "ō ō ō —— wǒ bèi huì le zhè shǒu shén qì de huà jī"
+        "taskAnswer": "喔喔喔 -- 我背会了这首神气的《画鸡》。",
+        "taskAnswerPinyin": "ō ō ō  --  wǒ bèi huì le zhè shǒu shén qì de huà jī"
       },
       {
         "title": "论语（节选）",
@@ -863,7 +863,7 @@
               },
               {
                 "pinyin": "shí liù kāi huā xiào hé hé",
-                "text": "石榴开花——笑呵呵。（形容很开心）"
+                "text": "石榴开花 -- 笑呵呵。（形容很开心）"
               }
             ]
           }
@@ -876,8 +876,8 @@
         "appreciationPinyin": "",
         "task": "说一个你听过的歇后语。",
         "taskPinyin": "shuō yí gè nǐ tīng guò de xiē hòu yǔ",
-        "taskAnswer": "小葱拌豆腐——一清二白。",
-        "taskAnswerPinyin": "xiǎo cōng bàn dòu fu —— yī qīng èr bái"
+        "taskAnswer": "小葱拌豆腐 -- 一清二白。",
+        "taskAnswerPinyin": "xiǎo cōng bàn dòu fu  --  yī qīng èr bái"
       }
     ]
   },
@@ -1745,7 +1745,7 @@
               },
               {
                 "pinyin": "zhī mɑ kāi huā jié jié gāo",
-                "text": "芝麻开花——节节高。（形容越来越好）"
+                "text": "芝麻开花 -- 节节高。（形容越来越好）"
               }
             ]
           }
