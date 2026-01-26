@@ -1,7 +1,7 @@
 [
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 13,
     "day": 1,
     "theme": "文具宝宝要回家",
@@ -61,24 +61,24 @@
             "titlePinyin": "shēng zì kāi huā",
             "content": [
               {
-                "pinyin": "wén wén jù wén míng",
-                "text": "文——文具、文明"
+                "pinyin": "wén wén jù",
+                "text": "文 -- 文具"
               },
               {
-                "pinyin": "cì yī cì cì zǎo",
-                "text": "次——一次、次早"
+                "pinyin": "cì yī cì",
+                "text": "次 -- 一次"
               },
               {
-                "pinyin": "zhǎo zhǎo dào zhǎo jiā",
-                "text": "找——找到、找家"
+                "pinyin": "zhǎo zhǎo dào",
+                "text": "找 -- 找到"
               },
               {
-                "pinyin": "píng píng ān píng guǒ",
-                "text": "平——平安、苹果"
+                "pinyin": "píng píng ān",
+                "text": "平 -- 平安"
               },
               {
-                "pinyin": "bàn bàn fǎ bàn shǒu",
-                "text": "办——办法、帮手"
+                "pinyin": "bàn bàn fǎ",
+                "text": "办 -- 办法"
               }
             ]
           }
@@ -91,7 +91,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 13,
     "day": 2,
     "theme": "一分钟的小秘密",
@@ -160,7 +160,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 13,
     "day": 3,
     "theme": "早早起，不迟到",
@@ -270,7 +270,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 13,
     "day": 4,
     "theme": "通知大家开大会",
@@ -346,7 +346,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 13,
     "day": 5,
     "theme": "小猴子的选择",
@@ -425,7 +425,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 13,
     "day": 6,
     "theme": "玉米、桃子和小兔",
@@ -487,24 +487,24 @@
             "titlePinyin": "shēng zì kāi huā",
             "content": [
               {
-                "pinyin": "kuài kuài lè kuài huo",
-                "text": "快——快乐、快活"
+                "pinyin": "kuài kuài lè",
+                "text": "快 -- 快乐"
               },
               {
-                "pinyin": "fēi fēi jī fēi xíng",
-                "text": "非——飞机、飞行"
+                "pinyin": "fēi fēi cháng",
+                "text": "非 -- 非常"
               },
               {
-                "pinyin": "cháng cháng jiāng chàng gē",
-                "text": "常——长江、唱歌"
+                "pinyin": "cháng cháng jiāng",
+                "text": "常 -- 长江"
               },
               {
-                "pinyin": "wáng wáng zi wáng guó",
-                "text": "王——王子、王国"
+                "pinyin": "wáng wáng zi",
+                "text": "王 -- 王子"
               },
               {
-                "pinyin": "jīn jīn tiān jīn nián",
-                "text": "今——今天、今年"
+                "pinyin": "jīn jīn tiān",
+                "text": "今 -- 今天"
               }
             ]
           }
@@ -517,7 +517,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 14,
     "day": 1,
     "theme": "做事有条理",
@@ -596,7 +596,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 14,
     "day": 2,
     "theme": "爱护小动物",
@@ -687,7 +687,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 14,
     "day": 3,
     "theme": "爱护我们的家",
@@ -767,7 +767,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 14,
     "day": 4,
     "theme": "时间像个小马车",
@@ -835,24 +835,24 @@
             "titlePinyin": "shēng zì kāi huā",
             "content": [
               {
-                "pinyin": "zhōng zhōng biǎo zhōng wǔ",
-                "text": "钟——钟表、中午"
+                "pinyin": "zhōng zhōng biǎo",
+                "text": "钟 -- 钟表"
               },
               {
-                "pinyin": "diǎn diǎn tóu diǎn xin",
-                "text": "点——点头、点心"
+                "pinyin": "diǎn diǎn tóu",
+                "text": "点 -- 点头"
               },
               {
-                "pinyin": "jīng jīng guò jīng cháng",
-                "text": "经——经过、经常"
+                "pinyin": "jīng jīng guò",
+                "text": "经 -- 经过"
               },
               {
-                "pinyin": "zuò zuò wèi zuò fǎ",
-                "text": "坐——座位、做法"
+                "pinyin": "zuò zuò wèi",
+                "text": "座 -- 座位"
               },
               {
-                "pinyin": "gōng gōng yuán gōng gòng",
-                "text": "公——公园、公共"
+                "pinyin": "gōng gōng yuán",
+                "text": "公 -- 公园"
               }
             ]
           }
@@ -865,7 +865,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 14,
     "day": 5,
     "theme": "珍惜每一秒",
@@ -940,7 +940,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 14,
     "day": 6,
     "theme": "快乐的一周",
@@ -1024,8 +1024,8 @@
                 "text": "一年之计在于春，一日之计在于晨。（珍惜时间）"
               },
               {
-                "pinyin": "yòng gōng yú shào nián mò dài lǎo lái bēi shāng shēn cóng xiǎo nǔ lì",
-                "text": "用功于少年，莫待老来悲伤身。（从小努力）"
+                "pinyin": "shào zhuàng bù nǔ lì lǎo dà tú shāng bēi cóng xiǎo nǔ lì",
+                "text": "少壮不努力，老大徒伤悲。（从小努力）"
               }
             ]
           }

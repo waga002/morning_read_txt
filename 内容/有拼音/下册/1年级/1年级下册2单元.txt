@@ -71,27 +71,27 @@
             "content": [
               {
                 "pinyin": "wàng wàng jì",
-                "text": "忘——忘记"
+                "text": "忘 -- 忘记"
               },
               {
                 "pinyin": "jǐng shuǐ jǐng",
-                "text": "井——水井"
+                "text": "井 -- 水井"
               },
               {
                 "pinyin": "xiǎng xiǎng jiā",
-                "text": "想——想家"
+                "text": "想 -- 想家"
               },
               {
                 "pinyin": "máo máo bǐ",
-                "text": "毛——毛笔"
+                "text": "毛 -- 毛笔"
               },
               {
                 "pinyin": "zhǔ zhǔ yào",
-                "text": "主——主要"
+                "text": "主 -- 主要"
               },
               {
                 "pinyin": "qīn qīn rén",
-                "text": "亲——亲人"
+                "text": "亲 -- 亲人"
               }
             ]
           }
@@ -504,27 +504,27 @@
             "content": [
               {
                 "pinyin": "qù qù nián",
-                "text": "去——去年"
+                "text": "去 -- 去年"
               },
               {
                 "pinyin": "běn běn zi",
-                "text": "本——本子"
+                "text": "本 -- 本子"
               },
               {
                 "pinyin": "zǒu zǒu lù",
-                "text": "走——走路"
+                "text": "走 -- 走路"
               },
               {
                 "pinyin": "jīng jīng guò",
-                "text": "经——经过"
+                "text": "经 -- 经过"
               },
               {
                 "pinyin": "ān ān quán",
-                "text": "安——安全"
+                "text": "安 -- 安全"
               },
               {
                 "pinyin": "guǎng guǎng dà",
-                "text": "广——广大"
+                "text": "广 -- 广大"
               }
             ]
           }
@@ -860,27 +860,27 @@
             "content": [
               {
                 "pinyin": "jì jì zhù",
-                "text": "记——记住"
+                "text": "记 -- 记住"
               },
               {
                 "pinyin": "niàn niàn shū",
-                "text": "念——念书"
+                "text": "念 -- 念书"
               },
               {
                 "pinyin": "zhǔ zhǔ yì",
-                "text": "主——主意"
+                "text": "主 -- 主意"
               },
               {
                 "pinyin": "shí shí jiān",
-                "text": "时——时间"
+                "text": "时 -- 时间"
               },
               {
                 "pinyin": "kè kè zì",
-                "text": "刻——刻字"
+                "text": "刻 -- 刻字"
               },
               {
                 "pinyin": "xiǎng xiǎng fǎ",
-                "text": "想——想法"
+                "text": "想 -- 想法"
               }
             ]
           }
@@ -1067,8 +1067,8 @@
                 "text": "一花独放不是春，百花齐放春满园。（分享与合作）"
               },
               {
-                "pinyin": "yǒu le gē ge yǒu dì di yǒu le yī shēng jiù yǒu èr gē jiā rén zhī jiān yào tuán jié yǒu ài",
-                "text": "有了哥哥有弟弟，有了医生就有二哥。（意思是家人之间要团结友爱）"
+                "pinyin": "yǒu gē ge yǒu dì di yī jiā rén yào tuán jié yǒu ài",
+                "text": "有哥哥，有弟弟，一家人要团结友爱。（意思是家人之间要团结友爱）"
               }
             ]
           }

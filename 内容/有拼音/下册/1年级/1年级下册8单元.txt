@@ -1,7 +1,7 @@
 [
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 15,
     "day": 1,
     "theme": "软软的白云朵",
@@ -65,23 +65,23 @@
             "content": [
               {
                 "pinyin": "bìng bìng rén",
-                "text": "病——病人"
+                "text": "病 -- 病人"
               },
               {
                 "pinyin": "yī yī shēng",
-                "text": "医——医生"
+                "text": "医 -- 医生"
               },
               {
                 "pinyin": "qí qí guài",
-                "text": "奇——奇怪"
+                "text": "奇 -- 奇怪"
               },
               {
                 "pinyin": "kě kě ài",
-                "text": "可——可爱"
+                "text": "可 -- 可爱"
               },
               {
                 "pinyin": "dú dú shū",
-                "text": "读——读书"
+                "text": "读 -- 读书"
               }
             ]
           }
@@ -95,7 +95,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 15,
     "day": 2,
     "theme": "湖边的大声响",
@@ -169,7 +169,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 15,
     "day": 3,
     "theme": "尾巴的用处大",
@@ -184,12 +184,12 @@
             "text": "小狗尾巴摇，见了主人喊“你好”。"
           },
           {
-            "pinyin": "lǎo shǔ wěi ba cháng dāng ān quán dài tā pǎo",
-            "text": "老鼠尾巴长，当安全袋它跑。"
+            "pinyin": "lǎo shǔ wěi ba cháng dāng píng héng gǎn tā pǎo",
+            "text": "老鼠尾巴长，当平衡杆它跑。"
           },
           {
-            "pinyin": "jīn yú wěi ba měi shǎn shǎn fā liàng guāng shǎn shǎn",
-            "text": "金鱼尾巴美，闪闪发亮光闪闪。"
+            "pinyin": "jīn yú wěi ba měi shǎn shǎn fā liàng",
+            "text": "金鱼尾巴美，闪闪发亮。"
           },
           {
             "pinyin": "měi tiáo wěi ba dōu shì bǎo",
@@ -252,16 +252,16 @@
             "titlePinyin": "cí yǔ xiǎo bǎo kù",
             "content": [
               {
-                "pinyin": "bái xuě xue",
-                "text": "白雪雪"
+                "pinyin": "xuě bái xuě bái",
+                "text": "雪白雪白"
               },
               {
-                "pinyin": "ruǎn mián mian",
+                "pinyin": "ruǎn mián mián",
                 "text": "软绵绵"
               },
               {
-                "pinyin": "piào liang liang",
-                "text": "漂亮亮"
+                "pinyin": "piào piàng liàng",
+                "text": "漂漂亮亮"
               },
               {
                 "pinyin": "pēng pēng tiào",
@@ -283,7 +283,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 15,
     "day": 4,
     "theme": "会跑的“咕咚”声",
@@ -349,7 +349,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 15,
     "day": 5,
     "theme": "没有尾巴不用怕",
@@ -435,7 +435,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 15,
     "day": 6,
     "theme": "医生本领高",
@@ -473,8 +473,8 @@
         "type": "proverb_saying",
         "contentObject": [
           {
-            "pinyin": "yùn dòng yǒu tiān shēng bìng shǎo máo bìng yùn dòng hǎo chù duō jiàn kāng",
-            "text": "运动有天生病少，毛病运动好处多。（健康）"
+            "pinyin": "tiān tiān yùn dòng shēng bìng shǎo duō yùn dòng hǎo chù duō jiàn kāng",
+            "text": "天天运动生病少，多运动好处多。（健康）"
           },
           {
             "pinyin": "dà jiā yī tiáo xīn huáng tǔ biàn chéng jīn tuán jié",
@@ -501,23 +501,23 @@
             "content": [
               {
                 "pinyin": "bié bié rén",
-                "text": "别——别人"
+                "text": "别 -- 别人"
               },
               {
                 "pinyin": "gēn gēn tou",
-                "text": "跟——跟头"
+                "text": "跟 -- 跟头"
               },
               {
                 "pinyin": "qī qī tiān",
-                "text": "七——七天"
+                "text": "七 -- 七天"
               },
               {
-                "pinyin": "xīng xīng xing",
-                "text": "星——星星"
+                "pinyin": "xīng xīng guāng",
+                "text": "星 -- 星光"
               },
               {
                 "pinyin": "xī xiāo xī",
-                "text": "息——消息"
+                "text": "息 -- 消息"
               }
             ]
           }
@@ -529,7 +529,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 16,
     "day": 1,
     "theme": "燕子医生来帮忙",
@@ -576,12 +576,12 @@
             "titlePinyin": "cí yǔ xiǎo bǎo kù",
             "content": [
               {
-                "pinyin": "qīng wa wa",
-                "text": "青蛙蛙"
+                "pinyin": "qīng wā",
+                "text": "青蛙"
               },
               {
-                "pinyin": "mián hua hua",
-                "text": "棉花花"
+                "pinyin": "mián huā",
+                "text": "棉花"
               },
               {
                 "pinyin": "yī zhī yī zhī",
@@ -607,7 +607,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 16,
     "day": 2,
     "theme": "自己动手真能干",
@@ -697,7 +697,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 16,
     "day": 3,
     "theme": "池塘音乐会",
@@ -785,7 +785,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 16,
     "day": 4,
     "theme": "一条有用的尾巴",
@@ -848,24 +848,24 @@
             "titlePinyin": "rèn dú shēng zì",
             "content": [
               {
-                "pinyin": "pá pá xià",
-                "text": "爬——爬下"
+                "pinyin": "pá pá xíng",
+                "text": "爬 -- 爬行"
               },
               {
-                "pinyin": "jiě jiě jie",
-                "text": "姐——姐姐"
+                "pinyin": "jiě jiě mèi",
+                "text": "姐 -- 姐妹"
               },
               {
                 "pinyin": "cǎo cǎo dì",
-                "text": "草——草地"
+                "text": "草 -- 草地"
               },
               {
-                "pinyin": "fāng fāng xiàng",
-                "text": "房——方向"
+                "pinyin": "fáng fáng zi",
+                "text": "房 -- 房子"
               },
               {
                 "pinyin": "ā ā yí",
-                "text": "阿——阿姨"
+                "text": "阿 -- 阿姨"
               }
             ]
           }
@@ -879,7 +879,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 16,
     "day": 5,
     "theme": "风吹草动别慌张",
@@ -957,31 +957,31 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 16,
     "day": 6,
     "theme": "谢谢好帮手",
     "content": [
       {
-        "title": "蚜虫不见了",
-        "titlePinyin": "yá chóng bù jiàn le",
+        "title": "七星瓢虫捉蚜虫",
+        "titlePinyin": "qī xīng piáo chóng zhuō yá chóng",
         "type": "children_poem",
         "contentObject": [
           {
-            "pinyin": "xiǎo xiao piáo chóng běn lǐng qiáng",
+            "pinyin": "xiǎo xiǎo piáo chóng běn lǐng qiáng",
             "text": "小小瓢虫本领强，"
           },
           {
-            "pinyin": "fēi dào mián hua shēn shàng zhāng",
-            "text": "飞到棉花身上张。"
+            "pinyin": "fēi dào mián huā yè zi shàng",
+            "text": "飞到棉花叶子上，"
           },
           {
-            "pinyin": "ā wū ā wū chī chi chī",
-            "text": "啊呜啊呜吃吃吃，"
+            "pinyin": "zhuān chī yá chóng xiǎo hái chóng",
+            "text": "专吃蚜虫小害虫，"
           },
           {
-            "pinyin": "kě wù yá chóng quán táo guāng",
-            "text": "可恶蚜虫全逃光！"
+            "pinyin": "bǎo hù mián huā zhēn néng gàn",
+            "text": "保护棉花真能干。"
           }
         ],
         "task": "小小瓢虫吃了什么？它对棉花姑娘有什么帮助？",

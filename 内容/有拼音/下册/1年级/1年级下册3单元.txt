@@ -1,7 +1,7 @@
 [
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 5,
     "day": 1,
     "theme": "好朋友手拉手",
@@ -71,27 +71,27 @@
             "content": [
               {
                 "pinyin": "kuài yī kuài er",
-                "text": "块——一块儿"
+                "text": "块 -- 一块儿"
               },
               {
                 "pinyin": "tā tā men",
-                "text": "他——他们"
+                "text": "他 -- 他们"
               },
               {
                 "pinyin": "dì cǎo dì",
-                "text": "地——草地"
+                "text": "地 -- 草地"
               },
               {
                 "pinyin": "zhǎo zhǎo dào",
-                "text": "找——找到"
+                "text": "找 -- 找到"
               },
               {
                 "pinyin": "yě yě xǔ",
-                "text": "也——也许"
+                "text": "也 -- 也许"
               },
               {
                 "pinyin": "shuō shuō huà",
-                "text": "说——说话"
+                "text": "说 -- 说话"
               }
             ]
           }
@@ -104,7 +104,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 5,
     "day": 2,
     "theme": "互助真快乐",
@@ -181,7 +181,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 5,
     "day": 3,
     "theme": "快乐在一起",
@@ -292,7 +292,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 5,
     "day": 4,
     "theme": "一个人的快乐",
@@ -361,7 +361,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 5,
     "day": 5,
     "theme": "大家在一起",
@@ -452,7 +452,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 5,
     "day": 6,
     "theme": "快乐多又多",
@@ -508,27 +508,27 @@
             "content": [
               {
                 "pinyin": "dú dú zì",
-                "text": "独——独自"
+                "text": "独 -- 独自"
               },
               {
                 "pinyin": "tiào tiào shéng",
-                "text": "跳——跳绳"
+                "text": "跳 -- 跳绳"
               },
               {
                 "pinyin": "jiǎng jiǎng huà",
-                "text": "讲——讲话"
+                "text": "讲 -- 讲话"
               },
               {
                 "pinyin": "yīn yīn yuè",
-                "text": "音——音乐"
+                "text": "音 -- 音乐"
               },
               {
                 "pinyin": "xǔ xǔ duō",
-                "text": "许——许多"
+                "text": "许 -- 许多"
               },
               {
                 "pinyin": "hěn hěn hǎo",
-                "text": "很——很好"
+                "text": "很 -- 很好"
               }
             ]
           }
@@ -541,7 +541,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 6,
     "day": 1,
     "theme": "友爱的力量",
@@ -626,7 +626,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 6,
     "day": 2,
     "theme": "热闹的树林",
@@ -717,7 +717,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 6,
     "day": 3,
     "theme": "游戏的快乐",
@@ -798,7 +798,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 6,
     "day": 4,
     "theme": "不孤单的树",
@@ -872,27 +872,27 @@
             "content": [
               {
                 "pinyin": "lè kuài lè",
-                "text": "乐——快乐"
+                "text": "乐 -- 快乐"
               },
               {
                 "pinyin": "hù hù xiāng",
-                "text": "互——互相"
+                "text": "互 -- 互相"
               },
               {
                 "pinyin": "jiào jiào shēng",
-                "text": "叫——叫声"
+                "text": "叫 -- 叫声"
               },
               {
                 "pinyin": "zhāo zhāo hu",
-                "text": "招——招呼"
+                "text": "招 -- 招呼"
               },
               {
                 "pinyin": "dān dān dú",
-                "text": "单——单独"
+                "text": "单 -- 单独"
               },
               {
                 "pinyin": "jū jū zhù",
-                "text": "居——居住"
+                "text": "居 -- 居住"
               }
             ]
           }
@@ -905,7 +905,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 6,
     "day": 5,
     "theme": "快乐大不同",
@@ -990,7 +990,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 6,
     "day": 6,
     "theme": "快乐的诗歌",

@@ -1,6 +1,6 @@
 [{
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 11,
   "day": 1,
   "theme": "池塘边的小秘密",
@@ -58,22 +58,22 @@
       "titlePinyin": "shēng zì kāi huā",
       "content": [{
         "pinyin": "cǎi cǎi huā",
-        "text": "采——采花"
+        "text": "采 -- 采花"
       }, {
         "pinyin": "shù shù mù",
-        "text": "树——树木"
+        "text": "树 -- 树木"
       }, {
         "pinyin": "ài kě ài",
-        "text": "爱——可爱"
+        "text": "爱 -- 可爱"
       }, {
-        "pinyin": "jiān jiān jiān",
-        "text": "尖——尖尖"
+        "pinyin": "jiān bǐ jiān",
+        "text": "尖 -- 笔尖"
       }, {
         "pinyin": "jiǎo sān jiǎo",
-        "text": "角——三角"
+        "text": "角 -- 三角"
       }, {
-        "pinyin": "jiǎ jiǎ zi",
-        "text": "角（独角）——角子"
+        "pinyin": "luò jiǎo luò",
+        "text": "落 -- 角落"
       }]
     }],
     "task": "认一认，读一读，给“爱”字找个朋友。",
@@ -82,7 +82,7 @@
   }]
 }, {
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 11,
   "day": 2,
   "theme": "夏天的微风",
@@ -142,7 +142,7 @@
   }]
 }, {
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 11,
   "day": 3,
   "theme": "荷叶圆圆",
@@ -227,7 +227,7 @@
   }]
 }, {
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 11,
   "day": 4,
   "theme": "雨天的信号",
@@ -281,7 +281,7 @@
   }]
 }, {
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 11,
   "day": 5,
   "theme": "蜻蜓的舞会",
@@ -354,7 +354,7 @@
   }]
 }, {
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 11,
   "day": 6,
   "theme": "欢笑的浪花",
@@ -377,8 +377,8 @@
     "titlePinyin": "zhì huì xiǎo kǒu jué",
     "type": "proverb_saying",
     "contentObject": [{
-      "pinyin": "dōng fēng lái bèi shàng chuān shàng mián áo xī fēng lái ná chū dān chèn shì qì xiàng biàn huà",
-      "text": "东风来，背上穿棉袄；西风来，拿出单衬衫。（意思是气候会变化）"
+      "pinyin": "dōng fēng lái ná chū dān chèn shān xī fēng lái bèi shàng chuān mián áo qì hòu huì biàn huà",
+      "text": "东风来，拿出单衬衫；西风来，背上穿棉袄。（意思是气候会变化）"
     }, {
       "pinyin": "yā zi jí jí jiào dà yǔ yào lái dào zhūn què yù bào",
       "text": "鸭子急急叫，大雨要来到。（意思是准确预报）"
@@ -399,22 +399,22 @@
       "titlePinyin": "shēng zì kāi huā",
       "content": [{
         "pinyin": "me ma ma",
-        "text": "吗——好吗"
+        "text": "吗 -- 好吗"
       }, {
         "pinyin": "ba ba ba",
-        "text": "吧——走吧"
+        "text": "吧 -- 走吧"
       }, {
         "pinyin": "jiā jiā lǐ",
-        "text": "家——家里"
+        "text": "家 -- 家里"
       }, {
         "pinyin": "pǎo pǎo bù",
-        "text": "跑——跑步"
+        "text": "跑 -- 跑步"
       }, {
         "pinyin": "dī gāo dī",
-        "text": "低——高低"
+        "text": "低 -- 高低"
       }, {
         "pinyin": "ya ya ya",
-        "text": "呀——好呀"
+        "text": "呀 -- 好呀"
       }]
     }],
     "task": "认读“跑”和“跳”，它们都和什么动作有关？",
@@ -423,7 +423,7 @@
   }]
 }, {
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 12,
   "day": 1,
   "theme": "水池音乐会",
@@ -489,7 +489,7 @@
   }]
 }, {
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 12,
   "day": 2,
   "theme": "大自然的预报员",
@@ -562,7 +562,7 @@
   }]
 }, {
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 12,
   "day": 3,
   "theme": "夏日的舞台",
@@ -622,7 +622,7 @@
   }]
 }, {
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 12,
   "day": 4,
   "theme": "青蛙的歌台",
@@ -683,22 +683,22 @@
       "titlePinyin": "shēng zì kāi huā",
       "content": [{
         "pinyin": "duǒ duǒ shǎn",
-        "text": "朵——花朵"
+        "text": "朵 -- 花朵"
       }, {
         "pinyin": "jī jī máng",
-        "text": "急——急忙"
+        "text": "急 -- 急忙"
       }, {
         "pinyin": "gē gē shēng",
-        "text": "歌——歌声"
+        "text": "歌 -- 歌声"
       }, {
         "pinyin": "tái wǔ tái",
-        "text": "台——舞台"
+        "text": "台 -- 舞台"
       }, {
         "pinyin": "měi měi hǎo",
-        "text": "美——美好"
+        "text": "美 -- 美好"
       }, {
         "pinyin": "zhí yī zhí",
-        "text": "直——一直"
+        "text": "直 -- 一直"
       }]
     }],
     "task": "读一读“急忙”和“一直”，用“急忙”说一句话。",
@@ -707,7 +707,7 @@
   }]
 }, {
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 12,
   "day": 5,
   "theme": "雨后的清凉",
@@ -773,7 +773,7 @@
   }]
 }, {
   "grade": 1,
-  "term": 0,
+  "term": 1,
   "week": 12,
   "day": 6,
   "theme": "池塘的诗意",

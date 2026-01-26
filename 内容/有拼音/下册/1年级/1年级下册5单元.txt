@@ -1,7 +1,7 @@
 [
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 9,
     "day": 1,
     "theme": "动物王国运动会",
@@ -85,7 +85,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 9,
     "day": 2,
     "theme": "小乌龟找朋友",
@@ -176,7 +176,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 9,
     "day": 3,
     "theme": "夏天的声音",
@@ -191,7 +191,7 @@
             "text": "知了知了叫，"
           },
           {
-            "pinyin": "shu ye shao shao shao",
+            "pinyin": "shù yè piàn piàn yáo",
             "text": "树叶片片摇。"
           },
           {
@@ -199,8 +199,8 @@
             "text": "小狗吐舌头，"
           },
           {
-            "pinyin": "tian qi zhen re nao",
-            "text": "天真热闹。"
+            "pinyin": "xià tiān zhēn rè nào",
+            "text": "夏天真热闹。"
           }
         ],
         "task": "你能学一学知了的叫声吗？",
@@ -278,7 +278,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 9,
     "day": 4,
     "theme": "对对碰，真有趣",
@@ -336,24 +336,24 @@
             "titlePinyin": "sheng zi kai hua",
             "content": [
               {
-                "pinyin": "jian tian jian di shan jian",
-                "text": "间——田间、房间、山间"
+                "pinyin": "jiān tián jiān",
+                "text": "间 -- 田间"
               },
               {
-                "pinyin": "liang liang shai liang kuai liang peng",
-                "text": "凉——凉快、凉棚"
+                "pinyin": "liáng liáng kuài",
+                "text": "凉 -- 凉快"
               },
               {
-                "pinyin": "xi xi yang yang xi yang",
-                "text": "夕——夕阳"
+                "pinyin": "xī xī yáng",
+                "text": "夕 -- 夕阳"
               },
               {
-                "pinyin": "yu yu mao yu yi",
-                "text": "羽——羽毛、羽衣"
+                "pinyin": "yǔ yǔ máo",
+                "text": "羽 -- 羽毛"
               },
               {
-                "pinyin": "gu gu shi gu dai",
-                "text": "古——古诗、古代"
+                "pinyin": "gǔ gǔ shī",
+                "text": "古 -- 古诗"
               }
             ]
           }
@@ -366,7 +366,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 9,
     "day": 5,
     "theme": "如果我有翅膀",
@@ -449,7 +449,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 9,
     "day": 6,
     "theme": "操场上真热闹",
@@ -510,24 +510,24 @@
             "titlePinyin": "sheng zi kai hua",
             "content": [
               {
-                "pinyin": "pa pa pai qiu pa shan",
-                "text": "拍——拍皮球、爬山"
+                "pinyin": "pāi pāi pí qiú",
+                "text": "拍 -- 拍皮球"
               },
               {
-                "pinyin": "pao pao bu pao tiao",
-                "text": "跑——跑步、跑跳"
+                "pinyin": "pǎo pǎo bù",
+                "text": "跑 -- 跑步"
               },
               {
-                "pinyin": "ti ti zu qiu ti jian zi",
-                "text": "踢——踢足球、踢毽子"
+                "pinyin": "tī tī zú qiú",
+                "text": "踢 -- 踢足球"
               },
               {
-                "pinyin": "ling ling sheng ling dang",
-                "text": "铃——铃声、铃铛"
+                "pinyin": "líng líng shēng",
+                "text": "铃 -- 铃声"
               },
               {
-                "pinyin": "re re nao re qing",
-                "text": "热——热闹、热情"
+                "pinyin": "rè rè nào",
+                "text": "热 -- 热闹"
               }
             ]
           }
@@ -540,7 +540,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 10,
     "day": 1,
     "theme": "清晨读书声",
@@ -623,7 +623,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 10,
     "day": 2,
     "theme": "小故事，大道理",
@@ -713,7 +713,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 10,
     "day": 3,
     "theme": "雨点儿跳舞",
@@ -793,7 +793,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 10,
     "day": 4,
     "theme": "语文园地逛一逛",
@@ -861,24 +861,24 @@
             "titlePinyin": "sheng zi kai hua",
             "content": [
               {
-                "pinyin": "shi shi tou shi zi shi hou",
-                "text": "石——石头、石子、时候"
+                "pinyin": "shí shí tou",
+                "text": "石 -- 石头"
               },
               {
-                "pinyin": "bao bao bao bao bei bao gui",
-                "text": "宝——宝宝、宝贝、宝贵"
+                "pinyin": "bǎo bǎo bèi",
+                "text": "宝 -- 宝贝"
               },
               {
-                "pinyin": "xi xi wang xi huan",
-                "text": "喜——希望、喜欢"
+                "pinyin": "xǐ xǐ huān",
+                "text": "喜 -- 喜欢"
               },
               {
-                "pinyin": "xiang xiang liang xiang sheng",
-                "text": "相——相让、相生"
+                "pinyin": "xiāng xiāng ràng",
+                "text": "相 -- 相让"
               },
               {
-                "pinyin": "dao dao lu dao li",
-                "text": "道——道路、道理"
+                "pinyin": "dào dào lù",
+                "text": "道 -- 道路"
               }
             ]
           }
@@ -891,7 +891,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 10,
     "day": 5,
     "theme": "嘴巴变魔术",
@@ -967,7 +967,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 10,
     "day": 6,
     "theme": "一周收获多",
@@ -1051,8 +1051,8 @@
                 "text": "少壮不努力，老大徒伤悲。（珍惜少年时光）"
               },
               {
-                "pinyin": "chi shui bu wang wa jing ren zhi en tu bao zhen xi bie ren de hao",
-                "text": "吃水不忘挖井人。（知恩图报，珍惜别人的好）"
+                "pinyin": "chī shuǐ bú wàng wā jǐng rén zhī ēn tú bào dǒng dé gǎn ēn",
+                "text": "吃水不忘挖井人。（知恩图报，懂得感恩）"
               }
             ]
           }

@@ -1,7 +1,7 @@
 [
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 1,
     "day": 1,
     "theme": "春风吹呀吹",
@@ -63,23 +63,23 @@
             "content": [
               {
                 "pinyin": "chūn chūn tiān",
-                "text": "春——春天"
+                "text": "春 -- 春天"
               },
               {
                 "pinyin": "dōng dōng tiān",
-                "text": "冬——冬天"
+                "text": "冬 -- 冬天"
               },
               {
                 "pinyin": "fēng dà fēng",
-                "text": "风——大风"
+                "text": "风 -- 大风"
               },
               {
                 "pinyin": "xuě bái xuě",
-                "text": "雪——白雪"
+                "text": "雪 -- 白雪"
               },
               {
                 "pinyin": "huā huā duǒ",
-                "text": "花——花朵"
+                "text": "花 -- 花朵"
               }
             ]
           }
@@ -93,7 +93,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 1,
     "day": 2,
     "theme": "我们都是好朋友",
@@ -167,7 +167,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 1,
     "day": 3,
     "theme": "池塘里的小青蛙",
@@ -273,7 +273,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 1,
     "day": 4,
     "theme": "猜猜我是谁",
@@ -341,7 +341,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 1,
     "day": 5,
     "theme": "保护庄稼的小卫士",
@@ -427,7 +427,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 1,
     "day": 6,
     "theme": "我们都有姓",
@@ -491,23 +491,23 @@
             "content": [
               {
                 "pinyin": "xìng xìng míng",
-                "text": "姓——姓名"
+                "text": "姓 -- 姓名"
               },
               {
                 "pinyin": "shén shén me",
-                "text": "什——什么"
+                "text": "什 -- 什么"
               },
               {
                 "pinyin": "me zěn me",
-                "text": "么——怎么"
+                "text": "么 -- 怎么"
               },
               {
                 "pinyin": "shuāng shuāng shǒu",
-                "text": "双——双手"
+                "text": "双 -- 双手"
               },
               {
                 "pinyin": "zì zì jǐ",
-                "text": "自——自己"
+                "text": "自 -- 自己"
               }
             ]
           }
@@ -521,7 +521,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 2,
     "day": 1,
     "theme": "四季的魔法",
@@ -599,7 +599,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 2,
     "day": 2,
     "theme": "谜语真好玩",
@@ -689,7 +689,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 2,
     "day": 3,
     "theme": "小手动一动",
@@ -777,7 +777,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 2,
     "day": 4,
     "theme": "清清河水天气晴",
@@ -841,23 +841,23 @@
             "content": [
               {
                 "pinyin": "qīng qīng shuǐ",
-                "text": "清——清水"
+                "text": "清 -- 清水"
               },
               {
                 "pinyin": "qíng tiān qíng",
-                "text": "晴——天晴"
+                "text": "晴 -- 天晴"
               },
               {
                 "pinyin": "yǎn yǎn jing",
-                "text": "眼——眼睛"
+                "text": "眼 -- 眼睛"
               },
               {
-                "pinyin": "jīng jīng liang",
-                "text": "睛——睛亮"
+                "pinyin": "jīng jīng yǎn jing",
+                "text": "睛 -- 眼睛"
               },
               {
                 "pinyin": "qíng xīn qíng",
-                "text": "情——心情"
+                "text": "情 -- 心情"
               }
             ]
           }
@@ -869,7 +869,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 2,
     "day": 5,
     "theme": "文字小侦探",
@@ -947,7 +947,7 @@
   },
   {
     "grade": 1,
-    "term": 0,
+    "term": 1,
     "week": 2,
     "day": 6,
     "theme": "太阳公公微微笑",
