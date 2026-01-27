@@ -1,0 +1,1194 @@
+[
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 11,
+		"day": 1,
+		"theme": "身体棒棒",
+		"content": [
+			{
+				"title": "运动歌",
+				"titlePinyin": "yùn dòng gē",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "shēn shēn shǒu wān wān yāo",
+						"text": "伸伸手，弯弯腰。"
+					},
+					{
+						"pinyin": "tiào yī tiào pǎo yī pǎo",
+						"text": "跳一跳，跑一跑。"
+					},
+					{
+						"pinyin": "měi tiān yùn dòng shēn tǐ hǎo",
+						"text": "每天运动身体好。"
+					},
+					{
+						"pinyin": "shēn tǐ bàng bàng xiào hā hā",
+						"text": "身体棒棒笑哈哈。"
+					}
+				],
+				"task": "读两遍，跟着做动作。",
+				"taskPinyin": "dú liǎng biàn gēn zhe zuò dòng zuò",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "早操时间",
+				"titlePinyin": "zǎo cāo shí jiān",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "zǎo cāo kāi shǐ le",
+						"text": "早操开始了。"
+					},
+					{
+						"pinyin": "wǒ zhàn hǎo duì wǔ",
+						"text": "我站好队伍。"
+					},
+					{
+						"pinyin": "wǒ gēn zhe jié pāi zuò dòng zuò",
+						"text": "我跟着节拍做动作。"
+					},
+					{
+						"pinyin": "zuò wán zǎo cāo jīng shén hǎo",
+						"text": "做完早操精神好。"
+					}
+				],
+				"task": "做早操时要怎么做？",
+				"taskPinyin": "zuò zǎo cāo shí yào zěn me zuò",
+				"taskAnswer": "跟着节拍做动作。",
+				"taskAnswerPinyin": "gēn zhe jié pāi zuò dòng zuò",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "运动词语",
+						"titlePinyin": "yùn dòng cí yǔ",
+						"content": [
+							{
+								"pinyin": "shēn shēn shǒu",
+								"text": "伸伸手"
+							},
+							{
+								"pinyin": "wān wān yāo",
+								"text": "弯弯腰"
+							},
+							{
+								"pinyin": "tiào yī tiào",
+								"text": "跳一跳"
+							},
+							{
+								"pinyin": "pǎo yī pǎo",
+								"text": "跑一跑"
+							}
+						]
+					}
+				],
+				"task": "用“跳一跳”说一句话。",
+				"taskPinyin": "yòng tiào yī tiào shuō yī jù huà",
+				"taskAnswer": "我跳一跳。",
+				"taskAnswerPinyin": "wǒ tiào yī tiào"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 11,
+		"day": 2,
+		"theme": "勤洗手",
+		"content": [
+			{
+				"title": "洗手歌",
+				"titlePinyin": "xǐ shǒu gē",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "fàn qián xǐ shǒu",
+						"text": "饭前洗手。"
+					},
+					{
+						"pinyin": "biàn hòu xǐ shǒu",
+						"text": "便后洗手。"
+					},
+					{
+						"pinyin": "cuō cuō shǒu xīn hé shǒu bèi",
+						"text": "搓搓手心和手背。"
+					},
+					{
+						"pinyin": "xì jūn pǎo guāng guāng",
+						"text": "细菌跑光光。"
+					}
+				],
+				"task": "读两遍，边洗手边念。",
+				"taskPinyin": "dú liǎng biàn biān xǐ shǒu biān niàn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "看不见的小细菌",
+				"titlePinyin": "kàn bú jiàn de xiǎo xì jūn",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo xì jūn kàn bú jiàn",
+						"text": "小细菌看不见。"
+					},
+					{
+						"pinyin": "tā xǐ huān zàng zàng de shǒu",
+						"text": "它喜欢脏脏的手。"
+					},
+					{
+						"pinyin": "wǒ yòng féi zào xǐ gān jìng",
+						"text": "我用肥皂洗干净。"
+					},
+					{
+						"pinyin": "xiǎo xì jūn pǎo zǒu le",
+						"text": "小细菌跑走了。"
+					}
+				],
+				"task": "为什么要洗手？",
+				"taskPinyin": "wèi shén me yào xǐ shǒu",
+				"taskAnswer": "因为手上有细菌。",
+				"taskAnswerPinyin": "yīn wèi shǒu shàng yǒu xì jūn",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "洗手词语",
+						"titlePinyin": "xǐ shǒu cí yǔ",
+						"content": [
+							{
+								"pinyin": "féi zào",
+								"text": "肥皂"
+							},
+							{
+								"pinyin": "gān jìng",
+								"text": "干净"
+							},
+							{
+								"pinyin": "shǒu xīn",
+								"text": "手心"
+							},
+							{
+								"pinyin": "shǒu bèi",
+								"text": "手背"
+							}
+						]
+					}
+				],
+				"task": "用“干净”说一句话。",
+				"taskPinyin": "yòng gān jìng shuō yī jù huà",
+				"taskAnswer": "我的手很干净。",
+				"taskAnswerPinyin": "wǒ de shǒu hěn gān jìng"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 11,
+		"day": 3,
+		"theme": "刷牙护牙",
+		"content": [
+			{
+				"title": "刷牙歌",
+				"titlePinyin": "shuā yá gē",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "zǎo shàng shuā yá",
+						"text": "早上刷牙。"
+					},
+					{
+						"pinyin": "wǎn shàng shuā yá",
+						"text": "晚上刷牙。"
+					},
+					{
+						"pinyin": "shàng shàng xià xià shuā yī shuā",
+						"text": "上上下下刷一刷。"
+					},
+					{
+						"pinyin": "yá chǐ bái bái zhēn piào liàng",
+						"text": "牙齿白白真漂亮。"
+					}
+				],
+				"task": "读两遍，做一做“刷一刷”。",
+				"taskPinyin": "dú liǎng biàn zuò yī zuò shuā yī shuā",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "牙齿不疼",
+				"titlePinyin": "yá chǐ bù téng",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "wǒ ài chī tián de",
+						"text": "我爱吃甜的。"
+					},
+					{
+						"pinyin": "wǒ yě ài shuā yá",
+						"text": "我也爱刷牙。"
+					},
+					{
+						"pinyin": "wǒ měi tiān shuā liǎng cì",
+						"text": "我每天刷两次。"
+					},
+					{
+						"pinyin": "yá chǐ bù téng xiào hā hā",
+						"text": "牙齿不疼笑哈哈。"
+					}
+				],
+				"task": "我每天刷几次牙？",
+				"taskPinyin": "wǒ měi tiān shuā jǐ cì yá",
+				"taskAnswer": "两次。",
+				"taskAnswerPinyin": "liǎng cì",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "护牙词语",
+						"titlePinyin": "hù yá cí yǔ",
+						"content": [
+							{
+								"pinyin": "yá shuā",
+								"text": "牙刷"
+							},
+							{
+								"pinyin": "yá gāo",
+								"text": "牙膏"
+							},
+							{
+								"pinyin": "shuā yī shuā",
+								"text": "刷一刷"
+							},
+							{
+								"pinyin": "bái bái de",
+								"text": "白白的"
+							}
+						]
+					}
+				],
+				"task": "用“白白的”说一句话。",
+				"taskPinyin": "yòng bái bái de shuō yī jù huà",
+				"taskAnswer": "牙齿白白的。",
+				"taskAnswerPinyin": "yá chǐ bái bái de"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 11,
+		"day": 4,
+		"theme": "早睡早起",
+		"content": [
+			{
+				"title": "睡觉歌",
+				"titlePinyin": "shuì jiào gē",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "wǎn shàng jiǔ diǎn qù shuì jiào",
+						"text": "晚上九点去睡觉。"
+					},
+					{
+						"pinyin": "guān dēng bù kàn shǒu jī",
+						"text": "关灯不看手机。"
+					},
+					{
+						"pinyin": "zǎo shàng qǐ chuáng jīng shén hǎo",
+						"text": "早上起床精神好。"
+					},
+					{
+						"pinyin": "yī tiān xué xí gèng yǒu lì",
+						"text": "一天学习更有力。"
+					}
+				],
+				"task": "读两遍，说说你几点睡觉。",
+				"taskPinyin": "dú liǎng biàn shuō shuō nǐ jǐ diǎn shuì jiào",
+				"taskAnswer": "我九点睡觉。",
+				"taskAnswerPinyin": "wǒ jiǔ diǎn shuì jiào",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "不熬夜的小乐",
+				"titlePinyin": "bù áo yè de xiǎo lè",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "xiǎo lè wǎn shàng hěn wǎn cái shuì",
+						"text": "小乐晚上很晚才睡。"
+					},
+					{
+						"pinyin": "dì èr tiān shàng kè dǎ hā qiàn",
+						"text": "第二天上课打哈欠。"
+					},
+					{
+						"pinyin": "tā gǎi chéng zǎo shuì zǎo qǐ",
+						"text": "他改成早睡早起。"
+					},
+					{
+						"pinyin": "shàng kè gèng jīng shén le",
+						"text": "上课更精神了。"
+					}
+				],
+				"task": "小乐为什么更精神？",
+				"taskPinyin": "xiǎo lè wèi shén me gèng jīng shén",
+				"taskAnswer": "因为他早睡早起。",
+				"taskAnswerPinyin": "yīn wèi tā zǎo shuì zǎo qǐ",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "作息词语",
+						"titlePinyin": "zuò xī cí yǔ",
+						"content": [
+							{
+								"pinyin": "zǎo shuì",
+								"text": "早睡"
+							},
+							{
+								"pinyin": "zǎo qǐ",
+								"text": "早起"
+							},
+							{
+								"pinyin": "jīng shén",
+								"text": "精神"
+							},
+							{
+								"pinyin": "dǎ hā qiàn",
+								"text": "打哈欠"
+							}
+						]
+					}
+				],
+				"task": "用“精神”说一句话。",
+				"taskPinyin": "yòng jīng shén shuō yī jù huà",
+				"taskAnswer": "我精神很好。",
+				"taskAnswerPinyin": "wǒ jīng shén hěn hǎo"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 11,
+		"day": 5,
+		"theme": "吃饭不挑食",
+		"content": [
+			{
+				"title": "蔬菜水果",
+				"titlePinyin": "shū cài shuǐ guǒ",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "qīng cài lǜ lǜ de",
+						"text": "青菜绿绿的。"
+					},
+					{
+						"pinyin": "hú luó bo tián tián de",
+						"text": "胡萝卜甜甜的。"
+					},
+					{
+						"pinyin": "píng guǒ hóng hóng de",
+						"text": "苹果红红的。"
+					},
+					{
+						"pinyin": "wǒ bù tiāo shí shēn tǐ bàng",
+						"text": "我不挑食身体棒。"
+					}
+				],
+				"task": "读两遍，说说你喜欢哪种菜。",
+				"taskPinyin": "dú liǎng biàn shuō shuō nǐ xǐ huān nǎ zhòng cài",
+				"taskAnswer": "我喜欢胡萝卜。",
+				"taskAnswerPinyin": "wǒ xǐ huān hú luó bo",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "一口一口吃",
+				"titlePinyin": "yī kǒu yī kǒu chī",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "chī fàn shí wǒ zuò hǎo",
+						"text": "吃饭时我坐好。"
+					},
+					{
+						"pinyin": "yī kǒu yī kǒu màn màn chī",
+						"text": "一口一口慢慢吃。"
+					},
+					{
+						"pinyin": "bù shuō huà bù pǎo lái pǎo qù",
+						"text": "不说话不跑来跑去。"
+					},
+					{
+						"pinyin": "chī wán zì jǐ shōu wǎn kuài",
+						"text": "吃完自己收碗筷。"
+					}
+				],
+				"task": "吃饭时要怎么做？",
+				"taskPinyin": "chī fàn shí yào zěn me zuò",
+				"taskAnswer": "坐好慢慢吃。",
+				"taskAnswerPinyin": "zuò hǎo màn màn chī",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "餐桌词语",
+						"titlePinyin": "cān zhuō cí yǔ",
+						"content": [
+							{
+								"pinyin": "màn màn chī",
+								"text": "慢慢吃"
+							},
+							{
+								"pinyin": "zuò hǎo",
+								"text": "坐好"
+							},
+							{
+								"pinyin": "bù tiāo shí",
+								"text": "不挑食"
+							},
+							{
+								"pinyin": "shōu wǎn kuài",
+								"text": "收碗筷"
+							}
+						]
+					}
+				],
+				"task": "用“坐好”说一句话。",
+				"taskPinyin": "yòng zuò hǎo shuō yī jù huà",
+				"taskAnswer": "我坐好吃饭。",
+				"taskAnswerPinyin": "wǒ zuò hǎo chī fàn"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 11,
+		"day": 6,
+		"theme": "心情小太阳",
+		"content": [
+			{
+				"title": "开心歌",
+				"titlePinyin": "kāi xīn gē",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "wǒ kāi xīn xiào yī xiào",
+						"text": "我开心，笑一笑。"
+					},
+					{
+						"pinyin": "wǒ nán guò bào yī bào",
+						"text": "我难过，抱一抱。"
+					},
+					{
+						"pinyin": "wǒ shēng qì xiān tíng tíng",
+						"text": "我生气，先停停。"
+					},
+					{
+						"pinyin": "wǒ huì zhào gù hǎo xīn qíng",
+						"text": "我会照顾好心情。"
+					}
+				],
+				"task": "读两遍，选一个表情做一做。",
+				"taskPinyin": "dú liǎng biàn xuǎn yí gè biǎo qíng zuò yī zuò",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "和好",
+				"titlePinyin": "hé hǎo",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "wǒ hé tóng xué nào biè niǔ",
+						"text": "我和同学闹别扭。"
+					},
+					{
+						"pinyin": "wǒ xiān lěng jìng yī xià",
+						"text": "我先冷静一下。"
+					},
+					{
+						"pinyin": "wǒ shuō duì bù qǐ",
+						"text": "我说对不起。"
+					},
+					{
+						"pinyin": "wǒ men yòu zuò hǎo péng yǒu",
+						"text": "我们又做好朋友。"
+					}
+				],
+				"task": "我们怎么又和好了？",
+				"taskPinyin": "wǒ men zěn me yòu hé hǎo le",
+				"taskAnswer": "我说对不起。",
+				"taskAnswerPinyin": "wǒ shuō duì bù qǐ",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "心情词语",
+						"titlePinyin": "xīn qíng cí yǔ",
+						"content": [
+							{
+								"pinyin": "kāi xīn",
+								"text": "开心"
+							},
+							{
+								"pinyin": "nán guò",
+								"text": "难过"
+							},
+							{
+								"pinyin": "shēng qì",
+								"text": "生气"
+							},
+							{
+								"pinyin": "lěng jìng",
+								"text": "冷静"
+							}
+						]
+					}
+				],
+				"task": "用“我很开心”说一句话。",
+				"taskPinyin": "yòng wǒ hěn kāi xīn shuō yī jù huà",
+				"taskAnswer": "我很开心。",
+				"taskAnswerPinyin": "wǒ hěn kāi xīn"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 12,
+		"day": 1,
+		"theme": "我会保护自己",
+		"content": [
+			{
+				"title": "安全小歌",
+				"titlePinyin": "ān quán xiǎo gē",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "bù wán chā zuò",
+						"text": "不玩插座。"
+					},
+					{
+						"pinyin": "bù mō diàn xiàn",
+						"text": "不摸电线。"
+					},
+					{
+						"pinyin": "jiǎn dāo xiǎo xīn yòng",
+						"text": "剪刀小心用。"
+					},
+					{
+						"pinyin": "ān quán dì yī jì xīn zhōng",
+						"text": "安全第一记心中。"
+					}
+				],
+				"task": "读两遍，把“不玩插座”读清楚。",
+				"taskPinyin": "dú liǎng biàn bǎ bù wán chā zuò dú qīng chǔ",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "热水别乱碰",
+				"titlePinyin": "rè shuǐ bié luàn pèng",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "zhuō shàng yǒu rè shuǐ",
+						"text": "桌上有热水。"
+					},
+					{
+						"pinyin": "wǒ bù qù pèng",
+						"text": "我不去碰。"
+					},
+					{
+						"pinyin": "wǒ hǎn dà rén lái bāng máng",
+						"text": "我喊大人来帮忙。"
+					},
+					{
+						"pinyin": "zhè yàng gèng ān quán",
+						"text": "这样更安全。"
+					}
+				],
+				"task": "看到热水我该怎么做？",
+				"taskPinyin": "kàn dào rè shuǐ wǒ gāi zěn me zuò",
+				"taskAnswer": "喊大人帮忙。",
+				"taskAnswerPinyin": "hǎn dà rén bāng máng",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "安全词语",
+						"titlePinyin": "ān quán cí yǔ",
+						"content": [
+							{
+								"pinyin": "ān quán",
+								"text": "安全"
+							},
+							{
+								"pinyin": "xiǎo xīn",
+								"text": "小心"
+							},
+							{
+								"pinyin": "bù luàn pèng",
+								"text": "不乱碰"
+							},
+							{
+								"pinyin": "hǎn dà rén",
+								"text": "喊大人"
+							}
+						]
+					}
+				],
+				"task": "用“我会小心”说一句话。",
+				"taskPinyin": "yòng wǒ huì xiǎo xīn shuō yī jù huà",
+				"taskAnswer": "我会小心。",
+				"taskAnswerPinyin": "wǒ huì xiǎo xīn"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 12,
+		"day": 2,
+		"theme": "小病号怎么办",
+		"content": [
+			{
+				"title": "不舒服",
+				"titlePinyin": "bù shū fú",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "wǒ bù shū fú bù yìng chēng",
+						"text": "我不舒服不硬撑。"
+					},
+					{
+						"pinyin": "gào sù lǎo shī hé bà mā",
+						"text": "告诉老师和爸妈。"
+					},
+					{
+						"pinyin": "duō hē shuǐ duō xiū xī",
+						"text": "多喝水，多休息。"
+					},
+					{
+						"pinyin": "shēn tǐ hěn kuài hǎo qǐ lái",
+						"text": "身体很快好起来。"
+					}
+				],
+				"task": "读两遍，说说不舒服要告诉谁。",
+				"taskPinyin": "dú liǎng biàn shuō shuō bù shū fú yào gào sù shuí",
+				"taskAnswer": "告诉老师和爸妈。",
+				"taskAnswerPinyin": "gào sù lǎo shī hé bà mā",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "去医务室",
+				"titlePinyin": "qù yī wù shì",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "wǒ yǒu diǎn tóu yūn",
+						"text": "我有点头晕。"
+					},
+					{
+						"pinyin": "lǎo shī dài wǒ qù yī wù shì",
+						"text": "老师带我去医务室。"
+					},
+					{
+						"pinyin": "yī shēng ràng wǒ xiū xī",
+						"text": "医生让我休息。"
+					},
+					{
+						"pinyin": "wǒ gǎn jué hǎo duō le",
+						"text": "我感觉好多了。"
+					}
+				],
+				"task": "老师带我去了哪里？",
+				"taskPinyin": "lǎo shī dài wǒ qù le nǎ lǐ",
+				"taskAnswer": "医务室。",
+				"taskAnswerPinyin": "yī wù shì",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "身体词语",
+						"titlePinyin": "shēn tǐ cí yǔ",
+						"content": [
+							{
+								"pinyin": "xiū xī",
+								"text": "休息"
+							},
+							{
+								"pinyin": "hē shuǐ",
+								"text": "喝水"
+							},
+							{
+								"pinyin": "bù shū fú",
+								"text": "不舒服"
+							},
+							{
+								"pinyin": "yī wù shì",
+								"text": "医务室"
+							}
+						]
+					}
+				],
+				"task": "用“多喝水”说一句话。",
+				"taskPinyin": "yòng duō hē shuǐ shuō yī jù huà",
+				"taskAnswer": "我多喝水。",
+				"taskAnswerPinyin": "wǒ duō hē shuǐ"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 12,
+		"day": 3,
+		"theme": "爱运动不怕累",
+		"content": [
+			{
+				"title": "跑步",
+				"titlePinyin": "pǎo bù",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "yī quān quān màn màn pǎo",
+						"text": "一圈圈，慢慢跑。"
+					},
+					{
+						"pinyin": "bù jí bù chuǎn bù shuāi dǎo",
+						"text": "不急不喘不摔倒。"
+					},
+					{
+						"pinyin": "jiān chí yī xià jiù gèng hǎo",
+						"text": "坚持一下就更好。"
+					},
+					{
+						"pinyin": "pǎo bù ràng wǒ gèng qiáng zhuàng",
+						"text": "跑步让我更强壮。"
+					}
+				],
+				"task": "读两遍，说说你喜欢什么运动。",
+				"taskPinyin": "dú liǎng biàn shuō shuō nǐ xǐ huān shén me yùn dòng",
+				"taskAnswer": "我喜欢跑步。",
+				"taskAnswerPinyin": "wǒ xǐ huān pǎo bù",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "跳远",
+				"titlePinyin": "tiào yuǎn",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "tǐ yù kè tiào yuǎn",
+						"text": "体育课跳远。"
+					},
+					{
+						"pinyin": "wǒ xiān bǎi bǎi shǒu",
+						"text": "我先摆摆手。"
+					},
+					{
+						"pinyin": "zài yòng lì yī tiào",
+						"text": "再用力一跳。"
+					},
+					{
+						"pinyin": "wǒ bǐ zuó tiān tiào dé yuǎn",
+						"text": "我比昨天跳得远。"
+					}
+				],
+				"task": "我怎么跳得更远？",
+				"taskPinyin": "wǒ zěn me tiào dé gèng yuǎn",
+				"taskAnswer": "我用力一跳。",
+				"taskAnswerPinyin": "wǒ yòng lì yī tiào",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "运动句子",
+						"titlePinyin": "yùn dòng jù zi",
+						"content": [
+							{
+								"pinyin": "wǒ xǐ huān",
+								"text": "我喜欢……"
+							},
+							{
+								"pinyin": "wǒ měi tiān",
+								"text": "我每天……"
+							},
+							{
+								"pinyin": "wǒ huì jiān chí",
+								"text": "我会坚持……"
+							}
+						]
+					}
+				],
+				"task": "用“我每天……”说一句话。",
+				"taskPinyin": "yòng wǒ měi tiān shuō yī jù huà",
+				"taskAnswer": "我每天运动。",
+				"taskAnswerPinyin": "wǒ měi tiān yùn dòng"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 12,
+		"day": 4,
+		"theme": "吃饭讲卫生",
+		"content": [
+			{
+				"title": "干净小手",
+				"titlePinyin": "gān jìng xiǎo shǒu",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "xǐ xǐ shǒu cā cā gàn",
+						"text": "洗洗手，擦擦干。"
+					},
+					{
+						"pinyin": "zuò zuò hǎo bié luàn fān",
+						"text": "坐坐好，别乱翻。"
+					},
+					{
+						"pinyin": "xiǎo zuǐ chī fàn bù shuō huà",
+						"text": "小嘴吃饭不说话。"
+					},
+					{
+						"pinyin": "fàn lì bù diào dào zhuō miàn",
+						"text": "饭粒不掉到桌面。"
+					}
+				],
+				"task": "读两遍，做一做“擦擦干”。",
+				"taskPinyin": "dú liǎng biàn zuò yī zuò cā cā gàn",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "不抢食",
+				"titlePinyin": "bù qiǎng shí",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "pán zi lǐ yǒu cài",
+						"text": "盘子里有菜。"
+					},
+					{
+						"pinyin": "wǒ bù qiǎng",
+						"text": "我不抢。"
+					},
+					{
+						"pinyin": "wǒ jiā zì jǐ nà yī fèn",
+						"text": "我夹自己那一份。"
+					},
+					{
+						"pinyin": "dà jiā chī dé dōu kāi xīn",
+						"text": "大家吃得都开心。"
+					}
+				],
+				"task": "吃饭时要怎么夹菜？",
+				"taskPinyin": "chī fàn shí yào zěn me jiā cài",
+				"taskAnswer": "夹自己那一份。",
+				"taskAnswerPinyin": "jiā zì jǐ nà yī fèn",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "卫生词语",
+						"titlePinyin": "wèi shēng cí yǔ",
+						"content": [
+							{
+								"pinyin": "xǐ shǒu",
+								"text": "洗手"
+							},
+							{
+								"pinyin": "cā gàn",
+								"text": "擦干"
+							},
+							{
+								"pinyin": "zuò hǎo",
+								"text": "坐好"
+							},
+							{
+								"pinyin": "bù qiǎng",
+								"text": "不抢"
+							}
+						]
+					}
+				],
+				"task": "用“擦干”说一句话。",
+				"taskPinyin": "yòng cā gàn shuō yī jù huà",
+				"taskAnswer": "我擦干小手。",
+				"taskAnswerPinyin": "wǒ cā gàn xiǎo shǒu"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 12,
+		"day": 5,
+		"theme": "我会表达",
+		"content": [
+			{
+				"title": "我想说",
+				"titlePinyin": "wǒ xiǎng shuō",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "wǒ xiǎng yào xiān shuō qǐng",
+						"text": "我想要，先说请。"
+					},
+					{
+						"pinyin": "wǒ bù dǒng xiān wèn wèn",
+						"text": "我不懂，先问问。"
+					},
+					{
+						"pinyin": "wǒ bù shū fú yào shuō chū",
+						"text": "我不舒服，要说出。"
+					},
+					{
+						"pinyin": "huì biǎo dá gèng qīng sōng",
+						"text": "会表达更轻松。"
+					}
+				],
+				"task": "读两遍，把“先说请”读清楚。",
+				"taskPinyin": "dú liǎng biàn bǎ xiān shuō qǐng dú qīng chǔ",
+				"taskAnswer": "",
+				"taskAnswerPinyin": "",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "我需要帮助",
+				"titlePinyin": "wǒ xū yào bāng zhù",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "wǒ ná bù dòng shuǐ tǒng",
+						"text": "我拿不动水桶。"
+					},
+					{
+						"pinyin": "wǒ shuō qǐng bāng bāng wǒ",
+						"text": "我说：“请帮帮我。”"
+					},
+					{
+						"pinyin": "tóng xué lái bāng wǒ",
+						"text": "同学来帮我。"
+					},
+					{
+						"pinyin": "wǒ shuō xiè xiè",
+						"text": "我说谢谢。"
+					}
+				],
+				"task": "我说了什么？",
+				"taskPinyin": "wǒ shuō le shén me",
+				"taskAnswer": "请帮帮我。",
+				"taskAnswerPinyin": "qǐng bāng bāng wǒ",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "表达句子",
+						"titlePinyin": "biǎo dá jù zi",
+						"content": [
+							{
+								"pinyin": "wǒ xū yào",
+								"text": "我需要……"
+							},
+							{
+								"pinyin": "wǒ xiǎng",
+								"text": "我想……"
+							},
+							{
+								"pinyin": "wǒ bù dǒng",
+								"text": "我不懂……"
+							}
+						]
+					}
+				],
+				"task": "用“我需要……”说一句话。",
+				"taskPinyin": "yòng wǒ xū yào shuō yī jù huà",
+				"taskAnswer": "我需要一杯水。",
+				"taskAnswerPinyin": "wǒ xū yào yī bēi shuǐ"
+			}
+		]
+	},
+	{
+		"grade": 1,
+		"term": 1,
+		"week": 12,
+		"day": 6,
+		"theme": "周末健康日",
+		"content": [
+			{
+				"title": "健康小计划",
+				"titlePinyin": "jiàn kāng xiǎo jì huà",
+				"type": "children_poem",
+				"contentObject": [
+					{
+						"pinyin": "zhōu mò wǒ yùn dòng",
+						"text": "周末我运动。"
+					},
+					{
+						"pinyin": "zhōu mò wǒ zǎo shuì",
+						"text": "周末我早睡。"
+					},
+					{
+						"pinyin": "zhōu mò wǒ shǎo chī táng",
+						"text": "周末我少吃糖。"
+					},
+					{
+						"pinyin": "zhōu mò wǒ gèng jiàn kāng",
+						"text": "周末我更健康。"
+					}
+				],
+				"task": "读两遍，说说你周末想做哪一条。",
+				"taskPinyin": "dú liǎng biàn shuō shuō nǐ zhōu mò xiǎng zuò nǎ yī tiáo",
+				"taskAnswer": "我想运动。",
+				"taskAnswerPinyin": "wǒ xiǎng yùn dòng",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "去公园跑跑",
+				"titlePinyin": "qù gōng yuán pǎo pǎo",
+				"type": "modern_prose",
+				"contentObject": [
+					{
+						"pinyin": "bà bà dài wǒ qù gōng yuán",
+						"text": "爸爸带我去公园。"
+					},
+					{
+						"pinyin": "wǒ pǎo yī pǎo",
+						"text": "我跑一跑。"
+					},
+					{
+						"pinyin": "wǒ hē shuǐ bù luàn diū píng zi",
+						"text": "我喝水不乱丢瓶子。"
+					},
+					{
+						"pinyin": "huí jiā xǐ shǒu chī fàn",
+						"text": "回家洗手吃饭。"
+					}
+				],
+				"task": "我在公园做了什么？",
+				"taskPinyin": "wǒ zài gōng yuán zuò le shén me",
+				"taskAnswer": "我跑一跑。",
+				"taskAnswerPinyin": "wǒ pǎo yī pǎo",
+				"alignment_mode": "left",
+				"paragraph_indent": 2
+			},
+			{
+				"title": "日积月累",
+				"titlePinyin": "rì jī yuè lěi",
+				"type": "daily_accumulation",
+				"contentObject": [
+					{
+						"title": "健康词语",
+						"titlePinyin": "jiàn kāng cí yǔ",
+						"content": [
+							{
+								"pinyin": "yùn dòng",
+								"text": "运动"
+							},
+							{
+								"pinyin": "zǎo shuì",
+								"text": "早睡"
+							},
+							{
+								"pinyin": "hē shuǐ",
+								"text": "喝水"
+							},
+							{
+								"pinyin": "xǐ shǒu",
+								"text": "洗手"
+							}
+						]
+					}
+				],
+				"task": "用“早睡”说一句话。",
+				"taskPinyin": "yòng zǎo shuì shuō yī jù huà",
+				"taskAnswer": "我早睡。",
+				"taskAnswerPinyin": "wǒ zǎo shuì"
+			}
+		]
+	}
+]
