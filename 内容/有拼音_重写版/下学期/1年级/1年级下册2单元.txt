@@ -1,1221 +1,1221 @@
 [
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 3,
-		"day": 1,
-		"theme": "我是班级小主人",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":3,
+		"day":1,
+		"theme":"我是班级小主人",
+		"content":[
 			{
-				"title": "我是小学生",
-				"titlePinyin": "wǒ shì xiǎo xué shēng",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"我是小学生",
+				"titlePinyin":"wǒ shì xiǎo xué shēng",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "bèi shàng shū bāo qù xué xiào",
-						"text": "背上书包去学校。"
+						"pinyin":"bèi shàng shū bāo qù xué xiào",
+						"text":"背上书包去学校。"
 					},
 					{
-						"pinyin": "jiàn dào lǎo shī shuō shēng hǎo",
-						"text": "见到老师说声好。"
+						"pinyin":"jiàn dào lǎo shī shuō shēng hǎo",
+						"text":"见到老师说声好。"
 					},
 					{
-						"pinyin": "zǒu lù màn màn bù zhuī pǎo",
-						"text": "走路慢慢不追跑。"
+						"pinyin":"zǒu lù màn màn bù zhuī pǎo",
+						"text":"走路慢慢不追跑。"
 					},
 					{
-						"pinyin": "wǒ shì bān jí xiǎo zhǔ rén",
-						"text": "我是班级小主人。"
+						"pinyin":"wǒ shì bān jí xiǎo zhǔ rén",
+						"text":"我是班级小主人。"
 					}
 				],
-				"task": "拍手读两遍，最后一句读得更响亮。",
-				"taskPinyin": "pāi shǒu dú liǎng biàn zuì hòu yī jù dòu dé gèng xiǎng liàng",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"拍手读两遍，最后一句读得更响亮。",
+				"taskPinyin":"pāi shǒu dú liǎng biàn zuì hòu yī jù dòu dé gèng xiǎng liàng",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"center",
+				"paragraph_indent":2
 			},
 			{
-				"title": "值日小帮手",
-				"titlePinyin": "zhí rì xiǎo bāng shǒu",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"值日小帮手",
+				"titlePinyin":"zhí rì xiǎo bāng shǒu",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "fàng xué qián wǒ men lái zhí rì",
-						"text": "放学前，我们来值日。"
+						"pinyin":"fàng xué qián wǒ men lái zhí rì",
+						"text":"放学前，我们来值日。"
 					},
 					{
-						"pinyin": "wǒ cā zhuō zi nǐ sǎo dì",
-						"text": "我擦桌子，你扫地。"
+						"pinyin":"wǒ cā zhuō zi nǐ sǎo dì",
+						"text":"我擦桌子，你扫地。"
 					},
 					{
-						"pinyin": "lā jī jìn tǒng bù luàn rēng",
-						"text": "垃圾进桶不乱扔。"
+						"pinyin":"lā jī jìn tǒng bù luàn rēng",
+						"text":"垃圾进桶不乱扔。"
 					},
 					{
-						"pinyin": "jiào shì gān jìng zhēn kāi xīn",
-						"text": "教室干净真开心。"
+						"pinyin":"jiào shì gān jìng zhēn kāi xīn",
+						"text":"教室干净真开心。"
 					}
 				],
-				"task": "值日时，我们要注意什么？",
-				"taskPinyin": "zhí rì shí wǒ men yào zhù yì shén me",
-				"taskAnswer": "垃圾进桶，不乱扔。",
-				"taskAnswerPinyin": "lā jī jìn tǒng bù luàn rēng",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"值日时，我们要注意什么？",
+				"taskPinyin":"zhí rì shí wǒ men yào zhù yì shén me",
+				"taskAnswer":"垃圾进桶，不乱扔。",
+				"taskAnswerPinyin":"lā jī jìn tǒng bù luàn rēng",
+				"alignment_mode":"left",
+				"paragraph_indent":4
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "班级词语",
-						"titlePinyin": "bān jí cí yǔ",
-						"content": [
+						"title":"班级词语",
+						"titlePinyin":"bān jí cí yǔ",
+						"content":[
 							{
-								"pinyin": "tóng xué",
-								"text": "同学"
+								"pinyin":"tóng xué",
+								"text":"同学"
 							},
 							{
-								"pinyin": "lǎo shī",
-								"text": "老师"
+								"pinyin":"lǎo shī",
+								"text":"老师"
 							},
 							{
-								"pinyin": "jiào shì",
-								"text": "教室"
+								"pinyin":"jiào shì",
+								"text":"教室"
 							},
 							{
-								"pinyin": "zhuō zi",
-								"text": "桌子"
+								"pinyin":"zhuō zi",
+								"text":"桌子"
 							},
 							{
-								"pinyin": "yǐ zi",
-								"text": "椅子"
+								"pinyin":"yǐ zi",
+								"text":"椅子"
 							},
 							{
-								"pinyin": "shū bāo",
-								"text": "书包"
+								"pinyin":"shū bāo",
+								"text":"书包"
 							}
 						]
 					}
 				],
-				"task": "选两个词语，说一句话。",
-				"taskPinyin": "xuǎn liǎng gè cí yǔ shuō yī jù huà",
-				"taskAnswer": "我和同学在教室里。",
-				"taskAnswerPinyin": "wǒ hé tóng xué zài jiào shì lǐ"
+				"task":"选两个词语，说一句话。",
+				"taskPinyin":"xuǎn liǎng gè cí yǔ shuō yī jù huà",
+				"taskAnswer":"我和同学在教室里。",
+				"taskAnswerPinyin":"wǒ hé tóng xué zài jiào shì lǐ"
 			}
 		]
 	},
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 3,
-		"day": 2,
-		"theme": "上课认真听",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":3,
+		"day":2,
+		"theme":"上课认真听",
+		"content":[
 			{
-				"title": "上课歌",
-				"titlePinyin": "shàng kè gē",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"上课歌",
+				"titlePinyin":"shàng kè gē",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "yǎn jīng kàn lǎo shī",
-						"text": "眼睛看老师。"
+						"pinyin":"yǎn jīng kàn lǎo shī",
+						"text":"眼睛看老师。"
 					},
 					{
-						"pinyin": "ěr duǒ rèn zhēn tīng",
-						"text": "耳朵认真听。"
+						"pinyin":"ěr duǒ rèn zhēn tīng",
+						"text":"耳朵认真听。"
 					},
 					{
-						"pinyin": "xiǎo shǒu fàng zhuō shàng",
-						"text": "小手放桌上。"
+						"pinyin":"xiǎo shǒu fàng zhuō shàng",
+						"text":"小手放桌上。"
 					},
 					{
-						"pinyin": "zuò zhí bù luàn dòng",
-						"text": "坐直不乱动。"
+						"pinyin":"zuò zhí bù luàn dòng",
+						"text":"坐直不乱动。"
 					}
 				],
-				"task": "做一做“坐直”的动作，再读两遍。",
-				"taskPinyin": "zuò yī zuò zuò zhí de dòng zuò zài dú liǎng biàn",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"做一做“坐直”的动作，再读两遍。",
+				"taskPinyin":"zuò yī zuò zuò zhí de dòng zuò zài dú liǎng biàn",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"center",
+				"paragraph_indent":2
 			},
 			{
-				"title": "会举手的小雨",
-				"titlePinyin": "huì jǔ shǒu de xiǎo yǔ",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"会举手的小雨",
+				"titlePinyin":"huì jǔ shǒu de xiǎo yǔ",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "lǎo shī tí wèn la",
-						"text": "老师提问啦。"
+						"pinyin":"lǎo shī tí wèn la",
+						"text":"老师提问啦。"
 					},
 					{
-						"pinyin": "xiǎo yǔ xiǎng huí dá",
-						"text": "小雨想回答。"
+						"pinyin":"xiǎo yǔ xiǎng huí dá",
+						"text":"小雨想回答。"
 					},
 					{
-						"pinyin": "tā xiān jǔ shǒu zài fā yán",
-						"text": "她先举手，再发言。"
+						"pinyin":"tā xiān jǔ shǒu zài fā yán",
+						"text":"她先举手，再发言。"
 					},
 					{
-						"pinyin": "lǎo shī kuā tā zhēn yǒu lǐ mào",
-						"text": "老师夸她真有礼貌。"
+						"pinyin":"lǎo shī kuā tā zhēn yǒu lǐ mào",
+						"text":"老师夸她真有礼貌。"
 					}
 				],
-				"task": "想回答问题时，应该先做什么？",
-				"taskPinyin": "xiǎng huí dá wèn tí shí yīng gāi xiān zuò shén me",
-				"taskAnswer": "先举手。",
-				"taskAnswerPinyin": "xiān jǔ shǒu",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"想回答问题时，应该先做什么？",
+				"taskPinyin":"xiǎng huí dá wèn tí shí yīng gāi xiān zuò shén me",
+				"taskAnswer":"先举手。",
+				"taskAnswerPinyin":"xiān jǔ shǒu",
+				"alignment_mode":"left",
+				"paragraph_indent":4
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "课堂小约定",
-						"titlePinyin": "kè táng xiǎo yuē dìng",
-						"content": [
+						"title":"课堂小约定",
+						"titlePinyin":"kè táng xiǎo yuē dìng",
+						"content":[
 							{
-								"pinyin": "xiān jǔ shǒu",
-								"text": "先举手"
+								"pinyin":"xiān jǔ shǒu",
+								"text":"先举手"
 							},
 							{
-								"pinyin": "bù chā zuǐ",
-								"text": "不插嘴"
+								"pinyin":"bù chā zuǐ",
+								"text":"不插嘴"
 							},
 							{
-								"pinyin": "rèn zhēn tīng",
-								"text": "认真听"
+								"pinyin":"rèn zhēn tīng",
+								"text":"认真听"
 							},
 							{
-								"pinyin": "huì diǎn tóu",
-								"text": "会点头"
+								"pinyin":"huì diǎn tóu",
+								"text":"会点头"
 							}
 						]
 					}
 				],
-				"task": "你最想做到哪一条？说一句。",
-				"taskPinyin": "nǐ zuì xiǎng zuò dào nǎ yī tiáo shuō yī jù",
-				"taskAnswer": "我想做到认真听。",
-				"taskAnswerPinyin": "wǒ xiǎng zuò dào rèn zhēn tīng"
+				"task":"你最想做到哪一条？说一句。",
+				"taskPinyin":"nǐ zuì xiǎng zuò dào nǎ yī tiáo shuō yī jù",
+				"taskAnswer":"我想做到认真听。",
+				"taskAnswerPinyin":"wǒ xiǎng zuò dào rèn zhēn tīng"
 			}
 		]
 	},
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 3,
-		"day": 3,
-		"theme": "整理小能手",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":3,
+		"day":3,
+		"theme":"整理小能手",
+		"content":[
 			{
-				"title": "整理歌",
-				"titlePinyin": "zhěng lǐ gē",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"整理歌",
+				"titlePinyin":"zhěng lǐ gē",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "shū běn fàng zhěng qí",
-						"text": "书本放整齐。"
+						"pinyin":"shū běn fàng zhěng qí",
+						"text":"书本放整齐。"
 					},
 					{
-						"pinyin": "qiān bǐ jìn bǐ dài",
-						"text": "铅笔进笔袋。"
+						"pinyin":"qiān bǐ jìn bǐ dài",
+						"text":"铅笔进笔袋。"
 					},
 					{
-						"pinyin": "yòng wán fàng huí qù",
-						"text": "用完放回去。"
+						"pinyin":"yòng wán fàng huí qù",
+						"text":"用完放回去。"
 					},
 					{
-						"pinyin": "zhuō miàn liàng jīng jīng",
-						"text": "桌面亮晶晶。"
+						"pinyin":"zhuō miàn liàng jīng jīng",
+						"text":"桌面亮晶晶。"
 					}
 				],
-				"task": "指着书本和笔袋读两遍。",
-				"taskPinyin": "zhǐ zhe shū běn hé bǐ dài dú liǎng biàn",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"指着书本和笔袋读两遍。",
+				"taskPinyin":"zhǐ zhe shū běn hé bǐ dài dú liǎng biàn",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"center",
+				"paragraph_indent":2
 			},
 			{
-				"title": "找到了",
-				"titlePinyin": "zhǎo dào le",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"找到了",
+				"titlePinyin":"zhǎo dào le",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "wǒ de xiàng pí bú jiàn le",
-						"text": "我的橡皮不见了。"
+						"pinyin":"wǒ de xiàng pí bú jiàn le",
+						"text":"我的橡皮不见了。"
 					},
 					{
-						"pinyin": "wǒ bù zháo jí xiān zhǎo yī zhǎo",
-						"text": "我不着急，先找一找。"
+						"pinyin":"wǒ bù zháo jí xiān zhǎo yī zhǎo",
+						"text":"我不着急，先找一找。"
 					},
 					{
-						"pinyin": "zhuō shàng kàn kàn shū bāo fān fān",
-						"text": "桌上看看，书包翻翻。"
+						"pinyin":"zhuō shàng kàn kàn shū bāo fān fān",
+						"text":"桌上看看，书包翻翻。"
 					},
 					{
-						"pinyin": "yuán lái zài bǐ dài lǐ",
-						"text": "原来在笔袋里。"
+						"pinyin":"yuán lái zài bǐ dài lǐ",
+						"text":"原来在笔袋里。"
 					}
 				],
-				"task": "东西不见了，应该怎么做？",
-				"taskPinyin": "dōng xī bú jiàn le yīng gāi zěn me zuò",
-				"taskAnswer": "先找一找，不着急。",
-				"taskAnswerPinyin": "xiān zhǎo yī zhǎo bù zháo jí",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"东西不见了，应该怎么做？",
+				"taskPinyin":"dōng xī bú jiàn le yīng gāi zěn me zuò",
+				"taskAnswer":"先找一找，不着急。",
+				"taskAnswerPinyin":"xiān zhǎo yī zhǎo bù zháo jí",
+				"alignment_mode":"left",
+				"paragraph_indent":4
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "动作词",
-						"titlePinyin": "dòng zuò cí",
-						"content": [
+						"title":"动作词",
+						"titlePinyin":"dòng zuò cí",
+						"content":[
 							{
-								"pinyin": "zhěng lǐ",
-								"text": "整理"
+								"pinyin":"zhěng lǐ",
+								"text":"整理"
 							},
 							{
-								"pinyin": "shōu hǎo",
-								"text": "收好"
+								"pinyin":"shōu hǎo",
+								"text":"收好"
 							},
 							{
-								"pinyin": "fàng huí",
-								"text": "放回"
+								"pinyin":"fàng huí",
+								"text":"放回"
 							},
 							{
-								"pinyin": "zhǎo yī zhǎo",
-								"text": "找一找"
+								"pinyin":"zhǎo yī zhǎo",
+								"text":"找一找"
 							},
 							{
-								"pinyin": "cā yī cā",
-								"text": "擦一擦"
+								"pinyin":"cā yī cā",
+								"text":"擦一擦"
 							}
 						]
 					}
 				],
-				"task": "用“找一找”说一句话。",
-				"taskPinyin": "yòng zhǎo yī zhǎo shuō yī jù huà",
-				"taskAnswer": "我找一找我的铅笔。",
-				"taskAnswerPinyin": "wǒ zhǎo yī zhǎo wǒ de qiān bǐ"
+				"task":"用“找一找”说一句话。",
+				"taskPinyin":"yòng zhǎo yī zhǎo shuō yī jù huà",
+				"taskAnswer":"我找一找我的铅笔。",
+				"taskAnswerPinyin":"wǒ zhǎo yī zhǎo wǒ de qiān bǐ"
 			}
 		]
 	},
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 3,
-		"day": 4,
-		"theme": "课间不打闹",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":3,
+		"day":4,
+		"theme":"课间不打闹",
+		"content":[
 			{
-				"title": "课间歌",
-				"titlePinyin": "kè jiān gē",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"课间歌",
+				"titlePinyin":"kè jiān gē",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "xià kè la zǒu yī zǒu",
-						"text": "下课啦，走一走。"
+						"pinyin":"xià kè la zǒu yī zǒu",
+						"text":"下课啦，走一走。"
 					},
 					{
-						"pinyin": "bù zhuī pǎo bù tuī jǐ",
-						"text": "不追跑，不推挤。"
+						"pinyin":"bù zhuī pǎo bù tuī jǐ",
+						"text":"不追跑，不推挤。"
 					},
 					{
-						"pinyin": "qīng qīng shuō huà bù chǎo nào",
-						"text": "轻轻说话不吵闹。"
+						"pinyin":"qīng qīng shuō huà bù chǎo nào",
+						"text":"轻轻说话不吵闹。"
 					},
 					{
-						"pinyin": "ān quán kuài lè zuì zhòng yào",
-						"text": "安全快乐最重要。"
+						"pinyin":"ān quán kuài lè zuì zhòng yào",
+						"text":"安全快乐最重要。"
 					}
 				],
-				"task": "读两遍，把“不追跑”读清楚。",
-				"taskPinyin": "dú liǎng biàn bǎ bù zhuī pǎo dú qīng chǔ",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"读两遍，把“不追跑”读清楚。",
+				"taskPinyin":"dú liǎng biàn bǎ bù zhuī pǎo dú qīng chǔ",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"left",
+				"paragraph_indent":2
 			},
 			{
-				"title": "楼梯慢慢走",
-				"titlePinyin": "lóu tī màn màn zǒu",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"楼梯慢慢走",
+				"titlePinyin":"lóu tī màn màn zǒu",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "xià kè le wǒ qù xǐ shǒu",
-						"text": "下课了，我去洗手。"
+						"pinyin":"xià kè le wǒ qù xǐ shǒu",
+						"text":"下课了，我去洗手。"
 					},
 					{
-						"pinyin": "lóu tī shàng rén hěn duō",
-						"text": "楼梯上人很多。"
+						"pinyin":"lóu tī shàng rén hěn duō",
+						"text":"楼梯上人很多。"
 					},
 					{
-						"pinyin": "wǒ kào yòu màn màn zǒu",
-						"text": "我靠右慢慢走。"
+						"pinyin":"wǒ kào yòu màn màn zǒu",
+						"text":"我靠右慢慢走。"
 					},
 					{
-						"pinyin": "yī jiē yī jiē bù zháo jí",
-						"text": "一阶一阶不着急。"
+						"pinyin":"yī jiē yī jiē bù zháo jí",
+						"text":"一阶一阶不着急。"
 					}
 				],
-				"task": "上下楼梯要怎么走？",
-				"taskPinyin": "shàng xià lóu tī yào zěn me zǒu",
-				"taskAnswer": "靠右慢慢走。",
-				"taskAnswerPinyin": "kào yòu màn màn zǒu",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"上下楼梯要怎么走？",
+				"taskPinyin":"shàng xià lóu tī yào zěn me zǒu",
+				"taskAnswer":"靠右慢慢走。",
+				"taskAnswerPinyin":"kào yòu màn màn zǒu",
+				"alignment_mode":"left",
+				"paragraph_indent":1
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "安全提醒",
-						"titlePinyin": "ān quán tí xǐng",
-						"content": [
+						"title":"安全提醒",
+						"titlePinyin":"ān quán tí xǐng",
+						"content":[
 							{
-								"pinyin": "màn màn zǒu",
-								"text": "慢慢走"
+								"pinyin":"màn màn zǒu",
+								"text":"慢慢走"
 							},
 							{
-								"pinyin": "bù tuī jǐ",
-								"text": "不推挤"
+								"pinyin":"bù tuī jǐ",
+								"text":"不推挤"
 							},
 							{
-								"pinyin": "kào yòu zǒu",
-								"text": "靠右走"
+								"pinyin":"kào yòu zǒu",
+								"text":"靠右走"
 							},
 							{
-								"pinyin": "bù zhuī pǎo",
-								"text": "不追跑"
+								"pinyin":"bù zhuī pǎo",
+								"text":"不追跑"
 							}
 						]
 					}
 				],
-				"task": "选一条提醒，说给家人听。",
-				"taskPinyin": "xuǎn yī tiáo tí xǐng shuō gěi jiā rén tīng",
-				"taskAnswer": "上下楼梯要靠右走。",
-				"taskAnswerPinyin": "shàng xià lóu tī yào kào yòu zǒu"
+				"task":"选一条提醒，说给家人听。",
+				"taskPinyin":"xuǎn yī tiáo tí xǐng shuō gěi jiā rén tīng",
+				"taskAnswer":"上下楼梯要靠右走。",
+				"taskAnswerPinyin":"shàng xià lóu tī yào kào yòu zǒu"
 			}
 		]
 	},
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 3,
-		"day": 5,
-		"theme": "爱护学习用品",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":3,
+		"day":5,
+		"theme":"爱护学习用品",
+		"content":[
 			{
-				"title": "我的铅笔",
-				"titlePinyin": "wǒ de qiān bǐ",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"我的铅笔",
+				"titlePinyin":"wǒ de qiān bǐ",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "qiān bǐ xì xì xiě dé hǎo",
-						"text": "铅笔细细写得好。"
+						"pinyin":"qiān bǐ xì xì xiě dé hǎo",
+						"text":"铅笔细细写得好。"
 					},
 					{
-						"pinyin": "xiàng pí cā cā biàn gān jìng",
-						"text": "橡皮擦擦变干净。"
+						"pinyin":"xiàng pí cā cā biàn gān jìng",
+						"text":"橡皮擦擦变干净。"
 					},
 					{
-						"pinyin": "shū běn fān fān bù sī yè",
-						"text": "书本翻翻不撕页。"
+						"pinyin":"shū běn fān fān bù sī yè",
+						"text":"书本翻翻不撕页。"
 					},
 					{
-						"pinyin": "ài hù tā men yào jì láo",
-						"text": "爱护它们要记牢。"
+						"pinyin":"ài hù tā men yào jì láo",
+						"text":"爱护它们要记牢。"
 					}
 				],
-				"task": "读两遍，读完摸摸你的书本。",
-				"taskPinyin": "dú liǎng biàn dú wán mō mō nǐ de shū běn",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"读两遍，读完摸摸你的书本。",
+				"taskPinyin":"dú liǎng biàn dú wán mō mō nǐ de shū běn",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"center",
+				"paragraph_indent":2
 			},
 			{
-				"title": "借铅笔",
-				"titlePinyin": "jiè qiān bǐ",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"借铅笔",
+				"titlePinyin":"jiè qiān bǐ",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "wǒ wàng dài qiān bǐ le",
-						"text": "我忘带铅笔了。"
+						"pinyin":"wǒ wàng dài qiān bǐ le",
+						"text":"我忘带铅笔了。"
 					},
 					{
-						"pinyin": "wǒ duì tóng zhuō shuō qǐng jiè wǒ yòng yī xià",
-						"text": "我对同桌说：“请借我用一下。”"
+						"pinyin":"wǒ duì tóng zhuō shuō qǐng jiè wǒ yòng yī xià",
+						"text":"我对同桌说：“请借我用一下。”"
 					},
 					{
-						"pinyin": "tóng zhuō dì gěi wǒ",
-						"text": "同桌递给我。"
+						"pinyin":"tóng zhuō dì gěi wǒ",
+						"text":"同桌递给我。"
 					},
 					{
-						"pinyin": "wǒ shuō xiè xiè nǐ",
-						"text": "我说：“谢谢你！”"
+						"pinyin":"wǒ shuō xiè xiè nǐ",
+						"text":"我说：“谢谢你！”"
 					}
 				],
-				"task": "借东西时，先说什么？",
-				"taskPinyin": "jiè dōng xī shí xiān shuō shén me",
-				"taskAnswer": "请借我用一下。",
-				"taskAnswerPinyin": "qǐng jiè wǒ yòng yī xià",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"借东西时，先说什么？",
+				"taskPinyin":"jiè dōng xī shí xiān shuō shén me",
+				"taskAnswer":"请借我用一下。",
+				"taskAnswerPinyin":"qǐng jiè wǒ yòng yī xià",
+				"alignment_mode":"left",
+				"paragraph_indent":4
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "礼貌用语",
-						"titlePinyin": "lǐ mào yòng yǔ",
-						"content": [
+						"title":"礼貌用语",
+						"titlePinyin":"lǐ mào yòng yǔ",
+						"content":[
 							{
-								"pinyin": "qǐng",
-								"text": "请"
+								"pinyin":"qǐng",
+								"text":"请"
 							},
 							{
-								"pinyin": "xiè xiè",
-								"text": "谢谢"
+								"pinyin":"xiè xiè",
+								"text":"谢谢"
 							},
 							{
-								"pinyin": "duì bù qǐ",
-								"text": "对不起"
+								"pinyin":"duì bù qǐ",
+								"text":"对不起"
 							},
 							{
-								"pinyin": "méi guān xì",
-								"text": "没关系"
+								"pinyin":"méi guān xì",
+								"text":"没关系"
 							}
 						]
 					}
 				],
-				"task": "选一句，说给同桌/家人听。",
-				"taskPinyin": "xuǎn yī jù shuō gěi tóng zhuō jiā rén tīng",
-				"taskAnswer": "谢谢你。",
-				"taskAnswerPinyin": "xiè xiè nǐ"
+				"task":"选一句，说给同桌/家人听。",
+				"taskPinyin":"xuǎn yī jù shuō gěi tóng zhuō jiā rén tīng",
+				"taskAnswer":"谢谢你。",
+				"taskAnswerPinyin":"xiè xiè nǐ"
 			}
 		]
 	},
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 3,
-		"day": 6,
-		"theme": "快乐读书",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":3,
+		"day":6,
+		"theme":"快乐读书",
+		"content":[
 			{
-				"title": "我爱图画书",
-				"titlePinyin": "wǒ ài tú huà shū",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"我爱图画书",
+				"titlePinyin":"wǒ ài tú huà shū",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "fān kāi shū kàn tú huà",
-						"text": "翻开书，看图画。"
+						"pinyin":"fān kāi shū kàn tú huà",
+						"text":"翻开书，看图画。"
 					},
 					{
-						"pinyin": "xiǎo gù shì zhēn hǎo xiào",
-						"text": "小故事，真好笑。"
+						"pinyin":"xiǎo gù shì zhēn hǎo xiào",
+						"text":"小故事，真好笑。"
 					},
 					{
-						"pinyin": "dú yī dú xiǎng yī xiǎng",
-						"text": "读一读，想一想。"
+						"pinyin":"dú yī dú xiǎng yī xiǎng",
+						"text":"读一读，想一想。"
 					},
 					{
-						"pinyin": "kàn wán fàng huí shū jià shàng",
-						"text": "看完放回书架上。"
+						"pinyin":"kàn wán fàng huí shū jià shàng",
+						"text":"看完放回书架上。"
 					}
 				],
-				"task": "读两遍，最后一句读慢一点。",
-				"taskPinyin": "dú liǎng biàn zuì hòu yī jù dòu màn yì diǎn",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"读两遍，最后一句读慢一点。",
+				"taskPinyin":"dú liǎng biàn zuì hòu yī jù dòu màn yì diǎn",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"left",
+				"paragraph_indent":2
 			},
 			{
-				"title": "小熊借书",
-				"titlePinyin": "xiǎo xióng jiè shū",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"小熊借书",
+				"titlePinyin":"xiǎo xióng jiè shū",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "xiǎo xióng xiǎng kàn xīn gù shì",
-						"text": "小熊想看新故事。"
+						"pinyin":"xiǎo xióng xiǎng kàn xīn gù shì",
+						"text":"小熊想看新故事。"
 					},
 					{
-						"pinyin": "tā qù tú shū jiǎo jiè shū",
-						"text": "他去图书角借书。"
+						"pinyin":"tā qù tú shū jiǎo jiè shū",
+						"text":"他去图书角借书。"
 					},
 					{
-						"pinyin": "tā qīng qīng ná màn màn fān",
-						"text": "他轻轻拿，慢慢翻。"
+						"pinyin":"tā qīng qīng ná màn màn fān",
+						"text":"他轻轻拿，慢慢翻。"
 					},
 					{
-						"pinyin": "kàn wán guī huán bù luàn fàng",
-						"text": "看完归还不乱放。"
+						"pinyin":"kàn wán guī huán bù luàn fàng",
+						"text":"看完归还不乱放。"
 					}
 				],
-				"task": "看完书应该怎么做？",
-				"taskPinyin": "kàn wán shū yīng gāi zěn me zuò",
-				"taskAnswer": "放回原处。",
-				"taskAnswerPinyin": "fàng huí yuán chù",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"看完书应该怎么做？",
+				"taskPinyin":"kàn wán shū yīng gāi zěn me zuò",
+				"taskAnswer":"放回原处。",
+				"taskAnswerPinyin":"fàng huí yuán chù",
+				"alignment_mode":"left",
+				"paragraph_indent":1
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "读书词语",
-						"titlePinyin": "dú shū cí yǔ",
-						"content": [
+						"title":"读书词语",
+						"titlePinyin":"dú shū cí yǔ",
+						"content":[
 							{
-								"pinyin": "tú huà shū",
-								"text": "图画书"
+								"pinyin":"tú huà shū",
+								"text":"图画书"
 							},
 							{
-								"pinyin": "gù shì",
-								"text": "故事"
+								"pinyin":"gù shì",
+								"text":"故事"
 							},
 							{
-								"pinyin": "shū jià",
-								"text": "书架"
+								"pinyin":"shū jià",
+								"text":"书架"
 							},
 							{
-								"pinyin": "qīng qīng",
-								"text": "轻轻"
+								"pinyin":"qīng qīng",
+								"text":"轻轻"
 							},
 							{
-								"pinyin": "màn màn",
-								"text": "慢慢"
+								"pinyin":"màn màn",
+								"text":"慢慢"
 							}
 						]
 					}
 				],
-				"task": "用“轻轻”说一句话。",
-				"taskPinyin": "yòng qīng qīng shuō yī jù huà",
-				"taskAnswer": "我轻轻翻书。",
-				"taskAnswerPinyin": "wǒ qīng qīng fān shū"
+				"task":"用“轻轻”说一句话。",
+				"taskPinyin":"yòng qīng qīng shuō yī jù huà",
+				"taskAnswer":"我轻轻翻书。",
+				"taskAnswerPinyin":"wǒ qīng qīng fān shū"
 			}
 		]
 	},
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 4,
-		"day": 1,
-		"theme": "我会照顾自己",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":4,
+		"day":1,
+		"theme":"我会照顾自己",
+		"content":[
 			{
-				"title": "起床歌",
-				"titlePinyin": "qǐ chuáng gē",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"起床歌",
+				"titlePinyin":"qǐ chuáng gē",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "zǎo zǎo qǐ dié bèi zi",
-						"text": "早早起，叠被子。"
+						"pinyin":"zǎo zǎo qǐ dié bèi zi",
+						"text":"早早起，叠被子。"
 					},
 					{
-						"pinyin": "shuā shuā yá xǐ xǐ liǎn",
-						"text": "刷刷牙，洗洗脸。"
+						"pinyin":"shuā shuā yá xǐ xǐ liǎn",
+						"text":"刷刷牙，洗洗脸。"
 					},
 					{
-						"pinyin": "chuān hǎo yī bèi shū bāo",
-						"text": "穿好衣，背书包。"
+						"pinyin":"chuān hǎo yī bèi shū bāo",
+						"text":"穿好衣，背书包。"
 					},
 					{
-						"pinyin": "kāi kāi xīn xīn qù xué xiào",
-						"text": "开开心心去学校。"
+						"pinyin":"kāi kāi xīn xīn qù xué xiào",
+						"text":"开开心心去学校。"
 					}
 				],
-				"task": "跟着读两遍，说清楚每个动作。",
-				"taskPinyin": "gēn zhe dú liǎng biàn shuō qīng chǔ měi gè dòng zuò",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"跟着读两遍，说清楚每个动作。",
+				"taskPinyin":"gēn zhe dú liǎng biàn shuō qīng chǔ měi gè dòng zuò",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"left",
+				"paragraph_indent":1
 			},
 			{
-				"title": "我会穿衣服",
-				"titlePinyin": "wǒ huì chuān yī fú",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"我会穿衣服",
+				"titlePinyin":"wǒ huì chuān yī fú",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "tiān qì yǒu diǎn liáng",
-						"text": "天气有点凉。"
+						"pinyin":"tiān qì yǒu diǎn liáng",
+						"text":"天气有点凉。"
 					},
 					{
-						"pinyin": "wǒ zì jǐ chuān wài tào",
-						"text": "我自己穿外套。"
+						"pinyin":"wǒ zì jǐ chuān wài tào",
+						"text":"我自己穿外套。"
 					},
 					{
-						"pinyin": "kòu hǎo kòu zi bù huāng zhāng",
-						"text": "扣好扣子不慌张。"
+						"pinyin":"kòu hǎo kòu zi bù huāng zhāng",
+						"text":"扣好扣子不慌张。"
 					},
 					{
-						"pinyin": "mā mā shuō wǒ zhēn néng gàn",
-						"text": "妈妈说我真能干。"
+						"pinyin":"mā mā shuō wǒ zhēn néng gàn",
+						"text":"妈妈说我真能干。"
 					}
 				],
-				"task": "你会做哪件小事？说一句。",
-				"taskPinyin": "nǐ huì zuò nǎ jiàn xiǎo shì shuō yī jù",
-				"taskAnswer": "我会自己穿衣服。",
-				"taskAnswerPinyin": "wǒ huì zì jǐ chuān yī fú",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"你会做哪件小事？说一句。",
+				"taskPinyin":"nǐ huì zuò nǎ jiàn xiǎo shì shuō yī jù",
+				"taskAnswer":"我会自己穿衣服。",
+				"taskAnswerPinyin":"wǒ huì zì jǐ chuān yī fú",
+				"alignment_mode":"left",
+				"paragraph_indent":1
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "自理小事",
-						"titlePinyin": "zì lǐ xiǎo shì",
-						"content": [
+						"title":"自理小事",
+						"titlePinyin":"zì lǐ xiǎo shì",
+						"content":[
 							{
-								"pinyin": "dié bèi zi",
-								"text": "叠被子"
+								"pinyin":"dié bèi zi",
+								"text":"叠被子"
 							},
 							{
-								"pinyin": "shuā yá",
-								"text": "刷牙"
+								"pinyin":"shuā yá",
+								"text":"刷牙"
 							},
 							{
-								"pinyin": "xǐ liǎn",
-								"text": "洗脸"
+								"pinyin":"xǐ liǎn",
+								"text":"洗脸"
 							},
 							{
-								"pinyin": "chuān yī fú",
-								"text": "穿衣服"
+								"pinyin":"chuān yī fú",
+								"text":"穿衣服"
 							},
 							{
-								"pinyin": "jì xié dài",
-								"text": "系鞋带"
+								"pinyin":"jì xié dài",
+								"text":"系鞋带"
 							}
 						]
 					}
 				],
-				"task": "选一个，说一句“我会……”。",
-				"taskPinyin": "xuǎn yí gè shuō yī jù wǒ huì",
-				"taskAnswer": "我会刷牙。",
-				"taskAnswerPinyin": "wǒ huì shuā yá"
+				"task":"选一个，说一句“我会……”。",
+				"taskPinyin":"xuǎn yí gè shuō yī jù wǒ huì",
+				"taskAnswer":"我会刷牙。",
+				"taskAnswerPinyin":"wǒ huì shuā yá"
 			}
 		]
 	},
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 4,
-		"day": 2,
-		"theme": "学会分享",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":4,
+		"day":2,
+		"theme":"学会分享",
+		"content":[
 			{
-				"title": "分享真快乐",
-				"titlePinyin": "fēn xiǎng zhēn kuài lè",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"分享真快乐",
+				"titlePinyin":"fēn xiǎng zhēn kuài lè",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "hǎo chī de fēn yī fēn",
-						"text": "好吃的，分一分。"
+						"pinyin":"hǎo chī de fēn yī fēn",
+						"text":"好吃的，分一分。"
 					},
 					{
-						"pinyin": "hǎo wán de yì qǐ wán",
-						"text": "好玩的，一起玩。"
+						"pinyin":"hǎo wán de yì qǐ wán",
+						"text":"好玩的，一起玩。"
 					},
 					{
-						"pinyin": "nǐ kāi xīn wǒ yě xiào",
-						"text": "你开心，我也笑。"
+						"pinyin":"nǐ kāi xīn wǒ yě xiào",
+						"text":"你开心，我也笑。"
 					},
 					{
-						"pinyin": "fēn xiǎng zhēn kuài lè",
-						"text": "分享真快乐。"
+						"pinyin":"fēn xiǎng zhēn kuài lè",
+						"text":"分享真快乐。"
 					}
 				],
-				"task": "读两遍，最后一句笑着读。",
-				"taskPinyin": "dú liǎng biàn zuì hòu yī jù xiào zhe dú",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"读两遍，最后一句笑着读。",
+				"taskPinyin":"dú liǎng biàn zuì hòu yī jù xiào zhe dú",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"left",
+				"paragraph_indent":2
 			},
 			{
-				"title": "分享饼干",
-				"titlePinyin": "fēn xiǎng bǐng gān",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"分享饼干",
+				"titlePinyin":"fēn xiǎng bǐng gān",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "wǒ dài le xiǎo bǐng gān",
-						"text": "我带了小饼干。"
+						"pinyin":"wǒ dài le xiǎo bǐng gān",
+						"text":"我带了小饼干。"
 					},
 					{
-						"pinyin": "wǒ fēn gěi tóng zhuō yī kuài",
-						"text": "我分给同桌一块。"
+						"pinyin":"wǒ fēn gěi tóng zhuō yī kuài",
+						"text":"我分给同桌一块。"
 					},
 					{
-						"pinyin": "tóng zhuō shuō xiè xiè nǐ",
-						"text": "同桌说：“谢谢你！”"
+						"pinyin":"tóng zhuō shuō xiè xiè nǐ",
+						"text":"同桌说：“谢谢你！”"
 					},
 					{
-						"pinyin": "wǒ men yì qǐ chī zhēn xiāng",
-						"text": "我们一起吃，真香。"
+						"pinyin":"wǒ men yì qǐ chī zhēn xiāng",
+						"text":"我们一起吃，真香。"
 					}
 				],
-				"task": "同桌对我说了什么？",
-				"taskPinyin": "tóng zhuō duì wǒ shuō le shén me",
-				"taskAnswer": "谢谢你！",
-				"taskAnswerPinyin": "xiè xiè nǐ",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"同桌对我说了什么？",
+				"taskPinyin":"tóng zhuō duì wǒ shuō le shén me",
+				"taskAnswer":"谢谢你！",
+				"taskAnswerPinyin":"xiè xiè nǐ",
+				"alignment_mode":"left",
+				"paragraph_indent":1
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "会说的话",
-						"titlePinyin": "huì shuō de huà",
-						"content": [
+						"title":"会说的话",
+						"titlePinyin":"huì shuō de huà",
+						"content":[
 							{
-								"pinyin": "qǐng nǐ chī",
-								"text": "请你吃"
+								"pinyin":"qǐng nǐ chī",
+								"text":"请你吃"
 							},
 							{
-								"pinyin": "wǒ men yì qǐ",
-								"text": "我们一起"
+								"pinyin":"wǒ men yì qǐ",
+								"text":"我们一起"
 							},
 							{
-								"pinyin": "xiè xiè nǐ",
-								"text": "谢谢你"
+								"pinyin":"xiè xiè nǐ",
+								"text":"谢谢你"
 							},
 							{
-								"pinyin": "bú kè qì",
-								"text": "不客气"
+								"pinyin":"bú kè qì",
+								"text":"不客气"
 							}
 						]
 					}
 				],
-				"task": "选一句，说给家人听。",
-				"taskPinyin": "xuǎn yī jù shuō gěi jiā rén tīng",
-				"taskAnswer": "我们一起玩。",
-				"taskAnswerPinyin": "wǒ men yì qǐ wán"
+				"task":"选一句，说给家人听。",
+				"taskPinyin":"xuǎn yī jù shuō gěi jiā rén tīng",
+				"taskAnswer":"我们一起玩。",
+				"taskAnswerPinyin":"wǒ men yì qǐ wán"
 			}
 		]
 	},
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 4,
-		"day": 3,
-		"theme": "认真做作业",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":4,
+		"day":3,
+		"theme":"认真做作业",
+		"content":[
 			{
-				"title": "写字歌",
-				"titlePinyin": "xiě zì gē",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"写字歌",
+				"titlePinyin":"xiě zì gē",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "zuò yào zhèng bèi yào zhí",
-						"text": "坐要正，背要直。"
+						"pinyin":"zuò yào zhèng bèi yào zhí",
+						"text":"坐要正，背要直。"
 					},
 					{
-						"pinyin": "yǎn lí shū yī chǐ yuǎn",
-						"text": "眼离书，一尺远。"
+						"pinyin":"yǎn lí shū yī chǐ yuǎn",
+						"text":"眼离书，一尺远。"
 					},
 					{
-						"pinyin": "shǒu wò bǐ màn màn xiě",
-						"text": "手握笔，慢慢写。"
+						"pinyin":"shǒu wò bǐ màn màn xiě",
+						"text":"手握笔，慢慢写。"
 					},
 					{
-						"pinyin": "xiě wán jiǎn chá zài shōu qǐ",
-						"text": "写完检查再收起。"
+						"pinyin":"xiě wán jiǎn chá zài shōu qǐ",
+						"text":"写完检查再收起。"
 					}
 				],
-				"task": "读两遍，做一做“坐正”。",
-				"taskPinyin": "dú liǎng biàn zuò yī zuò zuò zhèng",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"读两遍，做一做“坐正”。",
+				"taskPinyin":"dú liǎng biàn zuò yī zuò zuò zhèng",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"left",
+				"paragraph_indent":2
 			},
 			{
-				"title": "不急的小亮",
-				"titlePinyin": "bù jí de xiǎo liàng",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"不急的小亮",
+				"titlePinyin":"bù jí de xiǎo liàng",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "xiǎo liàng xiě zuò yè hěn zháo jí",
-						"text": "小亮写作业很着急。"
+						"pinyin":"xiǎo liàng xiě zuò yè hěn zháo jí",
+						"text":"小亮写作业很着急。"
 					},
 					{
-						"pinyin": "zì xiě dé wāi wāi niǔ niǔ",
-						"text": "字写得歪歪扭扭。"
+						"pinyin":"zì xiě dé wāi wāi niǔ niǔ",
+						"text":"字写得歪歪扭扭。"
 					},
 					{
-						"pinyin": "tā shēn hū xī màn màn xiě",
-						"text": "他深呼吸，慢慢写。"
+						"pinyin":"tā shēn hū xī màn màn xiě",
+						"text":"他深呼吸，慢慢写。"
 					},
 					{
-						"pinyin": "zì biàn dé zhěng zhěng qí qí",
-						"text": "字变得整整齐齐。"
+						"pinyin":"zì biàn dé zhěng zhěng qí qí",
+						"text":"字变得整整齐齐。"
 					}
 				],
-				"task": "小亮后来怎么做？",
-				"taskPinyin": "xiǎo liàng hòu lái zěn me zuò",
-				"taskAnswer": "他慢慢写。",
-				"taskAnswerPinyin": "tā màn màn xiě",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"小亮后来怎么做？",
+				"taskPinyin":"xiǎo liàng hòu lái zěn me zuò",
+				"taskAnswer":"他慢慢写。",
+				"taskAnswerPinyin":"tā màn màn xiě",
+				"alignment_mode":"left",
+				"paragraph_indent":1
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "学习好方法",
-						"titlePinyin": "xué xí hǎo fāng fǎ",
-						"content": [
+						"title":"学习好方法",
+						"titlePinyin":"xué xí hǎo fāng fǎ",
+						"content":[
 							{
-								"pinyin": "màn màn xiě",
-								"text": "慢慢写"
+								"pinyin":"màn màn xiě",
+								"text":"慢慢写"
 							},
 							{
-								"pinyin": "kàn qīng chǔ",
-								"text": "看清楚"
+								"pinyin":"kàn qīng chǔ",
+								"text":"看清楚"
 							},
 							{
-								"pinyin": "xiě zhěng qí",
-								"text": "写整齐"
+								"pinyin":"xiě zhěng qí",
+								"text":"写整齐"
 							},
 							{
-								"pinyin": "zài jiǎn chá",
-								"text": "再检查"
+								"pinyin":"zài jiǎn chá",
+								"text":"再检查"
 							}
 						]
 					}
 				],
-				"task": "用“慢慢写”说一句话。",
-				"taskPinyin": "yòng màn màn xiě shuō yī jù huà",
-				"taskAnswer": "我慢慢写字。",
-				"taskAnswerPinyin": "wǒ màn màn xiě zì"
+				"task":"用“慢慢写”说一句话。",
+				"taskPinyin":"yòng màn màn xiě shuō yī jù huà",
+				"taskAnswer":"我慢慢写字。",
+				"taskAnswerPinyin":"wǒ màn màn xiě zì"
 			}
 		]
 	},
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 4,
-		"day": 4,
-		"theme": "会问问题",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":4,
+		"day":4,
+		"theme":"会问问题",
+		"content":[
 			{
-				"title": "小问号",
-				"titlePinyin": "xiǎo wèn hào",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"小问号",
+				"titlePinyin":"xiǎo wèn hào",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "bù dǒng jiù wèn yī wèn",
-						"text": "不懂就问一问。"
+						"pinyin":"bù dǒng jiù wèn yī wèn",
+						"text":"不懂就问一问。"
 					},
 					{
-						"pinyin": "jǔ shǒu zài fā yán",
-						"text": "举手再发言。"
+						"pinyin":"jǔ shǒu zài fā yán",
+						"text":"举手再发言。"
 					},
 					{
-						"pinyin": "lǎo shī lái bāng wǒ",
-						"text": "老师来帮我。"
+						"pinyin":"lǎo shī lái bāng wǒ",
+						"text":"老师来帮我。"
 					},
 					{
-						"pinyin": "wǒ xué huì xīn běn lǐng",
-						"text": "我学会新本领。"
+						"pinyin":"wǒ xué huì xīn běn lǐng",
+						"text":"我学会新本领。"
 					}
 				],
-				"task": "读两遍，读出“问一问”。",
-				"taskPinyin": "dú liǎng biàn dú chū wèn yī wèn",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"读两遍，读出“问一问”。",
+				"taskPinyin":"dú liǎng biàn dú chū wèn yī wèn",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"left",
+				"paragraph_indent":2
 			},
 			{
-				"title": "请老师帮忙",
-				"titlePinyin": "qǐng lǎo shī bāng máng",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"请老师帮忙",
+				"titlePinyin":"qǐng lǎo shī bāng máng",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "wǒ yǒu yī dào tí bù dǒng",
-						"text": "我有一道题不懂。"
+						"pinyin":"wǒ yǒu yī dào tí bù dǒng",
+						"text":"我有一道题不懂。"
 					},
 					{
-						"pinyin": "wǒ xiān zì jǐ xiǎng yī xiǎng",
-						"text": "我先自己想一想。"
+						"pinyin":"wǒ xiān zì jǐ xiǎng yī xiǎng",
+						"text":"我先自己想一想。"
 					},
 					{
-						"pinyin": "hái shì bú huì jiù qù wèn lǎo shī",
-						"text": "还是不会，就去问老师。"
+						"pinyin":"hái shì bú huì jiù qù wèn lǎo shī",
+						"text":"还是不会，就去问老师。"
 					},
 					{
-						"pinyin": "lǎo shī nài xīn jiǎng wǒ míng bái le",
-						"text": "老师耐心讲，我明白了。"
+						"pinyin":"lǎo shī nài xīn jiǎng wǒ míng bái le",
+						"text":"老师耐心讲，我明白了。"
 					}
 				],
-				"task": "不懂的时候可以怎么做？",
-				"taskPinyin": "bù dǒng de shí hòu kě yǐ zěn me zuò",
-				"taskAnswer": "可以问老师。",
-				"taskAnswerPinyin": "kě yǐ wèn lǎo shī",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"不懂的时候可以怎么做？",
+				"taskPinyin":"bù dǒng de shí hòu kě yǐ zěn me zuò",
+				"taskAnswer":"可以问老师。",
+				"taskAnswerPinyin":"kě yǐ wèn lǎo shī",
+				"alignment_mode":"left",
+				"paragraph_indent":4
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "礼貌提问",
-						"titlePinyin": "lǐ mào tí wèn",
-						"content": [
+						"title":"礼貌提问",
+						"titlePinyin":"lǐ mào tí wèn",
+						"content":[
 							{
-								"pinyin": "lǎo shī hǎo",
-								"text": "老师好"
+								"pinyin":"lǎo shī hǎo",
+								"text":"老师好"
 							},
 							{
-								"pinyin": "qǐng wèn",
-								"text": "请问"
+								"pinyin":"qǐng wèn",
+								"text":"请问"
 							},
 							{
-								"pinyin": "wǒ bù dǒng",
-								"text": "我不懂"
+								"pinyin":"wǒ bù dǒng",
+								"text":"我不懂"
 							},
 							{
-								"pinyin": "xiè xiè lǎo shī",
-								"text": "谢谢老师"
+								"pinyin":"xiè xiè lǎo shī",
+								"text":"谢谢老师"
 							}
 						]
 					}
 				],
-				"task": "把“请问”加到一句话里。",
-				"taskPinyin": "bǎ qǐng wèn jiā dào yī jù huà lǐ",
-				"taskAnswer": "老师，请问这一题怎么做？",
-				"taskAnswerPinyin": "lǎo shī qǐng wèn zhè yī tí zěn me zuò"
+				"task":"把“请问”加到一句话里。",
+				"taskPinyin":"bǎ qǐng wèn jiā dào yī jù huà lǐ",
+				"taskAnswer":"老师，请问这一题怎么做？",
+				"taskAnswerPinyin":"lǎo shī qǐng wèn zhè yī tí zěn me zuò"
 			}
 		]
 	},
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 4,
-		"day": 5,
-		"theme": "爱护环境",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":4,
+		"day":5,
+		"theme":"爱护环境",
+		"content":[
 			{
-				"title": "小小环保员",
-				"titlePinyin": "xiǎo xiǎo huán bǎo yuán",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"小小环保员",
+				"titlePinyin":"xiǎo xiǎo huán bǎo yuán",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "zhǐ xiè bù luàn diū",
-						"text": "纸屑不乱丢。"
+						"pinyin":"zhǐ xiè bù luàn diū",
+						"text":"纸屑不乱丢。"
 					},
 					{
-						"pinyin": "lā jī fēn yī fēn",
-						"text": "垃圾分一分。"
+						"pinyin":"lā jī fēn yī fēn",
+						"text":"垃圾分一分。"
 					},
 					{
-						"pinyin": "kàn dào dì shàng zàng wān yāo jiǎn yī jiǎn",
-						"text": "看到地上脏，弯腰捡一捡。"
+						"pinyin":"kàn dào dì shàng zàng wān yāo jiǎn yī jiǎn",
+						"text":"看到地上脏，弯腰捡一捡。"
 					},
 					{
-						"pinyin": "xiào yuán gèng měi lì",
-						"text": "校园更美丽。"
+						"pinyin":"xiào yuán gèng měi lì",
+						"text":"校园更美丽。"
 					}
 				],
-				"task": "读两遍，做一做“捡一捡”。",
-				"taskPinyin": "dú liǎng biàn zuò yī zuò jiǎn yī jiǎn",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"读两遍，做一做“捡一捡”。",
+				"taskPinyin":"dú liǎng biàn zuò yī zuò jiǎn yī jiǎn",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"left",
+				"paragraph_indent":4
 			},
 			{
-				"title": "把纸屑送回家",
-				"titlePinyin": "bǎ zhǐ xiè sòng huí jiā",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"把纸屑送回家",
+				"titlePinyin":"bǎ zhǐ xiè sòng huí jiā",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "fēng chuī lái yī zhāng zhǐ",
-						"text": "风吹来一张纸。"
+						"pinyin":"fēng chuī lái yī zhāng zhǐ",
+						"text":"风吹来一张纸。"
 					},
 					{
-						"pinyin": "zhǐ luò zài dì shàng",
-						"text": "纸落在地上。"
+						"pinyin":"zhǐ luò zài dì shàng",
+						"text":"纸落在地上。"
 					},
 					{
-						"pinyin": "wǒ bǎ tā jiǎn qǐ lái",
-						"text": "我把它捡起来。"
+						"pinyin":"wǒ bǎ tā jiǎn qǐ lái",
+						"text":"我把它捡起来。"
 					},
 					{
-						"pinyin": "wǒ sòng tā jìn lā jī tǒng",
-						"text": "我送它进垃圾桶。"
+						"pinyin":"wǒ sòng tā jìn lā jī tǒng",
+						"text":"我送它进垃圾桶。"
 					}
 				],
-				"task": "纸最后去哪儿了？",
-				"taskPinyin": "zhǐ zuì hòu qù nǎ ér le",
-				"taskAnswer": "进了垃圾桶。",
-				"taskAnswerPinyin": "jìn le lā jī tǒng",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"纸最后去哪儿了？",
+				"taskPinyin":"zhǐ zuì hòu qù nǎ ér le",
+				"taskAnswer":"进了垃圾桶。",
+				"taskAnswerPinyin":"jìn le lā jī tǒng",
+				"alignment_mode":"left",
+				"paragraph_indent":2
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "环保词语",
-						"titlePinyin": "huán bǎo cí yǔ",
-						"content": [
+						"title":"环保词语",
+						"titlePinyin":"huán bǎo cí yǔ",
+						"content":[
 							{
-								"pinyin": "gān jìng",
-								"text": "干净"
+								"pinyin":"gān jìng",
+								"text":"干净"
 							},
 							{
-								"pinyin": "zhěng jié",
-								"text": "整洁"
+								"pinyin":"zhěng jié",
+								"text":"整洁"
 							},
 							{
-								"pinyin": "lā jī tǒng",
-								"text": "垃圾桶"
+								"pinyin":"lā jī tǒng",
+								"text":"垃圾桶"
 							},
 							{
-								"pinyin": "jiǎn qǐ lái",
-								"text": "捡起来"
+								"pinyin":"jiǎn qǐ lái",
+								"text":"捡起来"
 							},
 							{
-								"pinyin": "bù luàn diū",
-								"text": "不乱丢"
+								"pinyin":"bù luàn diū",
+								"text":"不乱丢"
 							}
 						]
 					}
 				],
-				"task": "用“干净”说一句话。",
-				"taskPinyin": "yòng gān jìng shuō yī jù huà",
-				"taskAnswer": "教室很干净。",
-				"taskAnswerPinyin": "jiào shì hěn gān jìng"
+				"task":"用“干净”说一句话。",
+				"taskPinyin":"yòng gān jìng shuō yī jù huà",
+				"taskAnswer":"教室很干净。",
+				"taskAnswerPinyin":"jiào shì hěn gān jìng"
 			}
 		]
 	},
 	{
-		"grade": 1,
-		"term": 1,
-		"week": 4,
-		"day": 6,
-		"theme": "周末小计划",
-		"content": [
+		"grade":1,
+		"term":1,
+		"week":4,
+		"day":6,
+		"theme":"周末小计划",
+		"content":[
 			{
-				"title": "周末快乐",
-				"titlePinyin": "zhōu mò kuài lè",
-				"type": "children_poem",
-				"contentObject": [
+				"title":"周末快乐",
+				"titlePinyin":"zhōu mò kuài lè",
+				"type":"children_poem",
+				"contentObject":[
 					{
-						"pinyin": "zhōu mò dào tài yáng xiào",
-						"text": "周末到，太阳笑。"
+						"pinyin":"zhōu mò dào tài yáng xiào",
+						"text":"周末到，太阳笑。"
 					},
 					{
-						"pinyin": "dú dú shū huà huà huà",
-						"text": "读读书，画画画。"
+						"pinyin":"dú dú shū huà huà huà",
+						"text":"读读书，画画画。"
 					},
 					{
-						"pinyin": "bāng bà mā zuò xiǎo shì",
-						"text": "帮爸妈，做小事。"
+						"pinyin":"bāng bà mā zuò xiǎo shì",
+						"text":"帮爸妈，做小事。"
 					},
 					{
-						"pinyin": "zǎo shuì zǎo qǐ jīng shén hǎo",
-						"text": "早睡早起精神好。"
+						"pinyin":"zǎo shuì zǎo qǐ jīng shén hǎo",
+						"text":"早睡早起精神好。"
 					}
 				],
-				"task": "读两遍，说说你周末想做什么。",
-				"taskPinyin": "dú liǎng biàn shuō shuō nǐ zhōu mò xiǎng zuò shén me",
-				"taskAnswer": "",
-				"taskAnswerPinyin": "",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"读两遍，说说你周末想做什么。",
+				"taskPinyin":"dú liǎng biàn shuō shuō nǐ zhōu mò xiǎng zuò shén me",
+				"taskAnswer":"",
+				"taskAnswerPinyin":"",
+				"alignment_mode":"left",
+				"paragraph_indent":2
 			},
 			{
-				"title": "我会帮忙",
-				"titlePinyin": "wǒ huì bāng máng",
-				"type": "modern_prose",
-				"contentObject": [
+				"title":"我会帮忙",
+				"titlePinyin":"wǒ huì bāng máng",
+				"type":"modern_prose",
+				"contentObject":[
 					{
-						"pinyin": "zhōu mò wǒ zài jiā",
-						"text": "周末我在家。"
+						"pinyin":"zhōu mò wǒ zài jiā",
+						"text":"周末我在家。"
 					},
 					{
-						"pinyin": "wǒ bāng mā mā bǎi wǎn kuài",
-						"text": "我帮妈妈摆碗筷。"
+						"pinyin":"wǒ bāng mā mā bǎi wǎn kuài",
+						"text":"我帮妈妈摆碗筷。"
 					},
 					{
-						"pinyin": "wǒ bāng bà bà cā zhuō zi",
-						"text": "我帮爸爸擦桌子。"
+						"pinyin":"wǒ bāng bà bà cā zhuō zi",
+						"text":"我帮爸爸擦桌子。"
 					},
 					{
-						"pinyin": "dà jiā kuā wǒ zhēn bàng",
-						"text": "大家夸我真棒。"
+						"pinyin":"dà jiā kuā wǒ zhēn bàng",
+						"text":"大家夸我真棒。"
 					}
 				],
-				"task": "你能帮家人做什么？",
-				"taskPinyin": "nǐ néng bāng jiā rén zuò shén me",
-				"taskAnswer": "我能摆碗筷。",
-				"taskAnswerPinyin": "wǒ néng bǎi wǎn kuài",
-				"alignment_mode": "left",
-				"paragraph_indent": 2
+				"task":"你能帮家人做什么？",
+				"taskPinyin":"nǐ néng bāng jiā rén zuò shén me",
+				"taskAnswer":"我能摆碗筷。",
+				"taskAnswerPinyin":"wǒ néng bǎi wǎn kuài",
+				"alignment_mode":"left",
+				"paragraph_indent":2
 			},
 			{
-				"title": "日积月累",
-				"titlePinyin": "rì jī yuè lěi",
-				"type": "daily_accumulation",
-				"contentObject": [
+				"title":"日积月累",
+				"titlePinyin":"rì jī yuè lěi",
+				"type":"daily_accumulation",
+				"contentObject":[
 					{
-						"title": "计划句式",
-						"titlePinyin": "jì huà jù shì",
-						"content": [
+						"title":"计划句式",
+						"titlePinyin":"jì huà jù shì",
+						"content":[
 							{
-								"pinyin": "wǒ xiǎng",
-								"text": "我想……"
+								"pinyin":"wǒ xiǎng",
+								"text":"我想……"
 							},
 							{
-								"pinyin": "wǒ huì",
-								"text": "我会……"
+								"pinyin":"wǒ huì",
+								"text":"我会……"
 							},
 							{
-								"pinyin": "wǒ xǐ huān",
-								"text": "我喜欢……"
+								"pinyin":"wǒ xǐ huān",
+								"text":"我喜欢……"
 							}
 						]
 					}
 				],
-				"task": "用“我想……”说一句话。",
-				"taskPinyin": "yòng wǒ xiǎng shuō yī jù huà",
-				"taskAnswer": "我想去公园。",
-				"taskAnswerPinyin": "wǒ xiǎng qù gōng yuán"
+				"task":"用“我想……”说一句话。",
+				"taskPinyin":"yòng wǒ xiǎng shuō yī jù huà",
+				"taskAnswer":"我想去公园。",
+				"taskAnswerPinyin":"wǒ xiǎng qù gōng yuán"
 			}
 		]
 	}
