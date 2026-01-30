@@ -155,8 +155,8 @@
 						]
 					}
 				],
-				"task":"选两个词语，写（说）一句通顺的话。",
-				"taskPinyin":"xuǎn liǎng gè cí yǔ xiě shuō yī jù tōng shùn de huà",
+				"task":"选两个词语，说一句通顺的话。",
+				"taskPinyin":"xuǎn liǎng gè cí yǔ shuō yī jù tōng shùn de huà",
 				"taskAnswer":"春风拂面，我在公园里寻找发芽的小草。",
 				"taskAnswerPinyin":"chūn fēng fú miàn wǒ zài gōng yuán lǐ xún zhǎo fā yá de xiǎo cǎo",
 				"author":"",
@@ -286,8 +286,8 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"好句积累（2句）",
-						"titlePinyin":"hǎo jù jī lěi jù",
+						"title":"好句积累",
+						"titlePinyin":"hǎo jù jī lěi",
 						"content":[
 							{
 								"pinyin":"chūn fēng xiàng yī zhī kàn bú jiàn de shǒu bǎ liǔ zhī qīng qīng yáo xǐng bǐ yù",
@@ -300,8 +300,8 @@
 						]
 					}
 				],
-				"task":"照样子写（说）一句：把“小花开了”写得更生动。",
-				"taskPinyin":"zhào yàng zi xiě shuō yī jù bǎ xiǎo huā kāi le xiě dé gēng shēng dòng",
+				"task":"照样子说一句：把“小花开了”说得更生动。",
+				"taskPinyin":"zhào yàng zi shuō yī jù bǎ xiǎo huā kāi le shuō de gèng shēng dòng",
 				"taskAnswer":"小花开了，笑眯眯地向我点头。（拟人）",
 				"taskAnswerPinyin":"xiǎo huā kāi le xiào mī mī dì xiàng wǒ diǎn tóu nǐ rén",
 				"author":"",
@@ -379,8 +379,8 @@
 						]
 					}
 				],
-				"task":"用“因为……所以……”写（说）一句话。",
-				"taskPinyin":"yòng yīn wèi suǒ yǐ xiě shuō yī jù huà",
+				"task":"用“因为……所以……”说一句话。",
+				"taskPinyin":"yòng yīn wèi suǒ yǐ shuō yī jù huà",
 				"taskAnswer":"因为我坚持练字，所以我的字越来越工整。",
 				"taskAnswerPinyin":"yīn wèi wǒ jiān chí liàn zì suǒ yǐ wǒ de zì yuè lái yuè gōng zhěng",
 				"author":"",
@@ -1101,8 +1101,8 @@
 						]
 					}
 				],
-				"task":"用“探出头”写（说）一句话。",
-				"taskPinyin":"yòng tàn chū tóu xiě shuō yī jù huà",
+				"task":"用“探出头”说一句话。",
+				"taskPinyin":"yòng tàn chū tóu shuō yī jù huà",
 				"taskAnswer":"小草从土里探出头来，看看外面的世界。",
 				"taskAnswerPinyin":"xiǎo cǎo cóng tǔ lǐ tàn chū tóu lái kàn kàn wài miàn de shì jiè",
 				"author":"",
@@ -1240,8 +1240,8 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"好句积累（2句）",
-						"titlePinyin":"hǎo jù jī lěi jù",
+						"title":"好句积累",
+						"titlePinyin":"hǎo jù jī lěi",
 						"content":[
 							{
 								"pinyin":"qǐng jiè wǒ yòng yī xià kě yǐ ma lǐ mào qǐng qiú",
@@ -1329,8 +1329,8 @@
 						]
 					}
 				],
-				"task":"用这个顺序词写（说）一句“我做事”的话。",
-				"taskPinyin":"yòng zhè ge shùn xù cí xiě shuō yī jù wǒ zuò shì de huà",
+				"task":"用这个顺序词说一句“我做事”的话。",
+				"taskPinyin":"yòng zhè ge shùn xù cí shuō yī jù wǒ zuò shì de huà",
 				"taskAnswer":"先整理书包，再穿好外套，然后跟老师说再见，最后回家。",
 				"taskAnswerPinyin":"xiān zhěng lǐ shū bāo zài chuān hǎo wài tào rán hòu gēn lǎo shī shuō zài jiàn zuì hòu huí jiā",
 				"author":"",

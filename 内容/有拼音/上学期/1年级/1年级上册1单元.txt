@@ -277,7 +277,7 @@
 				"contentObject": [
 					{
 						"title": "词语小宝库",
-						"titlePinyin": "jī lěi cí yǔ",
+						"titlePinyin": "cí yǔ xiǎo bǎo kù",
 						"content": [
 							{
 								"pinyin": "hóng sè",

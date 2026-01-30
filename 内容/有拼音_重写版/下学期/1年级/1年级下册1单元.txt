@@ -70,8 +70,8 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"词语小宝库",
-						"titlePinyin":"cí yǔ xiǎo bǎo kù",
+						"title":"四季词",
+						"titlePinyin":"sì jì cí",
 						"content":[
 							{
 								"pinyin":"chūn tiān",
@@ -378,8 +378,8 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"动作词（选一个动作词，说一句话）",
-						"titlePinyin":"dòng zuò cí xuǎn yí gè dòng zuò cí shuō yī jù huà",
+						"title":"动作词",
+						"titlePinyin":"dòng zuò cí",
 						"content":[
 							{
 								"pinyin":"xǐ shǒu",
@@ -400,18 +400,14 @@
 							{
 								"pinyin":"bǎi zhèng",
 								"text":"摆正"
-							},
-							{
-								"pinyin":"fàn lì wǒ huì xǐ shǒu",
-								"text":"范例：我会洗手。"
 							}
 						]
 					}
 				],
-				"task":"",
-				"taskPinyin":"",
-				"taskAnswer":"",
-				"taskAnswerPinyin":""
+				"task":"选一个动作词，说一句话",
+				"taskPinyin":"xuǎn yí gè dòng zuò cí shuō yī jù huà",
+				"taskAnswer":"我会洗手。",
+				"taskAnswerPinyin":"wǒ huì xǐ shǒu"
 			}
 		]
 	},
@@ -486,8 +482,8 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"颜色词（用“绿绿的”说一句话）",
-						"titlePinyin":"yán sè cí yòng lǜ lǜ de shuō yī jù huà",
+						"title":"颜色词",
+						"titlePinyin":"yán sè cí",
 						"content":[
 							{
 								"pinyin":"lǜ lǜ de",
@@ -504,18 +500,14 @@
 							{
 								"pinyin":"lán lán de",
 								"text":"蓝蓝的"
-							},
-							{
-								"pinyin":"fàn lì lǜ lǜ de xiǎo cǎo zài yáo bǎi",
-								"text":"范例：绿绿的小草在摇摆。"
 							}
 						]
 					}
 				],
-				"task":"",
-				"taskPinyin":"",
-				"taskAnswer":"",
-				"taskAnswerPinyin":""
+				"task":"用“绿绿的”说一句话",
+				"taskPinyin":"yòng lǜ lǜ de shuō yī jù huà",
+				"taskAnswer":"绿绿的小草在摇摆。",
+				"taskAnswerPinyin":"lǜ lǜ de xiǎo cǎo zài yáo bǎi"
 			}
 		]
 	},
@@ -590,8 +582,8 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"好习惯（选一个词语，说一句话）",
-						"titlePinyin":"hǎo xí guàn xuǎn yí gè cí yǔ shuō yī jù huà",
+						"title":"好习惯",
+						"titlePinyin":"hǎo xí guàn",
 						"content":[
 							{
 								"pinyin":"zuò zhí",
@@ -608,18 +600,14 @@
 							{
 								"pinyin":"bù róu yǎn",
 								"text":"不揉眼"
-							},
-							{
-								"pinyin":"fàn lì wǒ kàn shū huì zuò zhí",
-								"text":"范例：我看书会坐直。"
 							}
 						]
 					}
 				],
-				"task":"",
-				"taskPinyin":"",
-				"taskAnswer":"",
-				"taskAnswerPinyin":""
+				"task":"选一个词语，说一句话",
+				"taskPinyin":"xuǎn yí gè cí yǔ shuō yī jù huà",
+				"taskAnswer":"我看书会坐直。",
+				"taskAnswerPinyin":"wǒ kàn shū huì zuò zhí"
 			}
 		]
 	},
@@ -694,8 +682,8 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"方位词（用“在……上面/下面”说一句话）",
-						"titlePinyin":"fāng wèi cí yòng zài shàng miàn xià miàn shuō yī jù huà",
+						"title":"方位词",
+						"titlePinyin":"fāng wèi cí",
 						"content":[
 							{
 								"pinyin":"zuǒ biān",
@@ -720,18 +708,14 @@
 							{
 								"pinyin":"hòu miàn",
 								"text":"后面"
-							},
-							{
-								"pinyin":"fàn lì shū zài zhuō zi shàng miàn",
-								"text":"范例：书在桌子上面。"
 							}
 						]
 					}
 				],
-				"task":"",
-				"taskPinyin":"",
-				"taskAnswer":"",
-				"taskAnswerPinyin":""
+				"task":"用“在……上面/下面”说一句话",
+				"taskPinyin":"yòng zài shàng miàn xià miàn shuō yī jù huà",
+				"taskAnswer":"书在桌子上面。",
+				"taskAnswerPinyin":"shū zài zhuō zi shàng miàn"
 			}
 		]
 	},
@@ -906,8 +890,8 @@
 				"type":"daily_accumulation",
 				"contentObject":[
 					{
-						"title":"颜色词（用“红红的”说一句话）",
-						"titlePinyin":"yán sè cí yòng hóng hóng de shuō yī jù huà",
+						"title":"颜色词",
+						"titlePinyin":"yán sè cí",
 						"content":[
 							{
 								"pinyin":"hóng hóng de",
@@ -928,18 +912,14 @@
 							{
 								"pinyin":"bái bái de",
 								"text":"白白的"
-							},
-							{
-								"pinyin":"fàn lì hóng hóng de píng guǒ zhēn tián",
-								"text":"范例：红红的苹果真甜。"
 							}
 						]
 					}
 				],
-				"task":"",
-				"taskPinyin":"",
-				"taskAnswer":"",
-				"taskAnswerPinyin":""
+				"task":"用“红红的”说一句话",
+				"taskPinyin":"yòng hóng hóng de shuō yī jù huà",
+				"taskAnswer":"红红的苹果真甜。",
+				"taskAnswerPinyin":"hóng hóng de píng guǒ zhēn tián"
 			}
 		]
 	},
