@@ -529,7 +529,7 @@
   {
     "grade": 5,
     "term": 1,
-    "week": 6
+    "week": 6,
     "day": 1,
     "theme": "汉字的建筑美学",
     "content": [
@@ -628,7 +628,7 @@
   {
     "grade": 5,
     "term": 1,
-    "week": 6
+    "week": 6,
     "day": 2,
     "theme": "汉字的民俗印记",
     "content": [
@@ -713,7 +713,7 @@
   {
     "grade": 5,
     "term": 1,
-    "week": 6
+    "week": 6,
     "day": 3,
     "theme": "汉字的逻辑与章法",
     "content": [
@@ -792,7 +792,7 @@
   {
     "grade": 5,
     "term": 1,
-    "week": 6
+    "week": 6,
     "day": 4,
     "theme": "汉字的文学之翼",
     "content": [
@@ -875,7 +875,7 @@
   {
     "grade": 5,
     "term": 1,
-    "week": 6
+    "week": 6,
     "day": 5,
     "theme": "汉字的跨时空对话",
     "content": [
@@ -949,7 +949,7 @@
   {
     "grade": 5,
     "term": 1,
-    "week": 6
+    "week": 6,
     "day": 6,
     "theme": "汉字的守望与传承",
     "content": [
