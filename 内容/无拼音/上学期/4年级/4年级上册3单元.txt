@@ -1026,8 +1026,8 @@
 			},
 			{
 				"title": "繁星（节选）",
-				"type": "modern_prose",
-				"author": "巴金",
+				"type": "children_poem",
+				"author": "冰心",
 				"dynasty": "现代",
 				"contentObject": [
 					{

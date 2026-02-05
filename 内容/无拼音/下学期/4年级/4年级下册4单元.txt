@@ -135,7 +135,7 @@
       {
         "title": "苏武牧羊",
         "type": "story_legend",
-        "author": "司马迁（原著）",
+        "author": "司马迁",
         "dynasty": "西汉",
         "contentObject": [
           {
