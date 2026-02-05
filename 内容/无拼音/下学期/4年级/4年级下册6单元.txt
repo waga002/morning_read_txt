@@ -7,7 +7,7 @@
     "theme": "意志与成长",
     "content": [
       {
-        "title": "囊萤夜读（课本复习）",
+        "title": "囊萤夜读",
         "type": "textbook_review",
         "author": "房玄龄等",
         "dynasty": "唐",
@@ -22,7 +22,7 @@
         "taskAnswer": "因为车胤家境贫寒，没有钱买灯油，但他又渴望读书，所以才想出用萤火虫照明的办法。这启发我们：环境的艰苦不能阻挡求知的脚步，只要心中有目标，总能想出克服困难的办法。"
       },
       {
-        "title": "祖父的园子（现代美文）",
+        "title": "祖父的园子",
         "type": "modern_prose",
         "author": "萧红",
         "dynasty": "现代",
@@ -115,7 +115,7 @@
     "theme": "恒心与毅力",
     "content": [
       {
-        "title": "铁杵成针（课本复习）",
+        "title": "铁杵成针",
         "type": "textbook_review",
         "author": "祝穆",
         "dynasty": "宋",
@@ -133,7 +133,7 @@
         "taskAnswer": "李白从“弃去”到“还卒业”的转变，说明了只要有恒心，肯下功夫，再难的事也能成功。也就是“只要功夫深，铁杵磨成针”。"
       },
       {
-        "title": "墨梅（故事传说）",
+        "title": "墨梅",
         "type": "story_legend",
         "author": "王冕",
         "dynasty": "元",
@@ -151,7 +151,7 @@
         "taskAnswer": "他们都体现了勤奋刻苦的精神。虽然李白曾想放弃，但最终在感悟后坚持了下去，而王冕则是一直坚持不懈，最终都通过努力取得了成功。"
       },
       {
-        "title": "弟子规（国学经典）",
+        "title": "弟子规",
         "type": "classics",
         "author": "李毓秀",
         "dynasty": "清",
@@ -194,7 +194,7 @@
     "theme": "赤子之心",
     "content": [
       {
-        "title": "荷花（现代美文）",
+        "title": "荷花",
         "type": "modern_prose",
         "author": "叶圣陶",
         "dynasty": "现代",
@@ -212,9 +212,9 @@
         "taskAnswer": "“冒”字生动地写出了荷花顽强的生命力和争先恐后开放的活力。化作荷花表达了作者对荷花的极度喜爱，达到了一种人花合一的审美境界。"
       },
       {
-        "title": "精卫填海（小古文）",
+        "title": "精卫填海",
         "type": "classical_chinese",
-        "author": "山海经",
+        "author": "",
         "dynasty": "先秦",
         "contentObject": [
           {
@@ -227,7 +227,7 @@
         "taskAnswer": "体现了不畏艰难、不屈不挠、意志坚定的斗争精神。"
       },
       {
-        "title": "童谣（童诗）",
+        "title": "冰心（节选）",
         "type": "children_poem",
         "author": "冰心",
         "dynasty": "现代",
@@ -303,7 +303,7 @@
         "taskAnswer": "从“握紧拳头”、“咬着牙”以及坚定的回答中，我感受到了雨来勇敢无畏、坚贞不屈的爱国主义精神。"
       },
       {
-        "title": "猫（现代美文）",
+        "title": "猫",
         "type": "modern_prose",
         "author": "老舍",
         "dynasty": "现代",
@@ -321,7 +321,7 @@
         "taskAnswer": "表达了作者对猫的极度喜爱之情，在他的眼里，调皮的猫连踩脏稿纸的行为都是富有诗意的。"
       },
       {
-        "title": "岳飞传（故事传说）",
+        "title": "岳飞传",
         "type": "story_legend",
         "author": "钱彩（根据传统故事）",
         "dynasty": "清",
@@ -476,9 +476,9 @@
         "taskAnswer": "不仅是因为他穿着厚实的鞋，更因为他心里装着家人，那种想要为家里分担的责任感和家人的爱让他感到温暖。"
       },
       {
-        "title": "牛郎织女（故事传说）",
+        "title": "牛郎织女",
         "type": "story_legend",
-        "author": "民间故事",
+        "author": "",
         "dynasty": "古代",
         "contentObject": [
           {
@@ -552,7 +552,7 @@
     "theme": "勤学与善思",
     "content": [
       {
-        "title": "囊萤夜读（回顾）",
+        "title": "囊萤夜读",
         "type": "textbook_review",
         "author": "房玄龄等",
         "dynasty": "唐",
@@ -567,7 +567,7 @@
         "taskAnswer": "勤学苦读、刻苦钻研、坚持不懈。"
       },
       {
-        "title": "草地夜行（现代美文）",
+        "title": "草地夜行",
         "type": "modern_prose",
         "author": "王愿坚",
         "dynasty": "现代",
@@ -585,7 +585,7 @@
         "taskAnswer": "因为老支书在危难时刻牺牲自己、照亮别人的精神，给了“我”前行的勇气和信仰，指引着“我”的人生方向。"
       },
       {
-        "title": "刻舟求剑（小古文）",
+        "title": "刻舟求剑",
         "type": "classical_chinese",
         "author": "吕不韦",
         "dynasty": "先秦",
@@ -672,9 +672,9 @@
         "taskAnswer": "生动形象地写出了雨来水性好、动作敏捷机灵的特点，也表现了作者对雨来的喜爱。"
       },
       {
-        "title": "少年英雄王二小（故事传说）",
+        "title": "少年英雄王二小",
         "type": "story_legend",
-        "author": "根据歌词整理",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -742,7 +742,7 @@
     "theme": "友谊的真谛",
     "content": [
       {
-        "title": "赠汪伦（课本复习）",
+        "title": "赠汪伦",
         "type": "textbook_review",
         "author": "李白",
         "dynasty": "唐",
@@ -760,7 +760,7 @@
         "taskAnswer": "运用了夸张和对比的手法。用“深千尺”的潭水对比“送我情”，形象地表达了友谊的深厚。"
       },
       {
-        "title": "桃花心木（现代美文）",
+        "title": "桃花心木",
         "type": "modern_prose",
         "author": "林清玄",
         "dynasty": "现代",
@@ -842,7 +842,7 @@
         "taskAnswer": "反映了他对自己作为“独立个体”的认真态度，他渴望像大人一样独立，这种自觉性让他显得严肃而庄重。"
       },
       {
-        "title": "伯牙鼓琴（故事传说）",
+        "title": "伯牙鼓琴",
         "type": "story_legend",
         "author": "列子",
         "dynasty": "先秦",
@@ -860,7 +860,7 @@
         "taskAnswer": "这体现了伯牙对知音的珍视。在他看来，音乐是心灵的交流，如果没有了懂自己的人，音乐也就失去了存在的意义。这也说明了真挚友谊的难得。"
       },
       {
-        "title": "童诗（节选）",
+        "title": "泰戈尔（节选）",
         "type": "children_poem",
         "author": "泰戈尔",
         "dynasty": "近代",
@@ -912,7 +912,7 @@
     "theme": "坚持的力量",
     "content": [
       {
-        "title": "铁杵成针（回顾）",
+        "title": "铁杵成针",
         "type": "textbook_review",
         "author": "祝穆",
         "dynasty": "宋",
@@ -927,7 +927,7 @@
         "taskAnswer": "这一决定让李白改掉了半途而废的毛病，通过勤奋努力，最终成为了流传千古的“诗仙”。"
       },
       {
-        "title": "丁香结（现代美文）",
+        "title": "丁香结",
         "type": "modern_prose",
         "author": "宗璞",
         "dynasty": "现代",
@@ -945,7 +945,7 @@
         "taskAnswer": "因为生活中的困难和挑战虽然会带来忧愁，但也是这些“结”丰富了人生的阅历，让我们在克服它们的过程中变得成熟和坚强。"
       },
       {
-        "title": "守株待兔（小古文）",
+        "title": "守株待兔",
         "type": "classical_chinese",
         "author": "韩非子",
         "dynasty": "先秦",
@@ -1012,7 +1012,7 @@
         "taskAnswer": "因为他完成了家人的嘱托，通过自己的努力赚到了钱，可以改善家人的生活，这是一种获得感和责任感实现的快乐。"
       },
       {
-        "title": "匆匆（现代美文）",
+        "title": "匆匆",
         "type": "modern_prose",
         "author": "朱自清",
         "dynasty": "现代",

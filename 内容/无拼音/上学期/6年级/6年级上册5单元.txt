@@ -43,7 +43,7 @@
 			{
 				"title": "长歌行",
 				"type": "ancient_poem",
-				"author": "汉乐府",
+				"author": "",
 				"dynasty": "汉",
 				"contentObject": [
 					{

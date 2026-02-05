@@ -126,7 +126,7 @@
       {
         "title": "黄继光（英雄事迹）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -327,7 +327,7 @@
         "taskAnswer": "他们都有一种坚持不懈、不畏沉重负担、脚踏实地的精神。"
       },
       {
-        "title": "愚公移山（寓言）",
+        "title": "愚公移山",
         "type": "story_legend",
         "author": "列子",
         "dynasty": "战国",
@@ -560,7 +560,7 @@
       {
         "title": "黄继光（关键对白）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {

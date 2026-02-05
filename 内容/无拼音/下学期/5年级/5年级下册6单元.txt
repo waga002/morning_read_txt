@@ -149,7 +149,7 @@
         "taskAnswer": "诸葛亮算准了气象（有大雾）和曹操多疑的性格（不敢轻易出兵）。这体现了他识人心、通天文、晓地理的综合智慧，是极致的算无遗策。"
       },
       {
-        "title": "论语（节选，思与学）",
+        "title": "论语（节选）",
         "type": "classics",
         "author": "孔子及其弟子",
         "dynasty": "春秋",
@@ -396,7 +396,7 @@
         "taskAnswer": "这一句通过秦汉的跨度，表现了边境战争自古以来延绵不断的漫长历史，同时也表达了诗人对历代守边将士的深沉敬意和对和平的渴望。"
       },
       {
-        "title": "菜根谭（节选，修身）",
+        "title": "菜根谭（节选）",
         "type": "classics",
         "author": "洪应明",
         "dynasty": "明",
@@ -526,7 +526,7 @@
     "theme": "人性的光辉",
     "content": [
       {
-        "title": "跳水（心理描写复习）",
+        "title": "跳水",
         "type": "textbook_review",
         "author": "列夫·托尔斯泰",
         "dynasty": "近代",
@@ -632,7 +632,7 @@
       {
         "title": "狼牙山五壮士（节选）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -714,7 +714,7 @@
     "theme": "修辞之美",
     "content": [
       {
-        "title": "田忌赛马（策略分析复习）",
+        "title": "田忌赛马",
         "type": "textbook_review",
         "author": "司马迁",
         "dynasty": "现代",
@@ -743,7 +743,7 @@
         "taskAnswer": "野花虽然没有牡丹的高贵，也没有百合的清馨，但它拥有最灿烂的笑容。它们在山坡上成片地盛开，不需要赞美，只为了在春天里自由地呼吸。"
       },
       {
-        "title": "礼记（节选，治学）",
+        "title": "礼记（节选）",
         "type": "classics",
         "author": "戴圣（编）",
         "dynasty": "西汉",
@@ -794,7 +794,7 @@
       {
         "title": "神奇的探险之旅（习作片段）",
         "type": "modern_prose",
-        "author": "优秀学生作文",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -810,7 +810,7 @@
       {
         "title": "精卫填海（寓言内涵）",
         "type": "story_legend",
-        "author": "山海经",
+        "author": "",
         "dynasty": "先秦",
         "contentObject": [
           {
@@ -826,7 +826,7 @@
       {
         "title": "敕勒歌",
         "type": "ancient_poem",
-        "author": "乐府诗集",
+        "author": "",
         "dynasty": "北朝",
         "contentObject": [
           {
@@ -876,7 +876,7 @@
     "theme": "文言中的智慧",
     "content": [
       {
-        "title": "自相矛盾（语言逻辑复习）",
+        "title": "自相矛盾",
         "type": "textbook_review",
         "author": "韩非",
         "dynasty": "先秦",
@@ -965,7 +965,7 @@
     "theme": "终章：思辨的力量",
     "content": [
       {
-        "title": "跳水（环境描写复习）",
+        "title": "跳水",
         "type": "textbook_review",
         "author": "列夫·托尔斯泰",
         "dynasty": "近代",

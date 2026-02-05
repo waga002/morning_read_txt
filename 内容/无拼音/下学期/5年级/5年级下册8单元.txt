@@ -7,7 +7,7 @@
     "theme": "言语的艺术",
     "content": [
       {
-        "title": "杨氏之子（课本复习）",
+        "title": "杨氏之子",
         "type": "textbook_review",
         "author": "刘义庆",
         "dynasty": "南朝宋",
@@ -24,7 +24,7 @@
         "taskAnswer": "妙在杨氏之子反应极快且礼貌地回敬了对方。孔君平由姓氏联想到杨梅，孩子立即由姓氏联想到孔雀，以同样的逻辑委婉地指出：既然孔雀不是您家的鸟，那杨梅自然也不是我家的果。"
       },
       {
-        "title": "语言的温度（现代美文）",
+        "title": "语言的温度",
         "type": "modern_prose",
         "author": "汪曾祺",
         "dynasty": "现代",
@@ -115,7 +115,7 @@
     "theme": "身体的智慧",
     "content": [
       {
-        "title": "手指（课本复习）",
+        "title": "手指",
         "type": "textbook_review",
         "author": "丰子恺",
         "dynasty": "现代",
@@ -131,9 +131,9 @@
         "taskAnswer": "作者告诉我们：尺有所短，寸有所长，每个人都有自己的优缺点。只有团结协作，才能产生强大的力量。"
       },
       {
-        "title": "鲁班造锯（故事传说）",
+        "title": "鲁班造锯",
         "type": "story_legend",
-        "author": "民间传说",
+        "author": "",
         "contentObject": [
           {
             "text": "鲁班上山伐木，手指被一种长着细齿的小草划破了。他没有抱怨痛苦，反而陷入了沉思。"
@@ -276,7 +276,7 @@
     "theme": "求知的乐趣",
     "content": [
       {
-        "title": "童年的发现（课本复习）",
+        "title": "童年的发现",
         "type": "textbook_review",
         "author": "费奥多罗夫",
         "contentObject": [
@@ -521,7 +521,7 @@
     "theme": "观察的深度",
     "content": [
       {
-        "title": "手指（描写复习）",
+        "title": "手指",
         "type": "textbook_review",
         "author": "丰子恺",
         "contentObject": [
@@ -621,7 +621,7 @@
     "theme": "历史的余响",
     "content": [
       {
-        "title": "杨氏之子（文学性复习）",
+        "title": "杨氏之子",
         "type": "textbook_review",
         "author": "刘义庆",
         "contentObject": [
@@ -636,7 +636,7 @@
         "taskAnswer": "直接回答会显得生硬且缺乏礼貌。原句采用“未闻……”的委婉句式，以对方的逻辑反击对方，既幽默得体，又显示出孩子极高的教养和反应力。"
       },
       {
-        "title": "草船借箭（故事传说）",
+        "title": "草船借箭",
         "type": "story_legend",
         "author": "罗贯中",
         "dynasty": "明",
@@ -704,7 +704,7 @@
     "theme": "成长的觉醒",
     "content": [
       {
-        "title": "童年的发现（深度复习）",
+        "title": "童年的发现",
         "type": "textbook_review",
         "author": "费奥多罗夫",
         "contentObject": [
@@ -789,7 +789,7 @@
     "theme": "幽默的真谛",
     "content": [
       {
-        "title": "我们的笑话（口语交际）",
+        "title": "我们的笑话",
         "type": "modern_prose",
         "author": "汪曾祺",
         "dynasty": "现代",
@@ -956,9 +956,9 @@
     "theme": "审美的启示",
     "content": [
       {
-        "title": "漫画的启示（习作复习）",
+        "title": "漫画的启示",
         "type": "textbook_review",
-        "author": "课本编写组",
+        "author": "",
         "contentObject": [
           {
             "text": "漫画不仅是一种艺术形式，更是一面镜子，映照出社会的百态和人性的弱点。通过夸张的手法，它能直抵事物的本质。"

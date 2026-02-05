@@ -207,7 +207,7 @@
       {
         "title": "寒食节的起源",
         "type": "story_legend",
-        "author": "史料选编",
+        "author": "",
         "dynasty": "古代",
         "contentObject": [
           {
@@ -310,9 +310,9 @@
         "taskAnswer": "因为在作者眼中，月光下的田野并不死寂，庄稼在呼吸、在生长。这种寂静中孕育着生命的律动，让人感受到大自然内在的、深沉的力量。"
       },
       {
-        "title": "牛郎织女的传说（深度）",
+        "title": "牛郎织女的传说",
         "type": "story_legend",
-        "author": "民间整理",
+        "author": "",
         "dynasty": "古代",
         "contentObject": [
           {
@@ -469,7 +469,7 @@
       {
         "title": "格桑花开（节选）",
         "type": "story_legend",
-        "author": "藏区传说",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -530,7 +530,7 @@
     "theme": "年俗的延续",
     "content": [
       {
-        "title": "北京的春节（腊月二十三节选）",
+        "title": "北京的春节（节选）",
         "type": "textbook_review",
         "author": "老舍",
         "dynasty": "现代",
@@ -562,7 +562,7 @@
         "taskAnswer": "风俗有系百索子、做香角子等。！！「曾经沧海难为水」化用古诗，幽默地表达了对家乡咸鸭蛋的自豪与偏爱，流露出浓浓的乡愁。"
       },
       {
-        "title": "端午（古诗）",
+        "title": "端午",
         "type": "ancient_poem",
         "author": "文秀",
         "dynasty": "唐",
@@ -637,7 +637,7 @@
     "theme": "自然与理趣",
     "content": [
       {
-        "title": "腊八粥（描写节选）",
+        "title": "腊八粥（节选）",
         "type": "textbook_review",
         "author": "沈从文",
         "dynasty": "现代",
@@ -655,7 +655,7 @@
       {
         "title": "雅鲁藏布大峡谷（节选）",
         "type": "story_legend",
-        "author": "地理文化选编",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -796,7 +796,7 @@
     "theme": "民艺之魂",
     "content": [
       {
-        "title": "北京的春节（色彩节选）",
+        "title": "北京的春节（节选）",
         "type": "modern_prose",
         "author": "老舍",
         "dynasty": "现代",
@@ -814,7 +814,7 @@
       {
         "title": "剪纸的故事",
         "type": "story_legend",
-        "author": "民间选编",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -880,7 +880,7 @@
     "theme": "历史的低语",
     "content": [
       {
-        "title": "北京的春节（元宵节选）",
+        "title": "北京的春节（节选）",
         "type": "textbook_review",
         "author": "老舍",
         "dynasty": "现代",
@@ -912,7 +912,7 @@
         "taskAnswer": "因为雪的到来仿佛连接了过去与现在，它能让现代人通过雪景感受到古代历史的气息和宁静，促使人们去回忆和思考时间的流转。"
       },
       {
-        "title": "东京梦华录·元宵（节选）",
+        "title": "东京梦华录（节选）",
         "type": "classical_chinese",
         "author": "孟元老",
         "dynasty": "宋",
@@ -955,7 +955,7 @@
     "theme": "文化的共鸣",
     "content": [
       {
-        "title": "藏戏（结尾节选）",
+        "title": "藏戏（节选）",
         "type": "textbook_review",
         "author": "马德",
         "dynasty": "现代",

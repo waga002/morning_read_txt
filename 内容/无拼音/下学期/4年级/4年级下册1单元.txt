@@ -138,7 +138,7 @@
       {
         "title": "神农尝百草（节选）",
         "type": "story_legend",
-        "author": "民间神话",
+        "author": "",
         "dynasty": "远古",
         "contentObject": [
           {
@@ -332,7 +332,7 @@
       {
         "title": "徐文长童年轶事",
         "type": "story_legend",
-        "author": "民间故事",
+        "author": "",
         "dynasty": "明",
         "contentObject": [
           {
@@ -496,7 +496,7 @@
       {
         "title": "精卫填海",
         "type": "story_legend",
-        "author": "山海经",
+        "author": "",
         "dynasty": "先秦",
         "contentObject": [
           {
@@ -695,8 +695,8 @@
       {
         "title": "哥伦布竖鸡蛋",
         "type": "story_legend",
-        "author": "轶事",
-        "dynasty": "十五世纪",
+        "author": "",
+        "dynasty": "",
         "contentObject": [
           {
             "text": "哥伦布发现新大陆后，有人不服气，说这没什么了不起。哥伦布拿出一个鸡蛋，请他们把鸡蛋竖在桌上。"
@@ -865,7 +865,7 @@
       {
         "title": "鲁班造锯",
         "type": "story_legend",
-        "author": "民间传说",
+        "author": "",
         "dynasty": "春秋",
         "contentObject": [
           {
@@ -1044,7 +1044,7 @@
       {
         "title": "我的乐园（范文）",
         "type": "modern_prose",
-        "author": "教师范作",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {

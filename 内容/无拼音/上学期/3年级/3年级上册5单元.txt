@@ -710,7 +710,7 @@
 		"theme": "颜色变变变",
 		"content": [
 			{
-				"title": "金色的草地（复习）",
+				"title": "金色的草地",
 				"type": "textbook_review",
 				"author": "普里什文",
 				"dynasty": "现代",
@@ -818,7 +818,7 @@
 				"taskAnswer": "作者把雨声比作\"一首动听的乐曲\"，说明雨落在不同地方发出的声音很好听。"
 			},
 			{
-				"title": "我家的小狗（复习）",
+				"title": "我家的小狗",
 				"type": "textbook_review",
 				"author": "老舍",
 				"dynasty": "现代",
@@ -985,7 +985,7 @@
 		"theme": "酸酸甜甜",
 		"content": [
 			{
-				"title": "我爱故乡的杨梅（味觉复习）",
+				"title": "我爱故乡的杨梅",
 				"type": "textbook_review",
 				"author": "王鲁彦",
 				"dynasty": "现代",
@@ -1072,7 +1072,7 @@
 		"theme": "眼中的缤纷世界",
 		"content": [
 			{
-				"title": "习作：我们眼中的缤纷世界（复习）",
+				"title": "我们眼中的缤纷世界",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",

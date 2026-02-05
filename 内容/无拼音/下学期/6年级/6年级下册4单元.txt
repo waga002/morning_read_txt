@@ -370,7 +370,7 @@
       {
         "title": "董存瑞舍身炸暗堡（节选）",
         "type": "textbook_review",
-        "author": "选自课文",
+        "author": "",
         "contentObject": [
           {
             "text": "在这万分紧急的关头，董存瑞昂首挺胸，站在桥底中央，左手托起地雷包，顶住桥底，右手猛地一拉导火索。"
@@ -815,7 +815,7 @@
       {
         "title": "董存瑞舍身炸暗堡（暗堡之阻）",
         "type": "textbook_review",
-        "author": "选自课文",
+        "author": "",
         "contentObject": [
           {
             "text": "敌人的机枪吐着火舌，疯狂地扫射着。我军的冲锋部队被压制在空地上，无法抬头。"

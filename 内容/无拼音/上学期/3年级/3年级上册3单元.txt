@@ -362,7 +362,7 @@
 				"taskAnswer": "它遇到了大石头和倒下的树干。！！它没有停下，而是跳过去、滑过去，继续向前奔跑。"
 			},
 			{
-				"title": "口渴的乌鸦（复习）",
+				"title": "口渴的乌鸦",
 				"type": "story_legend",
 				"author": "伊索",
 				"dynasty": "古希腊",
@@ -661,7 +661,7 @@
 				"taskAnswer": "他们一开始都和别人不一样，都受到了嘲笑和排挤，但最后都找到了真正的自己。"
 			},
 			{
-				"title": "曹冲称象（复习）",
+				"title": "曹冲称象",
 				"type": "classical_chinese",
 				"author": "",
 				"dynasty": "",
@@ -843,7 +843,7 @@
 				"taskAnswer": "作者把风比作了“画家”和“音乐家”。！！我觉得风还像一个理发师，把柳树姑娘的头发吹得乱乱的。"
 			},
 			{
-				"title": "总也倒不了的老屋（结尾复习）",
+				"title": "总也倒不了的老屋",
 				"type": "textbook_review",
 				"author": "慈琪",
 				"dynasty": "现代",

@@ -9,7 +9,7 @@
       {
         "title": "青山处处埋忠骨（节选一）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "contentObject": [
           {
             "text": "毛主席不由自主地站了起来，仰望天空。他的目光在那张电报上停留了很久，那电报上的字，每一个都像千斤巨石，压在他的心头。"
@@ -114,7 +114,7 @@
       {
         "title": "军神（节选一）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "contentObject": [
           {
             "text": "沃克医生愣住了，蓝色的眼睛里闪出惊疑的神采。他重新审视着眼前这个人，冷冷地问：“你真的一点儿麻醉药也不用？”"
@@ -277,7 +277,7 @@
     "theme": "盼归之情",
     "content": [
       {
-        "title": "闻官军收河南河北（复习）",
+        "title": "闻官军收河南河北",
         "type": "textbook_review",
         "author": "杜甫",
         "contentObject": [
@@ -356,7 +356,7 @@
     "theme": "忧国忧民",
     "content": [
       {
-        "title": "秋夜将晓出篱门迎凉有感（复习）",
+        "title": "秋夜将晓出篱门迎凉有感",
         "type": "textbook_review",
         "author": "陆游",
         "contentObject": [
@@ -530,7 +530,7 @@
       {
         "title": "青山处处埋忠骨（节选二）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "contentObject": [
           {
             "text": "那一次，毛主席整夜都没有合眼。他的一只手按在电报上，另一只手在地图上寻找着，寻找着那个叫“大榆洞”的地方。"
@@ -629,7 +629,7 @@
       {
         "title": "军神（节选二）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "contentObject": [
           {
             "text": "沃克医生的手指微微抖动着，他在手术中忍不住开口说：“你是我见过的最坚强的硬汉。一共七十二刀，你居然一声不吭。”"
@@ -724,7 +724,7 @@
         "taskAnswer": "生命虽有磨难，但它是永恒、顽强的，我们应当以从容、乐观的态度去面对生活。"
       },
       {
-        "title": "清贫（复习）",
+        "title": "清贫",
         "type": "textbook_review",
         "author": "方志敏",
         "contentObject": [
@@ -895,9 +895,9 @@
         "taskAnswer": "为了反驳楚王对齐国人品行的污蔑，巧妙地说明是因为楚国环境不好才让齐国人变坏，维护了国家的尊严。"
       },
       {
-        "title": "课本复习（青山处处埋忠骨）",
+        "title": "青山处处埋忠骨",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "contentObject": [
           {
             "text": "电报记录着：主席的长子毛岸英在战场上英勇牺牲了。主席沉默了很久，才轻声说：“战争嘛，总要有牺牲的。谁叫他是毛泽东的儿子呢？”"
@@ -938,7 +938,7 @@
     "theme": "壮志凌云",
     "content": [
       {
-        "title": "闻官军收河南河北（复习）",
+        "title": "闻官军收河南河北",
         "type": "textbook_review",
         "author": "杜甫",
         "contentObject": [

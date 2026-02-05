@@ -7,7 +7,7 @@
     "theme": "多彩的童年",
     "content": [
       {
-        "title": "童年的水墨画（节选，溪边）",
+        "title": "童年的水墨画（节选）",
         "type": "textbook_review",
         "author": "张继楼",
         "dynasty": "现代",
@@ -160,7 +160,7 @@
         "taskAnswer": "他很不服气，瞪大眼睛看着对手，想下回赢回来。"
       },
       {
-        "title": "弟子规（节选，起居）",
+        "title": "弟子规（节选）",
         "type": "classics",
         "author": "李毓秀",
         "dynasty": "清",
@@ -224,7 +224,7 @@
         "taskAnswer": "冰心奶奶希望小朋友们去爱大自然中的山、水、花、草。"
       },
       {
-        "title": "肥皂泡（童诗版）",
+        "title": "肥皂泡",
         "type": "children_poem",
         "author": "金子美铃",
         "dynasty": "现代",
@@ -390,7 +390,7 @@
       {
         "title": "我不能失信（选段）",
         "type": "textbook_review",
-        "author": "课文编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -433,7 +433,7 @@
         "taskAnswer": "因为他怕说话的声音惊跑了水里的鱼儿。"
       },
       {
-        "title": "弟子规（节选，诚信）",
+        "title": "弟子规（节选）",
         "type": "classics",
         "author": "李毓秀",
         "dynasty": "清",
@@ -502,7 +502,7 @@
       {
         "title": "小兔子乖乖",
         "type": "story_legend",
-        "author": "民间故事",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -518,7 +518,7 @@
         "taskAnswer": "我会紧紧关好门，大声喊：我不认识你，快走开！"
       },
       {
-        "title": "小童谣（小青蛙）",
+        "title": "小青蛙",
         "type": "children_poem",
         "author": "金波",
         "dynasty": "现代",
@@ -681,7 +681,7 @@
     "theme": "动物的智慧",
     "content": [
       {
-        "title": "肥皂泡（描写光影）",
+        "title": "肥皂泡",
         "type": "textbook_review",
         "author": "冰心",
         "dynasty": "现代",
@@ -769,7 +769,7 @@
     "theme": "童年的色彩",
     "content": [
       {
-        "title": "童年的水墨画（江上）",
+        "title": "童年的水墨画（节选）",
         "type": "textbook_review",
         "author": "张继楼",
         "dynasty": "现代",
@@ -805,7 +805,7 @@
         "taskAnswer": "作者觉得牵牛花张开花瓣像是在“打哈欠”。"
       },
       {
-        "title": "弟子规（节选，整洁）",
+        "title": "弟子规（节选）",
         "type": "classics",
         "author": "李毓秀",
         "dynasty": "清",
@@ -945,9 +945,9 @@
     "theme": "美好的品质",
     "content": [
       {
-        "title": "我不能失信（描写宋庆龄）",
+        "title": "我不能失信",
         "type": "textbook_review",
-        "author": "课文编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -965,7 +965,7 @@
       {
         "title": "诚实的孩子",
         "type": "modern_prose",
-        "author": "课文编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -1027,7 +1027,7 @@
     "theme": "快乐过冬",
     "content": [
       {
-        "title": "童年的水墨画（林中）",
+        "title": "童年的水墨画（节选）",
         "type": "textbook_review",
         "author": "张继楼",
         "dynasty": "现代",

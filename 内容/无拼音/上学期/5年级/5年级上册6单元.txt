@@ -254,7 +254,7 @@
 			{
 				"title": "陆绩怀橘",
 				"type": "classical_chinese",
-				"author": "刘義庆",
+				"author": "刘义庆",
 				"dynasty": "南朝宋",
 				"contentObject": [
 					{
@@ -383,7 +383,7 @@
 		"theme": "百善孝为先",
 		"content": [
 			{
-				"title": "慈母情深（细节回顾）",
+				"title": "慈母情深",
 				"type": "textbook_review",
 				"author": "梁晓声",
 				"dynasty": "现代",
@@ -729,7 +729,7 @@
 			{
 				"title": "诗经·小雅·蓼莪",
 				"type": "ancient_poem",
-				"author": "无名氏",
+				"author": "",
 				"dynasty": "先秦",
 				"contentObject": [
 					{

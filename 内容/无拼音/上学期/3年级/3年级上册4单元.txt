@@ -766,7 +766,7 @@
 		"theme": "变身魔法",
 		"content": [
 			{
-				"title": "宝葫芦的秘密（复习）",
+				"title": "宝葫芦的秘密",
 				"type": "textbook_review",
 				"author": "张天翼",
 				"dynasty": "现代",

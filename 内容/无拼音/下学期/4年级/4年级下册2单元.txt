@@ -138,7 +138,7 @@
       {
         "title": "神农尝百草（节选）",
         "type": "story_legend",
-        "author": "民间传说",
+        "author": "",
         "dynasty": "古代",
         "contentObject": [
           {
@@ -332,7 +332,7 @@
       {
         "title": "木兰从军（节选）",
         "type": "story_legend",
-        "author": "民间传说",
+        "author": "",
         "dynasty": "古代",
         "contentObject": [
           {
@@ -381,7 +381,7 @@
       {
         "title": "千年梦圆在今朝（节选）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -692,7 +692,7 @@
       {
         "title": "鲁班造锯",
         "type": "story_legend",
-        "author": "民间传说",
+        "author": "",
         "dynasty": "古代",
         "contentObject": [
           {
@@ -944,7 +944,7 @@
       {
         "title": "千年梦圆在今朝（细节段）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {

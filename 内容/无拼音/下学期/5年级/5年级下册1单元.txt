@@ -364,7 +364,7 @@
     "theme": "至纯至真",
     "content": [
       {
-        "title": "稚子弄冰（课文复习）",
+        "title": "稚子弄冰",
         "type": "textbook_review",
         "author": "杨万里",
         "dynasty": "宋",
@@ -933,7 +933,7 @@
         "taskAnswer": "“那一刻”指半夜看到妈妈织毛衣的瞬间。抓住了昏黄灯光、鱼尾纹、白发等细节，表现了母亲的操劳。"
       },
       {
-        "title": "村晚（全篇复习）",
+        "title": "村晚",
         "type": "ancient_poem",
         "author": "雷震",
         "dynasty": "宋",

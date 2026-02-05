@@ -132,7 +132,7 @@
       {
         "title": "神农尝百草",
         "type": "story_legend",
-        "author": "民间传说",
+        "author": "",
         "dynasty": "上古",
         "contentObject": [
           {
@@ -201,7 +201,7 @@
         "taskAnswer": "因为猫的脚印形状像梅花。这样写体现了作者对猫的喜爱之情，把原本可能弄脏稿纸的行为看作是艺术创作。"
       },
       {
-        "title": "童谣：小纸船",
+        "title": "小纸船",
         "type": "children_poem",
         "author": "冰心",
         "dynasty": "现代",
@@ -291,7 +291,7 @@
       {
         "title": "少年毛泽东的故事",
         "type": "story_legend",
-        "author": "历史故事",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -337,7 +337,7 @@
         "title": "白桦（选段）",
         "type": "textbook_review",
         "author": "叶赛宁",
-        "dynasty": "现代（苏）",
+        "dynasty": "现代",
         "contentObject": [
           {
             "text": "在我的窗前，有一棵白桦，仿佛涂上银霜，披了一身雪花。"
@@ -438,7 +438,7 @@
         "title": "诸葛亮草船借箭",
         "type": "story_legend",
         "author": "罗贯中",
-        "dynasty": "明（名著节选）",
+        "dynasty": "明",
         "contentObject": [
           {
             "text": "周瑜故意刁难诸葛亮，令其十日内造十万支箭。诸葛亮算准大雾天气，利用草船诱使曹军放箭，轻而易举地借到了十万余支箭。"
@@ -449,7 +449,7 @@
         "taskAnswer": "因为他博学多才，不仅通晓天文气象，还深谙人心，利用曹操谨慎多疑的心理完成了任务。"
       },
       {
-        "title": "童诗：雨后",
+        "title": "雨后",
         "type": "children_poem",
         "author": "冰心",
         "dynasty": "现代",
@@ -524,7 +524,7 @@
       {
         "title": "精卫填海",
         "type": "classical_chinese",
-        "author": "山海经",
+        "author": "",
         "dynasty": "先秦",
         "contentObject": [
           {
@@ -767,7 +767,7 @@
         "taskAnswer": "告诉我们环境的艰苦不能阻挡求知的欲望，只要我们开动脑筋，创造条件，就能克服困难实现目标。"
       },
       {
-        "title": "童诗：花儿",
+        "title": "花儿",
         "type": "children_poem",
         "author": "叶圣陶",
         "dynasty": "现代",
@@ -812,7 +812,7 @@
         "title": "白桦（选段二）",
         "type": "textbook_review",
         "author": "叶赛宁",
-        "dynasty": "现代（苏）",
+        "dynasty": "现代",
         "contentObject": [
           {
             "text": "在朦胧的寂静中，玉立着这棵白桦，在灿灿的金晖里，闪着晶亮的雪花。"

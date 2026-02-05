@@ -841,7 +841,7 @@
 				"taskAnswer": "是指雨点打在雨伞上发出的“叮叮咚咚”的声音。"
 			},
 			{
-				"title": "铺满金色巴掌的水泥道（复习）",
+				"title": "铺满金色巴掌的水泥道",
 				"type": "textbook_review",
 				"author": "张秋生",
 				"dynasty": "现代",
@@ -1009,7 +1009,7 @@
 		"theme": "湖光山色",
 		"content": [
 			{
-				"title": "望洞庭（复习）",
+				"title": "望洞庭",
 				"type": "textbook_review",
 				"author": "刘禹锡",
 				"dynasty": "唐",

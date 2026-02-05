@@ -7,9 +7,9 @@
     "theme": "汉字起源之魅",
     "content": [
       {
-        "title": "汉字真有趣（节选，甲骨文的发现）",
+        "title": "汉字真有趣（节选）",
         "type": "textbook_review",
-        "author": "教材编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -115,9 +115,9 @@
     "theme": "汉字的造字智慧",
     "content": [
       {
-        "title": "我爱你，汉字（节选，汉字演变）",
+        "title": "我爱你，汉字（节选）",
         "type": "textbook_review",
-        "author": "教材编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -134,7 +134,7 @@
       {
         "title": "仓颉造字",
         "type": "story_legend",
-        "author": "史料记载整理",
+        "author": "",
         "dynasty": "上古",
         "contentObject": [
           {
@@ -149,7 +149,7 @@
         "taskAnswer": "它象征着文字的产生是一件感天动地的大事。文字让知识得以传承，人类智慧得到大爆发，这种力量足以改变自然世界（天雨粟），甚至让神灵感到敬畏（鬼夜哭）。"
       },
       {
-        "title": "论语（节选，学以致用）",
+        "title": "论语（节选）",
         "type": "classics",
         "author": "孔子（及弟子）",
         "dynasty": "春秋",
@@ -208,7 +208,7 @@
         "taskAnswer": "运用了对比的手法。将花生的“埋在地里”与桃子、石榴、苹果的“高挂枝头”进行对比，突出了花生默默无闻、不求虚名、朴实无华的内在品格。"
       },
       {
-        "title": "汉字童谣（选段）",
+        "title": "汉字（选段）",
         "type": "children_poem",
         "author": "",
         "dynasty": "现代",
@@ -231,7 +231,7 @@
         "taskAnswer": "小土为尘，如细微的泥土在风中飞扬；上小下大为尖，似锋利的笔头或塔尖，由宽逐渐收窄。"
       },
       {
-        "title": "世说新语（节选，咏雪）",
+        "title": "世说新语（节选）",
         "type": "classical_chinese",
         "author": "刘义庆",
         "dynasty": "南朝",
@@ -280,9 +280,9 @@
     "theme": "汉字背后的风骨",
     "content": [
       {
-        "title": "我爱你，汉字（节选，书法审美）",
+        "title": "我爱你，汉字（节选）",
         "type": "textbook_review",
-        "author": "教材编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -312,7 +312,7 @@
       {
         "title": "苏武牧羊（节选）",
         "type": "story_legend",
-        "author": "史料记载整理",
+        "author": "",
         "dynasty": "汉",
         "contentObject": [
           {
@@ -358,9 +358,9 @@
     "theme": "汉字的修身之道",
     "content": [
       {
-        "title": "我爱你，汉字（节选，错别字的警示）",
+        "title": "我爱你，汉字（节选）",
         "type": "textbook_review",
-        "author": "教材编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -464,9 +464,9 @@
         "taskAnswer": "汉字蕴含着丰富的文化信息和先民的智慧，后人需要通过学习、研究和感悟，才能真正揭开其中深藏的历史含义和人文精神。"
       },
       {
-        "title": "三个秀才猜字（民间故事）",
+        "title": "三个秀才猜字",
         "type": "story_legend",
-        "author": "民间整理",
+        "author": "",
         "dynasty": "清",
         "contentObject": [
           {
@@ -534,9 +534,9 @@
     "theme": "汉字的建筑美学",
     "content": [
       {
-        "title": "我爱你，汉字（节选，间架结构）",
+        "title": "我爱你，汉字（节选）",
         "type": "textbook_review",
-        "author": "教材编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -564,7 +564,7 @@
         "taskAnswer": "突出了汉字具有灵动的节奏感和优美的音韵美，读起来悦耳动听，给人以美的熏陶。"
       },
       {
-        "title": "列子（节选，学琴）",
+        "title": "列子（节选）",
         "type": "classical_chinese",
         "author": "列御寇",
         "dynasty": "战国",
@@ -633,9 +633,9 @@
     "theme": "汉字的民俗印记",
     "content": [
       {
-        "title": "汉字真有趣（节选，有趣的对联）",
+        "title": "汉字真有趣（节选）",
         "type": "textbook_review",
-        "author": "教材编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -650,9 +650,9 @@
         "taskAnswer": "学生通过在句末增加后缀词的方法改变了原意。这体现了汉字极强的灵活性和组合性，字数的变化能带来意蕴的巨大反转。"
       },
       {
-        "title": "苏东坡吃草（民间智慧）",
+        "title": "苏东坡吃草",
         "type": "story_legend",
-        "author": "民间整理",
+        "author": "",
         "dynasty": "宋",
         "contentObject": [
           {
@@ -734,9 +734,9 @@
         "taskAnswer": "他认为二者都讲究“节奏”和“章法”。字要有干湿浓淡，文章要有长短错落，这样才会有生机，不呆板。"
       },
       {
-        "title": "我爱你，汉字（节选，汉字规范）",
+        "title": "我爱你，汉字（节选）",
         "type": "textbook_review",
-        "author": "教材编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -751,7 +751,7 @@
         "taskAnswer": "我会感到非常不协调，觉得这种粗心破坏了汉字的尊严。如果可能，我会向有关部门反馈，或者通过礼貌的方式告知相关人员。"
       },
       {
-        "title": "菜根谭（节选，做人道理）",
+        "title": "菜根谭（节选）",
         "type": "classics",
         "author": "洪应明",
         "dynasty": "明",
@@ -810,9 +810,9 @@
         "taskAnswer": "因为活水是流动的、清新的、有生命力的。他主张语言不应僵化，要自然、通俗且富有生活气息。"
       },
       {
-        "title": "文心雕龙（传说故事）",
+        "title": "文心雕龙",
         "type": "story_legend",
-        "author": "史料整理",
+        "author": "",
         "dynasty": "南北朝",
         "contentObject": [
           {
@@ -882,7 +882,7 @@
       {
         "title": "我爱你，汉字（总结篇）",
         "type": "textbook_review",
-        "author": "教材编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -896,7 +896,7 @@
         "taskAnswer": "关键词：博大精深、灵动优美、民族脊梁。"
       },
       {
-        "title": "兰亭集序（节选，感叹生命）",
+        "title": "兰亭集序（节选）",
         "type": "modern_prose",
         "author": "王羲之（原著）",
         "dynasty": "东晋",
@@ -911,9 +911,9 @@
         "taskAnswer": "作者意识到生命的短暂和时空的无情流逝，但通过文字记录（书法与诗歌），人类可以实现一种跨越时代的精神共鸣，这体现了文字在记录历史与情感上的不朽价值。"
       },
       {
-        "title": "精卫填海（寓言）",
+        "title": "精卫填海",
         "type": "classical_chinese",
-        "author": "山海经",
+        "author": "",
         "dynasty": "先秦",
         "contentObject": [
           {

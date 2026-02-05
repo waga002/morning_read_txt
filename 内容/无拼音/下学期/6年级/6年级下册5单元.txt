@@ -7,7 +7,7 @@
     "theme": "科学与求知",
     "content": [
       {
-        "title": "学弈（课本复习）",
+        "title": "学弈",
         "type": "textbook_review",
         "author": "孟子",
         "dynasty": "先秦",
@@ -24,7 +24,7 @@
         "taskAnswer": "学习效果的不同并非因为智力差异（非然也），而是由于学习态度的不同：一人专心致志，心无旁骛；另一人则三心二意，心不在焉。"
       },
       {
-        "title": "敬畏生命（现代美文）",
+        "title": "敬畏生命",
         "type": "modern_prose",
         "author": "张晓风",
         "dynasty": "现代",
@@ -115,7 +115,7 @@
     "theme": "辩证与智慧",
     "content": [
       {
-        "title": "两小儿辩日（课本复习）",
+        "title": "两小儿辩日",
         "type": "textbook_review",
         "author": "列御寇（传）",
         "dynasty": "战国",
@@ -135,7 +135,7 @@
         "taskAnswer": "一个小孩从视觉形状的大小出发，另一个从触觉温度的高低出发。孔子的“不能决”说明了知识是无穷的，即使是大圣人也有不知道的东西，体现了实事求是的态度。"
       },
       {
-        "title": "诸葛亮的木牛流马（故事传说）",
+        "title": "诸葛亮的木牛流马",
         "type": "story_legend",
         "author": "罗贯中（改编）",
         "dynasty": "明",
@@ -152,7 +152,7 @@
         "taskAnswer": "启示我们在面对困难（如复杂地形）时，不应生搬硬套，而应通过细致观察和深度思考，利用智慧创新工具来化解难题。"
       },
       {
-        "title": "论语（节选，求知）",
+        "title": "论语（节选）",
         "type": "classics",
         "author": "孔子及其弟子",
         "dynasty": "春秋",
@@ -228,7 +228,7 @@
         "taskAnswer": "作者运用了比喻（像一条瀑布）和拟人（在欢笑）的手法。传达了作者对生命蓬勃生机的赞美，以及在面对困境时豁然开朗的心境。"
       },
       {
-        "title": "科学之光（童诗）",
+        "title": "科学之光",
         "type": "children_poem",
         "author": "",
         "dynasty": "现代",
@@ -254,7 +254,7 @@
         "taskAnswer": "“问号”象征着对自然现象产生的质疑和好奇；“耳语”象征着隐藏在复杂现象背后的自然科学规律。"
       },
       {
-        "title": "橘逾淮为枳（文言文）",
+        "title": "橘逾淮为枳",
         "type": "classical_chinese",
         "author": "晏婴（传）",
         "dynasty": "春秋",
@@ -300,7 +300,7 @@
     "theme": "探索的足迹",
     "content": [
       {
-        "title": "真理诞生于一百个问号之后（课本复习）",
+        "title": "真理诞生于一百个问号之后",
         "type": "textbook_review",
         "author": "叶永烈",
         "dynasty": "现代",
@@ -333,9 +333,9 @@
         "taskAnswer": "指的是满池密密麻麻的荷叶。好处是生动形象地写出了荷叶的茂密和平整，色彩鲜明，给人以美的享受。"
       },
       {
-        "title": "鲁班学艺（故事传说）",
+        "title": "鲁班学艺",
         "type": "story_legend",
-        "author": "民间传说",
+        "author": "",
         "dynasty": "古代",
         "contentObject": [
           {
@@ -381,7 +381,7 @@
     "theme": "求索与自律",
     "content": [
       {
-        "title": "表里的生物（课本复习）",
+        "title": "表里的生物",
         "type": "textbook_review",
         "author": "冯至",
         "dynasty": "现代",
@@ -422,7 +422,7 @@
         "taskAnswer": "赞美了小草顽强的生命力和百折不挠的精神。在科学研究中非常需要这种精神，因为探索之路充满失败，唯有不惧挫折、顽强坚持，才能迎来成功的“春天”。"
       },
       {
-        "title": "菜根谭（节选，治学）",
+        "title": "菜根谭（节选）",
         "type": "classics",
         "author": "洪应明",
         "dynasty": "明",
@@ -484,9 +484,9 @@
         "taskAnswer": "画面感非常生动、喜庆且充满动感。让人联想到花朵在风中轻盈舞动、色彩绚烂的样子，体现了生命的欢愉和作者内心的宁静。"
       },
       {
-        "title": "三个旅行者（故事传说）",
+        "title": "三个旅行者",
         "type": "story_legend",
-        "author": "民间故事",
+        "author": "",
         "dynasty": "古代",
         "contentObject": [
           {
@@ -501,7 +501,7 @@
         "taskAnswer": "体现了《真理诞生于一百个问号之后》的思想。在绝境或平凡现象（枯井）中不放弃探索，通过实际行动（挖掘）寻找转机，最终发现真理或生存的希望。"
       },
       {
-        "title": "幻想（童诗）",
+        "title": "幻想",
         "type": "children_poem",
         "author": "曹文轩",
         "dynasty": "现代",
@@ -557,7 +557,7 @@
     "theme": "科幻与未来",
     "content": [
       {
-        "title": "他们那时候多有趣啊（课本复习）",
+        "title": "他们那时候多有趣啊",
         "type": "textbook_review",
         "author": "阿西莫夫",
         "dynasty": "现代",
@@ -656,7 +656,7 @@
     "theme": "哲思与守望",
     "content": [
       {
-        "title": "真理诞生于一百个问号之后（课本复习）",
+        "title": "真理诞生于一百个问号之后",
         "type": "textbook_review",
         "author": "叶永烈",
         "dynasty": "现代",
@@ -672,7 +672,7 @@
         "taskAnswer": "这句话的意思是科学规律就存在于我们司空见惯的日常生活之中，只要我们具备观察力和探索精神，普通人也有可能发现科学真理。"
       },
       {
-        "title": "愚公移山（故事传说）",
+        "title": "愚公移山",
         "type": "story_legend",
         "author": "列子",
         "dynasty": "先秦",
@@ -757,7 +757,7 @@
         "taskAnswer": "给人以“明亮、丰满、安稳”的感觉。"
       },
       {
-        "title": "两小儿辩日（复习）",
+        "title": "两小儿辩日",
         "type": "textbook_review",
         "author": "列御寇（传）",
         "dynasty": "战国",
@@ -773,7 +773,7 @@
         "taskAnswer": "两个小孩都只采用了单一的感官（视觉或触觉）进行判断，没有考虑到视觉误差和大气层、太阳高度角对温度影响的复杂科学规律。"
       },
       {
-        "title": "孟子（节选，思辨）",
+        "title": "孟子（节选）",
         "type": "classics",
         "author": "孟子",
         "dynasty": "先秦",
@@ -816,9 +816,9 @@
     "theme": "思辨与口才",
     "content": [
       {
-        "title": "辩论：网络利弊（口语交际）",
+        "title": "辩论：网络利弊",
         "type": "modern_prose",
-        "author": "教研组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -832,7 +832,7 @@
         "taskAnswer": "我们应当发挥网络的工具属性，利用其便捷性服务学习生活，同时要保持高度的自律，有意识地进行深度阅读和现实社交，避免被网络碎片化和虚拟化所左右。"
       },
       {
-        "title": "曹刿论战（故事传说）",
+        "title": "曹刿论战",
         "type": "story_legend",
         "author": "左丘明",
         "dynasty": "先秦",
@@ -849,7 +849,7 @@
         "taskAnswer": "他体现了善于观察时机、精准心理战的智慧（彼竭我盈）。这种智慧源于他对事物规律（士气消长）的深刻洞察和冷静的思辨能力。"
       },
       {
-        "title": "两只袋鼠（童诗）",
+        "title": "两只袋鼠",
         "type": "children_poem",
         "author": "谢尔·希尔弗斯坦",
         "dynasty": "现代",
@@ -902,7 +902,7 @@
     "theme": "观察与发现",
     "content": [
       {
-        "title": "表里的生物（复习）",
+        "title": "表里的生物",
         "type": "textbook_review",
         "author": "冯至",
         "dynasty": "现代",
@@ -977,9 +977,9 @@
     "theme": "科学与梦想",
     "content": [
       {
-        "title": "习作：插上科学的翅膀飞（课本复习）",
+        "title": "插上科学的翅膀飞",
         "type": "textbook_review",
-        "author": "教研组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {

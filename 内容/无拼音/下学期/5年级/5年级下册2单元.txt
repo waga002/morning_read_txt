@@ -7,7 +7,7 @@
     "theme": "智慧与胆识",
     "content": [
       {
-        "title": "草船借箭（节选，妙计成行）",
+        "title": "草船借箭（节选）",
         "type": "textbook_review",
         "author": "罗贯中",
         "dynasty": "明",
@@ -116,7 +116,7 @@
     "theme": "豪气与胆略",
     "content": [
       {
-        "title": "景阳冈（节选，武松打虎）",
+        "title": "景阳冈（节选）",
         "type": "textbook_review",
         "author": "施耐庵",
         "dynasty": "明",
@@ -135,7 +135,7 @@
       {
         "title": "精忠报国（岳飞传略）",
         "type": "story_legend",
-        "author": "民间史料",
+        "author": "",
         "dynasty": "宋",
         "contentObject": [
           {
@@ -150,7 +150,7 @@
         "taskAnswer": "这四个字成为了岳飞一生的信仰与准则，支持他在危难时刻保家卫国。在现代，“忠”可以理解为对国家、对事业、对承诺的忠诚与尽责，是一种高度的社会责任感。"
       },
       {
-        "title": "论语（节选，为人处世）",
+        "title": "论语（节选）",
         "type": "classics",
         "author": "孔子弟子",
         "dynasty": "先秦",
@@ -196,7 +196,7 @@
     "theme": "不凡的起点",
     "content": [
       {
-        "title": "宗璞散文（节选，紫藤萝瀑布）",
+        "title": "宗璞散文（节选）",
         "type": "modern_prose",
         "author": "宗璞",
         "dynasty": "现代",
@@ -238,7 +238,7 @@
         "taskAnswer": "一共描绘了藤、树、鸦、桥、水、家、道、风、马、夕阳共十种景物。这些景物营造了一种萧瑟、苍凉、思乡心切的孤独意境。"
       },
       {
-        "title": "列子（节选，两儿辩日）",
+        "title": "列子（节选）",
         "type": "classical_chinese",
         "author": "列御寇",
         "dynasty": "先秦",
@@ -287,7 +287,7 @@
     "theme": "古典遗韵",
     "content": [
       {
-        "title": "红楼春趣（节选，放风筝）",
+        "title": "红楼春趣（节选）",
         "type": "textbook_review",
         "author": "曹雪芹",
         "dynasty": "清",
@@ -322,7 +322,7 @@
       {
         "title": "精卫填海（智慧与毅力）",
         "type": "story_legend",
-        "author": "根据《山海经》整理",
+        "author": "",
         "dynasty": "先秦",
         "contentObject": [
           {
@@ -368,7 +368,7 @@
     "theme": "德行与准则",
     "content": [
       {
-        "title": "草船借箭（节选，知人善用）",
+        "title": "草船借箭（节选）",
         "type": "textbook_review",
         "author": "罗贯中",
         "dynasty": "明",
@@ -458,7 +458,7 @@
     "theme": "草木灵气",
     "content": [
       {
-        "title": "老舍散文（节选，养花）",
+        "title": "老舍散文（节选）",
         "type": "modern_prose",
         "author": "老舍",
         "dynasty": "现代",
@@ -474,7 +474,7 @@
         "taskAnswer": "因为名贵的品种娇贵、难伺候。这体现了他追求平实、自然、随和的人生态度，他更看重在这个过程中付出的劳动和获得的真实乐趣，而非虚名。"
       },
       {
-        "title": "庄子（节选，庄周梦蝶）",
+        "title": "庄子（节选）",
         "type": "story_legend",
         "author": "庄子",
         "dynasty": "先秦",
@@ -546,7 +546,7 @@
     "theme": "文字的生命力",
     "content": [
       {
-        "title": "猴王出世（节选，天生地造）",
+        "title": "猴王出世（节选）",
         "type": "textbook_review",
         "author": "吴承恩",
         "dynasty": "明",
@@ -579,7 +579,7 @@
         "taskAnswer": "说明阅读不应是单向的接收，而应该是双向的思考。我们要主动去揣摩作者的意图，感受文章的情感，并在内心给予回应和碰撞。"
       },
       {
-        "title": "世说新语（节选，咏雪）",
+        "title": "世说新语（节选）",
         "type": "classical_chinese",
         "author": "刘义庆",
         "dynasty": "南朝",
@@ -648,7 +648,7 @@
     "theme": "凡人与非凡",
     "content": [
       {
-        "title": "景阳冈（节选，酒壮豪气）",
+        "title": "景阳冈（节选）",
         "type": "textbook_review",
         "author": "施耐庵",
         "dynasty": "明",
@@ -667,7 +667,7 @@
       {
         "title": "牛郎织女（文化内涵）",
         "type": "story_legend",
-        "author": "民间传说",
+        "author": "",
         "dynasty": "唐",
         "contentObject": [
           {
@@ -733,7 +733,7 @@
     "theme": "自然的哲思",
     "content": [
       {
-        "title": "宗璞散文（节选，丁香结）",
+        "title": "宗璞散文（节选）",
         "type": "modern_prose",
         "author": "宗璞",
         "dynasty": "现代",
@@ -749,7 +749,7 @@
         "taskAnswer": "第一重含义是实指：丁香花蕾的形状像扣结；第二重含义是象征：指代人生中那些难以解开的愁怨或困难。"
       },
       {
-        "title": "红楼春趣（节选，剪断牵挂）",
+        "title": "红楼春趣（节选）",
         "type": "textbook_review",
         "author": "曹雪芹",
         "dynasty": "清",
@@ -766,7 +766,7 @@
         "taskAnswer": "包含了一种名为“放晦气”的习俗。反映了人们希望将疾病、烦恼或不顺心的事随着风筝一起带走，祈求平安、健康和美好生活的心理寄托。"
       },
       {
-        "title": "孟子（节选，浩然正气）",
+        "title": "孟子（节选）",
         "type": "classics",
         "author": "孟轲",
         "dynasty": "先秦",
@@ -847,7 +847,7 @@
         "taskAnswer": "关键在于通过合理的资源配置，以己之长攻人之短，牺牲局部利益换取全局胜利。共同点是：两者都运用了逆向思维和全局观，不靠硬拼，而是靠对局势的精准分析和策略布局来获胜。"
       },
       {
-        "title": "采薇（节选，家国之思）",
+        "title": "采薇（节选）",
         "type": "children_poem",
         "author": "",
         "dynasty": "先秦",
@@ -901,7 +901,7 @@
     "theme": "生命的张力",
     "content": [
       {
-        "title": "草船借箭（节选，最终结局）",
+        "title": "草船借箭（节选）",
         "type": "textbook_review",
         "author": "罗贯中",
         "dynasty": "明",
@@ -983,7 +983,7 @@
     "theme": "英雄的底色",
     "content": [
       {
-        "title": "猴王出世（节选，众猿称王）",
+        "title": "猴王出世（节选）",
         "type": "textbook_review",
         "author": "吴承恩",
         "dynasty": "明",
@@ -1000,7 +1000,7 @@
         "taskAnswer": "这反映了石猴不仅有过人的胆量（敢跳水帘洞），更有非凡的智慧和领导才能。他懂得利用规则和信义来树立自己的权威，展现了他有勇有谋的一面。"
       },
       {
-        "title": "老舍散文（节选，草原）",
+        "title": "老舍散文（节选）",
         "type": "modern_prose",
         "author": "老舍",
         "dynasty": "现代",

@@ -39,7 +39,7 @@
       {
         "title": "长歌行（汉乐府）",
         "type": "ancient_poem",
-        "author": "汉乐府",
+        "author": "",
         "dynasty": "汉",
         "contentObject": [
           {
@@ -160,7 +160,7 @@
         "taskAnswer": "“甜的念头”指的是目标或愿望。比如我为了周末的野餐而辛勤准备，等待的过程虽然辛苦，但对野餐的向往让这种等待充满了幸福感。"
       },
       {
-        "title": "论语（节选，修身）",
+        "title": "论语（节选）",
         "type": "classics",
         "author": "孔子（弟子辑录）",
         "dynasty": "先秦",
@@ -366,7 +366,7 @@
       {
         "title": "让真情自然流露（习作指导）",
         "type": "textbook_review",
-        "author": "教材编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -726,7 +726,7 @@
         "taskAnswer": "因为“我”从自己的渴望中跳了出来，观察到了母亲的辛劳与疲惫。这标志着“我”开始学会体谅他人，是孩子心理成熟、走向懂事的一个重要里程碑。"
       },
       {
-        "title": "现代美文（母爱如山）",
+        "title": "母爱如山",
         "type": "modern_prose",
         "author": "汪曾祺",
         "dynasty": "现代",
@@ -740,7 +740,7 @@
         "taskAnswer": "作者选取了切菜的声音、白面馒头以及厨房的热气这些极具烟火气息的生活细节，将抽象的母爱具体化为触手可及的温度与声音，含蓄而深情。"
       },
       {
-        "title": "孟子（节选，仁爱）",
+        "title": "孟子（节选）",
         "type": "classics",
         "author": "孟轲",
         "dynasty": "先秦",
@@ -870,7 +870,7 @@
     "theme": "细节的魅力",
     "content": [
       {
-        "title": "阳光的两种用法（写法复习）",
+        "title": "阳光的两种用法",
         "type": "textbook_review",
         "author": "肖复兴",
         "dynasty": "现代",
@@ -942,7 +942,7 @@
     "theme": "永恒的真情",
     "content": [
       {
-        "title": "习作例文：别了，语文课（结构复习）",
+        "title": "别了，语文课",
         "type": "textbook_review",
         "author": "何紫",
         "dynasty": "现代",

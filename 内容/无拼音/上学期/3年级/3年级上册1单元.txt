@@ -601,7 +601,7 @@
 		"theme": "大自然的语言",
 		"content": [
 			{
-				"title": "大青树下的小学（复习）",
+				"title": "大青树下的小学",
 				"type": "textbook_review",
 				"author": "吴然",
 				"dynasty": "现代",
@@ -714,7 +714,7 @@
 		"theme": "小小观察家",
 		"content": [
 			{
-				"title": "花的学校（复习）",
+				"title": "花的学校",
 				"type": "textbook_review",
 				"author": "泰戈尔",
 				"dynasty": "现代",
@@ -825,7 +825,7 @@
 				"taskAnswer": "作者把爬山虎的细丝比作蜗牛的触角，说明它很细、很灵敏。"
 			},
 			{
-				"title": "不懂就要问（复习）",
+				"title": "不懂就要问",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",
@@ -996,7 +996,7 @@
 		"theme": "神奇的古代故事",
 		"content": [
 			{
-				"title": "花的学校（复习）",
+				"title": "花的学校",
 				"type": "textbook_review",
 				"author": "泰戈尔",
 				"dynasty": "现代",
@@ -1080,7 +1080,7 @@
 		"theme": "美丽的风景",
 		"content": [
 			{
-				"title": "大青树下的小学（复习）",
+				"title": "大青树下的小学",
 				"type": "textbook_review",
 				"author": "吴然",
 				"dynasty": "现代",

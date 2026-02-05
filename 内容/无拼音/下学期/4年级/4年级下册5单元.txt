@@ -138,7 +138,7 @@
       {
         "title": "神农尝百草（节选）",
         "type": "story_legend",
-        "author": "民间传说",
+        "author": "",
         "dynasty": "古代",
         "contentObject": [
           {

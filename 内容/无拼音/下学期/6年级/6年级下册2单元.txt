@@ -7,7 +7,7 @@
     "theme": "荒岛求生与意志",
     "content": [
       {
-        "title": "鲁滨逊漂流记（节选，心态转变）",
+        "title": "鲁滨逊漂流记（节选）",
         "type": "textbook_review",
         "author": "丹尼尔·笛福",
         "dynasty": "近代",
@@ -23,7 +23,7 @@
         "taskAnswer": "鲁滨逊通过对比“处境的坏”与“生存的幸”，意识到即使在绝境中也存在希望，从而平复了恐惧，产生了活下去的勇气。！！非常有参考价值，它能帮助我们在焦虑时回归理性，发现被忽略的积极因素。"
       },
       {
-        "title": "平凡的世界（节选，苦难的意义）",
+        "title": "平凡的世界（节选）",
         "type": "modern_prose",
         "author": "路遥",
         "dynasty": "现代",
@@ -117,7 +117,7 @@
     "theme": "智慧与抉择",
     "content": [
       {
-        "title": "鲁滨逊漂流记（节选，辛勤劳作）",
+        "title": "鲁滨逊漂流记（节选）",
         "type": "textbook_review",
         "author": "丹尼尔·笛福",
         "dynasty": "近代",
@@ -283,7 +283,7 @@
     "theme": "成长的历险",
     "content": [
       {
-        "title": "汤姆·索亚历险记（节选，洞中脱险）",
+        "title": "汤姆·索亚历险记（节选）",
         "type": "textbook_review",
         "author": "马克·吐温",
         "dynasty": "现代",
@@ -362,7 +362,7 @@
     "theme": "自省与修身",
     "content": [
       {
-        "title": "骑鹅旅行记（节选，动物的控诉）",
+        "title": "骑鹅旅行记（节选）",
         "type": "textbook_review",
         "author": "拉格洛芙",
         "dynasty": "现代",
@@ -527,7 +527,7 @@
     "theme": "名著的哲思",
     "content": [
       {
-        "title": "鲁滨逊漂流记（节选，自救与反思）",
+        "title": "鲁滨逊漂流记（节选）",
         "type": "textbook_review",
         "author": "丹尼尔·笛福",
         "dynasty": "近代",
@@ -625,7 +625,7 @@
     "theme": "正义与智慧",
     "content": [
       {
-        "title": "汤姆·索亚历险记（节选，法庭出证）",
+        "title": "汤姆·索亚历险记（节选）",
         "type": "textbook_review",
         "author": "马克·吐温",
         "dynasty": "现代",
@@ -723,7 +723,7 @@
         "taskAnswer": "具有一种蓬勃、活泼、充满朝气且永无止境的生命力。作者通过瀑布的比喻和拟人化描写，展现了生命在磨难之后的重生与辉煌。"
       },
       {
-        "title": "骑鹅旅行记（节选，飞翔的自由）",
+        "title": "骑鹅旅行记（节选）",
         "type": "textbook_review",
         "author": "拉格洛芙",
         "dynasty": "现代",
@@ -785,7 +785,7 @@
     "theme": "人性的光辉",
     "content": [
       {
-        "title": "鲁滨逊漂流记（节选，救助星期五）",
+        "title": "鲁滨逊漂流记（节选）",
         "type": "textbook_review",
         "author": "丹尼尔·笛福",
         "dynasty": "近代",
@@ -860,7 +860,7 @@
     "theme": "思辨与真理",
     "content": [
       {
-        "title": "汤姆·索亚历险记（节选，快乐的定义）",
+        "title": "汤姆·索亚历险记（节选）",
         "type": "textbook_review",
         "author": "马克·吐温",
         "dynasty": "现代",
@@ -892,7 +892,7 @@
         "taskAnswer": "这句话强调了出身、潜能和内在本质的重要性。即便暂时身处逆境或平庸的环境，只要拥有高远的志向和天鹅般的特质，终会迎来属于自己的绽放。"
       },
       {
-        "title": "两小儿辩日（节选，孔子之叹）",
+        "title": "两小儿辩日（节选）",
         "type": "classical_chinese",
         "author": "刘义庆",
         "dynasty": "南朝宋",
@@ -935,7 +935,7 @@
     "theme": "理想的彼岸",
     "content": [
       {
-        "title": "鲁滨逊漂流记（节选，重返家园）",
+        "title": "鲁滨逊漂流记（节选）",
         "type": "textbook_review",
         "author": "丹尼尔·笛福",
         "dynasty": "近代",

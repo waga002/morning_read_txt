@@ -133,7 +133,7 @@
         "taskAnswer": "因为作者被母鸡在保护和养育鸡雏时表现出的勇敢、负责和无私的母爱所震撼。"
       },
       {
-        "title": "苏武牧羊（轶事）",
+        "title": "苏武牧羊",
         "type": "story_legend",
         "author": "司马迁（原著）",
         "dynasty": "西汉",
@@ -295,7 +295,7 @@
     "theme": "动物的趣事",
     "content": [
       {
-        "title": "白鹅（偷食段）",
+        "title": "白鹅（节选）",
         "type": "textbook_review",
         "author": "丰子恺",
         "dynasty": "现代",
@@ -377,7 +377,7 @@
     "theme": "成长的反思",
     "content": [
       {
-        "title": "猫（小猫段）",
+        "title": "猫（节选）",
         "type": "textbook_review",
         "author": "老舍",
         "dynasty": "现代",
@@ -668,7 +668,7 @@
     "theme": "人性的光辉",
     "content": [
       {
-        "title": "白鹅（看守段）",
+        "title": "白鹅（节选）",
         "type": "textbook_review",
         "author": "丰子恺",
         "dynasty": "现代",
@@ -709,7 +709,7 @@
         "taskAnswer": "“喜”字最能表达。因为诗人听闻国家失地收复，结束了漂泊离散的生活，那是喜极而泣的眼泪。"
       },
       {
-        "title": "铁杵成针（轶事）",
+        "title": "铁杵成针",
         "type": "story_legend",
         "author": "曹学佺（辑）",
         "dynasty": "明",
@@ -771,9 +771,9 @@
         "taskAnswer": "指猫踩在稿纸上的脏脚印。这个比喻体现了作者对猫的极度喜爱，把原本弄脏稿纸的行为看作是在作画。"
       },
       {
-        "title": "孔子学习（轶事）",
+        "title": "孔子学习",
         "type": "story_legend",
-        "author": "史料整理",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -854,9 +854,9 @@
         "taskAnswer": "写了墨绿、浅绿、嫩绿、翠绿、淡绿、粉绿。给人一种生机勃勃、充满活力、色彩斑斓的感觉。"
       },
       {
-        "title": "仓颉造字（传说）",
+        "title": "仓颉造字",
         "type": "story_legend",
-        "author": "民间传说",
+        "author": "",
         "dynasty": "古代",
         "contentObject": [
           {
@@ -874,7 +874,7 @@
         "title": "白桦（节选）",
         "type": "children_poem",
         "author": "叶赛宁",
-        "dynasty": "现代（俄）",
+        "dynasty": "现代",
         "contentObject": [
           {
             "text": "在我的窗前，"
@@ -926,7 +926,7 @@
     "theme": "内心的修养",
     "content": [
       {
-        "title": "白鹅（姿态段）",
+        "title": "白鹅（节选）",
         "type": "textbook_review",
         "author": "丰子恺",
         "dynasty": "现代",
@@ -1060,7 +1060,7 @@
         "taskAnswer": "运用了对比和夸张的手法。将“深千尺”的潭水与汪伦的“送我情”对比，突出了友情的深厚。"
       },
       {
-        "title": "朋友的味道（名家）",
+        "title": "朋友的味道",
         "type": "modern_prose",
         "author": "冯骥才",
         "dynasty": "现代",

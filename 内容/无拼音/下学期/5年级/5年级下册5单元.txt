@@ -7,7 +7,7 @@
     "theme": "人物神采",
     "content": [
       {
-        "title": "人物描写一组（节选，摔跤）",
+        "title": "人物描写一组（节选）",
         "type": "textbook_review",
         "author": "徐光耀",
         "contentObject": [
@@ -25,7 +25,7 @@
         "taskAnswer": "小嘎子表现出机敏、顽皮且富有竞争意识的性格。文中通过撅着屁股、摆开架势等动作，以及百般设法穿裆脚的心理活动，生动刻画了他想凭灵活性赢过对手的“小机灵”形象。"
       },
       {
-        "title": "骆驼祥子（节选，他像一棵挺脱的树）",
+        "title": "骆驼祥子（节选）",
         "type": "modern_prose",
         "author": "老舍",
         "contentObject": [
@@ -130,7 +130,7 @@
         "taskAnswer": "因为黑色能极大地反衬出白色的粉浆点，穿黑衣是为了接受最严苛的检验。这体现了他对手艺追求极致、精益求精的职业态度。"
       },
       {
-        "title": "神笔马良（节选，智慧与正义）",
+        "title": "神笔马良（节选）",
         "type": "story_legend",
         "author": "洪汛涛",
         "contentObject": [
@@ -145,7 +145,7 @@
         "taskAnswer": "这种精神是助人为乐的善良和面对权贵、贪婪者时不屈不挠、机智斗争的正义感。"
       },
       {
-        "title": "论语（节选，立身之道）",
+        "title": "论语（节选）",
         "type": "classics",
         "author": "孔子及其弟子",
         "dynasty": "先秦",
@@ -350,7 +350,7 @@
     "theme": "大家风范",
     "content": [
       {
-        "title": "人物描写一组（节选，两茎灯草）",
+        "title": "人物描写一组（节选）",
         "type": "textbook_review",
         "author": "吴敬梓",
         "contentObject": [
@@ -438,7 +438,7 @@
     "theme": "童心雅趣",
     "content": [
       {
-        "title": "我与地坛（节选，生命的律动）",
+        "title": "我与地坛（节选）",
         "type": "modern_prose",
         "author": "史铁生",
         "contentObject": [
@@ -469,7 +469,7 @@
         "taskAnswer": "告诉我们祸福在一定条件下是可以互相转化的，面对生活中的得失，应保持平常心，不要过于忧喜。"
       },
       {
-        "title": "童年（节选，阳光下的秘密）",
+        "title": "童年（节选）",
         "type": "children_poem",
         "author": "泰戈尔",
         "contentObject": [
@@ -531,7 +531,7 @@
         "taskAnswer": "主要运用了侧面描写和心理暗示。展现了祥子初期对未来充满希望、对自身力量充满自信的心理状态。"
       },
       {
-        "title": "背影（节选，父亲的背影）",
+        "title": "背影（节选）",
         "type": "modern_prose",
         "author": "朱自清",
         "contentObject": [
@@ -546,7 +546,7 @@
         "taskAnswer": "关键动词有“蹒跚”“探”“攀”“缩”“倾”。这些词生动地写出了父亲跨过铁道时的艰难，这种艰难里蕴含着深沉、厚重的父爱。"
       },
       {
-        "title": "伤仲永（节选，才华的消逝）",
+        "title": "伤仲永（节选）",
         "type": "classical_chinese",
         "author": "王安石",
         "dynasty": "宋",
@@ -627,7 +627,7 @@
         "taskAnswer": "曹小三起到了见证和对比的作用。通过他的心理起伏烘托出刷子李技艺的高超，这种写法叫侧面描写。"
       },
       {
-        "title": "包公断案（节选，智慧的力量）",
+        "title": "包公断案（节选）",
         "type": "story_legend",
         "author": "",
         "contentObject": [
@@ -859,7 +859,7 @@
         "taskAnswer": "这种写法化枯燥为神奇，将原本辛苦的体力劳动描写得极具艺术感和节奏感，突出了刷子李技艺的出神入化。"
       },
       {
-        "title": "宗璞散文（节选，丁香结）",
+        "title": "宗璞散文（节选）",
         "type": "modern_prose",
         "author": "宗璞",
         "contentObject": [
@@ -935,7 +935,7 @@
         "taskAnswer": "展现了儿童情感的单纯与直接。他们的世界里好恶分明，情绪随大人的反应而起伏，没有任何杂质和伪装。"
       },
       {
-        "title": "汪曾祺随笔（节选，生活的艺术）",
+        "title": "汪曾祺随笔（节选）",
         "type": "modern_prose",
         "author": "汪曾祺",
         "contentObject": [

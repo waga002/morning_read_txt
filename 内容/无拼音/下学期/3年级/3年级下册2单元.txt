@@ -7,7 +7,7 @@
     "theme": "等待的兔子",
     "content": [
       {
-        "title": "守株待兔（课本复习）",
+        "title": "守株待兔",
         "type": "textbook_review",
         "author": "韩非",
         "dynasty": "先秦",
@@ -22,9 +22,9 @@
         "taskAnswer": "因为他想不劳而获，希望每天都有兔子撞死。如果是我，我会捡起兔子回家，第二天继续勤快地种田，因为好运气不会每天都有。"
       },
       {
-        "title": "花钟（现代美文）",
+        "title": "花钟",
         "type": "modern_prose",
-        "author": "选自课文",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -40,7 +40,7 @@
         "taskAnswer": "吹起、绽开、醒来、开花、欣然怒放、点头示意。"
       },
       {
-        "title": "春晓（古诗词）",
+        "title": "春晓",
         "type": "ancient_poem",
         "author": "孟浩然",
         "dynasty": "唐",
@@ -115,7 +115,7 @@
     "theme": "坚强的陶罐",
     "content": [
       {
-        "title": "陶罐和铁罐（节选，课本复习）",
+        "title": "陶罐和铁罐（节选）",
         "type": "textbook_review",
         "author": "黄瑞云",
         "dynasty": "现代",
@@ -151,7 +151,7 @@
         "taskAnswer": "因为乌龟非常坚持，一直努力向前爬；而兔子太骄傲了，中途去睡觉。"
       },
       {
-        "title": "弟子规（节选，日常礼仪）",
+        "title": "弟子规（节选）",
         "type": "classic_recitation",
         "author": "李毓秀",
         "dynasty": "清",
@@ -194,7 +194,7 @@
     "theme": "美丽的鹿角",
     "content": [
       {
-        "title": "池边的鹿（现代美文）",
+        "title": "池边的鹿",
         "type": "modern_prose",
         "author": "严文井",
         "dynasty": "现代",
@@ -212,7 +212,7 @@
         "taskAnswer": "把鹿角比作了珊瑚和小树。池水像一面明亮的镜子。"
       },
       {
-        "title": "荷叶圆圆（童谣）",
+        "title": "荷叶圆圆",
         "type": "children_poem",
         "author": "金子美铃",
         "dynasty": "现代",
@@ -236,7 +236,7 @@
         "taskAnswer": "把荷叶比作了大玉盘。小水珠在荷叶上滚来滚去。"
       },
       {
-        "title": "司马光（小古文）",
+        "title": "司马光",
         "type": "classical_chinese",
         "author": "选自宋史",
         "dynasty": "元",
@@ -282,10 +282,10 @@
     "theme": "池子里的秘密",
     "content": [
       {
-        "title": "鹿角和鹿腿（节选，课本复习）",
+        "title": "鹿角和鹿腿（节选）",
         "type": "textbook_review",
         "author": "伊索",
-        "dynasty": "现代翻译",
+        "dynasty": "现代",
         "contentObject": [
           {
             "text": "鹿对着池水欣赏自己：“啊！我的身段多么匀称，我的角多么精美别致，好像两束美丽的珊瑚！”"
@@ -300,7 +300,7 @@
         "taskAnswer": "鹿把自己的角比作了美丽的珊瑚。"
       },
       {
-        "title": "小蝌蚪找妈妈（童话）",
+        "title": "小蝌蚪找妈妈",
         "type": "story_legend",
         "author": "方惠珍",
         "dynasty": "现代",
@@ -317,7 +317,7 @@
         "taskAnswer": "大脑袋、黑身子、长长的尾巴。"
       },
       {
-        "title": "寄小读者（节选，现代美文）",
+        "title": "寄小读者（节选）",
         "type": "modern_prose",
         "author": "冰心",
         "dynasty": "现代",
@@ -362,10 +362,10 @@
     "theme": "快乐园地",
     "content": [
       {
-        "title": "池子与河流（节选，课本复习）",
+        "title": "池子与河流（节选）",
         "type": "textbook_review",
         "author": "克雷洛夫",
-        "dynasty": "现代翻译",
+        "dynasty": "现代",
         "contentObject": [
           {
             "text": "“你为什么不流动呢？”河流问池子。池子说：“我过着安逸的生活，不用奔跑，多舒服呀！”"
@@ -380,7 +380,7 @@
         "taskAnswer": "我觉得河流对。因为河流在运动中保持清澈，还能帮到大家；池子不动就会变臭。"
       },
       {
-        "title": "江畔独步寻花（古诗词）",
+        "title": "江畔独步寻花",
         "type": "ancient_poem",
         "author": "杜甫",
         "dynasty": "唐",
@@ -404,7 +404,7 @@
         "taskAnswer": "写到了满地的花、压弯的树枝、飞舞的蝴蝶和唱歌的黄莺。"
       },
       {
-        "title": "弟子规（节选，整洁）",
+        "title": "弟子规（节选）",
         "type": "classic_recitation",
         "author": "李毓秀",
         "dynasty": "清",
@@ -450,7 +450,7 @@
     "theme": "智慧小寓言",
     "content": [
       {
-        "title": "寄小读者（节选二，现代美文）",
+        "title": "寄小读者（节选二）",
         "type": "modern_prose",
         "author": "冰心",
         "dynasty": "现代",
@@ -479,7 +479,7 @@
         "taskAnswer": "为了试探狐狸，看看它是不是真的想抓自己。"
       },
       {
-        "title": "小雨点（童诗）",
+        "title": "小雨点",
         "type": "children_poem",
         "author": "金子美铃",
         "dynasty": "现代",
@@ -531,7 +531,7 @@
     "theme": "大自然的脚步",
     "content": [
       {
-        "title": "守株待兔（课本复习）",
+        "title": "守株待兔",
         "type": "textbook_review",
         "author": "韩非",
         "dynasty": "先秦",
@@ -545,7 +545,7 @@
         "taskAnswer": "兔子是因为跑得太快撞到了树桩上，折断了脖子死的。"
       },
       {
-        "title": "草（现代美文）",
+        "title": "草",
         "type": "modern_prose",
         "author": "严文井",
         "dynasty": "现代",
@@ -559,7 +559,7 @@
         "taskAnswer": "绿绿的。"
       },
       {
-        "title": "铁杵磨成针（小古文）",
+        "title": "铁杵磨成针",
         "type": "classical_chinese",
         "author": "郑之珍",
         "dynasty": "明",
@@ -625,7 +625,7 @@
     "theme": "罐子的对话",
     "content": [
       {
-        "title": "陶罐和铁罐（课本复习）",
+        "title": "陶罐和铁罐",
         "type": "textbook_review",
         "author": "黄瑞云",
         "dynasty": "现代",
@@ -639,7 +639,7 @@
         "taskAnswer": "我会说：“铁罐兄弟，我们还是做好伙伴吧，撞碎了我对你也没好处呀。”"
       },
       {
-        "title": "狼和小羊（寓言）",
+        "title": "狼和小羊",
         "type": "story_legend",
         "author": "伊索",
         "dynasty": "古希腊",
@@ -653,7 +653,7 @@
         "taskAnswer": "不成立。因为水是从上往下流的，小羊在下面不可能弄脏上面的水。"
       },
       {
-        "title": "咏鹅（古诗词）",
+        "title": "咏鹅",
         "type": "ancient_poem",
         "author": "骆宾王",
         "dynasty": "唐",
@@ -705,10 +705,10 @@
     "theme": "河流的歌声",
     "content": [
       {
-        "title": "池子与河流（节选，课本复习）",
+        "title": "池子与河流（节选）",
         "type": "textbook_review",
         "author": "克雷洛夫",
-        "dynasty": "现代翻译",
+        "dynasty": "现代",
         "contentObject": [
           {
             "text": "河流总是唱着歌，奔向远方。它绕过石头，穿过森林，汇入大海。"
@@ -719,7 +719,7 @@
         "taskAnswer": "经过了石头、森林，最后流进了大海。"
       },
       {
-        "title": "繁星（节选，现代美文）",
+        "title": "繁星（节选）",
         "type": "modern_prose",
         "author": "冰心",
         "dynasty": "现代",
@@ -733,7 +733,7 @@
         "taskAnswer": "拟人。把小花写得像人一样会抬头看天空。"
       },
       {
-        "title": "弟子规（节选，待人）",
+        "title": "弟子规（节选）",
         "type": "classic_recitation",
         "author": "李毓秀",
         "dynasty": "清",
@@ -779,7 +779,7 @@
     "theme": "森林里的童话",
     "content": [
       {
-        "title": "寄小读者（节选三，现代美文）",
+        "title": "寄小读者（节选三）",
         "type": "modern_prose",
         "author": "冰心",
         "dynasty": "现代",
@@ -793,7 +793,7 @@
         "taskAnswer": "它们在欢蹦乱跳，像是在开音乐会。"
       },
       {
-        "title": "乌鸦喝水（寓言）",
+        "title": "乌鸦喝水",
         "type": "story_legend",
         "author": "伊索",
         "dynasty": "古希腊",
@@ -807,7 +807,7 @@
         "taskAnswer": "它往瓶里填石子让水升上来。说明它是个爱动脑筋、聪明的乌鸦。"
       },
       {
-        "title": "下雨了（童诗）",
+        "title": "下雨了",
         "type": "children_poem",
         "author": "金子美铃",
         "dynasty": "现代",
@@ -857,10 +857,10 @@
     "theme": "古代的智慧",
     "content": [
       {
-        "title": "鹿角和鹿腿（节选，课本复习）",
+        "title": "鹿角和鹿腿（节选）",
         "type": "textbook_review",
         "author": "伊索",
-        "dynasty": "现代翻译",
+        "dynasty": "现代",
         "contentObject": [
           {
             "text": "两只美丽的角被树枝挂住了，鹿拼命挣扎。最后是那四条细长的腿帮它逃出了险境。"
@@ -871,7 +871,7 @@
         "taskAnswer": "是它一直嫌弃的那四条细长的腿。"
       },
       {
-        "title": "荷花（现代美文）",
+        "title": "荷花",
         "type": "modern_prose",
         "author": "叶圣陶",
         "dynasty": "现代",
@@ -885,7 +885,7 @@
         "taskAnswer": "颜色词：碧绿、白。比喻句：荷叶像一个个碧绿的大圆盘。"
       },
       {
-        "title": "揠苗助长（小古文）",
+        "title": "揠苗助长",
         "type": "classical_chinese",
         "author": "孟子",
         "dynasty": "先秦",
@@ -928,7 +928,7 @@
     "theme": "单元大复习",
     "content": [
       {
-        "title": "守株待兔（课本复习）",
+        "title": "守株待兔",
         "type": "textbook_review",
         "author": "韩非",
         "dynasty": "先秦",
@@ -941,7 +941,7 @@
         "taskAnswer": "我明白了不能心存幻想，只有靠自己的劳动才能换来收获。"
       },
       {
-        "title": "寄小读者（节选四，现代美文）",
+        "title": "寄小读者（节选四）",
         "type": "modern_prose",
         "author": "冰心",
         "dynasty": "现代",
@@ -954,7 +954,7 @@
         "taskAnswer": "我发现蚂蚁搬家的时候，它们会排成整齐的长队，非常团结。"
       },
       {
-        "title": "晓出净慈寺送林子方（古诗词）",
+        "title": "晓出净慈寺送林子方",
         "type": "ancient_poem",
         "author": "杨万里",
         "dynasty": "宋",

@@ -320,7 +320,7 @@
 		"theme": "光影与旋律",
 		"content": [
 			{
-				"title": "月光曲（课文复习）",
+				"title": "月光曲",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",
@@ -400,7 +400,7 @@
 		"theme": "国粹虚实",
 		"content": [
 			{
-				"title": "京剧趣谈（课文复习）",
+				"title": "京剧趣谈",
 				"type": "textbook_review",
 				"author": "徐城北",
 				"dynasty": "现代",

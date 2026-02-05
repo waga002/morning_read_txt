@@ -228,7 +228,7 @@
         "taskAnswer": "回忆了园中赏月、藤萝树下、靠在母亲膝头。我想在奶奶的膝盖上听故事，因为奶奶讲的故事最有趣了。"
       },
       {
-        "title": "云朵的魔术（自编童诗）",
+        "title": "云朵的魔术",
         "type": "children_poem",
         "author": "",
         "dynasty": "现代",
@@ -524,7 +524,7 @@
         "taskAnswer": "我最想画一个巨大的垃圾处理器，把它放在大海上，把所有的塑料垃圾都吸走，让大海变回清澈的蓝色。"
       },
       {
-        "title": "金子美铃童诗（节选）",
+        "title": "金子美铃（节选）",
         "type": "children_poem",
         "author": "金子美铃",
         "dynasty": "现代",
@@ -911,7 +911,7 @@
         "taskAnswer": "因为他很小，可以从窗缝里钻出来。大家夸他，是因为他聪明勇敢，不怕坏人。"
       },
       {
-        "title": "云的衣裳（童诗）",
+        "title": "云的衣裳",
         "type": "children_poem",
         "author": "泰戈尔",
         "dynasty": "印度",
@@ -965,7 +965,7 @@
     "theme": "小古文里的智慧",
     "content": [
       {
-        "title": "枣核（描写片段）",
+        "title": "枣核",
         "type": "textbook_review",
         "author": "根据民间故事改编",
         "dynasty": "现代",
@@ -1053,7 +1053,7 @@
       {
         "title": "趣味故事会（节选）",
         "type": "textbook_review",
-        "author": "教育部编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {

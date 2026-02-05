@@ -38,7 +38,7 @@
         "taskAnswer": "动作词是：飞舞。颜色词虽然没直接写，但我能想象到蝴蝶是五颜六色的！"
       },
       {
-        "title": "小池（古诗词）",
+        "title": "小池",
         "type": "ancient_poem",
         "author": "杨万里",
         "dynasty": "宋",
@@ -619,7 +619,7 @@
       {
         "title": "小壁虎借尾巴（节选）",
         "type": "story_legend",
-        "author": "民间故事",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -869,7 +869,7 @@
       {
         "title": "精卫填海（节选）",
         "type": "classical_chinese",
-        "author": "山海经",
+        "author": "",
         "dynasty": "先秦",
         "contentObject": [
           {
@@ -913,9 +913,9 @@
     "theme": "奇妙想象大爆发",
     "content": [
       {
-        "title": "奇妙的想象（习作导引）",
+        "title": "奇妙的想象",
         "type": "textbook_review",
-        "author": "三年级下册教材",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -943,7 +943,7 @@
       {
         "title": "江南",
         "type": "ancient_poem",
-        "author": "汉乐府",
+        "author": "",
         "dynasty": "汉",
         "contentObject": [
           {

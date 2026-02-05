@@ -671,7 +671,7 @@
 		"theme":"语言的力量",
 		"content":[
 			{
-				"title":"口语交际：演讲（回顾）",
+				"title":"演讲",
 				"type":"textbook_review",
 				"author":"",
 				"dynasty":"",

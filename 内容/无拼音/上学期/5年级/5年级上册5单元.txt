@@ -692,7 +692,7 @@
 			{
 				"title": "夸父逐日",
 				"type": "story_legend",
-				"author": "山海经",
+				"author": "",
 				"dynasty": "先秦",
 				"contentObject": [
 					{
@@ -856,7 +856,7 @@
 			{
 				"title": "羿射九日",
 				"type": "story_legend",
-				"author": "淮南子",
+				"author": "",
 				"dynasty": "汉",
 				"contentObject": [
 					{

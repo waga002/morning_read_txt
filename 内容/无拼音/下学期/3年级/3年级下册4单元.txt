@@ -438,7 +438,7 @@
         "taskAnswer": "它扔了玉米去摘桃子。我觉得不好，因为它做事三心二意，最后可能什么都拿不到。"
       },
       {
-        "title": "云朵（童诗）",
+        "title": "云朵",
         "type": "children_poem",
         "contentObject": [
           {
@@ -770,7 +770,7 @@
         "taskAnswer": "丑小鸭感到一种说不出的兴奋。"
       },
       {
-        "title": "风（童诗）",
+        "title": "风",
         "type": "children_poem",
         "author": "叶圣陶",
         "contentObject": [

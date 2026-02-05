@@ -7,7 +7,7 @@
     "theme": "爆竹声中一岁除",
     "content": [
       {
-        "title": "元日（课本复习）",
+        "title": "元日",
         "type": "textbook_review",
         "author": "王安石",
         "dynasty": "宋",
@@ -31,7 +31,7 @@
         "taskAnswer": "诗中提到了放爆竹、喝屠苏酒、换新桃符这三种习俗。"
       },
       {
-        "title": "春的消息（现代美文）",
+        "title": "春的消息",
         "type": "modern_prose",
         "author": "金波",
         "dynasty": "现代",
@@ -49,7 +49,7 @@
         "taskAnswer": "作者把雪比作了一串串珍珠，把冰比作了一个个音符。"
       },
       {
-        "title": "绝句（古诗词）",
+        "title": "绝句",
         "type": "ancient_poem",
         "author": "杜甫",
         "dynasty": "唐",
@@ -124,7 +124,7 @@
     "theme": "智慧的结晶",
     "content": [
       {
-        "title": "赵州桥（节选，课本复习）",
+        "title": "赵州桥（节选）",
         "type": "textbook_review",
         "author": "茅以升",
         "dynasty": "现代",
@@ -142,7 +142,7 @@
         "taskAnswer": "围绕“栏板上刻着精美的图案”写的。有相互缠绕的龙、飞龙、双龙戏珠。"
       },
       {
-        "title": "刻舟求剑（寓言）",
+        "title": "刻舟求剑",
         "type": "story_legend",
         "author": "吕不韦",
         "dynasty": "战国",
@@ -160,7 +160,7 @@
         "taskAnswer": "我会立刻停下船，或者记住岸边的参照物请大人帮忙下水去找。"
       },
       {
-        "title": "弟子规（节选，国学经典）",
+        "title": "弟子规（节选）",
         "type": "classics",
         "author": "李毓秀",
         "dynasty": "清",
@@ -230,7 +230,7 @@
         "taskAnswer": "作者把浓雾比作了“一层薄薄的白纱”。"
       },
       {
-        "title": "云彩儿（童诗）",
+        "title": "云彩儿",
         "type": "children_poem",
         "author": "金子美铃",
         "dynasty": "现代",
@@ -260,7 +260,7 @@
         "taskAnswer": "我觉得云还像一只奔跑的小羊，还像一朵大大的蘑菇。"
       },
       {
-        "title": "司马光（小古文）",
+        "title": "司马光",
         "type": "classical_chinese",
         "author": "根据《宋史》整理",
         "dynasty": "宋",
@@ -309,9 +309,9 @@
     "theme": "古人的妙想",
     "content": [
       {
-        "title": "纸的发明（节选，课本复习）",
+        "title": "纸的发明（节选）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -345,7 +345,7 @@
         "taskAnswer": "作者把萤火虫发的光看作了小灯笼，把树叶声看作了伴奏。"
       },
       {
-        "title": "狐假虎威（寓言）",
+        "title": "狐假虎威",
         "type": "story_legend",
         "author": "刘向（编）",
         "dynasty": "汉",
@@ -394,7 +394,7 @@
     "theme": "清明时节雨纷纷",
     "content": [
       {
-        "title": "清明（课本复习）",
+        "title": "清明",
         "type": "textbook_review",
         "author": "杜牧",
         "dynasty": "唐",
@@ -418,7 +418,7 @@
         "taskAnswer": "天气是“雨纷纷”，行人的心情是“欲断魂”，非常伤心。"
       },
       {
-        "title": "九月九日忆山东兄弟（古诗词）",
+        "title": "九月九日忆山东兄弟",
         "type": "ancient_poem",
         "author": "王维",
         "dynasty": "唐",
@@ -442,7 +442,7 @@
         "taskAnswer": "因为他在外乡过节，很孤单。他想象兄弟们在登高、插茱萸。"
       },
       {
-        "title": "弟子规（节选，国学经典）",
+        "title": "弟子规（节选）",
         "type": "classics",
         "author": "李毓秀",
         "dynasty": "清",
@@ -515,7 +515,7 @@
         "taskAnswer": "作者觉得水声像一首“欢迎曲”。"
       },
       {
-        "title": "丑小鸭（节选，童话）",
+        "title": "丑小鸭（节选）",
         "type": "story_legend",
         "author": "安徒生",
         "dynasty": "现代",
@@ -533,7 +533,7 @@
         "taskAnswer": "它变成了白天鹅。我会说：‘太棒了！原来只要不放弃，梦想真的会实现。’"
       },
       {
-        "title": "风的孩子（童诗）",
+        "title": "风的孩子",
         "type": "children_poem",
         "author": "泰戈尔",
         "dynasty": "现代",
@@ -591,9 +591,9 @@
     "theme": "古画里的秘密",
     "content": [
       {
-        "title": "一幅名扬中外的画（节选，课本复习）",
+        "title": "一幅名扬中外的画（节选）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -627,7 +627,7 @@
         "taskAnswer": "作者把木拱桥比作了“一道彩虹”。"
       },
       {
-        "title": "书圣王羲之（小古文）",
+        "title": "书圣王羲之",
         "type": "classical_chinese",
         "author": "根据《晋书》整理",
         "dynasty": "晋",
@@ -696,9 +696,9 @@
     "theme": "快乐的传统节日",
     "content": [
       {
-        "title": "综合性学习：传统节日（课本复习）",
+        "title": "综合性学习：传统节日",
         "type": "textbook_review",
-        "author": "教育部编写组",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -714,7 +714,7 @@
         "taskAnswer": "我还知道元宵节，这个节日要吃元宵或汤圆。"
       },
       {
-        "title": "粽子里的爱（童话）",
+        "title": "粽子里的爱",
         "type": "story_legend",
         "author": "严文井",
         "dynasty": "现代",
@@ -732,7 +732,7 @@
         "taskAnswer": "奶奶说要把“爱心”裹在粽子里。"
       },
       {
-        "title": "乞巧（古诗词）",
+        "title": "乞巧",
         "type": "ancient_poem",
         "author": "林杰",
         "dynasty": "唐",
@@ -802,7 +802,7 @@
         "taskAnswer": "把牵牛花开花比作“吹起紫色的小喇叭”，把蔷薇开花比作“绽开了笑脸”。"
       },
       {
-        "title": "火烧云（课本复习）",
+        "title": "火烧云",
         "type": "textbook_review",
         "author": "萧红",
         "dynasty": "现代",
@@ -820,7 +820,7 @@
         "taskAnswer": "红彤彤、金灿灿、半紫半黄、半灰半百合色。"
       },
       {
-        "title": "弟子规（节选，国学经典）",
+        "title": "弟子规（节选）",
         "type": "classics",
         "author": "李毓秀",
         "dynasty": "清",
@@ -893,7 +893,7 @@
         "taskAnswer": "头上的羽毛比作“橄榄色的头巾”，背上的羽毛比作“浅绿色的外衣”，腹部的羽毛比作“赤褐色的衬衫”。"
       },
       {
-        "title": "龟兔赛跑（寓言）",
+        "title": "龟兔赛跑",
         "type": "story_legend",
         "author": "伊索",
         "dynasty": "古希腊",
@@ -911,7 +911,7 @@
         "taskAnswer": "因为乌龟坚持不懈，而兔子太骄傲了。我学到了做事情不能骄傲，要踏踏实实努力。"
       },
       {
-        "title": "池上（童诗）",
+        "title": "池上",
         "type": "children_poem",
         "author": "白居易",
         "dynasty": "唐",
@@ -966,7 +966,7 @@
     "theme": "神奇的智慧",
     "content": [
       {
-        "title": "赵州桥（节选，课本复习）",
+        "title": "赵州桥（节选）",
         "type": "textbook_review",
         "author": "茅以升",
         "dynasty": "现代",
@@ -1002,7 +1002,7 @@
         "taskAnswer": "比作了“摇篮”。可能会采摘野果、掏鹊蛋、和野兔赛跑、看蜻蜓飞舞。"
       },
       {
-        "title": "文彦博取球（小古文）",
+        "title": "文彦博取球",
         "type": "classical_chinese",
         "author": "根据《宋史》整理",
         "dynasty": "宋",
@@ -1048,9 +1048,9 @@
     "theme": "走近非遗文化",
     "content": [
       {
-        "title": "纸的发明（节选，课本复习）",
+        "title": "纸的发明（节选）",
         "type": "textbook_review",
-        "author": "根据史料整理",
+        "author": "",
         "dynasty": "现代",
         "contentObject": [
           {
@@ -1084,7 +1084,7 @@
         "taskAnswer": "作者用了“咔嚓咔嚓”这个声音词。"
       },
       {
-        "title": "元日（古诗词）",
+        "title": "元日",
         "type": "ancient_poem",
         "author": "王安石",
         "dynasty": "宋",
