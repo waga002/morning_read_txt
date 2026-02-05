@@ -310,7 +310,7 @@
         "taskAnswer": "生动地写出了乡愁的绵长、细腻且难以割断，突出了思乡之情的深沉与恒久。"
       },
       {
-        "title": "精卫填海（典故）",
+        "title": "精卫填海",
         "type": "story_legend",
         "contentObject": [
           {
@@ -642,7 +642,7 @@
         "taskAnswer": "为了通过转移注意力的方法来对抗剧痛，更体现了他超乎常人的清醒意志和惊人的自控力。"
       },
       {
-        "title": "空城计（典故）",
+        "title": "空城计",
         "type": "story_legend",
         "contentObject": [
           {
@@ -796,7 +796,7 @@
         "taskAnswer": "由对愁怨的无奈转变为对生活矛盾的接纳，认为困难和愁怨也是丰富人生的重要组成部分。"
       },
       {
-        "title": "草船借箭（文化内涵）",
+        "title": "草船借箭",
         "type": "story_legend",
         "contentObject": [
           {
