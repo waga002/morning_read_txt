@@ -871,7 +871,7 @@
     "theme": "奇妙的变变变",
     "content": [
       {
-        "title": "如果我是一片云（自编美文）",
+        "title": "如果我是一片云",
         "type": "modern_prose",
         "author": "金波",
         "dynasty": "现代",

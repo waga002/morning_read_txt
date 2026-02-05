@@ -179,7 +179,7 @@
     "theme": "古明奇迹",
     "content": [
       {
-        "title": "金字塔夕照（美文）",
+        "title": "金字塔夕照",
         "type": "modern_prose",
         "author": "穆青",
         "contentObject": [
