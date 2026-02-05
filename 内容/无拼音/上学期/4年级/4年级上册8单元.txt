@@ -401,7 +401,7 @@
 				"taskAnswer": "射箭需要高度的专注和稳定，眼睛是射箭的关键。！！不眨眼是达到精神高度集中、心神不乱的基础。蕴含的道理是：学习要由浅入深，要从最基础、最关键的地方练起，需要极大的毅力。"
 			},
 			{
-				"title": "王戎不取道旁李（复习·智慧）",
+				"title": "王戎不取道旁李（一）",
 				"type": "textbook_review",
 				"author": "刘义庆",
 				"dynasty": "南朝宋",
@@ -473,7 +473,7 @@
 		"theme": "精进的道路",
 		"content": [
 			{
-				"title": "王戎不取道旁李（复习·反思）",
+				"title": "王戎不取道旁李（二）",
 				"type": "modern_prose",
 				"author": "",
 				"dynasty": "",
@@ -563,7 +563,7 @@
 		"theme": "实干的精神",
 		"content": [
 			{
-				"title": "西门豹治邺（复习·实干）",
+				"title": "西门豹治邺",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",
@@ -664,7 +664,7 @@
 		"theme": "坚持的磨练",
 		"content": [
 			{
-				"title": "纪昌学射（复习·目标）",
+				"title": "纪昌学射（一）",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",
@@ -754,7 +754,7 @@
 		"theme": "治病与治国",
 		"content": [
 			{
-				"title": "扁鹊治病（复习·警告）",
+				"title": "扁鹊治病（一）",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",
@@ -838,7 +838,7 @@
 		"theme": "童年的乐趣",
 		"content": [
 			{
-				"title": "落花生（复习·哲理）",
+				"title": "落花生",
 				"type": "modern_prose",
 				"author": "许地山",
 				"dynasty": "现代",
@@ -933,7 +933,7 @@
 		"theme": "细节与成功",
 		"content": [
 			{
-				"title": "扁鹊治病（复习·启示）",
+				"title": "扁鹊治病（二）",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",
@@ -1027,7 +1027,7 @@
 				"ttsType": "all"
 			},
 			{
-				"title": "纪昌学射（复习·高境界）",
+				"title": "纪昌学射（二）",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",

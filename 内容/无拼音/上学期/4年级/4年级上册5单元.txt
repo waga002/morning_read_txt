@@ -792,7 +792,7 @@
         "taskAnswer": "“屏息凝视”写出了猫捉老鼠时全神贯注、尽职尽责的特点。！！“蹭”字用得非常好，生动地写出了猫对人的亲昵和撒娇的样子，非常有画面感。"
       },
       {
-        "title": "麻雀（复习·侧面）",
+        "title": "麻雀",
         "type": "textbook_review",
         "author": "屠格涅夫",
         "dynasty": "俄国",
@@ -947,7 +947,7 @@
     "theme": "事情的道理",
     "content": [
       {
-        "title": "小木船（复习·和解）",
+        "title": "小木船",
         "type": "textbook_review",
         "author": "",
         "dynasty": "现代",
@@ -1031,7 +1031,7 @@
     "theme": "思考与总结",
     "content": [
       {
-        "title": "爬天都峰（复习·总结）",
+        "title": "爬天都峰",
         "type": "textbook_review",
         "author": "黄亦波",
         "dynasty": "现代",

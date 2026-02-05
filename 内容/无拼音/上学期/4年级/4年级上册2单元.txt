@@ -1085,7 +1085,7 @@
 		"theme": "诗意与远方",
 		"content": [
 			{
-				"title": "夜间飞行的秘密（复习总结）",
+				"title": "夜间飞行的秘密",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",

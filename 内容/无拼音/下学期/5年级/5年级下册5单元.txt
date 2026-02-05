@@ -516,7 +516,7 @@
     "theme": "人物缩影",
     "content": [
       {
-        "title": "人物描写一组（复习，他像一棵挺脱的树）",
+        "title": "人物描写一组",
         "type": "textbook_review",
         "author": "老舍",
         "contentObject": [
@@ -612,7 +612,7 @@
     "theme": "民间智慧",
     "content": [
       {
-        "title": "刷子李（复习，曹小三的观察）",
+        "title": "刷子李（一）",
         "type": "textbook_review",
         "author": "冯骥才",
         "contentObject": [
@@ -709,7 +709,7 @@
         "taskAnswer": "母亲怕“我”看到落叶凋零的景象触景伤情，体现了她对儿子细微入木、小心翼翼的呵护和对生活希望的坚守。"
       },
       {
-        "title": "两茎灯草（复习，揭秘）",
+        "title": "两茎灯草",
         "type": "textbook_review",
         "author": "吴敬梓",
         "contentObject": [
@@ -844,7 +844,7 @@
     "theme": "精工巧匠",
     "content": [
       {
-        "title": "刷子李（复习，奇绝之处）",
+        "title": "刷子李（二）",
         "type": "textbook_review",
         "author": "冯骥才",
         "contentObject": [
@@ -920,7 +920,7 @@
     "theme": "厚德载物",
     "content": [
       {
-        "title": "我的朋友容容（复习，童真之美）",
+        "title": "我的朋友容容",
         "type": "textbook_review",
         "author": "任大霖",
         "contentObject": [

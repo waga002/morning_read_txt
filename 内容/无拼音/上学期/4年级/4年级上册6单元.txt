@@ -567,7 +567,7 @@
 		"theme": "探索与技巧",
 		"content": [
 			{
-				"title": "陀螺（复习·乐趣）",
+				"title": "陀螺",
 				"type": "textbook_review",
 				"author": "张系国",
 				"dynasty": "现代",
@@ -668,7 +668,7 @@
 		"theme": "强者与弱点",
 		"content": [
 			{
-				"title": "一只窝囊的大老虎（复习·弱点）",
+				"title": "一只窝囊的大老虎（一）",
 				"type": "textbook_review",
 				"author": "金波",
 				"dynasty": "现代",
@@ -770,7 +770,7 @@
 				"taskAnswer": "主要描写了月光下荷塘静谧、朦胧而美丽的景象。！！作者用“流水”、“牛乳”来比喻月光的质感，用“轻纱”来比喻青雾，写出了月光的柔和与梦幻。"
 			},
 			{
-				"title": "牛和鹅（复习·对比）",
+				"title": "牛和鹅",
 				"type": "textbook_review",
 				"author": "列夫·托尔斯泰（俄国）",
 				"dynasty": "",
@@ -925,7 +925,7 @@
 		"theme": "细节的力量",
 		"content": [
 			{
-				"title": "一只窝囊的大老虎（复习·对比）",
+				"title": "一只窝囊的大老虎（二）",
 				"type": "textbook_review",
 				"author": "金波",
 				"dynasty": "现代",
@@ -1003,7 +1003,7 @@
 		"theme": "真情与表达",
 		"content": [
 			{
-				"title": "陀螺（复习·结尾）",
+				"title": "陀螺（二）",
 				"type": "textbook_review",
 				"author": "张系国",
 				"dynasty": "现代",

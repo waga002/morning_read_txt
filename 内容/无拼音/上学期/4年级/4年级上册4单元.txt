@@ -572,7 +572,7 @@
     "theme": "勇于抗争",
     "content": [
       {
-        "title": "普罗米修斯（复习·获救）",
+        "title": "普罗米修斯",
         "type": "textbook_review",
         "author": "",
         "dynasty": "",
@@ -670,7 +670,7 @@
     "theme": "创造美好",
     "content": [
       {
-        "title": "盘古开天地（复习·结尾）",
+        "title": "盘古开天地",
         "type": "textbook_review",
         "author": "袁珂",
         "dynasty": "现代",
@@ -775,7 +775,7 @@
         "taskAnswer": "是的。！！因为当“天塌地陷”（心中的雨点来了）这种巨大灾难降临时，女娲挺身而出，炼石补天，像荷叶保护红莲一样保护了人类，她是人类伟大的母亲。"
       },
       {
-        "title": "女娲补天（复习·救人）",
+        "title": "女娲补天",
         "type": "textbook_review",
         "author": "",
         "dynasty": "",

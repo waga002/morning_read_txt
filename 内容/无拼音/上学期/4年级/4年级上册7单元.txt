@@ -401,7 +401,7 @@
 				"taskAnswer": "前两句是豪迈、享乐的情感，渲染出宴会的欢快气氛。！！后两句是悲壮、无奈的情感，感叹战争的残酷。整体表达了边塞将士既豪迈奔放又慷慨悲凉的复杂情怀。"
 			},
 			{
-				"title": "延安，我把你追寻（复习·精神）",
+				"title": "延安，我把你追寻（一）",
 				"type": "textbook_review",
 				"author": "贺敬之",
 				"dynasty": "现代",
@@ -559,7 +559,7 @@
 		"theme": "爱国与自强",
 		"content": [
 			{
-				"title": "为中华之崛起而读书（复习·立志）",
+				"title": "为中华之崛起而读书",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",
@@ -660,7 +660,7 @@
 		"theme": "革命的激情",
 		"content": [
 			{
-				"title": "延安，我把你追寻（复习·激情）",
+				"title": "延安，我把你追寻（二）",
 				"type": "textbook_review",
 				"author": "贺敬之",
 				"dynasty": "现代",
@@ -762,7 +762,7 @@
 				"taskAnswer": "相似之处在于他们的信念都超越了个人私利，拥有服务社会和国家的崇高目标。他们都认为需要“坚定的信念和持久的毅力”才能实现宏伟的目标。"
 			},
 			{
-				"title": "梅兰芳蓄须（复习·精神）",
+				"title": "梅兰芳蓄须（一）",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",
@@ -923,7 +923,7 @@
 		"theme": "英雄的细节",
 		"content": [
 			{
-				"title": "梅兰芳蓄须（复习·细节）",
+				"title": "梅兰芳蓄须（二）",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",
@@ -1025,7 +1025,7 @@
 				"taskAnswer": "用了托物言志的手法，借竹子扎根岩石、不畏风雨的品质，表达诗人面对困难坚韧不拔、决不妥协的顽强精神和高尚品格。"
 			},
 			{
-				"title": "延安，我把你追寻（复习·总结）",
+				"title": "延安，我把你追寻（三）",
 				"type": "textbook_review",
 				"author": "",
 				"dynasty": "",
